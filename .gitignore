@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.dev/
+*.log
+__pycache__/
+# Generado por tools/build_data.py a partir de data/*.tt
+public/data/

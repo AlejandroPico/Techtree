@@ -1,0 +1,57 @@
+@ subsistencia | Agricultura, ganadería y alimentación | #86a35a
+@@ recoleccion | Recolección y primeros alimentos elaborados
+molienda | ~-30000 | T | Molienda de granos silvestres | percusion-dura | Morteros y molederas con restos de almidón de avena y otras plantas silvestres (Paglicci, Kostenki). |
+pan | ~-12400 | I | Pan ácimo | molienda, hogar | Tortas de cereal silvestre y tubérculos cocidas por natufienses en Shubayqa 1 (Jordania). |
+cerveza | ~-11000 | I | Fermentación de cereales (cerveza) | molienda, cesteria | Residuos de malteado y fermentación en morteros de la cueva de Raqefet (Israel). |
+hoz | ~-10500 | H | Hoz con dientes de sílex | microlitos, brea-abedul | Láminas insertadas en un mango curvo; el «lustre de hoz» delata la siega de cereales. |
+granero | ~-9300 | S | Granero elevado | hoz, cesteria | Almacenes con suelo suspendido para grano silvestre en Dhra' (Jordania), antes de la domesticación. |
+extraccion-sal | ~-6000 | T | Obtención de sal por evaporación | ceramica-vasijas, hogar | Hervir salmuera en vasijas (briquetage) en Poiana Slatinei (Rumanía). |
+@@ agricultura | Agricultura
+cultivo-predomestico | ~-9500 | T | Cultivo de cereales silvestres | hoz, palo-cavador | Siembra deliberada de plantas aún morfológicamente silvestres en el Creciente Fértil. |
+trigo-cebada | ~-8500 | D | Domesticación de trigo y cebada | cultivo-predomestico | Escanda, espelta menor y cebada con raquis no quebradizo: la planta ya depende del agricultor. |
+legumbres | ~-8500 | D | Domesticación de legumbres | cultivo-predomestico | Lenteja, guisante, garbanzo y yero completan la dieta y fijan nitrógeno en el suelo. |
+mijo | ~-8000 | D | Domesticación del mijo | hoz | Mijo común y menor cultivados en el norte de China (Cishan). |
+arroz | ~-7000 | D | Domesticación del arroz | hoz | Proceso gradual en el valle del Yangtsé (Shangshan, Hemudu). |
+maiz | ~-7000 | D | Domesticación del maíz | palo-cavador, molienda | A partir del teosinte en el valle del Balsas (México). |
+patata | ~-5000 | D | Domesticación de la patata | palo-cavador | Altiplano andino, en torno al lago Titicaca. |
+regadio | ~-6000 | S | Regadío por canales | trigo-cebada | Canales que derivan agua a los campos en Choga Mami (Mesopotamia). |
+arado | ~-4000 | H | Arado de madera (ard) | traccion-bovina, regadio | Rompe el suelo con tracción animal y multiplica la superficie cultivable por persona. |
+vino | ~-6000 | I | Vino de uva | ceramica-vasijas | Residuos de ácido tartárico en tinajas neolíticas de Georgia. |
+olivo-vid | ~-4000 | D | Cultivo del olivo y la vid | regadio | Arboricultura mediterránea: exige inversión a largo plazo y prensas. |
+apicultura | ~-2400 | T | Apicultura en colmenas | ceramica-vasijas | Colmenas cilíndricas representadas en el templo solar de Nyuserre (Egipto). |
+molino-rotatorio | ~-500 | H | Molino rotatorio de mano | molienda, reduccion-hierro | Dos muelas circulares giran una sobre otra; aparece en la península ibérica y Cartago. |
+sembradora-china | ~-100 | H | Sembradora de tubos | arado, hierro-colado | Sembradora Han de varios tubos tirada por un animal. |
+arado-vertedera | ~-100 | H | Arado de vertedera de hierro | arado, hierro-colado | Voltea la tierra; rejas y vertederas de hierro colado en la China Han. |
+collera | ~500 | H | Collera rígida | traccion-bovina, doma-caballo | Apoya la carga en los hombros del caballo sin ahogarlo; China, y Europa hacia el siglo IX. |
+arado-pesado | ~600 | H | Arado pesado con ruedas | arado-vertedera, reduccion-hierro | Cuchilla, reja y vertedera para los suelos arcillosos del norte de Europa. |
+rotacion-trienal | ~800 | T | Rotación trienal | arado-pesado, legumbres | Tres hojas con cereal de invierno, de primavera y barbecho. |
+azucar | ~350 | T | Azúcar cristalizado | hierro-colado | Cristalización del jugo de caña hervido en la India gupta. |
+sembradora-tull | 1701 | H | Sembradora mecánica de Tull | arado-pesado, engranaje-reloj | Deposita la semilla en hileras a profundidad regular. | Jethro Tull
+rotacion-norfolk | ~1730 | T | Rotación cuatrienal de Norfolk | rotacion-trienal | Trigo, nabos, cebada y trébol: elimina el barbecho y alimenta ganado en invierno. | Charles Townshend
+segadora | 1831 | H | Segadora mecánica | sembradora-tull, pudelado | Cuchilla alternativa y molinete tirados por caballos. | Cyrus McCormick
+superfosfato | 1842 | M | Superfosfato | acido-sulfurico-camaras | Fosfato tratado con ácido sulfúrico: primer fertilizante químico industrial. | John Bennet Lawes
+tractor | 1892 | H | Tractor de gasolina | ciclo-otto, segadora | Tractor con motor de combustión capaz de avanzar y retroceder. | John Froelich
+ddt | 1939 | M | DDT como insecticida | estructura-benceno | Descubrimiento de su acción insecticida; más tarde restringido por su persistencia ambiental. | Paul Müller
+trigo-enano | 1964 | D | Trigos semienanos de alto rendimiento | leyes-mendel, haber-bosch-industrial | Variedades mexicanas que sostienen la Revolución Verde. | Norman Borlaug
+planta-transgenica | 1983 | D | Planta transgénica | adn-recombinante | Primeras plantas con un gen ajeno insertado mediante Agrobacterium. | Mary-Dell Chilton, Jeff Schell, Marc Van Montagu
+@@ ganaderia | Ganadería
+perro | ~-13000 | D | Domesticación del perro | lanza-madera | Entierro de Bonn-Oberkassel; la separación genética respecto al lobo es anterior. |
+oveja-cabra | ~-8500 | D | Domesticación de oveja y cabra | perro, cultivo-predomestico | Montes Zagros y Anatolia oriental. |
+bovino | ~-8500 | D | Domesticación del bovino | oveja-cabra | Uro domesticado en el alto Éufrates; el cebú, de forma independiente, en el Indo. |
+cerdo | ~-8500 | D | Domesticación del cerdo | cultivo-predomestico | Anatolia y, por separado, China. |
+lacteos | ~-6500 | T | Ordeño y consumo de leche | bovino, ceramica-vasijas | Grasas lácteas en cerámicas del noroeste de Anatolia. |
+queso | ~-5500 | I | Queso | lacteos | Coladores cerámicos con residuos lácteos en Cuyavia (Polonia). |
+asno | ~-5000 | D | Domesticación del asno | bovino | África oriental; primer animal de carga a larga distancia. |
+traccion-bovina | ~-4000 | T | Tracción bovina con yugo | bovino, cuerda | Bueyes uncidos para tirar de arados y narrias. |
+lana | ~-4000 | D | Oveja lanar | oveja-cabra | Selección de vellones largos que se pueden hilar. |
+gusano-seda | ~-3500 | D | Sericicultura | cultivo-predomestico | Cría de Bombyx mori sobre morera en la China neolítica. |
+doma-caballo | ~-2200 | D | Caballo doméstico moderno | traccion-bovina | Linaje DOM2 de la estepa del Volga-Don, apto para montar y tirar; antes, Botai. |
+gallina | ~-1500 | D | Domesticación de la gallina | arroz | Gallo bankiva atraído por los arrozales del sudeste asiático. |
+dromedario | ~-1000 | D | Domesticación del dromedario | asno | Sudeste de Arabia; abre las rutas caravaneras del desierto. |
+@@ conservacion | Conservación de alimentos
+destilacion-alcohol | ~1150 | T | Destilación de alcohol | alambique, vino | Aqua ardens obtenida del vino en la escuela de Salerno. |
+conserva-appert | 1809 | T | Conserva por calor en recipiente cerrado | vidrio-soplado | Alimentos hervidos en botellas selladas. | Nicolas Appert
+lata | 1810 | I | Lata de conserva | conserva-appert, hojalata | Recipiente de hierro estañado soldado. | Peter Durand
+refrigeracion-compresion | 1834 | I | Refrigeración por compresión de vapor | ley-boyle, maquina-newcomen | Ciclo cerrado con éter que produce hielo. | Jacob Perkins
+pasteurizacion | 1864 | T | Pasteurización | teoria-germinal | Calentamiento moderado que destruye los microbios que alteran vino y leche. | Louis Pasteur
+frigorifico-amoniaco | 1876 | I | Máquina frigorífica de amoníaco | refrigeracion-compresion | Compresor fiable para cervecerías y mataderos. | Carl von Linde

@@ -1,0 +1,46 @@
+@ quimica | Química | #58b7a8
+@@ protoquimica | Alquimia y química preindustrial
+jabon | ~-2800 | M | Jabón | ceramica-vasijas, hogar | Grasas hervidas con cenizas; Babilonia. |
+alambique | ~100 | H | Alambique | vidrio-soplado, cobre-reduccion | Destilación con cabeza condensadora; alquimia alejandrina. | María la Judía
+transmutacion | ~300 | X | Transmutación alquímica de metales | alambique, oro | Convertir metales viles en oro: imposible por medios químicos, pero dejó aparatos y técnicas. | Zósimo de Panópolis
+polvora | ~850 | M | Pólvora negra | alambique, carbon-vegetal | Salitre, azufre y carbón; alquimistas taoístas. |
+acido-nitrico | ~1300 | M | Ácidos minerales | alambique | Nítrico, sulfúrico y agua regia por destilación de sales. | Pseudo-Geber
+flogisto | 1697 | X | Teoría del flogisto | acido-nitrico | La combustión liberaría un principio inflamable; refutada por Lavoisier. | Georg Ernst Stahl
+fosforo | 1669 | D | Fósforo | alambique | Primer elemento descubierto con fecha y autor. | Hennig Brand
+quimico-esceptico | 1661 | C | El químico escéptico | bomba-vacio, acido-nitrico | Elementos definidos por el experimento. | Robert Boyle
+@@ moderna | Química moderna
+aire-fijo | 1754 | D | Dióxido de carbono | quimico-esceptico, balanza-precision | Un gas distinto del aire, fijado en los carbonatos. | Joseph Black
+balanza-precision | ~1750 | H | Balanza analítica | balanza, acero-crisol | Cruz ligera sobre cuchillas de acero o ágata: pesadas al miligramo.
+hidrogeno | 1766 | D | Hidrógeno | aire-fijo, acido-nitrico | El «aire inflamable» desprendido al atacar metales con ácido. | Henry Cavendish
+nitrogeno | 1772 | D | Nitrógeno | aire-fijo | «Aire nocivo» que no mantiene la combustión. | Daniel Rutherford
+oxigeno | 1774 | D | Oxígeno | aire-fijo, flogisto | El «aire desflogisticado» obtenido calentando óxido de mercurio. | Carl Scheele, Joseph Priestley
+cloro | 1774 | D | Cloro | acido-nitrico | Gas verdoso obtenido del ácido muriático. | Carl Scheele
+combustion-lavoisier | 1777 | C | Teoría de la combustión por oxígeno | oxigeno, balanza-precision | Conservación de la masa. | Antoine Lavoisier
+composicion-agua | 1783 | D | Composición del agua | hidrogeno, oxigeno | El agua es un compuesto de hidrógeno y oxígeno. | Henry Cavendish, Antoine Lavoisier
+nomenclatura | 1787 | C | Nomenclatura química | combustion-lavoisier | Nombres sistemáticos según la composición. | Antoine Lavoisier, Louis-Bernard Guyton de Morveau
+teoria-atomica | 1808 | C | Teoría atómica | combustion-lavoisier, composicion-agua | Pesos atómicos relativos. | John Dalton
+electroquimica-davy | 1807 | D | Aislamiento electrolítico de potasio y sodio | pila-artesa, combustion-lavoisier | Metales alcalinos por electrólisis de sus hidróxidos fundidos. | Humphry Davy
+ley-avogadro | 1811 | C | Hipótesis de Avogadro | teoria-atomica | Volúmenes iguales de gas contienen igual número de moléculas. | Amedeo Avogadro
+benceno | 1825 | D | Benceno | gas-alumbrado | Aislado del gas de alumbrado. | Michael Faraday
+sintesis-urea | 1828 | D | Síntesis de la urea | teoria-atomica | Un compuesto orgánico a partir de materia inorgánica. | Friedrich Wöhler
+vitalismo | ~1600 | X | Vitalismo químico | transmutacion | Los compuestos orgánicos requerirían una fuerza vital; erosionado desde 1828. |
+mechero-bunsen | 1855 | H | Mechero Bunsen | gas-alumbrado | Llama limpia y regulable. | Robert Bunsen
+estructura-benceno | 1865 | C | Estructura del benceno | benceno, teoria-atomica | Anillo de seis carbonos. | August Kekulé
+tabla-periodica | 1869 | C | Tabla periódica | ley-avogadro, espectroscopia | Ordena los elementos y predice los que faltan. | Dmitri Mendeléyev
+gases-nobles | 1894 | D | Gases nobles | espectroscopia, tabla-periodica | Argón; después helio, neón, kriptón y xenón. | William Ramsay, Lord Rayleigh
+cromatografia | 1903 | T | Cromatografía | estructura-benceno | Separación de pigmentos en una columna adsorbente. | Mijaíl Tsvet
+enlace-covalente | 1916 | C | Enlace covalente | atomo-bohr, tabla-periodica | Pares de electrones compartidos. | Gilbert Lewis
+@@ industrial | Industria química
+acido-sulfurico-camaras | 1746 | T | Ácido sulfúrico en cámaras de plomo | acido-nitrico, plomo | Producción a gran escala en recintos revestidos de plomo. | John Roebuck
+proceso-leblanc | 1791 | T | Sosa Leblanc | acido-sulfurico-camaras, extraccion-sal | Carbonato sódico a partir de sal. | Nicolas Leblanc
+algodon-polvora | 1846 | M | Nitrocelulosa | acido-sulfurico-camaras, algodon | Algodón nitrado con mezcla de ácidos. | Christian Schönbein
+nitroglicerina | 1847 | M | Nitroglicerina | acido-sulfurico-camaras | Explosivo líquido muy sensible. | Ascanio Sobrero
+proceso-solvay | 1861 | T | Proceso Solvay | proceso-leblanc | Sosa a partir de sal, caliza y amoníaco reciclado. | Ernest Solvay
+dinamita | 1867 | I | Dinamita | nitroglicerina | Nitroglicerina estabilizada en tierra de diatomeas. | Alfred Nobel
+polvora-sin-humo | 1884 | M | Pólvora sin humo | algodon-polvora | Nitrocelulosa gelatinizada: Poudre B. | Paul Vieille
+cloro-alcali | 1892 | T | Electrólisis cloro-álcali | dinamo-autoexcitada, cloro | Cloro y sosa cáustica con cátodo de mercurio. | Hamilton Castner, Karl Kellner
+proceso-contacto | 1898 | T | Ácido sulfúrico por contacto | acido-sulfurico-camaras, platino-maleable | Dióxido de azufre oxidado sobre un catalizador: ácido concentrado.
+proceso-ostwald | 1902 | T | Proceso Ostwald | proceso-contacto | Ácido nítrico por oxidación de amoníaco. | Wilhelm Ostwald
+haber-bosch | 1909 | T | Síntesis del amoníaco | segunda-ley, licuefaccion-aire | Nitrógeno e hidrógeno a alta presión con catalizador. | Fritz Haber
+haber-bosch-industrial | 1913 | S | Planta de amoníaco de Oppau | haber-bosch, acero-aleado | Reactores de alta presión. | Carl Bosch
+acero-aleado | 1890 | M | Aceros aleados para alta presión | siemens-martin | Aceros al níquel y al cromo. |

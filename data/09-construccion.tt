@@ -1,0 +1,31 @@
+@ construccion | Construcción e ingeniería civil | #a89b8c
+@@ arquitectura | Arquitectura y estructuras
+megalitos | ~-9500 | S | Arquitectura monumental en piedra | piedra-pulimentada, palanca-primitiva, cuerda | Recintos de pilares en T de Göbekli Tepe. |
+palanca-primitiva | ~-12000 | T | Arrastre y palanqueo de grandes bloques | cuerda, lanza-madera | Rodillos, palancas de madera y sogas. |
+muralla | ~-8000 | S | Muralla y torre de piedra | megalitos, adobe | Muro de piedra de varios metros y torre con escalera interior en Jericó.
+piramide-escalonada | -2650 | S | Construcción monumental en sillería | herramientas-cobre, sierra-metal, palanca, geometria-egipcia | Pirámide escalonada de Zoser. | Imhotep
+arco-dovelas | ~-2000 | S | Arco y bóveda de dovelas | ladrillo-cocido | Mesopotamia; generalizado por Roma. |
+grua | ~-515 | H | Grúa | polea, forja | Cabrestante y poleas en las obras griegas. |
+cupula-hormigon | 126 | S | Cúpula de hormigón | hormigon-romano, arco-dovelas | Panteón de Roma: 43 m de luz. |
+boveda-cruceria | ~1100 | S | Bóveda de crucería | arco-dovelas | Nervios que concentran el peso en puntos; catedral de Durham.
+arbotante | ~1160 | S | Arbotante | boveda-cruceria | Lleva el empuje al exterior y libera el muro para vidrieras. |
+cupula-brunelleschi | 1436 | S | Cúpula de doble casco sin cimbra | arco-dovelas, grua, perspectiva | Doble casco de ladrillo en espina de pez levantado sin cimbra; Santa Maria del Fiore. | Filippo Brunelleschi
+puente-hierro | 1779 | S | Puente de hierro fundido | coque, arco-dovelas | Iron Bridge sobre el Severn. | Abraham Darby III
+ascensor | 1853 | I | Ascensor con freno de seguridad | vapor-alta-presion, acero-crisol | Trinquete que bloquea la cabina si se rompe el cable. | Elisha Otis
+rascacielos | 1885 | S | Edificio de estructura metálica | convertidor-bessemer, ascensor | Home Insurance Building. | William Le Baron Jenney
+puente-colgante-acero | 1883 | S | Puente colgante de cables de acero | convertidor-bessemer, trefilado-hidraulico | Tablero suspendido de cables de alambre de acero; puente de Brooklyn. | John y Washington Roebling
+aire-acondicionado | 1902 | I | Aire acondicionado | frigorifico-amoniaco, motor-induccion | Control de temperatura y humedad. | Willis Carrier
+@@ hidraulica | Ingeniería hidráulica
+pozo | ~-8500 | S | Pozo excavado | piedra-pulimentada, pico-asta | Pozos neolíticos de Chipre y el Levante. |
+presa | ~-2600 | S | Presa | adobe, regadio | Sadd el-Kafara (Egipto). |
+alcantarillado | ~-2500 | S | Alcantarillado urbano | ladrillo-cocido | Desagües cubiertos de ladrillo bajo las calles de Mohenjo-Daro y Harappa.
+qanat | ~-800 | S | Qanat | pozo, reduccion-hierro, nivel-plomada | Galería que conduce agua subterránea por gravedad; Irán. |
+nivel-plomada | ~-2500 | H | Nivel y plomada | geometria-egipcia | Nivelación con escuadra, plomada y canal de agua. |
+acueducto | -312 | S | Acueducto | arco-dovelas, groma, mortero-hidraulico | Canal de pendiente continua que lleva agua a la ciudad; Aqua Appia.
+mortero-hidraulico | ~-600 | M | Mortero hidráulico de cal | cal | Morteros impermeables para cisternas. |
+tornillo-arquimedes | ~-250 | H | Tornillo de Arquímedes | tornillo | Eleva agua girando una hélice dentro de un tubo. |
+bomba-impelente | ~-250 | H | Bomba de pistones | bronce, fuelle-piston | Dos cilindros con pistones y válvulas que impulsan el agua a presión. | Ctesibio
+esclusa | 984 | S | Esclusa de dos compuertas | presa | Cámara entre dos compuertas que sube o baja las barcas; Gran Canal de China. | Qiao Weiyue
+tuneladora | 1825 | H | Escudo de excavación | pudelado, cemento-portland | Escudo de hierro que protege a los mineros mientras avanza; túnel bajo el Támesis. | Marc Brunel
+potabilizacion | 1829 | S | Filtración lenta de agua urbana | pudelado | Lechos de arena que retienen partículas y microbios; Chelsea Waterworks. | James Simpson
+cloracion | 1908 | T | Cloración del agua potable | cloro, teoria-germinal | Cloro añadido de forma continua al suministro; Jersey City.

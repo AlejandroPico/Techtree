@@ -1,0 +1,47 @@
+@ matematicas | Matemáticas | #9a86d6
+@@ numero | Número y aritmética
+fichas-contables | ~-8000 | I | Fichas de arcilla para contar | muescas-conteo, cultivo-predomestico | Una ficha por unidad de mercancía. |
+numeracion-sexagesimal | ~-2000 | C | Numeración posicional sexagesimal | escritura-cuneiforme, abaco | El valor de cada signo depende de su posición, en base 60; Babilonia.
+aritmetica-egipcia | ~-1850 | C | Aritmética y fracciones egipcias | jeroglificos | Papiros de Moscú y Rhind. |
+cero | 628 | C | Cero como número | numeracion-decimal | Reglas aritméticas del cero. | Brahmagupta
+numeracion-decimal | ~500 | C | Numeración decimal posicional | numeracion-sexagesimal | Nueve cifras cuyo valor depende de su posición; India. | Aryabhata
+liber-abaci | 1202 | C | Cifras indoarábigas en Europa | cero, algebra | El Liber Abaci difunde las cifras indoarábigas y su cálculo entre los mercaderes europeos. | Fibonacci
+decimales | 1585 | C | Fracciones decimales | liber-abaci | De Thiende: los decimales se operan como números enteros. | Simon Stevin
+logaritmos | 1614 | C | Logaritmos | decimales, trigonometria | Convierten productos en sumas; Mirifici logarithmorum canonis descriptio. | John Napier
+sistema-binario | 1703 | C | Aritmética binaria | decimales | Toda cifra expresada con 0 y 1; Explication de l’arithmétique binaire. | Gottfried Leibniz
+@@ geometria | Geometría
+geometria-egipcia | ~-2700 | C | Geometría práctica | cuerda, regadio | Agrimensura con cuerdas y áreas. |
+terna-pitagorica | ~-1800 | D | Relación pitagórica | numeracion-sexagesimal, geometria-egipcia | La tablilla Plimpton 322 lista ternas de lados de triángulos rectángulos.
+demostracion | ~-550 | C | Demostración deductiva | terna-pitagorica, alfabeto-griego | Los enunciados se derivan de principios mediante razonamiento. | Tales, Pitágoras
+irracionales | ~-450 | D | Inconmensurables | demostracion | La diagonal y el lado del cuadrado no tienen medida común. | Hípaso de Metaponto
+exhaucion | ~-370 | C | Método de exhaución | irracionales | Áreas y volúmenes por aproximaciones sucesivas; teoría de proporciones. | Eudoxo de Cnido
+elementos | ~-300 | C | Elementos | exhaucion, demostracion | Trece libros que deducen la geometría a partir de definiciones y postulados. | Euclides
+conicas | ~-200 | C | Secciones cónicas | elementos | Elipse, parábola e hipérbola estudiadas de forma sistemática. | Apolonio de Perga
+trigonometria | ~-150 | C | Trigonometría | elementos, numeracion-sexagesimal | Tabla de cuerdas que relaciona ángulos y longitudes. | Hiparco
+perspectiva | 1435 | C | Perspectiva lineal | elementos, optica-alhacen | Construcción geométrica del espacio pictórico con punto de fuga. | Leon Battista Alberti, Filippo Brunelleschi
+geometria-analitica | 1637 | C | Geometría analítica | conicas, notacion-simbolica | Curvas descritas por ecuaciones en coordenadas. | René Descartes, Pierre de Fermat
+geometria-no-euclidea | 1829 | C | Geometría no euclídea | elementos | Geometrías coherentes que niegan el postulado de las paralelas. | Nikolái Lobachevski, János Bolyai
+geometria-riemann | 1854 | C | Geometría de Riemann | geometria-no-euclidea, calculo | Espacios curvos de cualquier dimensión definidos por una métrica. | Bernhard Riemann
+@@ algebra | Álgebra
+diofanto | ~250 | C | Arithmetica | elementos | Ecuaciones con notación abreviada. | Diofanto
+algebra | ~820 | C | Álgebra | diofanto, numeracion-decimal | Resolución sistemática de ecuaciones lineales y cuadráticas; al-Kitab al-mujtasar. | al-Juarismi
+cubica | 1545 | C | Solución de cúbicas y cuárticas | algebra, liber-abaci | El Ars Magna publica la solución general de las ecuaciones de tercer y cuarto grado. | Gerolamo Cardano, Niccolò Tartaglia
+complejos | 1572 | C | Números complejos | cubica | Reglas para operar con raíces de números negativos. | Rafael Bombelli
+notacion-simbolica | 1591 | C | Álgebra simbólica | cubica | Letras para incógnitas y parámetros. | François Viète
+teoria-grupos | 1832 | C | Teoría de grupos | cubica | La resolubilidad de una ecuación depende de las simetrías de sus raíces. | Évariste Galois
+@@ analisis | Análisis
+calculo | 1666 | C | Cálculo infinitesimal | geometria-analitica, exhaucion | Fluxiones de Newton; Leibniz publica en 1684. | Isaac Newton, Gottfried Leibniz
+analisis-euler | 1748 | C | Análisis de funciones | calculo, complejos, logaritmos | Introductio in analysin infinitorum. | Leonhard Euler
+series-fourier | 1822 | C | Series de Fourier | analisis-euler | Toda función periódica se descompone en senos y cosenos; teoría del calor. | Joseph Fourier
+teoria-conjuntos | 1874 | C | Teoría de conjuntos | series-fourier | Distintos tamaños de infinito. | Georg Cantor
+@@ azar | Probabilidad y estadística
+probabilidad | 1654 | C | Teoría de la probabilidad | notacion-simbolica | Correspondencia sobre el reparto de apuestas. | Blaise Pascal, Pierre de Fermat
+distribucion-normal | 1733 | C | Distribución normal | probabilidad, calculo | Aproximación de la binomial por la curva en campana. | Abraham de Moivre
+teorema-bayes | 1763 | C | Teorema de Bayes | probabilidad | Probabilidad de las causas a partir de los efectos; publicado póstumamente. | Thomas Bayes
+minimos-cuadrados | 1805 | T | Mínimos cuadrados | distribucion-normal | Ajuste que minimiza la suma de errores al cuadrado. | Adrien-Marie Legendre, Carl Friedrich Gauss
+@@ logica | Lógica
+silogismo | ~-350 | C | Lógica silogística | demostracion | Inferencias válidas por su forma; Órganon. | Aristóteles
+algebra-boole | 1854 | C | Álgebra de Boole | silogismo, notacion-simbolica | El razonamiento lógico como cálculo con dos valores. | George Boole
+logica-predicados | 1879 | C | Lógica de predicados | algebra-boole | Begriffsschrift: cuantificadores y variables formalizan el razonamiento matemático. | Gottlob Frege
+incompletitud | 1931 | C | Teoremas de incompletitud | logica-predicados, teoria-conjuntos | Todo sistema formal aritmético coherente contiene verdades indemostrables. | Kurt Gödel
+teoria-grafos | 1736 | C | Teoría de grafos | calculo | El problema de los puentes de Königsberg, resuelto con vértices y aristas. | Leonhard Euler

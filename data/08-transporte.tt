@@ -1,0 +1,85 @@
+@ transporte | Transporte | #6fb58e
+@@ terrestre | Transporte terrestre
+narria | ~-7000 | H | Narria y trineo | cuerda, piedra-pulimentada | Plataforma arrastrada sobre patines o rodillos para mover cargas pesadas.
+rueda | ~-3500 | I | Rueda con eje | herramientas-cobre, narria | Discos macizos y eje ajustado; Liubliana, Bronocice, Mesopotamia. |
+carro-bueyes | ~-3400 | I | Carro de cuatro ruedas | rueda, traccion-bovina | Carros macizos tirados por bueyes en Mesopotamia, el Cáucaso y Europa central. | 
+rueda-radios | ~-2000 | I | Rueda de radios | rueda, bronce | Ligera; carros de Sintashta. |
+carro-guerra | ~-2000 | I | Carro ligero de dos ruedas | rueda-radios, doma-caballo | Plataforma ligera tirada por caballos para arqueros; estepa euroasiática y Próximo Oriente. | 
+montar | ~-1000 | T | Monta a caballo con bocado | doma-caballo, bronce | Caballería propiamente dicha. |
+calzada | -312 | S | Calzada pavimentada | cal, groma | Firme de varias capas con drenaje y trazado recto; la Vía Apia une Roma y Capua.
+groma | ~-400 | H | Groma y nivelación | geometria-egipcia | Instrumentos de agrimensor. |
+carretilla | ~100 | I | Carretilla | rueda | Una sola rueda bajo la carga; representada en tumbas de la China Han.
+estribo | ~300 | I | Estribo | montar, forja | China de la dinastía Jin. |
+herradura | ~900 | I | Herradura clavada | forja, montar | Protege el casco en suelos duros y húmedos; Europa altomedieval. | 
+draisiana | 1817 | I | Draisiana | rueda-radios | Vehículo de dos ruedas en línea. | Karl Drais
+velocipedo | 1863 | I | Velocípedo de pedales | draisiana, manivela | Pedales acoplados directamente a la rueda delantera. | Pierre Michaux, Pierre Lallement
+bicicleta | 1885 | I | Bicicleta de seguridad | velocipedo, rodamiento-bolas, cadena-rodillos | Ruedas iguales y transmisión por cadena. | John Kemp Starley
+cadena-rodillos | 1880 | I | Cadena de rodillos | acero-crisol, piezas-intercambiables | Eslabones con rodillos que reducen el desgaste de la transmisión. | Hans Renold
+neumatico | 1888 | I | Neumático | vulcanizacion, bicicleta | Cámara de aire a presión dentro de una cubierta de caucho. | John Boyd Dunlop
+@@ ferrocarril | Ferrocarril
+rail-hierro | 1767 | M | Raíl de hierro | vagoneta-rail, coque | Carriles de hierro fundido sobre los de madera en Coalbrookdale.
+locomotora | 1804 | I | Locomotora de vapor | vapor-alta-presion, rail-hierro | Máquina de alta presión sobre raíles que arrastra diez toneladas en Penydarren (Gales). | Richard Trevithick
+ferrocarril-publico | 1825 | S | Ferrocarril público de vapor | locomotora, pudelado | Línea Stockton-Darlington: mercancías y viajeros con locomotoras de vapor. | George Stephenson
+rocket | 1829 | I | Locomotora Rocket | ferrocarril-publico | Caldera multitubular y tiro forzado. | Robert Stephenson
+metro | 1863 | S | Ferrocarril metropolitano | rocket, tuneladora | Ferrocarril urbano en túnel; Metropolitan Railway de Londres.
+freno-aire | 1869 | I | Freno de aire comprimido | rocket | Frenado simultáneo y automático de todo el tren. | George Westinghouse
+ferrocarril-electrico | 1879 | I | Ferrocarril eléctrico | dinamo-autoexcitada, motor-electrico, rocket | Locomotora eléctrica alimentada por un tercer carril en la Exposición de Berlín. | Werner von Siemens
+alta-velocidad | 1964 | S | Tren de alta velocidad | ferrocarril-electrico, transmision-alterna | Línea exclusiva electrificada a 210 km/h; Tōkaidō Shinkansen.
+maglev | 2004 | S | Tren de levitación magnética comercial | alta-velocidad, superconductividad | Tren sustentado y propulsado por campos magnéticos; línea de Shanghái a 430 km/h.
+@@ automovil | Automóvil
+fardier | 1769 | I | Carro de vapor de Cugnot | maquina-newcomen, carro-bueyes | Tractor de artillería de tres ruedas movido por vapor. | Nicolas-Joseph Cugnot
+automovil | 1886 | I | Automóvil de gasolina | motor-rapido, bicicleta, bobina-induccion | Triciclo con motor de cuatro tiempos, encendido eléctrico y diferencial: Patent-Motorwagen. | Carl Benz
+coche-electrico | 1884 | I | Automóvil eléctrico | acumulador-plomo, motor-electrico | Vehículo de carretera con acumuladores recargables. | Thomas Parker
+cadena-montaje | 1913 | T | Cadena de montaje móvil | piezas-intercambiables, automovil | El chasis avanza por una cinta y cada obrero repite una operación; Highland Park. | Henry Ford
+arranque-electrico | 1912 | I | Motor de arranque eléctrico | automovil, acumulador-plomo | Elimina la manivela y hace el automóvil accesible a cualquiera. | Charles Kettering
+hibrido | 1997 | I | Automóvil híbrido en serie | automovil, microprocesador | Motor de gasolina y eléctrico combinados con frenada regenerativa; Toyota Prius.
+electrico-litio | 2008 | I | Automóvil eléctrico de iones de litio | bateria-litio, motor-induccion | Tesla Roadster: autonomía superior a 300 km con celdas de iones de litio. | 
+@@ naval | Navegación
+balsa | ~-50000 | I | Embarcaciones para travesías marinas | cuerda-primitiva, achelense | Necesarias para poblar Sahul. |
+canoa-monoxila | ~-8000 | I | Canoa monóxila | piedra-pulimentada, hogar | Tronco vaciado con fuego y azuela; la canoa de Pesse (Países Bajos) es la más antigua conservada.
+vela | ~-3500 | I | Vela | lino-tejido, canoa-monoxila | Valle del Nilo y golfo Pérsico. |
+barco-tablas | ~-2600 | I | Casco de tablas cosidas | herramientas-cobre, cuerda, sierra-metal | Tablas unidas con cuerdas y espigas sin clavos; barca funeraria de Keops.
+trirreme | ~-650 | I | Trirreme | barco-tablas, bronce | Tres órdenes de remos y espolón. |
+timon-codaste | ~100 | I | Timón de codaste | barco-tablas | China Han; Europa hacia 1180. |
+vela-latina | ~200 | I | Vela latina | vela | Vela triangular sobre entena inclinada que permite navegar contra el viento.
+brujula | ~1040 | I | Brújula magnética | magnetita | Pez y aguja imantados; uso náutico hacia 1100. | Shen Kuo
+astrolabio | ~-140 | I | Astrolabio | trigonometria | Proyección estereográfica del cielo. | Hiparco
+portulano | ~1275 | I | Carta portulana | brujula, pergamino | Carta náutica con rumbos y costas a escala; la Carta Pisana es la más antigua.
+carabela | ~1440 | I | Carabela | vela-latina, timon-codaste, brujula | Nave ligera de aparejo latino para la exploración atlántica portuguesa. | 
+astrolabio-nautico | ~1480 | I | Astrolabio náutico | astrolabio, carabela | Latitud por la altura del Sol. |
+proyeccion-mercator | 1569 | C | Proyección de Mercator | portulano | Mapa cilíndrico conforme donde un rumbo constante es una línea recta. | Gerardus Mercator
+octante | 1731 | I | Octante | telescopio-reflector | Dos espejos superponen el astro y el horizonte: altura medida desde un barco en movimiento. | John Hadley
+cronometro-marino | 1761 | I | Cronómetro marino | reloj-muelle, acero-crisol | H4: la longitud en el mar. | John Harrison
+barco-vapor | 1807 | I | Barco de vapor comercial | movimiento-rotativo, barco-tablas | Servicio regular del North River Steamboat en el Hudson. | Robert Fulton
+helice | 1836 | I | Hélice naval | barco-vapor, tornillo | Sustituye a las ruedas de paletas: más eficaz y menos vulnerable. | Francis Pettit Smith, John Ericsson
+casco-hierro | 1843 | I | Transatlántico de hierro con hélice | helice, pudelado | SS Great Britain: casco de hierro, hélice y máquina de vapor en un transatlántico. | Isambard Brunel
+submarino-electrico | 1888 | I | Submarino eléctrico | acumulador-plomo, motor-electrico, torpedo | Submarino de Isaac Peral: propulsión por acumuladores y tubo lanzatorpedos. | Isaac Peral
+contenedor | 1956 | S | Contenedor intermodal | casco-hierro, motor-diesel | Caja normalizada que pasa de camión a barco sin manipular la carga. | Malcom McLean
+@@ aviacion | Aviación
+cometa | ~-450 | I | Cometa | seda, cuerda | Armazón ligero de bambú y seda sostenido por el viento; China.
+globo | 1783 | I | Globo aerostático | papel, hidrogeno | Aire caliente e hidrógeno. | Hermanos Montgolfier, Jacques Charles
+aeroplano-cayley | 1799 | C | Concepto de aeroplano de ala fija | principia, cometa | Separa sustentación, propulsión y control. | George Cayley
+tunel-viento | 1871 | H | Túnel de viento | aeroplano-cayley, movimiento-rotativo | Permite medir sustentación y resistencia sobre modelos. | Francis Wenham
+planeador | 1891 | I | Planeador controlado | aeroplano-cayley | Más de dos mil vuelos planeados con control por desplazamiento del cuerpo. | Otto Lilienthal
+dirigible | 1900 | I | Dirigible rígido | globo, motor-rapido, hall-heroult | Estructura rígida de aluminio con celdas de gas; LZ 1. | Ferdinand von Zeppelin
+avion | 1903 | I | Avión con motor controlado | planeador, tunel-viento, motor-rapido, bicicleta | Flyer de los Wright: vuelo propulsado, sostenido y controlado en los tres ejes. | Orville y Wilbur Wright
+autogiro | 1923 | I | Autogiro | avion | Rotor libre con palas articuladas que da sustentación sin entrar en pérdida. | Juan de la Cierva
+helicoptero | 1939 | I | Helicóptero práctico | autogiro | VS-300: rotor principal único y rotor de cola antipar. | Igor Sikorsky
+cabina-presurizada | 1938 | I | Cabina presurizada | avion, hall-heroult | Fuselaje estanco que mantiene la presión para volar sobre el mal tiempo; Boeing 307.
+vuelo-supersonico | 1947 | D | Vuelo supersónico | turborreactor, motor-cohete-liquido | El Bell X-1 con motor cohete supera la velocidad del sonido en vuelo nivelado. | Chuck Yeager
+reactor-comercial | 1952 | S | Avión comercial a reacción | turborreactor, cabina-presurizada | De Havilland Comet: primer servicio regular de pasajeros con turborreactores.
+@@ espacio | Astronáutica
+cohete-polvora | ~1232 | I | Cohete de pólvora | polvora, papel | Tubos de pólvora que se impulsan por reacción; flechas de fuego en el asedio de Kaifeng.
+ecuacion-cohete | 1903 | C | Ecuación del cohete | principia, cohete-polvora | Relaciona la velocidad final con la masa de propulsante y la velocidad de escape. | Konstantín Tsiolkovski
+motor-cohete-liquido | 1926 | I | Cohete de combustible líquido | ecuacion-cohete, licuefaccion-aire | Primer vuelo con oxígeno líquido y gasolina en Auburn (Massachusetts). | Robert Goddard
+v2 | 1942 | I | Misil balístico V-2 | motor-cohete-liquido, giroscopo | Primer objeto artificial en alcanzar el espacio; guiado inercial. | Wernher von Braun
+giroscopo | 1852 | I | Giróscopo | principia | Rotor que conserva su orientación; base del guiado inercial. | Léon Foucault
+sputnik | 1957 | I | Satélite artificial | v2, transistor-union | Sputnik 1: una esfera con radiotransmisor puesta en órbita por un cohete R-7. | Serguéi Koroliov
+vuelo-tripulado | 1961 | D | Vuelo espacial tripulado | sputnik | Vostok 1: Yuri Gagarin completa una órbita y regresa con vida. | Yuri Gagarin
+alunizaje | 1969 | D | Alunizaje tripulado | vuelo-tripulado, circuito-integrado, pila-combustible | Apolo 11: dos astronautas pisan la Luna y vuelven a la Tierra. | Neil Armstrong, Buzz Aldrin
+pila-combustible | 1839 | I | Pila de combustible | electrolisis-agua, platino-maleable | Hidrógeno y oxígeno producen electricidad y agua sobre electrodos de platino. | William Grove
+estacion-espacial | 1971 | S | Estación espacial | vuelo-tripulado | Saliut 1: laboratorio habitable en órbita.
+sonda-interestelar | 1977 | I | Sondas Voyager | alunizaje | Asistencias gravitatorias hacia los planetas exteriores; la Voyager 1 cruzó la heliopausa en 2012. | 
+transbordador | 1981 | I | Transbordador espacial | alunizaje, microprocesador | Orbitador reutilizable con escudo térmico de losetas cerámicas. | 
+telescopio-espacial | 1990 | I | Telescopio espacial | transbordador, ccd | Hubble: espejo de 2,4 m fuera de la atmósfera, reparable en órbita.
+cohete-reutilizable | 2015 | I | Cohete orbital reutilizable | transbordador, gps | Aterrizaje de la primera etapa del Falcon 9. |

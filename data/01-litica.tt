@@ -1,0 +1,42 @@
+@ litica | Piedra, hueso y fuego | #b98f6a
+@@ talla | Talla de la piedra
+percusion-dura | ~-3300000 | T | Percusión con percutor duro | | Golpear una piedra con otra para desprender lascas cortantes; las piezas de Lomekwi 3 (Kenia) son la evidencia más antigua. |
+olduvayense | ~-2600000 | H | Industria olduvayense (Modo 1) | percusion-dura | Cantos tallados y lascas de filo vivo producidos de forma sistemática; Gona (Etiopía). |
+achelense | ~-1760000 | H | Bifaz achelense (Modo 2) | olduvayense | Útiles tallados por ambas caras con forma y simetría planificadas; Kokiselei (Kenia). |
+percutor-blando | ~-700000 | T | Percutor blando de asta o hueso | achelense | Un percutor elástico arranca lascas más finas y permite bifaces delgados y regulares. |
+levallois | ~-300000 | T | Núcleo preparado Levallois (Modo 3) | percutor-blando | El núcleo se prepara para predeterminar la forma de la lasca o punta antes de extraerla. |
+tratamiento-termico-piedra | ~-164000 | T | Tratamiento térmico de la silcreta | levallois, hogar | Calentar la roca de forma controlada mejora su fractura; Pinnacle Point (Sudáfrica). |
+talla-presion | ~-75000 | T | Retoque por presión | tratamiento-termico-piedra | Desprender esquirlas presionando con un compresor de hueso; puntas de Blombos. |
+microlitos | ~-65000 | H | Microlitos geométricos | levallois, enmangue | Pequeñas piezas de dorso estandarizadas y recambiables para armas compuestas; Howiesons Poort. |
+laminas | ~-48000 | T | Talla laminar sistemática (Modo 4) | percutor-blando, levallois | Núcleos prismáticos de los que se extraen series de láminas largas: más filo por kilo de piedra. |
+piedra-pulimentada | ~-9500 | T | Piedra pulimentada | laminas | Hachas y azuelas acabadas por abrasión, resistentes para talar y trabajar madera. |
+mineria-silex | ~-4300 | S | Minería subterránea de sílex | piedra-pulimentada, pico-asta | Pozos y galerías para extraer nódulos de calidad; Spiennes (Bélgica), más tarde Grimes Graves. |
+@@ fuego | Fuego
+uso-fuego | ~-1000000 | D | Uso del fuego | | Sedimentos quemados dentro de la cueva de Wonderwerk (Sudáfrica) indican fuego mantenido por homininos. |
+hogar | ~-780000 | T | Hogares estructurados | uso-fuego | Fuegos repetidos en puntos fijos del campamento; Gesher Benot Ya'aqov (Israel). |
+coccion | ~-780000 | T | Cocción de alimentos | hogar | Restos de peces cocinados a temperatura controlada en Gesher Benot Ya'aqov. |
+encendido-fuego | ~-400000 | T | Encendido deliberado del fuego | hogar, percusion-dura | Producir chispa golpeando pirita con sílex; indicios en Barnham (Inglaterra) y, después, útiles neandertales. |
+brea-abedul | ~-200000 | M | Brea de abedul | hogar | Adhesivo obtenido calentando corteza de abedul con poco oxígeno; primer material sintético conocido. |
+lampara-grasa | ~-38000 | H | Lámpara de grasa | hogar | Cuencos de piedra con grasa animal y mecha vegetal para iluminar el interior de las cuevas. |
+@@ utiles | Útiles compuestos, hueso y fibra
+palo-cavador | ~-170000 | H | Palo cavador | hogar | Varas endurecidas al fuego para desenterrar tubérculos; Border Cave y Poggetti Vecchi. |
+lanza-madera | ~-400000 | H | Lanza de madera | achelense | Lanzas talladas y equilibradas para la caza mayor; Clacton y Schöningen. |
+enmangue | ~-300000 | T | Enmangue de puntas | levallois, lanza-madera | Unir una punta de piedra a un astil con ligaduras y adhesivos crea la primera herramienta compuesta. |
+ocre | ~-100000 | M | Preparación de pigmento ocre | hogar | Taller de Blombos: ocre molido y mezclado con grasa y carbón en conchas-recipiente. |
+arpon-hueso | ~-88000 | H | Arpón de hueso dentado | lanza-madera | Puntas barbadas de hueso para la pesca; Katanda (Congo). |
+arco | ~-62000 | H | Arco y flecha | enmangue, microlitos, cuerda-primitiva | Puntas de Sibudu (Sudáfrica) con huellas de uso como flechas; la propulsión elástica almacena energía. |
+cuerda | ~-50000 | M | Cuerda de fibras torcidas | | Cordel de tres cabos de fibra de corteza hallado en Abri du Maras (Francia), obra neandertal. |
+aguja | ~-48000 | H | Aguja de hueso con ojo | laminas, cuerda | Permite coser pieles ajustadas; ejemplar temprano en la cueva de Denísova. |
+ropa-cosida | ~-40000 | T | Vestimenta cosida | aguja | Prendas ajustadas de piel, imprescindibles para ocupar latitudes frías. |
+cesteria | ~-25000 | T | Cestería y tejido de fibras | cuerda | Improntas de tejidos y cestos en arcilla de Dolní Věstonice y Pavlov. |
+anzuelo | ~-21000 | H | Anzuelo | cuerda, talla-presion | Anzuelos de concha de la cueva de Sakitari (Okinawa). |
+propulsor | ~-18000 | H | Propulsor (átlatl) | lanza-madera, enmangue | Palanca que alarga el brazo y multiplica la velocidad del venablo; Solutrense. |
+pico-asta | ~-9000 | H | Pico de asta | piedra-pulimentada | Astas de ciervo usadas como picos y palancas para cavar y extraer roca. |
+@@ simbolo | Símbolo y arte
+grabado-abstracto | ~-73000 | D | Grabados y trazos abstractos | ocre | Ocre grabado y trazo a lápiz de ocre sobre silcreta en Blombos. |
+adornos | ~-140000 | I | Cuentas y adornos personales | cuerda-primitiva | Conchas perforadas para ensartar; Bizmoune (Marruecos). |
+cuerda-primitiva | ~-150000 | M | Ligaduras de tendón y fibra | | Tiras de tendón, piel o fibra sin torcer para atar y ensartar. |
+arte-rupestre | ~-49000 | I | Pintura rupestre figurativa | ocre, antorcha | Escena narrativa pintada en Sulawesi (Indonesia), la más antigua fechada. |
+antorcha | ~-50000 | T | Iluminación con antorchas | hogar | Teas resinosas para adentrarse en zonas profundas de las cuevas. |
+flauta | ~-40000 | I | Flauta de hueso | talla-presion | Flautas de hueso de buitre y marfil del Jura suabo (Hohle Fels). |
+muescas-conteo | ~-42000 | I | Hueso con muescas de conteo | grabado-abstracto | Peroné de babuino con 29 muescas (hueso de Lebombo): registro numérico externo. |

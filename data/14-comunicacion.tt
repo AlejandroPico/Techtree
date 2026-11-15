@@ -1,0 +1,42 @@
+@ comunicacion | Escritura, imprenta y medios | #c58bd0
+@@ escritura | Escritura
+sello-cilindrico | ~-3500 | I | Sello cilíndrico | fichas-contables, talla-presion | Impresión rodada sobre arcilla para autenticar. |
+escritura-cuneiforme | ~-3300 | I | Escritura protocuneiforme | fichas-contables, sello-cilindrico | Tablillas contables de Uruk. |
+jeroglificos | ~-3250 | I | Jeroglíficos egipcios | fichas-contables | Etiquetas de la tumba U-j de Abidos. |
+tinta | ~-2500 | M | Tinta de negro de humo | papiro, lampara-aceite | Hollín con goma arábiga. |
+alfabeto-protosinaitico | ~-1850 | I | Alfabeto protosinaítico | jeroglificos | Unas decenas de signos consonánticos. |
+escritura-china | ~-1250 | I | Escritura china | bronce | Huesos oraculares de Anyang. |
+alfabeto-fenicio | ~-1050 | I | Alfabeto fenicio | alfabeto-protosinaitico | Veintidós signos consonánticos difundidos por el comercio mediterráneo.
+alfabeto-griego | ~-800 | I | Alfabeto con vocales | alfabeto-fenicio | Los griegos reutilizan signos fenicios para anotar las vocales.
+biblioteca | ~-650 | S | Biblioteca | escritura-cuneiforme | Asurbanipal; después, Alejandría. |
+codice | ~90 | I | Códice | pergamino | Hojas cosidas en vez de rollo. |
+braille | 1824 | I | Braille | alfabeto-griego, imprenta | Celdas de seis puntos en relieve. | Louis Braille
+@@ imprenta | Imprenta
+xilografia | ~700 | T | Impresión xilográfica | papel, tinta | Planchas talladas; China Tang. |
+tipos-moviles | ~1040 | I | Tipos móviles | xilografia, porcelana | Caracteres sueltos de cerámica cocida que se componen y reutilizan. | Bi Sheng
+tipos-metalicos | ~1230 | I | Tipos móviles de metal | tipos-moviles, bronce | Tipos de bronce fundidos en moldes de arena; Corea de Goryeo.
+aleacion-tipografica | ~1440 | M | Aleación tipográfica | plomo, mineria-estano, mineria-plata-sajona | Plomo, estaño y antimonio: funde bajo y no se contrae. |
+tinta-oleosa | ~1430 | M | Tinta al aceite | tinta, pintura-oleo | Barniz de linaza con negro de humo que se adhiere al metal. |
+pintura-oleo | ~1410 | T | Pintura al óleo | tintes | Pigmentos en aceite secante; técnica antigua perfeccionada por los primitivos flamencos. |
+imprenta | ~1450 | I | Imprenta de tipos móviles | aleacion-tipografica, tinta-oleosa, tornillo, papel, molde-ajustable | Molde manual, prensa y tinta: sistema completo. | Johannes Gutenberg
+molde-ajustable | ~1445 | H | Molde manual ajustable | cera-perdida, acero-cementado | Punzón de acero, matriz de cobre y molde para fundir tipos idénticos. | Johannes Gutenberg
+periodico | 1605 | S | Periódico impreso | imprenta | Relation, de Estrasburgo: noticias impresas con periodicidad semanal. | Johann Carolus
+litografia | 1796 | T | Litografía | imprenta, acido-nitrico | Impresión plana sobre piedra caliza. | Alois Senefelder
+prensa-vapor | 1814 | I | Prensa de cilindro a vapor | imprenta, movimiento-rotativo | Cilindro movido por vapor: 1100 pliegos por hora en The Times. | Friedrich Koenig
+rotativa | 1843 | I | Rotativa | prensa-vapor, papel-continuo | Tipos sobre un cilindro giratorio. | Richard Hoe
+maquina-escribir | 1868 | I | Máquina de escribir | piezas-intercambiables | Tipos accionados por teclas, con el teclado QWERTY. | Christopher Sholes
+linotipia | 1884 | I | Linotipia | maquina-escribir, aleacion-tipografica | El teclado compone matrices y funde la línea entera en plomo. | Ottmar Mergenthaler
+xerografia | 1938 | I | Xerografía | efecto-fotovoltaico | Imagen electrostática revelada con polvo: fotocopia en seco. | Chester Carlson
+@@ imagen | Fotografía y cine
+camara-oscura | ~-400 | D | Cámara oscura | espejo | Imagen invertida por un orificio. | Mozi
+heliografia | 1826 | I | Heliografía | camara-oscura, litografia | Primera fotografía permanente. | Nicéphore Niépce
+daguerrotipo | 1839 | I | Daguerrotipo | heliografia | Placa plateada revelada con mercurio. | Louis Daguerre
+calotipo | 1841 | I | Calotipo | daguerrotipo, papel-continuo | Negativo en papel del que se sacan copias positivas. | Henry Fox Talbot
+colodion | 1851 | T | Colodión húmedo | calotipo, algodon-polvora | Emulsión húmeda sobre vidrio: negativo nítido y exposición de segundos. | Frederick Scott Archer
+placa-seca | 1871 | T | Placa seca de gelatina | colodion | Emulsión de gelatina y bromuro de plata: sensible y almacenable. | Richard Maddox
+pelicula-rollo | 1888 | I | Película en rollo | placa-seca, celuloide | Emulsión sobre soporte flexible enrollado; cámara Kodak. | George Eastman
+cinematografo | 1895 | I | Cinematógrafo | pelicula-rollo, maquina-coser | Cámara, copiadora y proyector con arrastre intermitente. | Auguste y Louis Lumière
+cine-sonoro | 1927 | I | Cine sonoro | cinematografo, triodo | Sonido sincronizado amplificado con válvulas. | 
+cinta-magnetica | 1928 | I | Cinta magnética | fonografo, electroiman | Papel recubierto de óxido de hierro. | Fritz Pfleumer
+disco-compacto | 1982 | I | Disco compacto | laser-semiconductor, teoria-informacion | Audio digital leído por láser. | 
+camara-digital | 1975 | I | Cámara digital | ccd, cinta-magnetica | Prototipo de Kodak con sensor CCD. | Steven Sasson

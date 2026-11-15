@@ -1,0 +1,28 @@
+@ medicion | Medida, tiempo e instrumentos | #8fa3ad
+@@ tiempo | Medida del tiempo
+calendario-lunar | ~-8000 | C | Calendario lunar | muescas-conteo | Alineación de fosos de Warren Field (Escocia). |
+calendario-solar | ~-2700 | C | Calendario civil de 365 días | geometria-egipcia, jeroglificos | Doce meses de treinta días más cinco añadidos; Egipto.
+reloj-sol | ~-1500 | I | Reloj de sol | calendario-solar | Reloj de sombra egipcio. | 
+clepsidra | ~-1400 | I | Clepsidra | reloj-sol, ceramica-vasijas | Reloj de agua de Karnak. | 
+calendario-juliano | -45 | C | Calendario juliano | calendario-solar | Año de 365 días con uno bisiesto cada cuatro.
+reloj-su-song | 1094 | I | Torre de reloj astronómico | clepsidra, engranaje, rueda-hidraulica | Torre de Kaifeng con esfera armilar y escape hidromecánico. | Su Song
+escape-mecanico | ~1280 | I | Reloj mecánico de escape | engranaje, clepsidra | Rueda catalina y foliot. |
+reloj-muelle | ~1430 | I | Reloj de muelle | escape-mecanico, acero-cementado | Un resorte en espiral sustituye a las pesas: el reloj se vuelve portátil.
+calendario-gregoriano | 1582 | C | Calendario gregoriano | calendario-juliano, heliocentrismo | Corrige el desfase del juliano. | 
+reloj-pendulo | 1656 | I | Reloj de péndulo | escape-mecanico, caida-libre | Error de segundos al día. | Christiaan Huygens
+volante-espiral | 1675 | I | Volante con espiral | reloj-muelle, reloj-pendulo | Oscilador para relojes portátiles. | Christiaan Huygens, Robert Hooke
+reloj-cuarzo | 1927 | I | Reloj de cuarzo | triodo, regeneracion | Oscilador piezoeléctrico. | Warren Marrison
+reloj-atomico | 1955 | I | Reloj atómico de cesio | maser, reloj-cuarzo | Transición hiperfina del cesio; define el segundo desde 1967. | Louis Essen
+@@ instrumentos | Pesas, medidas e instrumentos
+balanza | ~-3000 | I | Balanza de brazos iguales | cobre-reduccion, palanca | Cruz suspendida con dos platillos y juegos de pesas patrón.
+nonio | 1631 | I | Nonio | astrolabio-nautico | Escala auxiliar que subdivide la principal. | Pierre Vernier
+micrometro | 1638 | I | Micrómetro de tornillo | telescopio, tornillo | Tornillo fino para medir ángulos en el telescopio. | William Gascoigne
+sismoscopio | 132 | I | Sismoscopio | bronce, palanca | Indica la dirección de un terremoto lejano. | Zhang Heng
+sistema-metrico | 1799 | S | Sistema métrico decimal | decimales, platino-forjado | Metro y kilogramo de platino. |
+platino-forjado | 1786 | T | Platino forjado con arsénico | acido-nitrico | Método de Chabaneau y Janety. | Pierre-François Chabaneau
+camara-niebla | 1911 | I | Cámara de niebla | electron, bomba-vacio | Hace visibles las trayectorias de partículas. | Charles Wilson
+contador-geiger | 1908 | I | Contador Geiger | rayos-alfa-beta | Cuenta partículas ionizantes. | Hans Geiger
+rayos-alfa-beta | 1899 | D | Radiaciones alfa y beta | radiactividad | Dos tipos de radiación con distinta penetración. | Ernest Rutherford
+espectrometro-masas | 1919 | I | Espectrógrafo de masas | electron, electroiman | Campos eléctrico y magnético separan iones por su masa: se descubren los isótopos. | Francis Aston
+microscopio-electronico | 1931 | I | Microscopio electrónico | electron, tubo-rayos-catodicos | Lentes magnéticas y haz de electrones. | Ernst Ruska, Max Knoll
+microscopio-efecto-tunel | 1981 | I | Microscopio de efecto túnel | ecuacion-schrodinger, microprocesador | Imagen de átomos individuales. | Gerd Binnig, Heinrich Rohrer

@@ -1,0 +1,86 @@
+@ electricidad | Electricidad y telecomunicación | #e3b23c
+@@ electrostatica | Electrostática y magnetismo
+ambar | ~-600 | D | Atracción del ámbar frotado | | Atribuida a Tales de Mileto. | Tales de Mileto
+magnetita | ~-600 | D | Atracción de la magnetita | reduccion-hierro | La piedra imán atrae el hierro. |
+de-magnete | 1600 | C | De Magnete | ambar, magnetita, brujula | Distingue electricidad y magnetismo; la Tierra es un imán. | William Gilbert
+maquina-friccion | 1663 | I | Máquina electrostática de fricción | de-magnete | Globo de azufre que se frota al girar. | Otto von Guericke
+conduccion-electrica | 1729 | D | Conducción eléctrica | maquina-friccion | Conductores y aislantes. | Stephen Gray
+dos-electricidades | 1733 | D | Dos clases de electricidad | conduccion-electrica | Vítrea y resinosa: las iguales se repelen. | Charles du Fay
+botella-leyden | 1745 | I | Botella de Leyden | maquina-friccion, vidrio-soplado | Frasco de vidrio con armaduras metálicas que almacena carga: el primer condensador. | Ewald von Kleist, Pieter van Musschenbroek
+pararrayos | 1752 | I | Pararrayos | botella-leyden | Una varilla puntiaguda conectada a tierra descarga la nube; demuestra que el rayo es electricidad. | Benjamin Franklin
+ley-coulomb | 1785 | C | Ley de Coulomb | dos-electricidades, principia | Balanza de torsión: la fuerza decae con el cuadrado de la distancia. | Charles-Augustin de Coulomb
+@@ corriente | Pilas y corriente
+electricidad-animal | 1791 | D | Electricidad animal | botella-leyden | Contracción de ancas de rana; su interpretación fue rebatida por Volta. | Luigi Galvani
+pila-volta | 1800 | I | Pila voltaica | electricidad-animal, zinc, cobre-reduccion | Discos de zinc y cobre con salmuera: corriente continua. | Alessandro Volta
+electrolisis-agua | 1800 | D | Electrólisis del agua | pila-volta | El agua se descompone en hidrógeno y oxígeno. | William Nicholson, Anthony Carlisle
+arco-electrico | 1802 | D | Arco eléctrico | pila-volta | Descarga luminosa entre carbones. | Vasili Petrov, Humphry Davy
+ley-ohm | 1827 | C | Ley de Ohm | pila-volta, galvanometro, termoelectricidad | Relación entre tensión, corriente y resistencia. | Georg Ohm
+pila-daniell | 1836 | I | Pila Daniell | pila-volta, acido-sulfurico-camaras | Dos electrolitos: tensión estable. | John Frederic Daniell
+galvanoplastia | 1838 | T | Galvanoplastia | pila-daniell | Depósito de metal por corriente. | Moritz von Jacobi
+leyes-kirchhoff | 1845 | C | Leyes de Kirchhoff | ley-ohm | Conservación de carga y energía en redes. | Gustav Kirchhoff
+acumulador-plomo | 1859 | I | Acumulador de plomo | pila-daniell, plomo | Primera batería recargable. | Gaston Planté
+pila-leclanche | 1866 | I | Pila Leclanché | pila-daniell, zinc | Zinc, dióxido de manganeso y cloruro amónico. | Georges Leclanché
+@@ electromagnetismo | Electromagnetismo y máquinas eléctricas
+electromagnetismo-oersted | 1820 | D | Efecto magnético de la corriente | pila-volta, brujula | Una corriente desvía la aguja imantada. | Hans Christian Ørsted
+ley-ampere | 1820 | C | Electrodinámica de Ampère | electromagnetismo-oersted | Fuerzas entre corrientes. | André-Marie Ampère
+galvanometro | 1820 | I | Galvanómetro multiplicador | electromagnetismo-oersted | Una bobina amplifica el efecto sobre la aguja. | Johann Schweigger
+termoelectricidad | 1821 | D | Termoelectricidad | electromagnetismo-oersted | Una diferencia de temperatura entre uniones produce corriente. | Thomas Seebeck
+electroiman | 1824 | I | Electroimán | ley-ampere, forja | Hierro dulce con bobinado. | William Sturgeon
+induccion | 1831 | D | Inducción electromagnética | electroiman, galvanometro | Un flujo magnético variable induce corriente. | Michael Faraday, Joseph Henry
+magneto-pixii | 1832 | I | Generador con conmutador | induccion | Imán giratorio y conmutador. | Hippolyte Pixii
+motor-electrico | 1834 | I | Motor eléctrico rotativo | electroiman, pila-artesa | Primer motor con potencia útil. | Moritz von Jacobi
+pila-artesa | 1802 | I | Pila de artesa | pila-volta | Placas en una cubeta con ácido: más corriente y manejo sencillo. | William Cruickshank
+rele | 1835 | I | Relé | electroiman | Un circuito débil gobierna otro. | Joseph Henry
+bobina-induccion | 1836 | I | Bobina de inducción | induccion | Alta tensión con un interruptor; perfeccionada por Ruhmkorff. | Nicholas Callan
+ecuaciones-maxwell | 1865 | C | Ecuaciones de Maxwell | induccion, ley-ampere, ley-coulomb, calculo | La luz es una onda electromagnética. | James Clerk Maxwell
+dinamo-autoexcitada | 1866 | I | Dinamo autoexcitada | magneto-pixii, electroiman | Electroimanes alimentados por la propia máquina. | Werner von Siemens, Charles Wheatstone
+dinamo-gramme | 1871 | I | Dinamo de anillo | dinamo-autoexcitada | Corriente continua uniforme. | Zénobe Gramme
+transformador | 1885 | I | Transformador de núcleo cerrado | induccion, hilo-cobre-aislado | Eleva y reduce la tensión alterna. | Károly Zipernowsky, Ottó Bláthy, Miksa Déri
+hilo-cobre-aislado | 1830 | M | Hilo de cobre aislado con seda | trefilado-hidraulico, seda, cobre-reduccion | Aislar el hilo permite bobinas de muchas espiras. | Joseph Henry
+motor-induccion | 1888 | I | Motor de inducción polifásico | transformador, induccion | Campo magnético giratorio. | Nikola Tesla, Galileo Ferraris
+@@ red | Red eléctrica
+central-electrica | 1882 | S | Central eléctrica urbana | dinamo-gramme, bombilla, vapor-alta-presion, cobre-estirado-duro | Dinamos de vapor que reparten corriente continua por cables a un barrio: Holborn (Londres) y Pearl Street (Nueva York). | Thomas Edison
+transmision-alterna | 1891 | S | Transmisión trifásica a distancia | transformador, motor-induccion, cobre-estirado-duro | 175 km de Lauffen a Fráncfort. | Mijaíl Dolivo-Dobrovolski, Oskar von Miller
+central-niagara | 1895 | S | Gran central de corriente alterna | transmision-alterna, central-hidroelectrica | Central Adams del Niágara. | George Westinghouse
+@@ iluminacion | Iluminación
+lampara-aceite | ~-4500 | H | Lámpara de aceite con mecha | lampara-grasa, ceramica-vasijas | Recipiente de cerámica con pico para la mecha y depósito de aceite vegetal.
+vela-cera | ~-500 | I | Vela | lampara-aceite, apicultura | Mecha embebida en cera o sebo. |
+lampara-argand | 1780 | I | Lámpara de Argand | lampara-aceite, vidrio-soplado | Mecha hueca y tubo de vidrio. | Aimé Argand
+luz-calcio | 1826 | I | Luz de calcio | hidrogeno, oxigeno | Cal incandescente bajo llama oxhídrica. | Thomas Drummond
+bomba-geissler | 1855 | H | Bomba de vacío de mercurio | barometro, vidrio-soplado | El vacío de Torricelli repetido con una columna de mercurio móvil: sin pistón ni fugas. | Heinrich Geissler
+tubo-geissler | 1857 | I | Tubo de descarga | bomba-geissler, bobina-induccion, platino-maleable | Electrodos de platino sellados en vidrio. | Heinrich Geissler
+bomba-sprengel | 1865 | H | Bomba de Sprengel | bomba-geissler | Gotas de mercurio arrastran el aire: alto vacío. | Hermann Sprengel
+vela-jablochkov | 1876 | I | Lámpara de arco comercial | arco-electrico, dinamo-gramme | Dos carbones paralelos separados por yeso que se consumen a la par; ilumina avenidas de París. | Pável Yáblochkov
+filamento-carbon | 1878 | M | Filamento de carbón | bomba-sprengel, algodon, horno-alfarero | Fibra vegetal carbonizada sin aire. | Joseph Swan
+bombilla | 1879 | I | Lámpara incandescente práctica | filamento-carbon, bomba-sprengel, tubo-geissler, dinamo-gramme, vidrio-soplado | Filamento de alta resistencia en alto vacío. | Thomas Edison, Joseph Swan
+bombilla-tungsteno | 1909 | I | Lámpara de tungsteno | bombilla, tungsteno-ductil | Triplica el rendimiento. | William Coolidge
+hilo-dumet | 1912 | M | Hilo Dumet | bombilla, refinado-electrolitico | Ferroníquel cobreado que sustituye al platino en el sellado. | Byron Eldred
+bombilla-gas | 1913 | I | Lámpara con gas inerte | bombilla-tungsteno, gases-nobles | Argón y filamento en espiral. | Irving Langmuir
+lampara-neon | 1910 | I | Lámpara de neón | tubo-geissler, licuefaccion-aire | Descarga eléctrica en neón a baja presión que da luz roja anaranjada. | Georges Claude
+fluorescente | 1938 | I | Lámpara fluorescente | lampara-neon | Vapor de mercurio y fósforos. |
+led | 1962 | I | LED visible | electroluminiscencia-gaas | Diodo de GaAsP que emite luz roja. | Nick Holonyak
+electroluminiscencia-gaas | 1955 | D | Electroluminiscencia infrarroja del GaAs | transistor-union | Uniones p-n de arseniuro de galio que emiten infrarrojo al pasar corriente. | Rubin Braunstein
+led-azul | 1993 | I | LED azul | led | Nitruro de galio de alta luminosidad; permite la luz blanca. | Shuji Nakamura, Isamu Akasaki, Hiroshi Amano
+@@ telecom | Telecomunicación
+telegrafo-optico | 1792 | S | Telégrafo óptico | telescopio | Semáforos en torres observados con catalejo. | Claude Chappe
+telegrafo-electrico | 1837 | I | Telégrafo eléctrico | electroiman, pila-daniell, hilo-cobre-aislado | Agujas de Cooke y Wheatstone; registrador de Morse. | William Cooke, Charles Wheatstone, Samuel Morse
+codigo-morse | 1844 | S | Línea Morse y su código | telegrafo-electrico, rele | Puntos y rayas registrados por un electroimán; primera línea entre Washington y Baltimore. | Samuel Morse, Alfred Vail
+cable-submarino | 1851 | S | Cable telegráfico submarino | cable-gutapercha, codigo-morse | Conductor de cobre aislado con gutapercha y armado con hierro entre Dover y Calais.
+cable-transatlantico | 1866 | S | Cable transatlántico duradero | cable-submarino, galvanometro | Tendido por el Great Eastern. | William Thomson
+telefono | 1876 | I | Teléfono | induccion, telegrafo-electrico | Transmisión eléctrica de la voz. | Alexander Graham Bell, Elisha Gray
+microfono-carbon | 1877 | I | Micrófono de carbón | telefono | Resistencia variable con la presión sonora. | Thomas Edison, Emile Berliner, David Hughes
+central-telefonica | 1878 | S | Central telefónica | telefono, rele | Conmutación manual; New Haven. |
+fonografo | 1877 | I | Fonógrafo | telefono | Graba y reproduce sonido en un cilindro. | Thomas Edison
+ondas-hertz | 1887 | D | Ondas electromagnéticas | ecuaciones-maxwell, bobina-induccion | Generación y detección de ondas de radio. | Heinrich Hertz
+cohesor | 1890 | I | Cohesor | ondas-hertz | Limaduras metálicas que conducen al recibir ondas. | Édouard Branly
+radiotelegrafia | 1895 | I | Telegrafía sin hilos | cohesor, codigo-morse | Antena y toma de tierra. | Guglielmo Marconi, Aleksandr Popov
+radio-voz | 1906 | I | Radiotelefonía | radiotelegrafia, microfono-carbon | Una onda continua modulada en amplitud transmite voz y música. | Reginald Fessenden
+radiodifusion | 1920 | S | Radiodifusión regular | radio-voz, triodo | Emisoras con programación. |
+television-mecanica | 1925 | I | Televisión electromecánica | radiodifusion, celula-selenio | Imagen explorada por un disco de Nipkow perforado y una célula fotoeléctrica. | John Logie Baird
+television-electronica | 1927 | I | Televisión electrónica | tubo-rayos-catodicos, triodo | Exploración de la imagen por haz de electrones, sin piezas móviles. | Philo Farnsworth, Vladimir Zworykin
+radar | 1935 | I | Radar | radiodifusion, tubo-rayos-catodicos | Detección por eco de radio. | Robert Watson-Watt
+magnetron | 1940 | I | Magnetrón de cavidades | radar | Microondas de alta potencia. | John Randall, Harry Boot
+telefono-movil | 1973 | I | Teléfono móvil de mano | circuito-integrado, radiodifusion | Primera llamada con un prototipo de Motorola. | Martin Cooper
+gsm | 1991 | S | Telefonía móvil digital GSM | telefono-movil, teoria-informacion | Norma europea de red celular digital con cifrado, itinerancia y mensajes cortos.
+satelite-comunicaciones | 1962 | S | Satélite de comunicaciones | sputnik, transistor-silicio, celula-silicio | Telstar 1 retransmite televisión y telefonía entre continentes.
+fibra-optica | 1970 | M | Fibra óptica de baja atenuación | laser, vidrio-optico | Sílice de menos de 20 dB/km. | Charles Kao, Robert Maurer

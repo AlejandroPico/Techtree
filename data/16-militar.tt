@@ -1,0 +1,48 @@
+@ militar | Armamento | #b0605a
+@@ blancas | Armas antiguas y de asedio
+honda | ~-10000 | H | Honda | cuerda | Proyectil lanzado por fuerza centrífuga. | 
+espada-bronce | ~-3300 | H | Espada | cobre-arsenical, molde | Hojas largas de cobre arsenical halladas en Arslantepe (Anatolia).
+arco-compuesto | ~-1800 | H | Arco compuesto | arco, brea-abedul | Asta, madera y tendón encolados: más potencia en un arco corto.
+armadura-escamas | ~-1500 | H | Armadura de escamas | bronce | Placas de bronce cosidas. | 
+ballesta | ~-600 | H | Ballesta | arco, bronce | Gatillo de bronce; China. |
+gastrafetes | -399 | H | Gastrafetes | arco-compuesto | Ballesta de gran tamaño tensada con el abdomen; Siracusa.
+catapulta-torsion | ~-340 | H | Catapulta de torsión | gastrafetes, cuerda | Madejas de tendón retorcidas que almacenan la energía.
+trabuquete-traccion | ~-350 | H | Trabuquete de tracción | palanca, honda | Viga pivotante de la que tira un equipo de hombres; China.
+cota-malla | ~-300 | H | Cota de malla | forja, alambre-forjado | Miles de anillas de hierro entrelazadas y remachadas; celtas.
+alambre-forjado | ~-400 | T | Alambre de hierro forjado | forja | Alambre obtenido martillando y retorciendo tiras. | 
+fuego-griego | 672 | M | Fuego griego | alambique, bomba-impelente | Mezcla incendiaria proyectada con sifón. | Calínico
+trabuquete-contrapeso | ~1165 | H | Trabuquete de contrapeso | trabuquete-traccion | La gravedad sustituye a los tiradores. | 
+@@ fuego | Armas de fuego
+lanza-fuego | ~950 | H | Lanza de fuego | polvora | Tubo de bambú con pólvora. |
+bomba-polvora | ~1000 | H | Bombas de pólvora | polvora, hierro-colado | Granadas y bombas incendiarias Song. | 
+canon-mano | ~1280 | H | Cañón de mano | lanza-fuego, bronce | Tubo de bronce con oído que dispara un proyectil; ejemplar de Heilongjiang.
+bombarda | 1326 | H | Bombarda | canon-mano, alto-horno | Primera imagen europea de un cañón (Milemete). | 
+arcabuz | ~1470 | H | Arcabuz de mecha | canon-mano, reloj-muelle | Serpentín con mecha y gatillo. | 
+llave-rueda | ~1505 | H | Llave de rueda | arcabuz, reloj-muelle | Rueda de acero contra pirita. | 
+anima-rayada | ~1500 | T | Ánima rayada | arcabuz | Estrías que hacen girar la bala. | 
+llave-chispa | 1610 | H | Llave de chispa | llave-rueda | Pedernal contra rastrillo. | Marin le Bourgeoys
+bayoneta | ~1671 | H | Bayoneta | llave-chispa | Bayoneta de cubo: el mosquete sustituye a la pica. | 
+fulminante | 1807 | M | Cebo fulminante | acido-nitrico | Fulminato que detona por percusión. | Alexander Forsyth
+revolver | 1836 | H | Revólver | fulminante, piezas-intercambiables | Tambor giratorio con varias recámaras tras un solo cañón. | Samuel Colt
+fusil-aguja | 1836 | H | Fusil de retrocarga de aguja | fulminante, anima-rayada | Cartucho de papel y cerrojo. | Johann von Dreyse
+bala-minie | 1849 | H | Bala Minié | anima-rayada | Bala expansiva de carga rápida. | Claude-Étienne Minié
+cartucho-metalico | 1846 | H | Cartucho metálico | fulminante, laton | Vaina, cebo y bala en una pieza. | Benjamin Houllier
+ametralladora-gatling | 1862 | H | Ametralladora Gatling | cartucho-metalico | Cañones rotativos a manivela. | Richard Gatling
+ametralladora | 1884 | H | Ametralladora automática | cartucho-metalico, polvora-nitrada | El retroceso recarga el arma. | Hiram Maxim
+polvora-nitrada | 1865 | M | Pólvoras nitradas de caza | algodon-polvora | Madera nitrada: pólvora de poco humo para caza. | Johann Schultze
+@@ moderna | Guerra industrial
+torpedo | 1866 | H | Torpedo autopropulsado | casco-hierro, motor-neumatico | Propulsado por aire comprimido. | Robert Whitehead
+motor-neumatico | 1850 | H | Motor de aire comprimido | vapor-alta-presion | Motores neumáticos para minería. | 
+acorazado | 1859 | S | Buque acorazado | casco-hierro, bombarda | La Gloire: casco de madera forrado con planchas de hierro.
+dreadnought | 1906 | S | Acorazado monocalibre | acorazado, turbina-vapor | HMS Dreadnought: artillería de un solo calibre grueso y turbinas de vapor.
+gas-cloro | 1915 | H | Arma química | cloro-alcali | Nube de cloro liberada desde bombonas en Ypres. | Fritz Haber
+tanque | 1916 | H | Carro de combate | tractor, motor-rapido, acero-aleado | Mark I: vehículo blindado de orugas que cruza trincheras.
+caza | 1915 | H | Avión de caza con sincronizador | avion, ametralladora | Dispara a través de la hélice. | Anthony Fokker
+portaaviones | 1918 | S | Portaaviones | dreadnought, avion | HMS Argus: cubierta corrida para despegar y aterrizar.
+misil-crucero | 1944 | H | Misil de crucero | pulsorreactor, giroscopo | V-1: bomba volante con pulsorreactor y piloto automático.
+pulsorreactor | 1930 | I | Pulsorreactor | motor-rapido | Combustión intermitente en un tubo. | Paul Schmidt
+misil-intercontinental | 1957 | H | Misil balístico intercontinental | v2, bomba-termonuclear | R-7: cohete de dos etapas capaz de llevar una carga nuclear a otro continente.
+submarino-nuclear | 1954 | S | Submarino nuclear | reactor-cp1, submarino-electrico | USS Nautilus: un reactor permite navegar sumergido durante semanas.
+satelite-espia | 1960 | S | Satélite de reconocimiento | sputnik, pelicula-rollo | Programa Corona: cápsulas de película fotográfica recuperadas tras la reentrada.
+avion-furtivo | 1981 | H | Avión furtivo | radar, miniordenador | F-117: superficies facetadas que dispersan las ondas de radar.
+dron-armado | 2001 | H | Dron armado | gps, satelite-comunicaciones | Predator: avión pilotado a distancia por satélite y armado con misiles.

@@ -1,0 +1,81 @@
+@ metalurgia | Minería y metalurgia | #c77b4a
+@@ mineria | Minería
+mineria-ocre | ~-41000 | S | Minería de ocre | ocre | Extracción de hematites en Ngwenya (Esuatini). |
+mineria-cobre | ~-5400 | S | Minería de cobre | pico-asta, cobre-nativo | Pozos sobre vetas de malaquita en Rudna Glava (Serbia). |
+fuego-quebranto | ~-5000 | T | Arranque de roca por fuego | mineria-cobre, hogar | Calentar el frente y enfriarlo bruscamente agrieta la roca. |
+mineria-estano | ~-3300 | S | Minería de casiterita | mineria-cobre | El estaño es escaso: su comercio enlaza Asia central, Anatolia y el Atlántico. |
+mineria-hierro-herramientas | ~-500 | T | Minería con herramientas de hierro | reduccion-hierro, fuego-quebranto | Picos, cuñas y martillos de hierro; galerías profundas en Laurion. |
+mineria-plata-sajona | ~1170 | S | Minería profunda centroeuropea | mineria-hierro-herramientas, molino-agua | Freiberg y los Montes Metálicos: desagüe y ventilación mecanizados. |
+vagoneta-rail | ~1550 | S | Vagoneta sobre raíles de madera | mineria-plata-sajona, rueda | El «Hund» minero descrito por Agricola. | Georgius Agricola
+voladura-polvora | 1627 | T | Voladura con pólvora | polvora, mineria-plata-sajona | Primera voladura minera documentada, en Schemnitz. | Caspar Weindl
+lampara-davy | 1815 | I | Lámpara de seguridad | lampara-argand | Una malla metálica impide que la llama inflame el grisú. | Humphry Davy
+cianuracion | 1887 | T | Cianuración del oro | electroquimica-davy | Disuelve el oro de menas pobres. | John MacArthur, Robert y William Forrest
+flotacion | 1905 | T | Flotación por espuma | cianuracion | Separa sulfuros finos; hace rentables las menas de baja ley. |
+@@ cobre | Cobre, bronce y aleaciones
+cobre-nativo | ~-8000 | M | Cobre nativo martillado | percusion-dura | Cuentas y punzones batidos en frío; Çayönü (Anatolia). |
+recocido | ~-7000 | T | Recocido | cobre-nativo, hogar | Calentar el metal endurecido por el martillado le devuelve la ductilidad. |
+cobre-reduccion | ~-5000 | T | Reducción del cobre | recocido, horno-alfarero, mineria-cobre | Malaquita y carbón vegetal en atmósfera reductora; Belovode (Serbia). |
+crisol | ~-5000 | H | Crisol y fusión | cobre-reduccion | Recipiente refractario para fundir y verter el metal. |
+carbon-vegetal | ~-5500 | M | Carbón vegetal | hogar | Madera carbonizada sin aire: combustible limpio que supera los 1100 °C con tiro forzado. |
+tobera | ~-5000 | H | Soplete y tobera | carbon-vegetal | Tubos de soplado con boquilla cerámica para avivar el fuego. |
+molde | ~-4500 | H | Molde de fundición | crisol | Moldes abiertos y, después, bivalvos. |
+cera-perdida | ~-4500 | T | Fundición a la cera perdida | molde, apicultura-silvestre | El modelo de cera se sustituye por metal; Varna, Mehrgarh, Nahal Mishmar. |
+apicultura-silvestre | ~-7000 | T | Recolección de cera y miel | cuerda | Cera de abeja identificada en cerámicas neolíticas. |
+herramientas-cobre | ~-4000 | H | Hachas y cinceles de cobre | molde, recocido | Filos metálicos refundibles para carpintería fina. |
+cobre-arsenical | ~-4200 | M | Cobre arsenical | cobre-reduccion | Aleación más dura, primero accidental por la mena. |
+bronce | ~-3300 | M | Bronce de estaño | cobre-arsenical, mineria-estano, crisol | Cobre con alrededor de un 10 % de estaño; hay piezas aisladas anteriores en los Balcanes. |
+fuelle | ~-2000 | H | Fuelle de olla | tobera | Membranas de piel accionadas con los pies. |
+sierra-metal | ~-2700 | H | Sierra metálica | herramientas-cobre | Hojas de cobre con abrasivo de arena; después, bronce y hierro dentados. |
+laton | ~-100 | M | Latón por cementación | bronce | Cobre calentado con calamina; el oricalco romano. |
+zinc | ~1100 | M | Zinc metálico destilado | laton, alambique | Retortas de Zawar (India) condensan el vapor de zinc. |
+proceso-gales | ~1720 | T | Proceso galés del cobre | horno-reverbero | Tostaciones y fusiones sucesivas con carbón mineral en Swansea. |
+convertidor-cobre | 1880 | T | Conversión del cobre | convertidor-bessemer, proceso-gales | Soplado de la mata de cobre en convertidor. | Pierre Manhès, Paul David
+@@ nobles | Oro, plata y plomo
+oro | ~-4500 | M | Orfebrería | cobre-nativo, recocido | Necrópolis de Varna (Bulgaria). |
+plomo | ~-4000 | M | Reducción del plomo | cobre-reduccion | La galena se reduce a baja temperatura. |
+copelacion | ~-3500 | T | Copelación de la plata | plomo, tobera | Oxidar el plomo argentífero separa la plata. |
+amalgama-dorado | ~-300 | T | Dorado al fuego con mercurio | oro | Amalgama de oro aplicada y calentada. |
+moneda | ~-630 | I | Moneda acuñada | copelacion, oro | Piezas de electro con peso garantizado; Lidia. |
+proceso-patio | 1554 | T | Beneficio de patio | amalgama-dorado | Amalgamación en frío de menas de plata; Pachuca. | Bartolomé de Medina
+platino-maleable | 1805 | M | Platino maleable | acido-nitrico | Purificación química y compactación del polvo. | William Hyde Wollaston
+@@ hierro | Hierro y acero
+hierro-meteorico | ~-3200 | M | Hierro meteórico | cobre-nativo | Cuentas de Gerzeh (Egipto) batidas a partir de un meteorito. |
+reduccion-hierro | ~-2000 | T | Horno bajo de hierro | cobre-reduccion, fuelle, carbon-vegetal | Reducción en estado sólido: una esponja que se compacta en la forja; Anatolia, y general hacia 1200 a. C. |
+forja | ~-1500 | T | Forja y soldadura a la calda | reduccion-hierro | Dar forma al hierro al rojo y unirlo por martillado. |
+acero-cementado | ~-1200 | M | Acero por cementación | forja | El hierro absorbe carbono en contacto prolongado con el carbón. |
+temple | ~-1000 | T | Temple y revenido | acero-cementado | Enfriamiento brusco que endurece el acero. |
+hierro-colado | ~-500 | M | Hierro colado | reduccion-hierro, fuelle-piston | Altos hornos chinos que funden el hierro. |
+fuelle-piston | ~-500 | H | Fuelle de pistón de doble efecto | fuelle | Sopla en ambos sentidos del recorrido; China. |
+acero-crisol-wootz | ~-300 | M | Acero de crisol (wootz) | acero-cementado, crisol | Sur de la India; materia prima del acero «de Damasco». |
+fuelle-hidraulico | 31 | H | Fuelles movidos por agua | fuelle-piston, rueda-hidraulica | Rueda hidráulica aplicada a los fuelles de fundición. | Du Shi
+hilera | ~500 | H | Hilera de trefilar | forja, temple | Placa de acero con orificios decrecientes por los que se estira el alambre. |
+alto-horno | ~1150 | S | Alto horno europeo | reduccion-hierro, molino-agua, arbol-levas | Lapphyttan (Suecia): produce arrabio líquido de forma continua. |
+trefilado-hidraulico | ~1370 | S | Trefilería hidráulica | hilera, molino-agua | Molinos de alambre de Núremberg. |
+hojalata | ~1300 | M | Hojalata | forja, mineria-estano | Chapa de hierro estañada; Bohemia y Sajonia. |
+laminador | 1590 | H | Laminador y cortadora | alto-horno, molino-agua | Cilindros que aplanan y cortan el hierro en varillas. |
+horno-reverbero | ~1680 | H | Horno de reverbero | alto-horno | La llama se refleja en la bóveda: el combustible no toca el metal. |
+coque | 1709 | T | Fundición con coque | alto-horno, mineria-carbon | El coque sustituye al carbón vegetal en Coalbrookdale. | Abraham Darby
+acero-crisol | 1740 | M | Acero fundido al crisol | acero-cementado, coque | Acero homogéneo para resortes y herramientas. | Benjamin Huntsman
+pudelado | 1784 | T | Pudelado y laminado | horno-reverbero, coque, laminador | Hierro maleable a gran escala. | Henry Cort
+convertidor-bessemer | 1856 | T | Convertidor Bessemer | pudelado | Aire soplado a través del arrabio quema el carbono. | Henry Bessemer
+siemens-martin | 1865 | T | Horno Siemens-Martin | convertidor-bessemer, horno-reverbero | Horno regenerativo de solera abierta. | Carl Wilhelm Siemens, Pierre-Émile Martin
+proceso-thomas | 1878 | T | Proceso básico Thomas | convertidor-bessemer | Revestimiento básico que elimina el fósforo. | Sidney Gilchrist Thomas
+horno-arco | 1900 | H | Horno de arco eléctrico | arco-electrico, central-electrica | Funde chatarra y aceros especiales. | Paul Héroult
+acero-inoxidable | 1913 | M | Acero inoxidable | horno-arco | Acero con más de un 12 % de cromo. | Harry Brearley
+acero-oxigeno | 1952 | T | Acería al oxígeno (LD) | convertidor-bessemer, licuefaccion-aire | Oxígeno puro soplado desde arriba; Linz. |
+@@ ligeros | Aluminio y metales modernos
+aluminio | 1825 | D | Aluminio aislado | electroquimica-davy | Reducción del cloruro con amalgama de potasio. | Hans Christian Ørsted, Friedrich Wöhler
+aluminio-deville | 1854 | T | Aluminio por reducción con sodio | aluminio | Primer proceso comercial; el metal vale como la plata. | Henri Sainte-Claire Deville
+hall-heroult | 1886 | T | Proceso Hall-Héroult | aluminio-deville, dinamo-autoexcitada | Electrólisis de alúmina disuelta en criolita fundida. | Charles Hall, Paul Héroult
+bayer | 1888 | T | Proceso Bayer | hall-heroult | Extrae alúmina pura de la bauxita con sosa. | Carl Josef Bayer
+tungsteno-ductil | 1909 | M | Tungsteno dúctil | pulvimetalurgia-tungsteno | Sinterizado y trabajado en caliente que permite trefilarlo. | William Coolidge
+pulvimetalurgia-tungsteno | 1904 | T | Filamento de tungsteno sinterizado | platino-maleable, horno-arco | Polvo de tungsteno prensado y sinterizado. | Sándor Just, Franjo Hanaman
+kroll | 1940 | T | Proceso Kroll del titanio | hall-heroult | Reducción del tetracloruro con magnesio. | William Kroll
+@@ alambre | Hilo de cobre para la electricidad
+conductividad-cobre | 1860 | D | Efecto de las impurezas en la conductividad del cobre | galvanometro, ley-ohm | Trazas de arsénico u oxígeno hunden la conductividad: hace falta cobre muy puro. | Augustus Matthiessen
+refinado-electrolitico | 1869 | T | Refinado electrolítico del cobre | galvanoplastia, conductividad-cobre, dinamo-autoexcitada | Ánodos impuros se disuelven y el cobre puro se deposita; Pembrey (Gales). | James Elkington
+alambron | 1870 | T | Laminado de alambrón de cobre | refinado-electrolitico, laminador | Lingotes laminados en caliente hasta varilla. |
+cobre-estirado-duro | 1877 | M | Hilo de cobre estirado en duro | alambron, trefilado-hidraulico, recocido | Trefilado en frío que da resistencia mecánica para tendidos aéreos. | Thomas Doolittle
+cable-gutapercha | 1847 | I | Cable aislado con gutapercha | gutapercha, hilera | Prensa que recubre el hilo sin costura. | Werner von Siemens
+hilo-esmaltado | 1900 | M | Hilo esmaltado para bobinas | cobre-estirado-duro, barniz-aislante | Barniz aislante fino que permite bobinados compactos. |
+barniz-aislante | 1890 | M | Barnices aislantes de goma laca | estructura-benceno | Goma laca y barnices al aceite como aislantes eléctricos. |

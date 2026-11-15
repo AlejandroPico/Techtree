@@ -1,0 +1,21 @@
+{
+  "name": "techtree",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Árbol tecnológico enciclopédico de la humanidad",
+  "scripts": {
+    "data": "python tools/build_data.py",
+    "dev": "python tools/build_data.py && vite --host 127.0.0.1",
+    "build": "python tools/build_data.py && tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "python -m unittest discover -s tests -p \"test_*.py\""
+  },
+  "dependencies": {
+    "lucide": "1.73.0"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2",
+    "vite": "8.3.8"
+  }
+}

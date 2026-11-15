@@ -1,0 +1,64 @@
+@ energia | Energía y máquinas | #d1663f
+@@ mecanismos | Mecanismos
+palanca | ~-5000 | H | Palanca y cuña | pico-asta | Máquinas simples usadas mucho antes de formularse su ley. |
+polea | ~-1500 | H | Polea | rueda, cuerda | Cambia la dirección del esfuerzo; Mesopotamia y Egipto. |
+engranaje | ~-300 | H | Engranaje | rueda, forja | Ruedas dentadas que transmiten giro; mundo helenístico y China. |
+arbol-levas | ~-250 | H | Árbol de levas | rueda-hidraulica | Convierte el giro en golpes alternos para mazos y batanes. |
+polipasto | ~-250 | H | Polipasto | polea, ley-palanca | Poleas compuestas que multiplican la fuerza. | Arquímedes
+tornillo | ~-250 | H | Tornillo y prensa de tornillo | engranaje | Tornillo sin fin, de Arquímedes y de prensa para aceite y vino. |
+manivela | ~100 | H | Manivela | molino-rotatorio | Brazo excéntrico para girar a mano; China Han. |
+correa-transmision | ~-100 | H | Transmisión por correa | rueda, cuerda | Correa sin fin entre dos ruedas; devanadoras de seda chinas. |
+biela-manivela | ~250 | H | Biela-manivela | manivela, rueda-hidraulica | Giro convertido en vaivén; aserradero hidráulico de Hierápolis. |
+engranaje-reloj | ~1280 | H | Tren de engranajes de precisión | engranaje, escape-mecanico | Ruedas talladas con paso regular para relojería. |
+torno-paralelo | 1800 | H | Torno de roscar con carro | engranaje-reloj, acero-crisol | Roscas y piezas intercambiables de precisión. | Henry Maudslay
+piezas-intercambiables | 1820 | T | Piezas intercambiables | torno-paralelo, fresadora | Calibres y máquinas-herramienta permiten montar sin ajuste manual; arsenales de EE. UU. |
+fresadora | 1818 | H | Fresadora | torno-paralelo | Herramienta rotativa de varios filos. | Eli Whitney, Simeon North
+rodamiento-bolas | 1869 | I | Rodamiento de bolas | acero-crisol, torno-paralelo | Bolas de acero templado entre dos pistas; patentado para bicicletas. | Jules Suriray
+@@ agua-viento | Agua y viento
+rueda-hidraulica | ~-250 | H | Rueda hidráulica y noria | rueda, regadio | Rueda de paletas movida por la corriente; descrita por Filón de Bizancio. |
+molino-agua | ~-25 | S | Molino hidráulico de engranajes | rueda-hidraulica, engranaje, molino-rotatorio | Rueda vertical que mueve la muela mediante engranaje en ángulo; Vitruvio. |
+molino-viento-persa | ~850 | S | Molino de viento de eje vertical | molino-agua, vela | Sistán (Persia oriental). |
+molino-viento-poste | 1185 | S | Molino de viento de poste | molino-viento-persa, engranaje | Todo el cuerpo gira para orientarse; Yorkshire. |
+turbina-hidraulica | 1827 | H | Turbina hidráulica | molino-agua, principia | Rodete de álabes curvos de alto rendimiento. | Benoît Fourneyron
+aerogenerador | 1887 | I | Aerogenerador | molino-viento-poste, dinamo-autoexcitada, acumulador-plomo | Molino que carga acumuladores. | James Blyth
+central-hidroelectrica | 1882 | S | Central hidroeléctrica | turbina-hidraulica, dinamo-autoexcitada | Una turbina en el río Fox mueve una dinamo que ilumina fábricas y casas de Appleton (Wisconsin).
+@@ vapor | Vapor
+eolipila | ~60 | I | Eolípila | horno-alfarero | Esfera que gira por reacción del vapor; curiosidad sin aplicación. | Herón de Alejandría
+digestor-papin | 1679 | I | Marmita de Papin | ley-boyle | Olla a presión con válvula de seguridad. | Denis Papin
+bomba-savery | 1698 | I | Bomba de vapor de Savery | bomba-vacio, digestor-papin | El vacío del vapor condensado aspira el agua de las minas. | Thomas Savery
+maquina-newcomen | 1712 | I | Máquina atmosférica de Newcomen | bomba-savery, barometro | Pistón empujado por la atmósfera al condensar el vapor. | Thomas Newcomen
+condensador-watt | 1769 | I | Condensador separado | maquina-newcomen, calor-latente | El cilindro permanece caliente: el consumo cae a un tercio. | James Watt
+mandrinadora | 1775 | H | Mandrinadora de cilindros | alto-horno, coque | Cilindros con la precisión que exige la máquina de Watt. | John Wilkinson
+movimiento-rotativo | 1781 | I | Máquina de vapor rotativa | condensador-watt, mandrinadora, engranaje | Engranaje planetario y doble efecto: el vapor mueve fábricas. | James Watt
+regulador-centrifugo | 1788 | I | Regulador centrífugo | movimiento-rotativo | Realimentación que estabiliza la velocidad. | James Watt
+vapor-alta-presion | 1800 | I | Máquina de alta presión | movimiento-rotativo, pudelado | Compacta y sin condensador. | Richard Trevithick, Oliver Evans
+turbina-vapor | 1884 | I | Turbina de vapor de reacción | vapor-alta-presion, dinamo-autoexcitada, segunda-ley | Expansión escalonada que mueve directamente el generador. | Charles Parsons
+@@ combustibles | Combustibles
+mineria-carbon | ~-1000 | S | Minería de carbón | fuego-quebranto | Explotación de hulla en Fushun (China). |
+gas-alumbrado | 1792 | I | Gas de hulla | coque | Destilación de carbón para alumbrado. | William Murdoch
+queroseno | 1846 | M | Queroseno | alambique | Destilado de carbón y petróleo para lámparas. | Abraham Gesner, Ignacy Łukasiewicz
+pozo-petroleo | 1859 | S | Pozo petrolífero perforado | maquina-newcomen, queroseno | Perforación a percusión entubada en Titusville. | Edwin Drake
+craqueo-termico | 1913 | T | Craqueo térmico | pozo-petroleo, vapor-alta-presion | Rompe fracciones pesadas para obtener gasolina. | William Burton
+craqueo-catalitico | 1937 | T | Craqueo catalítico | craqueo-termico | Catalizador de aluminosilicato: gasolina de mayor octanaje. | Eugène Houdry
+@@ combustion | Motores de combustión
+motor-lenoir | 1860 | I | Motor de gas de Lenoir | gas-alumbrado, bobina-induccion, movimiento-rotativo | Primer motor de combustión interna comercial. | Étienne Lenoir
+ciclo-otto | 1876 | I | Motor de cuatro tiempos | motor-lenoir, segunda-ley | Compresión previa a la ignición. | Nicolaus Otto
+motor-rapido | 1885 | I | Motor ligero de gasolina | ciclo-otto, queroseno | Alto régimen y carburador de superficie. | Gottlieb Daimler, Wilhelm Maybach
+carburador | 1893 | I | Carburador de pulverización | motor-rapido | Chorro de combustible en una corriente de aire. | Wilhelm Maybach
+motor-diesel | 1897 | I | Motor diésel | ciclo-otto, ciclo-carnot | Encendido por compresión. | Rudolf Diesel
+bujia | 1902 | I | Bujía con magneto de alta tensión | bobina-induccion, porcelana-europea, motor-rapido | Encendido fiable a alto régimen. | Robert Bosch, Gottlob Honold
+turbina-gas | 1903 | I | Turbina de gas | turbina-vapor | Primera en entregar potencia neta. | Ægidius Elling
+turborreactor | 1937 | I | Turborreactor | turbina-gas, acero-inoxidable | Bancos de ensayo independientes en Inglaterra y Alemania. | Frank Whittle, Hans von Ohain
+@@ nuclear | Energía nuclear
+reactor-cp1 | 1942 | I | Reacción en cadena controlada | fision, neutron | Chicago Pile-1: grafito y uranio natural. | Enrico Fermi, Leó Szilárd
+enriquecimiento-uranio | 1944 | T | Enriquecimiento de uranio | espectrometro-masas, fision | Difusión gaseosa y separación electromagnética en Oak Ridge. |
+bomba-fision | 1945 | I | Bomba de fisión | reactor-cp1, enriquecimiento-uranio | Ensayo Trinity y bombardeos de Hiroshima y Nagasaki. | J. Robert Oppenheimer
+bomba-termonuclear | 1952 | I | Bomba termonuclear | bomba-fision | Ensayo Ivy Mike: fusión iniciada por fisión. | Edward Teller, Stanisław Ulam
+central-nuclear | 1954 | S | Central nuclear | reactor-cp1, turbina-vapor | Óbninsk (URSS) vierte electricidad a la red. |
+tokamak | 1958 | I | Tokamak | bomba-termonuclear, superconductividad | Confinamiento magnético toroidal del plasma. | Ígor Tamm, Andréi Sájarov
+ignicion-fusion | 2022 | D | Ganancia neta en fusión inercial | laser, tokamak | La National Ignition Facility obtiene más energía de fusión que la del láser incidente. |
+@@ renovables | Fotovoltaica y almacenamiento
+efecto-fotovoltaico | 1839 | D | Efecto fotovoltaico | pila-volta | La luz genera corriente en una celda electrolítica. | Edmond Becquerel
+celula-selenio | 1883 | I | Célula solar de selenio | efecto-fotovoltaico | Rendimiento en torno al 1 %. | Charles Fritts
+celula-silicio | 1954 | I | Célula solar de silicio | celula-selenio, transistor-union | Unión p-n con un 6 % de rendimiento. | Daryl Chapin, Calvin Fuller, Gerald Pearson
+bateria-litio | 1991 | I | Batería de iones de litio | acumulador-plomo, electroquimica-davy | Cátodo de óxido de cobalto y ánodo de carbono. | John Goodenough, Stanley Whittingham, Akira Yoshino

@@ -1,0 +1,75 @@
+@ fisica | Física y astronomía | #7c8fe0
+@@ mecanica | Mecánica y astronomía
+ley-palanca | ~-250 | C | Ley de la palanca | elementos, palanca | Equilibrio según distancias y pesos. | Arquímedes
+hidrostatica | ~-250 | C | Principio de Arquímedes | ley-palanca | Empuje igual al peso del fluido desalojado. | Arquímedes
+heliocentrismo-aristarco | ~-270 | C | Heliocentrismo de Aristarco | elementos | Propuesta sin continuidad en la Antigüedad. | Aristarco de Samos
+geocentrismo | ~150 | X | Sistema geocéntrico de Ptolomeo | trigonometria, astrolabio | Epiciclos y ecuantes: predice bien, pero la Tierra no es el centro. Vigente catorce siglos. | Claudio Ptolomeo
+impetu | ~1340 | C | Teoría del ímpetu | geocentrismo | Antecedente de la inercia. | Jean Buridan
+heliocentrismo | 1543 | C | Heliocentrismo copernicano | geocentrismo, trigonometria, imprenta | De revolutionibus: la Tierra gira sobre sí misma y alrededor del Sol. | Nicolás Copérnico
+observaciones-tycho | 1576 | D | Observaciones de precisión | heliocentrismo, cuadrante-mural | Uraniborg: errores de un minuto de arco. | Tycho Brahe
+cuadrante-mural | ~1420 | H | Grandes cuadrantes de observatorio | astrolabio, trigonometria | Observatorio de Samarcanda. | Ulugh Beg
+leyes-kepler | 1609 | C | Leyes de Kepler | observaciones-tycho, conicas | Órbitas elípticas con el Sol en un foco y áreas iguales en tiempos iguales. | Johannes Kepler
+observaciones-galileo | 1610 | D | Descubrimientos telescópicos | telescopio | Lunas de Júpiter, fases de Venus. | Galileo Galilei
+caida-libre | 1638 | C | Cinemática de la caída | observaciones-galileo, impetu | Discorsi: la distancia recorrida al caer crece con el cuadrado del tiempo. | Galileo Galilei
+principia | 1687 | C | Mecánica y gravitación de Newton | leyes-kepler, caida-libre, calculo | Philosophiae Naturalis Principia Mathematica. | Isaac Newton
+movil-perpetuo | ~1150 | X | Móvil perpetuo | rueda-hidraulica | Ruedas sobrebalanceadas que girarían sin fin; imposible por la termodinámica. | Bhaskara II
+mecanica-analitica | 1788 | C | Mecánica analítica | principia, analisis-euler | La mecánica reformulada con el cálculo de variaciones, sin figuras. | Joseph-Louis Lagrange
+@@ optica | Óptica
+espejo | ~-6000 | I | Espejo pulido | piedra-pulimentada | Obsidiana pulida de Çatalhöyük. |
+optica-alhacen | 1021 | C | Óptica de Alhacén | elementos, espejo | La visión se debe a la luz que entra en el ojo; método experimental. | Ibn al-Haytham
+gafas | ~1286 | I | Gafas | vidrio-claro, optica-alhacen | Lentes convexas para la presbicia; Pisa. |
+vidrio-claro | ~1250 | M | Vidrio claro veneciano | vidrio-soplado | Vidrio suficientemente transparente para lentes. |
+telescopio | 1608 | I | Telescopio refractor | gafas | Dos lentes en un tubo; solicitud de patente en Middelburg. | Hans Lipperhey
+microscopio | ~1620 | I | Microscopio compuesto | gafas | Objetivo y ocular convergentes. | Cornelis Drebbel
+ley-snell | 1621 | C | Ley de la refracción | optica-alhacen, trigonometria | Relación de senos entre los ángulos de incidencia y refracción. | Willebrord Snell
+telescopio-reflector | 1668 | I | Telescopio reflector | telescopio, bronce | Espejo de aleación de bronce que evita la aberración cromática. | Isaac Newton
+dispersion-luz | 1672 | D | Descomposición de la luz blanca | ley-snell, cristallo | El prisma separa colores con distinta refrangibilidad. | Isaac Newton
+velocidad-luz | 1676 | D | Velocidad finita de la luz | observaciones-galileo, reloj-pendulo | Retrasos en los eclipses de Ío. | Ole Rømer
+doble-rendija | 1801 | D | Interferencia de la luz | dispersion-luz | Franjas que prueban el carácter ondulatorio. | Thomas Young
+lineas-fraunhofer | 1814 | D | Líneas espectrales del Sol | vidrio-optico, dispersion-luz | Cientos de líneas oscuras medidas con su espectroscopio. | Joseph von Fraunhofer
+eter | ~1818 | X | Éter luminífero | doble-rendija | Medio que transportaría la luz; descartado tras Michelson-Morley y la relatividad. | Augustin Fresnel
+espectroscopia | 1859 | D | Análisis espectral | lineas-fraunhofer, mechero-bunsen | Cada elemento emite líneas propias; se descubren cesio y rubidio. | Gustav Kirchhoff, Robert Bunsen
+michelson-morley | 1887 | D | Experimento de Michelson-Morley | eter, ecuaciones-maxwell | No se detecta el viento del éter. | Albert Michelson, Edward Morley
+@@ termodinamica | Calor y termodinámica
+barometro | 1643 | I | Barómetro de mercurio | vidrio-soplado, hidrostatica | El peso del aire sostiene 76 cm de mercurio; deja un vacío encima. | Evangelista Torricelli
+bomba-vacio | 1650 | I | Bomba de vacío | barometro, bomba-impelente | Hemisferios de Magdeburgo. | Otto von Guericke
+ley-boyle | 1662 | C | Ley de Boyle | bomba-vacio | Presión y volumen de un gas son inversamente proporcionales. | Robert Boyle, Robert Hooke
+termometro | 1714 | I | Termómetro de mercurio | barometro | Escala reproducible con puntos fijos. | Daniel Fahrenheit
+calor-latente | 1761 | D | Calor latente | termometro | Calor absorbido en el cambio de estado sin variar la temperatura. | Joseph Black
+calorico | 1783 | X | Teoría del calórico | calor-latente | El calor como fluido sin peso; sustituida por la equivalencia de calor y trabajo. | Antoine Lavoisier
+ciclo-carnot | 1824 | C | Ciclo de Carnot | condensador-watt, calorico | Rendimiento máximo de una máquina térmica entre dos temperaturas. | Sadi Carnot
+equivalente-mecanico | 1843 | D | Equivalente mecánico del calor | ciclo-carnot, termometro | Una cantidad fija de trabajo produce siempre el mismo calor. | James Joule
+conservacion-energia | 1847 | C | Conservación de la energía | equivalente-mecanico | La energía se transforma, pero no se crea ni se destruye. | Hermann von Helmholtz, Julius Mayer
+segunda-ley | 1850 | C | Segundo principio y entropía | ciclo-carnot, conservacion-energia | El calor no pasa espontáneamente de un cuerpo frío a uno caliente. | Rudolf Clausius, William Thomson
+teoria-cinetica | 1860 | C | Teoría cinética de los gases | segunda-ley, probabilidad | Presión y temperatura como estadística del movimiento molecular. | James Clerk Maxwell, Ludwig Boltzmann
+licuefaccion-aire | 1895 | T | Licuefacción industrial del aire | segunda-ley, frigorifico-amoniaco | Expansión Joule-Thomson regenerativa; oxígeno y nitrógeno por destilación. | Carl von Linde, William Hampson
+superconductividad | 1911 | D | Superconductividad | licuefaccion-aire | La resistencia del mercurio desaparece a 4,2 K. | Heike Kamerlingh Onnes
+@@ cuantica | Física atómica y cuántica
+rayos-x | 1895 | D | Rayos X | rayos-catodicos, bobina-induccion | Radiación penetrante de un tubo de Crookes. | Wilhelm Röntgen
+radiactividad | 1896 | D | Radiactividad | rayos-x, placa-seca | Las sales de uranio velan placas sin luz. | Henri Becquerel
+electron | 1897 | D | Electrón | rayos-catodicos | Partícula de carga negativa mucho más ligera que el átomo. | J. J. Thomson
+polonio-radio | 1898 | D | Polonio y radio | radiactividad | Elementos aislados de la pechblenda por su actividad. | Marie y Pierre Curie
+cuanto-planck | 1900 | C | Cuantización de la energía | teoria-cinetica, espectroscopia | La energía se intercambia en múltiplos de hν. | Max Planck
+rayos-n | 1903 | X | Rayos N | rayos-x | Radiación inexistente «observada» por decenas de laboratorios; caso clásico de autoengaño. | Prosper-René Blondlot
+efecto-fotoelectrico | 1905 | C | Cuanto de luz | cuanto-planck, ondas-hertz | La luz se absorbe en cuantos; explica el efecto fotoeléctrico. | Albert Einstein
+relatividad-especial | 1905 | C | Relatividad especial | michelson-morley, ecuaciones-maxwell | Espacio y tiempo dependen del observador; E = mc². | Albert Einstein
+nucleo-atomico | 1911 | D | Núcleo atómico | polonio-radio, electron | Casi toda la masa del átomo en un núcleo diminuto; lámina de oro. | Ernest Rutherford
+atomo-bohr | 1913 | C | Átomo de Bohr | nucleo-atomico, cuanto-planck, espectroscopia | Órbitas cuantizadas que explican el espectro del hidrógeno. | Niels Bohr
+relatividad-general | 1915 | C | Relatividad general | relatividad-especial, geometria-riemann | La gravedad como curvatura del espacio-tiempo. | Albert Einstein
+proton | 1919 | D | Protón y transmutación artificial | nucleo-atomico | Nitrógeno bombardeado con partículas alfa emite núcleos de hidrógeno. | Ernest Rutherford
+mecanica-matricial | 1925 | C | Mecánica cuántica matricial | atomo-bohr | Primera formulación coherente de la mecánica cuántica. | Werner Heisenberg, Max Born, Pascual Jordan
+ecuacion-schrodinger | 1926 | C | Mecánica ondulatoria | atomo-bohr, series-fourier | Función de onda y su ecuación de evolución. | Erwin Schrödinger
+ecuacion-dirac | 1928 | C | Ecuación de Dirac | ecuacion-schrodinger, relatividad-especial | Electrón relativista con espín; predice la antimateria. | Paul Dirac
+expansion-universo | 1929 | D | Expansión del universo | relatividad-general, espectroscopia | Las galaxias se alejan con velocidad proporcional a su distancia. | Georges Lemaître, Edwin Hubble
+ciclotron | 1931 | I | Ciclotrón | electroiman, triodo | Acelerador circular de resonancia. | Ernest Lawrence
+neutron | 1932 | D | Neutrón | proton, polonio-radio | Partícula neutra del núcleo. | James Chadwick
+positron | 1932 | D | Positrón | ecuacion-dirac, camara-niebla | Antielectrón hallado en rayos cósmicos. | Carl Anderson
+radiactividad-artificial | 1934 | D | Radiactividad artificial | neutron | Isótopos radiactivos creados por bombardeo. | Irène y Frédéric Joliot-Curie
+fision | 1938 | D | Fisión nuclear | radiactividad-artificial, neutron | El uranio se parte al absorber un neutrón y libera energía. | Otto Hahn, Lise Meitner, Fritz Strassmann
+electrodinamica-cuantica | 1948 | C | Electrodinámica cuántica | ecuacion-dirac | Teoría cuántica de la luz y la materia con renormalización. | Richard Feynman, Julian Schwinger, Shin'ichirō Tomonaga
+quarks | 1964 | C | Modelo de quarks | ciclotron, teoria-grupos | Los hadrones están formados por constituyentes de carga fraccionaria. | Murray Gell-Mann, George Zweig
+fondo-cosmico | 1965 | D | Fondo cósmico de microondas | expansion-universo, maser | Radiación residual a 2,7 K. | Arno Penzias, Robert Wilson
+modelo-estandar | 1967 | C | Unificación electrodébil | electrodinamica-cuantica, quarks | Electromagnetismo e interacción débil en una sola teoría. | Steven Weinberg, Abdus Salam, Sheldon Glashow
+fusion-fria | 1989 | X | Fusión fría | electrolisis-agua, fision | Anuncio de fusión en una celda electrolítica que nadie logró reproducir. | Martin Fleischmann, Stanley Pons
+boson-higgs | 2012 | D | Bosón de Higgs | modelo-estandar, superconductividad | Detectado por ATLAS y CMS en el LHC del CERN. | 
+ondas-gravitacionales | 2015 | D | Ondas gravitacionales | relatividad-general, laser | LIGO registra la fusión de dos agujeros negros. | 
