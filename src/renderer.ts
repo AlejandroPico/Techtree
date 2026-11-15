@@ -1,9 +1,10 @@
 /** Motor WebGL2: tarjetas y enlaces instanciados. Un único draw call por capa, sea cual sea el número de elementos. */
 const RECT_VS = `#version 300 es
 layout(location=0) in vec2 aCorner; layout(location=1) in vec4 aRect; layout(location=2) in vec4 aColor; layout(location=3) in float aKind;
-uniform vec2 uView, uOffset; uniform float uScale, uMinPx, uGrow;
+uniform vec2 uView, uOffset; uniform float uScale, uMinPx, uGrow, uStretch, uOriginX;
 out vec2 vLocal, vSize; out vec4 vColor; out float vKind;
-void main(){ vec2 size=max(aRect.zw*uScale,vec2(uMinPx))+2.*uGrow; vec2 px=aRect.xy*uScale+uOffset-uGrow+aCorner*size;
+void main(){ vec2 size=max(aRect.zw*uScale,vec2(uMinPx))+2.*uGrow; vec2 origin=vec2((aRect.x-uOriginX)*uStretch,aRect.y)*uScale+uOffset-uGrow;
+  if(aKind<-.5){ origin.x=0.; size.x=uView.x; } vec2 px=origin+aCorner*size;
   vLocal=aCorner*size; vSize=size; vColor=aColor; vKind=aKind; gl_Position=vec4(px/uView*2.-1.,0,1); gl_Position.y=-gl_Position.y; }`;
 const RECT_FS = `#version 300 es
 precision mediump float; in vec2 vLocal, vSize; in vec4 vColor; in float vKind; uniform vec3 uBase; uniform float uAlpha, uTint; out vec4 o;
@@ -17,8 +18,9 @@ void main(){ float a=vColor.a*uAlpha; if(a<.004) discard;
   a*=cover; o=vec4(col*a,a); }`;
 const EDGE_VS = `#version 300 es
 layout(location=0) in vec2 aT; layout(location=1) in vec4 aEnds; layout(location=2) in vec4 aColor; layout(location=3) in float aMode;
-uniform vec2 uView, uOffset; uniform float uScale, uWidth; out vec4 vColor; out float vSide;
-void main(){ vec2 p0=aEnds.xy*uScale+uOffset, p3=aEnds.zw*uScale+uOffset; vec2 p1, p2; if(aMode>.5){ float c=(p3.y-p0.y)*.5; p1=p0+vec2(0,c); p2=p3-vec2(0,c); } else { float c=max(26.,abs(p3.x-p0.x)*.5); p1=p0+vec2(c,0); p2=p3-vec2(c,0); }
+uniform vec2 uView, uOffset; uniform float uScale, uWidth, uStretch, uOriginX, uCardW; out vec4 vColor; out float vSide;
+void main(){ float st=uStretch*uScale; vec2 p0=vec2((aEnds.x-uOriginX)*st,aEnds.y*uScale)+uOffset, p3=vec2((aEnds.z-uOriginX)*st,aEnds.w*uScale)+uOffset;
+  p0.x+=(aMode>.5?.5:1.)*uCardW*uScale; p3.x+=(aMode>.5?.5:0.)*uCardW*uScale; vec2 p1, p2; if(aMode>.5){ float c=(p3.y-p0.y)*.5; p1=p0+vec2(0,c); p2=p3-vec2(0,c); } else { float c=max(26.,abs(p3.x-p0.x)*.5); p1=p0+vec2(c,0); p2=p3-vec2(c,0); }
   float t=aT.x, u=1.-t; vec2 p=u*u*u*p0+3.*u*u*t*p1+3.*u*t*t*p2+t*t*t*p3; vec2 d=3.*u*u*(p1-p0)+6.*u*t*(p2-p1)+3.*t*t*(p3-p2);
   vec2 nrm=normalize(vec2(-d.y,d.x)+1e-6); p+=nrm*aT.y*uWidth*.5; vColor=aColor; vSide=aT.y; gl_Position=vec4(p/uView*2.-1.,0,1); gl_Position.y=-gl_Position.y; }`;
 const EDGE_FS = `#version 300 es
@@ -27,7 +29,7 @@ void main(){ float a=vColor.a*uAlpha*(1.-smoothstep(.55,1.,abs(vSide))); o=vec4(
 
 export interface RectSet { vao: WebGLVertexArrayObject; count: number; rect: WebGLBuffer; color: WebGLBuffer; kind: WebGLBuffer }
 export interface EdgeSet { vao: WebGLVertexArrayObject; count: number; ends: WebGLBuffer; color: WebGLBuffer; mode: WebGLBuffer; verts: number }
-export interface View { scale: number; x: number; y: number; width: number; height: number; dpr: number }
+export interface View { scale: number; stretch: number; x: number; y: number; width: number; height: number; dpr: number }
 
 export class Renderer {
   gl: WebGL2RenderingContext; private rectProgram: WebGLProgram; private edgeProgram: WebGLProgram;
@@ -74,17 +76,22 @@ export class Renderer {
     if (this.canvas.width !== w || this.canvas.height !== h) { this.canvas.width = w; this.canvas.height = h; }
     gl.viewport(0, 0, w, h); gl.clearColor(0, 0, 0, 0); gl.clear(gl.COLOR_BUFFER_BIT);
   }
+  cardWidth = 184;
+  /** El origen se resta en doble precisión antes de pasar a la GPU: con el tiempo muy estirado, float32 no bastaría. */
+  private camera(p: WebGLProgram, view: View) {
+    const gl = this.gl, d = view.dpr, hx = view.scale * view.stretch, origin = Math.fround((view.width / 2 - view.x) / hx);
+    gl.uniform2f(this.u(p, 'uView'), view.width * d, view.height * d); gl.uniform2f(this.u(p, 'uOffset'), (view.x + origin * hx) * d, view.y * d);
+    gl.uniform1f(this.u(p, 'uScale'), view.scale * d); gl.uniform1f(this.u(p, 'uStretch'), view.stretch); gl.uniform1f(this.u(p, 'uOriginX'), origin);
+  }
   drawRects(set: RectSet, view: View, o: { alpha: number; minPx: number; base: [number, number, number]; tint: number; grow?: number }) {
     if (!set.count) return; const gl = this.gl, p = this.rectProgram, d = view.dpr; gl.useProgram(p);
-    gl.uniform2f(this.u(p, 'uView'), view.width * d, view.height * d); gl.uniform2f(this.u(p, 'uOffset'), view.x * d, view.y * d);
-    gl.uniform1f(this.u(p, 'uScale'), view.scale * d); gl.uniform1f(this.u(p, 'uMinPx'), o.minPx * d); gl.uniform1f(this.u(p, 'uGrow'), (o.grow ?? 0) * d);
+    this.camera(p, view); gl.uniform1f(this.u(p, 'uMinPx'), o.minPx * d); gl.uniform1f(this.u(p, 'uGrow'), (o.grow ?? 0) * d);
     gl.uniform3f(this.u(p, 'uBase'), ...o.base); gl.uniform1f(this.u(p, 'uAlpha'), o.alpha); gl.uniform1f(this.u(p, 'uTint'), o.tint);
     gl.bindVertexArray(set.vao); gl.drawArraysInstanced(gl.TRIANGLE_STRIP, 0, 4, set.count);
   }
   drawEdges(set: EdgeSet, view: View, alpha: number, width: number) {
     if (!set.count || alpha <= 0) return; const gl = this.gl, p = this.edgeProgram, d = view.dpr; gl.useProgram(p);
-    gl.uniform2f(this.u(p, 'uView'), view.width * d, view.height * d); gl.uniform2f(this.u(p, 'uOffset'), view.x * d, view.y * d);
-    gl.uniform1f(this.u(p, 'uScale'), view.scale * d); gl.uniform1f(this.u(p, 'uWidth'), width * d * 2); gl.uniform1f(this.u(p, 'uAlpha'), alpha);
+    this.camera(p, view); gl.uniform1f(this.u(p, 'uCardW'), this.cardWidth); gl.uniform1f(this.u(p, 'uWidth'), width * d * 2); gl.uniform1f(this.u(p, 'uAlpha'), alpha);
     gl.bindVertexArray(set.vao); gl.drawArraysInstanced(gl.TRIANGLE_STRIP, 0, set.verts, set.count);
   }
 }

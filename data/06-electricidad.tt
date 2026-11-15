@@ -11,7 +11,7 @@ pararrayos | 1752 | I | Pararrayos | botella-leyden | Una varilla puntiaguda con
 ley-coulomb | 1785 | C | Ley de Coulomb | dos-electricidades, principia | Balanza de torsión: la fuerza decae con el cuadrado de la distancia. | Charles-Augustin de Coulomb
 @@ corriente | Pilas y corriente
 electricidad-animal | 1791 | D | Electricidad animal | botella-leyden | Contracción de ancas de rana; su interpretación fue rebatida por Volta. | Luigi Galvani
-pila-volta | 1800 | I | Pila voltaica | electricidad-animal, zinc, cobre-reduccion | Discos de zinc y cobre con salmuera: corriente continua. | Alessandro Volta
+pila-volta | 1800-03 | I | Pila voltaica | electricidad-animal, zinc, cobre-reduccion | Discos de zinc y cobre con salmuera: corriente continua. | Alessandro Volta
 electrolisis-agua | 1800 | D | Electrólisis del agua | pila-volta | El agua se descompone en hidrógeno y oxígeno. | William Nicholson, Anthony Carlisle
 arco-electrico | 1802 | D | Arco eléctrico | pila-volta | Descarga luminosa entre carbones. | Vasili Petrov, Humphry Davy
 ley-ohm | 1827 | C | Ley de Ohm | pila-volta, galvanometro, termoelectricidad | Relación entre tensión, corriente y resistencia. | Georg Ohm
@@ -52,7 +52,7 @@ tubo-geissler | 1857 | I | Tubo de descarga | bomba-geissler, bobina-induccion, 
 bomba-sprengel | 1865 | H | Bomba de Sprengel | bomba-geissler | Gotas de mercurio arrastran el aire: alto vacío. | Hermann Sprengel
 vela-jablochkov | 1876 | I | Lámpara de arco comercial | arco-electrico, dinamo-gramme | Dos carbones paralelos separados por yeso que se consumen a la par; ilumina avenidas de París. | Pável Yáblochkov
 filamento-carbon | 1878 | M | Filamento de carbón | bomba-sprengel, algodon, horno-alfarero | Fibra vegetal carbonizada sin aire. | Joseph Swan
-bombilla | 1879 | I | Lámpara incandescente práctica | filamento-carbon, bomba-sprengel, tubo-geissler, dinamo-gramme, vidrio-soplado | Filamento de alta resistencia en alto vacío. | Thomas Edison, Joseph Swan
+bombilla | 1879-10 | I | Lámpara incandescente práctica | filamento-carbon, bomba-sprengel, tubo-geissler, dinamo-gramme, vidrio-soplado | Filamento de alta resistencia en alto vacío. | Thomas Edison, Joseph Swan
 bombilla-tungsteno | 1909 | I | Lámpara de tungsteno | bombilla, tungsteno-ductil | Triplica el rendimiento. | William Coolidge
 hilo-dumet | 1912 | M | Hilo Dumet | bombilla, refinado-electrolitico | Ferroníquel cobreado que sustituye al platino en el sellado. | Byron Eldred
 bombilla-gas | 1913 | I | Lámpara con gas inerte | bombilla-tungsteno, gases-nobles | Argón y filamento en espiral. | Irving Langmuir
@@ -63,11 +63,11 @@ electroluminiscencia-gaas | 1955 | D | Electroluminiscencia infrarroja del GaAs 
 led-azul | 1993 | I | LED azul | led | Nitruro de galio de alta luminosidad; permite la luz blanca. | Shuji Nakamura, Isamu Akasaki, Hiroshi Amano
 @@ telecom | Telecomunicación
 telegrafo-optico | 1792 | S | Telégrafo óptico | telescopio | Semáforos en torres observados con catalejo. | Claude Chappe
-telegrafo-electrico | 1837 | I | Telégrafo eléctrico | electroiman, pila-daniell, hilo-cobre-aislado | Agujas de Cooke y Wheatstone; registrador de Morse. | William Cooke, Charles Wheatstone, Samuel Morse
-codigo-morse | 1844 | S | Línea Morse y su código | telegrafo-electrico, rele | Puntos y rayas registrados por un electroimán; primera línea entre Washington y Baltimore. | Samuel Morse, Alfred Vail
+telegrafo-electrico | 1837-07 | I | Telégrafo eléctrico | electroiman, pila-daniell, hilo-cobre-aislado | Agujas de Cooke y Wheatstone; registrador de Morse. | William Cooke, Charles Wheatstone, Samuel Morse
+codigo-morse | 1844-05 | S | Línea Morse y su código | telegrafo-electrico, rele | Puntos y rayas registrados por un electroimán; primera línea entre Washington y Baltimore. | Samuel Morse, Alfred Vail
 cable-submarino | 1851 | S | Cable telegráfico submarino | cable-gutapercha, codigo-morse | Conductor de cobre aislado con gutapercha y armado con hierro entre Dover y Calais.
-cable-transatlantico | 1866 | S | Cable transatlántico duradero | cable-submarino, galvanometro | Tendido por el Great Eastern. | William Thomson
-telefono | 1876 | I | Teléfono | induccion, telegrafo-electrico | Transmisión eléctrica de la voz. | Alexander Graham Bell, Elisha Gray
+cable-transatlantico | 1866-07 | S | Cable transatlántico duradero | cable-submarino, galvanometro | Tendido por el Great Eastern. | William Thomson
+telefono | 1876-03-10 | I | Teléfono | induccion, telegrafo-electrico | Transmisión eléctrica de la voz. | Alexander Graham Bell, Elisha Gray
 microfono-carbon | 1877 | I | Micrófono de carbón | telefono | Resistencia variable con la presión sonora. | Thomas Edison, Emile Berliner, David Hughes
 central-telefonica | 1878 | S | Central telefónica | telefono, rele | Conmutación manual; New Haven. |
 fonografo | 1877 | I | Fonógrafo | telefono | Graba y reproduce sonido en un cilindro. | Thomas Edison
@@ -75,12 +75,12 @@ ondas-hertz | 1887 | D | Ondas electromagnéticas | ecuaciones-maxwell, bobina-i
 cohesor | 1890 | I | Cohesor | ondas-hertz | Limaduras metálicas que conducen al recibir ondas. | Édouard Branly
 radiotelegrafia | 1895 | I | Telegrafía sin hilos | cohesor, codigo-morse | Antena y toma de tierra. | Guglielmo Marconi, Aleksandr Popov
 radio-voz | 1906 | I | Radiotelefonía | radiotelegrafia, microfono-carbon | Una onda continua modulada en amplitud transmite voz y música. | Reginald Fessenden
-radiodifusion | 1920 | S | Radiodifusión regular | radio-voz, triodo | Emisoras con programación. |
+radiodifusion | 1920-11 | S | Radiodifusión regular | radio-voz, triodo | Emisoras con programación. |
 television-mecanica | 1925 | I | Televisión electromecánica | radiodifusion, celula-selenio | Imagen explorada por un disco de Nipkow perforado y una célula fotoeléctrica. | John Logie Baird
 television-electronica | 1927 | I | Televisión electrónica | tubo-rayos-catodicos, triodo | Exploración de la imagen por haz de electrones, sin piezas móviles. | Philo Farnsworth, Vladimir Zworykin
 radar | 1935 | I | Radar | radiodifusion, tubo-rayos-catodicos | Detección por eco de radio. | Robert Watson-Watt
 magnetron | 1940 | I | Magnetrón de cavidades | radar | Microondas de alta potencia. | John Randall, Harry Boot
 telefono-movil | 1973 | I | Teléfono móvil de mano | circuito-integrado, radiodifusion | Primera llamada con un prototipo de Motorola. | Martin Cooper
 gsm | 1991 | S | Telefonía móvil digital GSM | telefono-movil, teoria-informacion | Norma europea de red celular digital con cifrado, itinerancia y mensajes cortos.
-satelite-comunicaciones | 1962 | S | Satélite de comunicaciones | sputnik, transistor-silicio, celula-silicio | Telstar 1 retransmite televisión y telefonía entre continentes.
+satelite-comunicaciones | 1962-07 | S | Satélite de comunicaciones | sputnik, transistor-silicio, celula-silicio | Telstar 1 retransmite televisión y telefonía entre continentes.
 fibra-optica | 1970 | M | Fibra óptica de baja atenuación | laser, vidrio-optico | Sílice de menos de 20 dB/km. | Charles Kao, Robert Maurer

@@ -1,0 +1,148 @@
+@ astronomia | Astronomía y cosmos | #7d9be8
+@@ antigua | Astronomía antigua y medieval
+alineaciones-solares | ~-2500 | S | Monumentos alineados con el Sol | megalitos, calendario-lunar | Stonehenge marca los solsticios. |
+disco-nebra | ~-1600 | I | Disco celeste de Nebra | bronce, oro | Representación del cielo con Sol, Luna y Pléyades. |
+mul-apin | ~-1000 | C | Catálogo estelar babilonio | escritura-cuneiforme, calendario-lunar | Tablillas MUL.APIN: constelaciones, ortos y calendario. |
+ciclo-saros | ~-600 | D | Ciclo de Saros | mul-apin, numeracion-sexagesimal | Los eclipses se repiten cada 18 años y 11 días. |
+ciclo-meton | -432 | D | Ciclo metónico | calendario-lunar | Diecinueve años solares equivalen a 235 lunaciones. | Metón de Atenas
+tierra-esferica | ~-350 | D | Esfericidad de la Tierra | demostracion | Probada por la sombra en los eclipses de Luna. | Aristóteles
+epiciclos | ~-200 | C | Modelo de epiciclos y deferentes | conicas | Círculos sobre círculos para explicar el movimiento retrógrado. | Apolonio de Perga
+catalogo-hiparco | ~-135 | C | Catálogo de estrellas y magnitudes | trigonometria, astrolabio | Unas 850 estrellas clasificadas por brillo. | Hiparco
+precesion | ~-130 | D | Precesión de los equinoccios | catalogo-hiparco | Los puntos equinocciales retroceden lentamente. | Hiparco
+supernova-1006 | 1006 | D | Supernova de 1006 | escritura-china | El astro más brillante registrado por la historia. |
+azafea | ~1060 | I | Azafea | astrolabio | Astrolabio universal válido para cualquier latitud. | Azarquiel
+supernova-1054 | 1054 | D | Supernova del Cangrejo | escritura-china | «Estrella invitada» anotada por astrónomos chinos. |
+tablas-toledanas | ~1080 | C | Tablas toledanas | azafea, aritmetica-indoarabiga | Efemérides usadas en Europa durante dos siglos. | Azarquiel
+par-tusi | 1247 | C | Par de Tusi | geocentrismo, funcion-tangente | Dos círculos que producen movimiento rectilíneo; reaparece en Copérnico. | Nasir al-Din al-Tusi
+observatorio-maraga | 1259 | S | Observatorio de Maraga | par-tusi, cuadrante-astronomico | Gran centro de observación y cálculo con biblioteca propia. |
+cuadrante-astronomico | ~850 | H | Cuadrante astronómico | astrolabio | Cuarto de círculo graduado para medir alturas. |
+tablas-alfonsies | ~1270 | C | Tablas alfonsíes | tablas-toledanas | Compiladas en Toledo por orden de Alfonso X. |
+modelos-shatir | ~1350 | C | Modelos planetarios sin ecuante | par-tusi | Geométricamente idénticos a los que usará Copérnico. | Ibn al-Shatir
+@ astronomia | Astronomía y cosmos | #7d9be8
+@@ telescopica | Astronomía telescópica
+supernova-tycho | 1572-11 | D | Supernova de Tycho | cuadrante-mural | Sin paralaje: los cielos también cambian. | Tycho Brahe
+cometa-1577 | 1577 | D | Cometa más allá de la Luna | supernova-tycho | Las esferas cristalinas no pueden existir. | Tycho Brahe
+manchas-solares | 1611 | D | Manchas solares | telescopio | El Sol gira y no es inmaculado. | Galileo Galilei, Christoph Scheiner
+tercera-ley-kepler | 1619 | C | Tercera ley de Kepler | leyes-kepler, logaritmos | El cuadrado del periodo es proporcional al cubo de la distancia. | Johannes Kepler
+anillos-saturno | 1655 | D | Anillos de Saturno y Titán | telescopio | Un anillo delgado que no toca el planeta. | Christiaan Huygens
+unidad-astronomica | 1672 | D | Distancia al Sol | telescopio, reloj-pendulo | Paralaje de Marte medida desde París y Cayena. | Giovanni Cassini, Jean Richer
+cometa-halley | 1705 | D | Órbita periódica de un cometa | principia | Predicción del regreso de 1758. | Edmond Halley
+aberracion-luz | 1728 | D | Aberración de la luz | telescopio, velocidad-luz | Primera prueba directa del movimiento de la Tierra. | James Bradley
+catalogo-messier | 1774 | C | Catálogo de Messier | telescopio-reflector | Nebulosas y cúmulos que no deben confundirse con cometas. | Charles Messier
+urano | 1781-03 | D | Urano | telescopio-reflector | Primer planeta descubierto con telescopio. | William Herschel
+radiacion-infrarroja | 1800 | D | Radiación infrarroja | dispersion-luz, termometro | Calor más allá del rojo del espectro. | William Herschel
+radiacion-ultravioleta | 1801 | D | Radiación ultravioleta | radiacion-infrarroja | Rayos que ennegrecen el cloruro de plata más allá del violeta. | Johann Ritter
+ceres | 1801-01 | D | Ceres | catalogo-messier, principia | Primer asteroide; Gauss calcula su órbita. | Giuseppe Piazzi
+paralaje-estelar | 1838 | D | Paralaje estelar | vidrio-optico, micrometro | Primera distancia a una estrella: 61 Cygni. | Friedrich Bessel
+efecto-doppler | 1842 | C | Efecto Doppler | doble-rendija | La frecuencia cambia con el movimiento de la fuente. | Christian Doppler
+nebulosas-espirales | 1845 | D | Estructura espiral de las nebulosas | telescopio-reflector | El Leviatán de 1,8 m revela la espiral de M51. | William Parsons
+neptuno | 1846-09 | D | Neptuno | urano, mecanica-analitica | Hallado por cálculo a partir de las perturbaciones de Urano. | Urbain Le Verrier, Johann Galle
+astrofotografia | 1850 | T | Fotografía astronómica | daguerrotipo, telescopio | Primera imagen de una estrella, Vega. | William Bond
+clasificacion-espectral | 1863 | C | Clasificación espectral de las estrellas | espectroscopia | Tipos según sus líneas. | Angelo Secchi
+canales-marte | 1877 | X | Canales de Marte | telescopio | Líneas ilusorias atribuidas a una civilización; desmentidas por las sondas. | Giovanni Schiaparelli, Percival Lowell
+gran-refractor | 1897 | H | Gran refractor de Yerkes | vidrio-optico | Lente de 102 cm, la mayor jamás usada. | George Hale
+@ astronomia | Astronomía y cosmos | #7d9be8
+@@ astrofisica | Astrofísica y cosmología
+diagrama-hr | 1911 | C | Diagrama de Hertzsprung-Russell | clasificacion-espectral, paralaje-estelar | Luminosidad frente a temperatura: las estrellas evolucionan. | Ejnar Hertzsprung, Henry Russell
+cefeidas | 1912 | D | Relación periodo-luminosidad | astrofotografia | Las cefeidas sirven de patrón de distancia. | Henrietta Leavitt
+rayos-cosmicos | 1912-08 | D | Rayos cósmicos | globo-hidrogeno, rayos-alfa-beta | La radiación aumenta con la altura. | Victor Hess
+corrimiento-rojo | 1912 | D | Desplazamiento al rojo de las galaxias | efecto-doppler, astrofotografia | Casi todas las nebulosas espirales se alejan. | Vesto Slipher
+agujero-negro-teoria | 1916 | C | Solución de Schwarzschild | relatividad-general | Predice un radio del que la luz no escapa. | Karl Schwarzschild
+telescopio-hooker | 1917 | H | Telescopio de 2,5 m | telescopio-reflector, espejo-plateado | Monte Wilson. | George Hale
+espejo-plateado | 1857 | T | Espejos de vidrio plateado | vidrio-optico | Plata depositada químicamente sobre vidrio en lugar de bronce pulido. | Léon Foucault, Carl von Steinheil
+desviacion-luz | 1919-05 | D | Desviación de la luz por el Sol | relatividad-general, astrofotografia | El eclipse confirma a Einstein. | Arthur Eddington
+galaxias-externas | 1924 | D | Galaxias más allá de la Vía Láctea | cefeidas, telescopio-hooker | Cefeidas en Andrómeda. | Edwin Hubble
+composicion-estelar | 1925 | D | Las estrellas son hidrógeno y helio | clasificacion-espectral, atomo-bohr | Tesis doctoral de Cecilia Payne. | Cecilia Payne
+pluton | 1930-02 | D | Plutón | astrofotografia | Hallado comparando placas. | Clyde Tombaugh
+limite-chandrasekhar | 1931 | C | Límite de Chandrasekhar | ecuacion-schrodinger, relatividad-especial | Masa máxima de una enana blanca. | Subrahmanyan Chandrasekhar
+radioastronomia | 1932 | D | Ondas de radio de la Vía Láctea | radiodifusion | Nace la radioastronomía. | Karl Jansky
+materia-oscura | 1933 | D | Materia oscura | galaxias-externas | Los cúmulos necesitan mucha más masa de la visible. | Fritz Zwicky
+fusion-estelar | 1939 | C | Fusión nuclear en las estrellas | composicion-estelar, neutron | Cadena protón-protón y ciclo CNO. | Hans Bethe
+nucleosintesis-primordial | 1948 | C | Nucleosíntesis del Big Bang | expansion-universo, fusion-estelar | El universo caliente fabrica helio y predice un fondo de radiación. | George Gamow, Ralph Alpher
+estado-estacionario | 1948 | X | Teoría del estado estacionario | expansion-universo | Universo eterno con creación continua de materia; descartada por el fondo cósmico. | Fred Hoyle, Hermann Bondi, Thomas Gold
+telescopio-hale | 1949 | H | Telescopio de 5 m | telescopio-hooker | Monte Palomar. |
+linea-21cm | 1951 | D | Línea de 21 cm del hidrógeno | radioastronomia, radar | Traza los brazos espirales de la galaxia. | Harold Ewen, Edward Purcell
+nucleosintesis-estelar | 1957 | C | Nucleosíntesis estelar | fusion-estelar | Los elementos pesados se forjan en estrellas y supernovas. | Margaret y Geoffrey Burbidge, William Fowler, Fred Hoyle
+astronomia-rayos-x | 1962-06 | D | Fuentes cósmicas de rayos X | v2, contador-geiger | Scorpius X-1. | Riccardo Giacconi
+cuasares | 1963 | D | Cuásares | radioastronomia, corrimiento-rojo | Núcleos galácticos lejanísimos y muy luminosos. | Maarten Schmidt
+pulsares | 1967-11 | D | Púlsares | radioastronomia | Estrellas de neutrones en rotación. | Jocelyn Bell, Antony Hewish
+neutrinos-solares | 1968 | D | Neutrinos solares | fusion-estelar, deteccion-neutrino | Se detectan menos de los previstos. | Raymond Davis
+curvas-rotacion | 1970 | D | Curvas de rotación planas | linea-21cm, materia-oscura | Las galaxias giran como si tuvieran halos invisibles. | Vera Rubin, Kent Ford
+agujero-negro-observado | 1971 | D | Primer candidato a agujero negro | astronomia-rayos-x, agujero-negro-teoria | Cygnus X-1. |
+radiacion-hawking | 1974 | C | Radiación de Hawking | agujero-negro-teoria, electrodinamica-cuantica | Los agujeros negros emiten y se evaporan. | Stephen Hawking
+lente-gravitacional | 1979 | D | Lente gravitacional | desviacion-luz, cuasares | Un cuásar visto doble. |
+inflacion-cosmica | 1981 | C | Inflación cósmica | modelo-estandar, fondo-cosmico | Expansión exponencial inicial. | Alan Guth
+supernova-1987a | 1987-02 | D | Neutrinos de una supernova | neutrinos-solares | Supernova 1987A en la Gran Nube de Magallanes. |
+optica-adaptativa | 1990 | T | Óptica adaptativa | laser, microprocesador | Espejos deformables que corrigen la turbulencia del aire. |
+anisotropias-fondo | 1992 | D | Anisotropías del fondo cósmico | fondo-cosmico, sputnik | Satélite COBE. | George Smoot, John Mather
+espejo-segmentado | 1993 | H | Telescopio de espejo segmentado | optica-adaptativa | Telescopios Keck de 10 m. | Jerry Nelson
+exoplaneta | 1995-10 | D | Planeta en torno a una estrella de tipo solar | efecto-doppler, ccd | 51 Pegasi b. | Michel Mayor, Didier Queloz
+expansion-acelerada | 1998 | D | Expansión acelerada del universo | corrimiento-rojo, ccd | Supernovas lejanas más débiles de lo esperado: energía oscura. | Saul Perlmutter, Brian Schmidt, Adam Riess
+oscilacion-neutrinos | 1998 | D | Oscilación de neutrinos | neutrinos-solares | Los neutrinos tienen masa. | Takaaki Kajita
+telescopio-kepler | 2009 | I | Telescopio espacial Kepler | exoplaneta, telescopio-espacial | Miles de planetas detectados por tránsitos. |
+kilonova | 2017-08 | D | Fusión de estrellas de neutrones | ondas-gravitacionales | Ondas gravitacionales y luz de un mismo suceso. |
+imagen-agujero-negro | 2019-04 | D | Imagen de un agujero negro | radioastronomia, reloj-atomico | Sombra del agujero de M87 con el Event Horizon Telescope. |
+@ fisica | Física y astronomía | #7c8fe0
+@@ mecanica | Mecánica y astronomía
+plano-inclinado | 1586 | C | Equilibrio en el plano inclinado | ley-palanca | También prueba que los cuerpos caen a la vez. | Simon Stevin
+isocronismo-pendulo | 1602 | D | Isocronismo del péndulo | impetu | El periodo no depende de la amplitud. | Galileo Galilei
+velocidad-sonido | 1636 | D | Velocidad del sonido | isocronismo-pendulo | Medida con ecos y péndulos. | Marin Mersenne
+presion-atmosferica | 1648 | D | La presión disminuye con la altura | barometro | Experimento del Puy de Dôme. | Blaise Pascal
+ley-hooke | 1660 | C | Ley de Hooke | reloj-muelle | La deformación es proporcional a la fuerza. | Robert Hooke
+fuerza-centrifuga | 1673 | C | Fuerza centrífuga | reloj-pendulo | Horologium oscillatorium. | Christiaan Huygens
+hidrodinamica | 1738 | C | Hidrodinámica | principia | Presión y velocidad de un fluido. | Daniel Bernoulli
+constante-gravitacion | 1798 | D | Densidad de la Tierra | principia, ley-coulomb | Balanza de torsión. | Henry Cavendish
+efecto-coriolis | 1835 | C | Fuerza de Coriolis | mecanica-analitica | Desviación aparente en sistemas en rotación. | Gaspard Coriolis
+navier-stokes | 1845 | C | Ecuaciones de Navier-Stokes | hidrodinamica | Movimiento de los fluidos viscosos. | Claude Navier, George Stokes
+pendulo-foucault | 1851-02 | D | Péndulo de Foucault | isocronismo-pendulo | La Tierra gira bajo el péndulo. | Léon Foucault
+turbulencia-reynolds | 1883 | D | Transición a la turbulencia | navier-stokes | El número de Reynolds. | Osborne Reynolds
+capa-limite | 1904 | C | Capa límite | navier-stokes, tunel-viento | Base de la aerodinámica moderna. | Ludwig Prandtl
+@@ optica | Óptica
+polarizacion | 1808 | D | Polarización por reflexión | dispersion-luz | La luz reflejada vibra en un plano. | Étienne Malus
+ondas-transversales | 1818 | C | Teoría ondulatoria de Fresnel | doble-rendija, polarizacion | Difracción explicada con ondas transversales. | Augustin Fresnel
+velocidad-luz-terrestre | 1849 | D | Velocidad de la luz en tierra | velocidad-luz, engranaje-reloj | Rueda dentada giratoria. | Hippolyte Fizeau
+efecto-faraday | 1845 | D | Efecto Faraday | polarizacion, electroiman | El magnetismo gira el plano de polarización. | Michael Faraday
+efecto-zeeman | 1896 | D | Efecto Zeeman | espectroscopia, electroiman | Las líneas espectrales se desdoblan en un campo magnético. | Pieter Zeeman
+efecto-raman | 1928 | D | Efecto Raman | espectroscopia, cuanto-planck | Luz dispersada con cambio de frecuencia. | C. V. Raman
+holografia | 1948 | I | Holografía | doble-rendija, microscopio-electronico | Registro de la fase de la luz. | Dennis Gabor
+@@ termodinamica | Calor y termodinámica
+ley-charles | 1802 | C | Ley de los gases de Charles y Gay-Lussac | ley-boyle, termometro | El volumen crece con la temperatura. | Joseph Gay-Lussac
+efecto-joule | 1841 | D | Calentamiento por corriente | ley-ohm, termometro | El calor es proporcional al cuadrado de la intensidad. | James Joule
+cero-absoluto | 1848 | C | Escala absoluta de temperatura | ciclo-carnot, ley-charles | Cero a −273 °C. | William Thomson
+ley-stefan | 1879 | C | Ley de Stefan-Boltzmann | teoria-cinetica | La radiación crece con la cuarta potencia de la temperatura. | Josef Stefan
+movimiento-browniano | 1905 | C | Teoría del movimiento browniano | teoria-cinetica | Prueba de la existencia de los átomos; confirmada por Perrin. | Albert Einstein
+tercera-ley | 1906 | C | Tercer principio de la termodinámica | segunda-ley | La entropía tiende a cero en el cero absoluto. | Walther Nernst
+helio-liquido | 1908-07 | D | Licuefacción del helio | licuefaccion-aire, elemento-helio | Se alcanzan 4 K. | Heike Kamerlingh Onnes
+superfluidez | 1937 | D | Superfluidez | helio-liquido | Helio que fluye sin viscosidad. | Piotr Kapitsa
+@@ cuantica | Física atómica y cuántica
+ley-faraday-electrolisis | 1833 | C | Leyes de la electrólisis | electrolisis-agua | La masa depositada es proporcional a la carga. | Michael Faraday
+efecto-hall | 1879 | D | Efecto Hall | galvanometro, electroiman | Tensión transversal en un conductor dentro de un campo magnético. | Edwin Hall
+piezoelectricidad | 1880 | D | Piezoelectricidad | galvanometro | Cristales que generan tensión al comprimirse. | Pierre y Jacques Curie
+serie-balmer | 1885 | D | Serie de Balmer | espectroscopia | Fórmula de las líneas del hidrógeno. | Johann Balmer
+carga-electron | 1909 | D | Carga del electrón | electron | Experimento de la gota de aceite. | Robert Millikan
+difraccion-rayos-x | 1912 | D | Difracción de rayos X | rayos-x | Los cristales son redes de átomos; ley de Bragg. | Max von Laue, William y Lawrence Bragg
+efecto-compton | 1923 | D | Efecto Compton | rayos-x, efecto-fotoelectrico | El fotón choca como una partícula. | Arthur Compton
+ondas-materia | 1924 | C | Ondas de materia | efecto-compton, relatividad-especial | Toda partícula tiene una longitud de onda. | Louis de Broglie
+principio-exclusion | 1925 | C | Principio de exclusión y espín | atomo-bohr | Dos electrones no comparten estado. | Wolfgang Pauli
+difraccion-electrones | 1927 | D | Difracción de electrones | ondas-materia, difraccion-rayos-x | Los electrones se comportan como ondas. | Clinton Davisson, Lester Germer
+principio-incertidumbre | 1927 | C | Principio de incertidumbre | mecanica-matricial | Posición y momento no pueden conocerse a la vez. | Werner Heisenberg
+efecto-tunel | 1928 | C | Efecto túnel | ecuacion-schrodinger | Explica la desintegración alfa. | George Gamow
+hipotesis-neutrino | 1930 | C | Hipótesis del neutrino | rayos-alfa-beta, principio-exclusion | Partícula neutra que salva la conservación de la energía. | Wolfgang Pauli
+teoria-mesones | 1935 | C | Teoría del mesón | neutron, ecuacion-dirac | La fuerza nuclear se transmite por una partícula masiva. | Hideki Yukawa
+muon | 1936 | D | Muon | camara-niebla, rayos-cosmicos | Un electrón pesado inesperado. | Carl Anderson, Seth Neddermeyer
+resonancia-magnetica-nuclear | 1946 | D | Resonancia magnética nuclear | principio-exclusion, radar | Los núcleos absorben radio en un campo magnético. | Felix Bloch, Edward Purcell
+pion | 1947 | D | Pion | teoria-mesones, rayos-cosmicos | El mesón de Yukawa hallado en emulsiones fotográficas. | Cecil Powell, César Lattes
+deteccion-neutrino | 1956 | D | Detección del neutrino | hipotesis-neutrino, reactor-cp1 | Antineutrinos de un reactor. | Clyde Cowan, Frederick Reines
+teoria-bcs | 1957 | C | Teoría BCS | superconductividad, electrodinamica-cuantica | Pares de electrones explican la superconductividad. | John Bardeen, Leon Cooper, Robert Schrieffer
+violacion-paridad | 1957-01 | D | Violación de la paridad | cobalto-60 | La interacción débil distingue izquierda de derecha. | Chien-Shiung Wu
+efecto-josephson | 1962 | C | Efecto Josephson | teoria-bcs, efecto-tunel | Corriente entre dos superconductores a través de un aislante. | Brian Josephson
+teorema-bell | 1964 | C | Teorema de Bell | principio-incertidumbre | Ninguna teoría local de variables ocultas reproduce la cuántica. | John Bell
+cromodinamica | 1973 | C | Cromodinámica cuántica | quarks | Libertad asintótica de la fuerza fuerte. | David Gross, Frank Wilczek, David Politzer
+quark-encanto | 1974-11 | D | Quark encanto | quarks, ciclotron | Partícula J/psi. | Burton Richter, Samuel Ting
+bosones-w-z | 1983 | D | Bosones W y Z | modelo-estandar | Hallados en el CERN. | Carlo Rubbia, Simon van der Meer
+desigualdades-bell-experimento | 1982 | D | Entrelazamiento confirmado | teorema-bell, laser | Fotones entrelazados violan las desigualdades de Bell. | Alain Aspect
+teoria-cuerdas | 1984 | C | Teoría de supercuerdas | cromodinamica, relatividad-general | Candidata a unificar las fuerzas; sin confirmación experimental. | Michael Green, John Schwarz
+superconductores-alta-temperatura | 1986 | D | Superconductores de alta temperatura | superconductividad | Cerámicas de cobre superconductoras por encima de 30 K. | Georg Bednorz, Alex Müller
+quark-cima | 1995 | D | Quark cima | bosones-w-z | Último quark, hallado en el Tevatron. |
+condensado-bose-einstein | 1995-06 | D | Condensado de Bose-Einstein | laser, helio-liquido | Átomos enfriados hasta formar un solo estado cuántico. | Eric Cornell, Carl Wieman
+gran-colisionador | 2008 | H | Gran Colisionador de Hadrones | bosones-w-z, superconductividad | Anillo de 27 km con imanes superconductores. |

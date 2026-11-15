@@ -35,7 +35,7 @@ calotipo | 1841 | I | Calotipo | daguerrotipo, papel-continuo | Negativo en pape
 colodion | 1851 | T | Colodión húmedo | calotipo, algodon-polvora | Emulsión húmeda sobre vidrio: negativo nítido y exposición de segundos. | Frederick Scott Archer
 placa-seca | 1871 | T | Placa seca de gelatina | colodion | Emulsión de gelatina y bromuro de plata: sensible y almacenable. | Richard Maddox
 pelicula-rollo | 1888 | I | Película en rollo | placa-seca, celuloide | Emulsión sobre soporte flexible enrollado; cámara Kodak. | George Eastman
-cinematografo | 1895 | I | Cinematógrafo | pelicula-rollo, maquina-coser | Cámara, copiadora y proyector con arrastre intermitente. | Auguste y Louis Lumière
+cinematografo | 1895-12-28 | I | Cinematógrafo | pelicula-rollo, maquina-coser | Cámara, copiadora y proyector con arrastre intermitente. | Auguste y Louis Lumière
 cine-sonoro | 1927 | I | Cine sonoro | cinematografo, triodo | Sonido sincronizado amplificado con válvulas. | 
 cinta-magnetica | 1928 | I | Cinta magnética | fonografo, electroiman | Papel recubierto de óxido de hierro. | Fritz Pfleumer
 disco-compacto | 1982 | I | Disco compacto | laser-semiconductor, teoria-informacion | Audio digital leído por láser. | 

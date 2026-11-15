@@ -4,13 +4,13 @@
 
 Forma parte del mismo ecosistema que [Historicmap](https://github.com/AlejandroPico/Historicmap) y está pensado para servir de base de datos a otros proyectos (entre ellos, un futuro videojuego).
 
-## Estado (0.1.0)
+## Estado (0.2.0)
 
 | | |
 |---|---|
-| Avances | 890 |
-| Requisitos | 1.466 |
-| Ámbitos / subámbitos | 16 / 74 |
+| Avances | 2.351 |
+| Requisitos | 3.593 |
+| Ámbitos / subámbitos | 22 / 102 |
 | Motor | probado con 1.000.000 de elementos sintéticos (`?stress=1000000`) |
 
 El objetivo es crecer por fases hasta cientos de miles de avances; ver [tareas.md](tareas.md).
@@ -40,7 +40,8 @@ tests/test_data.py       garantías de la base de datos
 id | año | tipo | Nombre | requisitos,inmediatos | Resumen | Personas
 ```
 
-- **año**: entero, negativo = a. C.; prefijo `~` = fecha aproximada.
+- **año**: entero, negativo = a. C., o fecha `AAAA-MM` / `AAAA-MM-DD`; prefijo `~` = fecha aproximada.
+- Un ámbito o subámbito puede continuar en otro archivo repitiendo su cabecera `@` / `@@`.
 - **tipo**: `D` descubrimiento · `I` invento · `T` técnica/proceso · `M` material · `H` herramienta · `C` concepto/teoría · `S` sistema/infraestructura · `X` vía muerta, superada o pseudociencia.
 - **requisitos**: solo los inmediatos. La bombilla requiere la bomba de Sprengel, no el fuego.
 
@@ -48,7 +49,7 @@ El compilador rechaza ids duplicados, requisitos inexistentes, requisitos poster
 
 ### Esquema SQLite
 
-`domain(id,name,color,position)` · `subdomain(id,domain_id,name,position)` · `technology(id,name,year,approximate,kind,domain_id,subdomain_id,summary,people)` · `requirement(technology_id,requires_id)`
+`domain(id,name,color,position)` · `subdomain(id,domain_id,name,position)` · `technology(id,name,year,date,approximate,kind,domain_id,subdomain_id,summary,people)` · `requirement(technology_id,requires_id)`
 
 ### Enlaces desde otros proyectos
 

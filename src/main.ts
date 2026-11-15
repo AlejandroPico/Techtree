@@ -1,10 +1,10 @@
 import './style.css';
 import { createIcons, Search, BookOpen, Funnel, Layers, Maximize, Sun, Sunset, Moon, Contrast, Info, X, Spline, CalendarRange, Palette, Tags, Crosshair, Volume2, Download } from 'lucide';
-import { loadTree, stressTree, ancestors, KINDS, type Tree, type Tech, type Kind } from './model';
+import { loadTree, stressTree, ancestors, KINDS, DAYS, type Tree, type Tech, type Kind } from './model';
 import { computeLayout, Grid, CARD_W, CARD_H } from './layout';
 import { Renderer, type RectSet, type EdgeSet, type View } from './renderer';
 import { periods, NOW } from './periods';
-import { t, lang, num, formatYear } from './i18n';
+import { t, lang, num, formatYear, monthName } from './i18n';
 import { aboutContent } from './about';
 
 declare const __VERSION__: string;
@@ -69,7 +69,7 @@ const edgeFrom: number[] = [], edgeTo: number[] = [];
 for (const n of tree.nodes) for (const r of n.req) { edgeFrom.push(r); edgeTo.push(n.i); }
 const E = edgeFrom.length;
 
-const view: View = { scale: 1, x: 0, y: 0, width: innerWidth, height: innerHeight, dpr: Math.min(2, devicePixelRatio || 1) };
+const view: View = { scale: 1, stretch: 1, x: 0, y: 0, width: innerWidth, height: innerHeight, dpr: Math.min(2, devicePixelRatio || 1) };
 const hiddenKinds = new Set<Kind>(); let showLinks = true, showStages = true, stageColors = true, showNames = true;
 let selected = -1, highlight: Set<number> | null = null;
 
@@ -81,8 +81,8 @@ const nodeRect = new Float32Array(N * 4), nodeColor = new Uint8Array(N * 4), nod
 for (const n of tree.nodes) { nodeRect.set([layout.x[n.i], layout.y[n.i], CARD_W, CARD_H], n.i * 4); nodeKind[n.i] = KINDS.indexOf(n.kind); }
 /** Extremos de un enlace: de lado a lado; si la sucesora empieza antes de que acabe su requisito, de borde a borde en vertical. */
 function link(a: number, b: number): [number, number, number, number, number] {
-  const { x, y } = layout; if (x[b] >= x[a] + CARD_W + 6 || y[a] === y[b]) return [x[a] + CARD_W, y[a] + CARD_H / 2, x[b], y[b] + CARD_H / 2, 0];
-  const down = y[b] > y[a]; return [x[a] + CARD_W / 2, y[a] + (down ? CARD_H : 0), x[b] + CARD_W / 2, y[b] + (down ? 0 : CARD_H), 1];
+  const { x, y } = layout; if (x[b] >= x[a] + CARD_W + 6 || y[a] === y[b]) return [x[a], y[a] + CARD_H / 2, x[b], y[b] + CARD_H / 2, 0];
+  const down = y[b] > y[a]; return [x[a], y[a] + (down ? CARD_H : 0), x[b], y[b] + (down ? 0 : CARD_H), 1]; // el sombreador añade el ancho de tarjeta
 }
 const edgeEnds = new Float32Array(E * 4), edgeColor = new Uint8Array(E * 4), edgeMode = new Float32Array(E);
 for (let e = 0; e < E; e++) { const l = link(edgeFrom[e], edgeTo[e]); edgeEnds.set(l.slice(0, 4), e * 4); edgeMode[e] = l[4]; }
@@ -98,33 +98,40 @@ let hiNodes: RectSet | undefined, hiEdges: EdgeSet | undefined, ring: RectSet | 
 // ───────── Cámara ─────────
 let fitScale = 1, dirty = true;
 const invalidate = () => { dirty = true; };
-function fitView() { const s = Math.min((view.width - 40) / layout.width, (view.height - DOCK - 70) / layout.height); return { scale: s, x: (view.width - layout.width * s) / 2, y: 58 + Math.max(0, (view.height - DOCK - 70 - layout.height * s) / 2) }; }
+const hx = () => view.scale * view.stretch, MAX_STRETCH = 64;
+function fitView() { const s = Math.min((view.width - 40) / layout.width, (view.height - DOCK - 70) / layout.height); return { scale: s, stretch: 1, x: (view.width - layout.width * s) / 2, y: 58 + Math.max(0, (view.height - DOCK - 70 - layout.height * s) / 2) }; }
 /** Vista inicial: todos los ámbitos a lo alto de la pantalla, empezando por el principio del tiempo. */
-function homeView() { const f = fitView(), s = Math.max(f.scale, (view.height - DOCK - 76) / layout.height); return { scale: s, x: s > f.scale ? 150 : f.x, y: 62 }; }
+function homeView() { const f = fitView(), s = Math.max(f.scale, (view.height - DOCK - 76) / layout.height); return { scale: s, stretch: 1, x: s > f.scale ? 150 : f.x, y: 62 }; }
 function clampView() {
-  view.scale = Math.max(fitScale * .7, Math.min(2.6, view.scale));
-  const w = layout.width * view.scale, h = layout.height * view.scale, mx = view.width * .5, my = (view.height - DOCK) * .5;
+  view.scale = Math.max(fitScale * .7, Math.min(2.6, view.scale)); view.stretch = Math.max(1, Math.min(MAX_STRETCH, view.stretch));
+  const w = layout.width * hx(), h = layout.height * view.scale, mx = view.width * .5, my = (view.height - DOCK) * .5;
   view.x = Math.max(mx - w, Math.min(mx, view.x)); view.y = Math.max(my - h, Math.min(my, view.y));
 }
 function zoomAt(px: number, py: number, factor: number) {
-  const wx = (px - view.x) / view.scale, wy = (py - view.y) / view.scale; view.scale *= factor; clampView();
-  view.x = px - wx * view.scale; view.y = py - wy * view.scale; clampView(); invalidate();
+  const wx = (px - view.x) / hx(), wy = (py - view.y) / view.scale; view.scale *= factor; clampView();
+  view.x = px - wx * hx(); view.y = py - wy * view.scale; clampView(); invalidate();
+}
+/** Estira solo el tiempo: las tarjetas conservan su tamaño y la regla llega a meses, semanas y días. */
+function stretchAt(px: number, factor: number) {
+  const wx = (px - view.x) / hx(); view.stretch *= factor; clampView(); view.x = px - wx * hx(); clampView(); invalidate();
 }
 let flight = 0;
-function flyTo(target: { scale: number; x: number; y: number }, duration = 520) {
-  const from = { scale: view.scale, x: view.x, y: view.y }, start = performance.now(), id = ++flight;
+function flyTo(target: { scale: number; x: number; y: number; stretch?: number }, duration = 520) {
+  const from = { scale: view.scale, x: view.x, y: view.y, stretch: view.stretch }, st1 = target.stretch ?? view.stretch, start = performance.now(), id = ++flight;
   if (matchMedia('(prefers-reduced-motion: reduce)').matches) duration = 0;
   // Se interpola el centro del mundo y el logaritmo de la escala para que el viaje sea uniforme.
-  const cx = view.width / 2, cy = (view.height - DOCK) / 2, w0 = [(cx - from.x) / from.scale, (cy - from.y) / from.scale], w1 = [(cx - target.x) / target.scale, (cy - target.y) / target.scale];
+  const cx = view.width / 2, cy = (view.height - DOCK) / 2, w0 = [(cx - from.x) / (from.scale * from.stretch), (cy - from.y) / from.scale], w1 = [(cx - target.x) / (target.scale * st1), (cy - target.y) / target.scale];
   const step = (now: number) => {
     if (id !== flight) return; const u = duration ? Math.min(1, (now - start) / duration) : 1, k = u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
     view.scale = Math.exp(Math.log(from.scale) + (Math.log(target.scale) - Math.log(from.scale)) * k);
-    view.x = cx - (w0[0] + (w1[0] - w0[0]) * k) * view.scale; view.y = cy - (w0[1] + (w1[1] - w0[1]) * k) * view.scale; invalidate();
+    view.stretch = Math.exp(Math.log(from.stretch) + (Math.log(st1) - Math.log(from.stretch)) * k);
+    view.x = cx - (w0[0] + (w1[0] - w0[0]) * k) * hx(); view.y = cy - (w0[1] + (w1[1] - w0[1]) * k) * view.scale; invalidate();
     if (u < 1) requestAnimationFrame(step); else { clampView(); invalidate(); }
   };
   requestAnimationFrame(step);
 }
-const centerOn = (wx: number, wy: number, scale: number) => flyTo({ scale, x: view.width / 2 - wx * scale, y: (view.height - DOCK) / 2 - wy * scale });
+/** Destino de cámara que centra una tarjeta (o, con i < 0, una posición del eje temporal). */
+const targetFor = (i: number, scale: number, wx = 0) => i >= 0 ? { scale, x: view.width / 2 - layout.x[i] * scale * view.stretch - CARD_W / 2 * scale, y: (view.height - DOCK) / 2 - (layout.y[i] + CARD_H / 2) * scale } : { scale, x: view.width / 2 - wx * scale * view.stretch, y: view.y };
 function resize() {
   view.width = innerWidth; view.height = innerHeight; view.dpr = Math.min(2, devicePixelRatio || 1);
   for (const c of [labelCanvas, rulerCanvas]) { const h = c === rulerCanvas ? DOCK : view.height; c.width = Math.round(view.width * view.dpr); c.height = Math.round(h * view.dpr); }
@@ -147,14 +154,14 @@ function select(i: number, fly = false) {
     hiEdges = renderer.edges(new Float32Array(ends), new Uint8Array(cols), new Float32Array(modes), true, hiEdges);
     ring = renderer.rects(nodeRect.slice(i * 4, i * 4 + 4), new Uint8Array([...gold, 255]), new Float32Array([0]), ring);
     openCard(n);
-    if (fly) centerOn(layout.x[i] + CARD_W / 2, layout.y[i] + CARD_H / 2, Math.max(view.scale, .9));
+    if (fly) flyTo(targetFor(i, Math.max(view.scale, .9)));
     history.replaceState(null, '', '#t=' + n.id);
   } else { $('#card').hidden = true; history.replaceState(null, '', location.pathname + location.search); }
   invalidate();
 }
 function pick(px: number, py: number) {
-  if (CARD_W * view.scale < 5) return -1; const wx = (px - view.x) / view.scale, wy = (py - view.y) / view.scale; let hit = -1;
-  grid.query(wx, wy, wx, wy, 50, i => { if (visible(i)) hit = i; }); return hit;
+  if (CARD_W * view.scale < 5) return -1; const wx = (px - view.x) / hx(), wy = (py - view.y) / view.scale; let hit = -1;
+  grid.query(wx, wy, wx, wy, 50, i => { if (visible(i)) hit = i; }, CARD_W / view.stretch); return hit;
 }
 
 // ───────── Dibujo ─────────
@@ -184,11 +191,11 @@ function drawLabels() {
   const cardPx = CARD_W * s;
   if (cardPx >= 56) {
     const fs = Math.max(9, Math.min(13.5, 13.5 * s)), two = cardPx >= 104, pad = Math.max(7, 12 * s); ctx.textBaseline = 'middle';
-    grid.query(-view.x / s, -view.y / s, (w - view.x) / s, (h - view.y) / s, 1400, i => {
-      if (!visible(i)) return; const n = tree.nodes[i], x = layout.x[i] * s + view.x, y = layout.y[i] * s + view.y, ch = CARD_H * s;
+    const sx = hx(); grid.query(-view.x / sx, -view.y / s, (w - view.x) / sx, (h - view.y) / s, 1400, i => {
+      if (!visible(i)) return; const n = tree.nodes[i], x = layout.x[i] * sx + view.x, y = layout.y[i] * s + view.y, ch = CARD_H * s;
       ctx.globalAlpha = highlight && !highlight.has(i) ? .3 : 1; ctx.fillStyle = theme.text; ctx.font = `500 ${fs}px "DM Sans",system-ui,sans-serif`;
       ctx.fillText(fitText(ctx, n.name, cardPx - pad * 1.6, i + 'n' + fs.toFixed(1)), x + pad, y + ch * (two ? .34 : .5));
-      if (two) { ctx.fillStyle = theme.muted; ctx.font = `${fs * .82}px "DM Sans",system-ui,sans-serif`; ctx.fillText(fitText(ctx, formatYear(n.year, n.approx) + ' · ' + t('k.' + n.kind), cardPx - pad * 1.6, i + 'y' + fs.toFixed(1)), x + pad, y + ch * .7); }
+      if (two) { ctx.fillStyle = theme.muted; ctx.font = `${fs * .82}px "DM Sans",system-ui,sans-serif`; ctx.fillText(fitText(ctx, when(n) + ' · ' + t('k.' + n.kind), cardPx - pad * 1.6, i + 'y' + fs.toFixed(1)), x + pad, y + ch * .7); }
     });
     ctx.globalAlpha = 1;
   }
@@ -210,8 +217,8 @@ function drawLabels() {
 const STEPS = [1, 2, 5, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 1e4, 2e4, 5e4, 1e5, 2e5, 5e5, 1e6];
 const ink = (color: string) => { const n = parseInt(color.slice(1), 16); return .2126 * (n >> 16) + .7152 * ((n >> 8) & 255) + .0722 * (n & 255) > 140 ? '#14242c' : '#ffffff'; };
 function drawRuler() {
-  const d = view.dpr, s = view.scale, w = view.width; rctx.setTransform(d, 0, 0, d, 0, 0); rctx.clearRect(0, 0, w, DOCK);
-  const sx = (year: number) => layout.yearToX(year) * s + view.x; let top = 26;
+  const d = view.dpr, w = view.width; rctx.setTransform(d, 0, 0, d, 0, 0); rctx.clearRect(0, 0, w, DOCK);
+  const sx = (year: number) => layout.yearToX(year) * hx() + view.x; let top = 26;
   if (showStages) {
     rctx.font = '500 9.5px "DM Sans",system-ui,sans-serif'; rctx.textBaseline = 'middle';
     for (const p of periods) {
@@ -225,18 +232,32 @@ function drawRuler() {
   rctx.strokeStyle = theme.muted; rctx.fillStyle = theme.muted; rctx.font = '11.5px Georgia,serif'; rctx.textBaseline = 'top'; rctx.textAlign = 'center'; rctx.lineWidth = 1;
   const placed: number[] = [], { years, xs } = layout;
   for (let b = 0; b < years.length - 1; b++) {
-    const x0 = xs[b] * s + view.x, x1 = xs[b + 1] * s + view.x; if (x1 < -40 || x0 > w + 40) continue;
-    const ppy = (x1 - x0) / (years[b + 1] - years[b]), major = STEPS.find(v => v * ppy >= 76) ?? 1e6, minor = STEPS.find(v => v * ppy >= 7) ?? 1e6;
+    const x0 = xs[b] * hx() + view.x, x1 = xs[b + 1] * hx() + view.x; if (x1 < -40 || x0 > w + 40) continue;
+    const ppy = (x1 - x0) / (years[b + 1] - years[b]);
+    const tick = (x: number, label: string | null, strong: boolean) => {
+      const isMajor = label !== null && Math.abs(x - w / 2) > 78 && !placed.some(c => Math.abs(c - x) < 78);
+      rctx.globalAlpha = isMajor ? .75 : strong ? .5 : .3; rctx.beginPath(); rctx.moveTo(Math.round(x) + .5, top); rctx.lineTo(Math.round(x) + .5, top + (isMajor ? 12 : strong ? 9 : 6)); rctx.stroke();
+      if (isMajor) { placed.push(x); rctx.globalAlpha = .95; rctx.fillText(label!, x, top + 16); }
+    };
+    if (ppy >= 84 && years[b] >= 1000) { // meses, semanas y días
+      const from = Math.max(years[b], years[b] + (-60 - x0) / ppy), to = Math.min(years[b + 1], years[b] + (w + 60 - x0) / ppy), days = ppy / 365 >= 7, dayLabels = ppy / 365 >= 78, weekLabels = ppy * 7 / 365 >= 78, monthLabels = ppy / 12 >= 78;
+      for (let m = Math.floor(from * 12); m / 12 < to; m++) {
+        const yr = Math.floor(m / 12), mo = m - yr * 12, xm = x0 + (m / 12 - years[b]) * ppy;
+        if (m / 12 >= years[b]) tick(xm, mo === 0 ? String(yr) : monthLabels ? `${monthName(mo)} ${yr}` : null, true);
+        if (days) for (let d = 2; d <= DAYS[mo]; d++) { const xd = xm + (d - 1) / DAYS[mo] / 12 * ppy; if (xd > -60 && xd < w + 60) tick(xd, dayLabels || (weekLabels && d % 7 === 1 && d < 28) ? `${d} ${monthName(mo)} ${yr}` : null, false); }
+      }
+      continue;
+    }
+    const major = STEPS.find(v => v * ppy >= 78) ?? 1e6, minor = STEPS.find(v => v * ppy >= 7) ?? 1e6;
     for (let y = Math.ceil(years[b] / minor) * minor; y < years[b + 1]; y += minor) {
       const x = x0 + (y - years[b]) * ppy; if (x < -40 || x > w + 40) continue;
-      const isMajor = y % major === 0 && y !== 0 && Math.abs(x - w / 2) > 70 && !placed.some(c => Math.abs(c - x) < 74);
-      rctx.globalAlpha = isMajor ? .75 : .3; rctx.beginPath(); rctx.moveTo(Math.round(x) + .5, top); rctx.lineTo(Math.round(x) + .5, top + (isMajor ? 12 : 6)); rctx.stroke();
-      if (isMajor) { placed.push(x); rctx.globalAlpha = .95; rctx.fillText(formatYear(y), x, top + 16); }
+      tick(x, y % major === 0 && y !== 0 ? formatYear(y) : null, false);
     }
   }
   rctx.globalAlpha = 1; rctx.textAlign = 'left';
-  let year = layout.xToYear((w / 2 - view.x) / s); const mag = Math.abs(year); year = mag > 2e5 ? Math.round(year / 1e4) * 1e4 : mag > 2e4 ? Math.round(year / 1000) * 1000 : mag > 5000 ? Math.round(year / 100) * 100 : Math.round(year);
-  $('#year').textContent = formatYear(Math.min(tree.presentYear, year));
+  const exact = layout.xToYear((w / 2 - view.x) / hx()), mag = Math.abs(exact), local = (layout.yearToX(exact + .5) - layout.yearToX(exact - .5)) * hx();
+  if (local >= 84 && exact >= 1000) { const yr = Math.floor(exact), mo = Math.min(11, Math.floor((exact - yr) * 12)), day = 1 + Math.floor(((exact - yr) * 12 - mo) * DAYS[mo]); $('#year').textContent = local / 365 >= 7 ? `${day} ${monthName(mo)} ${yr}` : `${monthName(mo)} ${yr}`; }
+  else { const year = mag > 2e5 ? Math.round(exact / 1e4) * 1e4 : mag > 2e4 ? Math.round(exact / 1000) * 1000 : mag > 5000 ? Math.round(exact / 100) * 100 : Math.floor(exact); $('#year').textContent = formatYear(Math.min(tree.presentYear, year)); }
 }
 let frames = 0, fpsAt = performance.now();
 function loop(now: number) {
@@ -246,10 +267,11 @@ function loop(now: number) {
 }
 
 // ───────── Ficha flotante ─────────
-const techLink = (n: Tech) => `<button class="tech-link" data-go="${n.i}"><i style="background:${tree.domains[n.domainIndex].color}"></i><strong>${esc(n.name)}</strong><span>${formatYear(n.year, n.approx)}</span></button>`;
-const techList = (ids: number[]) => ids.length ? `<div class="tech-list">${ids.map(i => tree.nodes[i]).sort((a, b) => a.year - b.year).map(techLink).join('')}</div>` : `<p class="empty">${t('none')}</p>`;
+const when = (n: Tech) => { if (!n.date) return formatYear(n.year, n.approx); const [y, m, d] = n.date.split('-').map(Number); return `${d ? d + ' ' : ''}${monthName(m - 1)} ${y}`; };
+const techLink = (n: Tech) => `<button class="tech-link" data-go="${n.i}"><i style="background:${tree.domains[n.domainIndex].color}"></i><strong>${esc(n.name)}</strong><span>${when(n)}</span></button>`;
+const techList = (ids: number[]) => ids.length ? `<div class="tech-list">${ids.map(i => tree.nodes[i]).sort((a, b) => a.t - b.t).map(techLink).join('')}</div>` : `<p class="empty">${t('none')}</p>`;
 const eyebrow = (n: Tech) => `${t('k.' + n.kind)} · ${esc(tree.domains[n.domainIndex].name)} › ${esc(tree.subs[n.subIndex].name)}`;
-const dateLine = (n: Tech) => { const p = period(n.year, 1); return `${formatYear(n.year, n.approx)}${p ? ` <span>· ${p.name}</span>` : ''}`; };
+const dateLine = (n: Tech) => { const p = period(n.year, 1); return `${when(n)}${p ? ` <span>· ${p.name}</span>` : ''}`; };
 let cardPlaced = false;
 function openCard(n: Tech) {
   const card = $('#card'), anc = ancestors(tree, n.i);
@@ -290,7 +312,7 @@ document.addEventListener('click', e => {
   });
   const end = (e: PointerEvent) => { if (!pointers.delete(e.pointerId)) return; glCanvas.classList.remove('dragging'); if (moved < 5 && e.type === 'pointerup') { const hit = pick(e.clientX, e.clientY); if (hit >= 0 || selected >= 0) select(hit); } };
   glCanvas.addEventListener('pointerup', end); glCanvas.addEventListener('pointercancel', end);
-  glCanvas.addEventListener('wheel', e => { e.preventDefault(); flight++; zoomAt(e.clientX, e.clientY, Math.exp(-e.deltaY * (e.ctrlKey ? .01 : .0016))); }, { passive: false });
+  glCanvas.addEventListener('wheel', e => { e.preventDefault(); flight++; if (e.shiftKey) stretchAt(e.clientX, Math.exp(-(e.deltaY || e.deltaX) * .0022)); else zoomAt(e.clientX, e.clientY, Math.exp(-e.deltaY * (e.ctrlKey ? .01 : .0016))); }, { passive: false });
   // Doble clic derecho: volver a la vista completa (equivalente al «norte arriba» de los proyectos de mapas).
   glCanvas.addEventListener('contextmenu', e => { e.preventDefault(); const now = performance.now(); if (now - lastRight < 450) flyTo(fitView()); lastRight = now; });
   let rulerDrag: number | null = null;
@@ -298,7 +320,8 @@ document.addEventListener('click', e => {
   rulerCanvas.addEventListener('pointermove', e => { if (rulerDrag === null) return; view.x += e.clientX - rulerDrag; rulerDrag = e.clientX; clampView(); invalidate(); });
   const rulerEnd = () => { rulerDrag = null; rulerCanvas.classList.remove('dragging'); };
   rulerCanvas.addEventListener('pointerup', rulerEnd); rulerCanvas.addEventListener('pointercancel', rulerEnd);
-  rulerCanvas.addEventListener('wheel', e => { e.preventDefault(); flight++; zoomAt(view.width / 2, (view.height - DOCK) / 2, Math.exp(-e.deltaY * .0016)); }, { passive: false });
+  // La rueda sobre la regla estira o encoge solo el tiempo, con la fecha central fija; al llegar al mínimo, aleja toda la vista.
+  rulerCanvas.addEventListener('wheel', e => { e.preventDefault(); flight++; const f = Math.exp(-e.deltaY * .0022); if (f < 1 && view.stretch <= 1.0001) zoomAt(view.width / 2, (view.height - DOCK) / 2, f); else stretchAt(view.width / 2, f); }, { passive: false });
   addEventListener('keydown', e => {
     if ((e.target as HTMLElement).matches('input') || document.querySelector('dialog[open]')) { return; }
     const cx = view.width / 2, cy = (view.height - DOCK) / 2, pan = 90;
@@ -321,7 +344,7 @@ $('#search-input').addEventListener('input', e => {
   const hits: [number, number][] = [];
   for (let i = 0; i < N && hits.length < 4000; i++) { const p = folded[i].indexOf(q); if (p >= 0) hits.push([i, p === 0 ? 0 : folded[i][p - 1] === ' ' ? 1 : 2]); else if (foldedPeople[i].includes(q)) hits.push([i, 3]); }
   hits.sort((a, b) => a[1] - b[1] || tree.nodes[a[0]].name.length - tree.nodes[b[0]].name.length);
-  box.innerHTML = hits.length ? hits.slice(0, 40).map(([i]) => { const n = tree.nodes[i]; return `<button class="result" data-go="${i}"><strong>${esc(n.name)}</strong><span>${formatYear(n.year, n.approx)}</span><small>${esc(tree.domains[n.domainIndex].name)} › ${esc(tree.subs[n.subIndex].name)}${n.people ? ' · ' + esc(n.people) : ''}</small></button>`; }).join('') : `<p class="empty">${t('noResults')}</p>`;
+  box.innerHTML = hits.length ? hits.slice(0, 40).map(([i]) => { const n = tree.nodes[i]; return `<button class="result" data-go="${i}"><strong>${esc(n.name)}</strong><span>${when(n)}</span><small>${esc(tree.domains[n.domainIndex].name)} › ${esc(tree.subs[n.subIndex].name)}${n.people ? ' · ' + esc(n.people) : ''}</small></button>`; }).join('') : `<p class="empty">${t('noResults')}</p>`;
 });
 const press = (id: string, fn: (on: boolean) => void) => $(id).addEventListener('click', e => { const b = e.currentTarget as HTMLElement, on = b.getAttribute('aria-pressed') !== 'true'; b.setAttribute('aria-pressed', String(on)); fn(on); invalidate(); });
 for (const k of KINDS) press('#kind-' + k, on => { if (on) hiddenKinds.delete(k); else hiddenKinds.add(k); fillColors(); renderer.setColors(nodeSet, nodeColor); renderer.setColors(edgeSet, edgeColor); if (selected >= 0) select(visible(selected) ? selected : -1); });
@@ -354,7 +377,7 @@ function openEncyclopedia(i = selected) {
     indexBuilt = true; const bySub: Tech[][] = tree.subs.map(() => []); for (const n of tree.nodes) bySub[n.subIndex].push(n);
     $('#enc-index').innerHTML = tree.domains.map((d, di) => `<details><summary><i class="swatch" style="background:${d.color};width:9px;height:9px"></i>${esc(d.name)}</summary>${tree.subs.map((s, si) => s.domain !== d.id ? '' : `<details data-sub="${si}"><summary>${esc(s.name)} <b>${num(bySub[si].length)}</b></summary></details>`).join('')}</details>`).join('');
     // Los avances de cada subámbito se generan al desplegarlo: el índice no crece con el tamaño del árbol.
-    $('#enc-index').addEventListener('toggle', e => { const el = e.target as HTMLDetailsElement; if (!el.open || el.dataset.sub === undefined || el.dataset.filled) return; el.dataset.filled = '1'; el.insertAdjacentHTML('beforeend', bySub[Number(el.dataset.sub)].sort((a, b) => a.year - b.year).slice(0, 5000).map(n => `<button class="tech-link" data-article="${n.i}"><strong>${esc(n.name)}</strong><span>${formatYear(n.year, n.approx)}</span></button>`).join('')); }, true);
+    $('#enc-index').addEventListener('toggle', e => { const el = e.target as HTMLDetailsElement; if (!el.open || el.dataset.sub === undefined || el.dataset.filled) return; el.dataset.filled = '1'; el.insertAdjacentHTML('beforeend', bySub[Number(el.dataset.sub)].sort((a, b) => a.t - b.t).slice(0, 5000).map(n => `<button class="tech-link" data-article="${n.i}"><strong>${esc(n.name)}</strong><span>${when(n)}</span></button>`).join('')); }, true);
     $('#enc-index').addEventListener('click', e => { const b = (e.target as HTMLElement).closest<HTMLElement>('[data-article]'); if (b) showArticle(Number(b.dataset.article)); });
     $('#article').addEventListener('click', e => { const b = (e.target as HTMLElement).closest<HTMLElement>('[data-article]'); if (b) showArticle(Number(b.dataset.article)); });
   }
@@ -363,7 +386,7 @@ function openEncyclopedia(i = selected) {
 function showArticle(i: number) {
   stopReading(); const article = $('#article');
   if (i < 0) { article.innerHTML = `<p class="lead">${t('encIntro')}</p>`; return; }
-  const n = tree.nodes[i], anc = [...ancestors(tree, i)], link = (ids: number[]) => ids.length ? `<div class="tech-list">${ids.map(k => tree.nodes[k]).sort((a, b) => a.year - b.year).map(m => `<button class="tech-link" data-article="${m.i}"><i style="background:${tree.domains[m.domainIndex].color}"></i><strong>${esc(m.name)}</strong><span>${formatYear(m.year, m.approx)}</span></button>`).join('')}</div>` : `<p class="empty">${t('none')}</p>`;
+  const n = tree.nodes[i], anc = [...ancestors(tree, i)], link = (ids: number[]) => ids.length ? `<div class="tech-list">${ids.map(k => tree.nodes[k]).sort((a, b) => a.t - b.t).map(m => `<button class="tech-link" data-article="${m.i}"><i style="background:${tree.domains[m.domainIndex].color}"></i><strong>${esc(m.name)}</strong><span>${when(m)}</span></button>`).join('')}</div>` : `<p class="empty">${t('none')}</p>`;
   article.innerHTML = `<span class="eyebrow">${eyebrow(n)}</span><h1>${esc(n.name)}</h1><p class="meta tech-date">${dateLine(n)}${n.people ? ` <span>· ${esc(n.people)}</span>` : ''}</p>
   <button class="text-button" data-go="${n.i}">${icon('crosshair')}${t('showInTree')}</button><p class="lead">${esc(n.summary)}</p>
   <h3>${t('requires')} · ${n.req.length}</h3>${link(n.req)}<h3>${t('enables')} · ${n.enables.length}</h3>${link(n.enables)}
@@ -385,9 +408,10 @@ $('#encyclopedia').addEventListener('close', stopReading);
 // ───────── Arranque ─────────
 /** Enlaces externos (p. ej. desde Historicmap): #t=<id> abre un avance; #y=<año> centra una fecha. */
 function fromHash(animate: boolean) {
-  const h = new URLSearchParams(location.hash.slice(1)), id = h.get('t'), y = h.get('y');
-  if (id && tree.byId.has(id)) { const i = tree.byId.get(id)!.i; select(i); const s = Math.max(.9, view.scale); const target = { scale: s, x: view.width / 2 - (layout.x[i] + CARD_W / 2) * s, y: (view.height - DOCK) / 2 - (layout.y[i] + CARD_H / 2) * s }; if (animate) flyTo(target); else { Object.assign(view, target); clampView(); } }
-  else if (y && Number.isFinite(Number(y))) { const s = Math.max(view.scale, .35), target = { scale: s, x: view.width / 2 - layout.yearToX(Number(y)) * s, y: view.y }; if (animate) flyTo(target); else { Object.assign(view, target); clampView(); } }
+  const h = new URLSearchParams(location.hash.slice(1)), id = h.get('t'), y = h.get('y'); let target: ReturnType<typeof targetFor> | null = null;
+  if (id && tree.byId.has(id)) { const i = tree.byId.get(id)!.i; select(i); target = targetFor(i, Math.max(.9, view.scale)); }
+  else if (y && Number.isFinite(Number(y))) target = targetFor(-1, Math.max(view.scale, .35), layout.yearToX(Number(y)));
+  if (!target) return; if (animate) flyTo(target); else { Object.assign(view, target); clampView(); }
 }
 addEventListener('resize', resize); addEventListener('hashchange', () => fromHash(true));
 resize(); Object.assign(view, homeView()); clampView(); syncAppearance(); fromHash(false);

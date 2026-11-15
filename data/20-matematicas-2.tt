@@ -1,0 +1,115 @@
+@ matematicas | Matemáticas | #9a86d6
+@@ numero | Número y aritmética
+tablas-multiplicar | ~-2600 | I | Tablas de multiplicar | escritura-cuneiforme | Tablillas escolares de Shuruppak con productos y áreas. |
+raiz-dos-babilonia | ~-1700 | D | Aproximación de la raíz de dos | numeracion-sexagesimal | La tablilla YBC 7289 la da con seis cifras decimales correctas. |
+varillas-calculo | ~-400 | H | Varillas de cálculo | fichas-contables | Palillos sobre un tablero con notación decimal posicional; China. |
+cero-marcador | ~-300 | C | Signo de posición vacía | numeracion-sexagesimal | Los escribas seléucidas marcan con dos cuñas la posición sin valor. |
+algoritmo-euclides | ~-300 | C | Algoritmo de Euclides | elementos | Máximo común divisor por restas sucesivas; también la infinitud de los primos. | Euclides
+criba-eratostenes | ~-240 | C | Criba de Eratóstenes | algoritmo-euclides | Tachar múltiplos para quedarse con los números primos. | Eratóstenes
+numeros-negativos | ~-100 | C | Números negativos | varillas-calculo | Varillas rojas y negras para haberes y deudas en los Nueve capítulos. |
+nueve-capitulos | ~-100 | C | Los nueve capítulos del arte matemático | varillas-calculo | Sistemas lineales resueltos por eliminación, casi dos mil años antes de Gauss. |
+cero-maya | ~-36 | C | Cero mesoamericano | calendario-solar | Signo de cero en la cuenta larga; invención independiente. |
+resto-chino | ~400 | C | Teorema chino del resto | varillas-calculo | Hallar un número conocidos sus restos al dividirlo por varios. | Sunzi
+aritmetica-indoarabiga | ~825 | C | Aritmética con cifras hindúes | cero, numeracion-decimal | El tratado que da nombre a la palabra «algoritmo». | al-Juarismi
+numeros-amigos | ~850 | C | Regla de los números amigos | algoritmo-euclides | Fórmula que genera pares de números amigos. | Thábit ibn Qurra
+cero-gwalior | 876 | D | Inscripción del cero de Gwalior | cero | El cero escrito como un pequeño círculo en un templo de la India. |
+fracciones-decimales-arabes | 952 | C | Fracciones decimales | aritmetica-indoarabiga | Primer uso conocido de la coma decimal. | al-Uqlidisi
+induccion-matematica | ~1000 | C | Razonamiento por inducción | algebra | Demostrar para un caso y pasar de cada número al siguiente. | al-Karaji
+triangulo-aritmetico | ~1050 | C | Triángulo aritmético | induccion-matematica | Coeficientes binomiales; Jia Xian, al-Karaji, Jayam y, siglos después, Pascal. | Jia Xian
+sucesion-fibonacci | 1202 | C | Sucesión de Fibonacci | liber-abaci | Cada término es la suma de los dos anteriores. | Fibonacci
+pi-al-kashi | 1424 | D | Pi con dieciséis decimales | fracciones-decimales-arabes, trigonometria | Calculado con polígonos de 805 millones de lados en Samarcanda. | al-Kashi
+signos-mas-menos | 1489 | C | Signos + y − | liber-abaci, imprenta | Primera aparición impresa. | Johannes Widmann
+partida-doble | 1494 | T | Contabilidad por partida doble | liber-abaci, imprenta | Cada operación se anota en el debe y en el haber. | Luca Pacioli
+signo-igual | 1557 | C | Signo = | signos-mas-menos | «Nada puede ser más igual que dos rectas paralelas». | Robert Recorde
+pequeno-teorema-fermat | 1640 | C | Pequeño teorema de Fermat | algoritmo-euclides | Base de los tests de primalidad y de RSA. | Pierre de Fermat
+disquisitiones | 1801 | C | Disquisitiones Arithmeticae | pequeno-teorema-fermat | Congruencias y reciprocidad cuadrática: la teoría de números moderna. | Carl Friedrich Gauss
+numeros-trascendentes | 1844 | D | Números trascendentes | analisis-euler | Números que no son raíz de ningún polinomio. | Joseph Liouville
+hipotesis-riemann | 1859 | C | Hipótesis de Riemann | analisis-complejo, disquisitiones | Conjetura sobre los ceros de la función zeta; sigue abierta. | Bernhard Riemann
+numeros-reales | 1872 | C | Construcción de los números reales | limite-riguroso | Cortaduras de Dedekind y sucesiones de Cantor. | Richard Dedekind
+pi-trascendente | 1882 | D | Trascendencia de pi | numeros-trascendentes | La cuadratura del círculo es imposible. | Ferdinand von Lindemann
+axiomas-peano | 1889 | C | Axiomas de Peano | numeros-reales, logica-predicados | Los naturales a partir de cinco axiomas. | Giuseppe Peano
+teorema-numeros-primos | 1896 | D | Teorema de los números primos | hipotesis-riemann | Los primos escasean como 1/ln n. | Jacques Hadamard, Charles de la Vallée Poussin
+ultimo-teorema-fermat | 1995 | D | Demostración del último teorema de Fermat | teoria-grupos, analisis-complejo | Resuelto 358 años después mediante curvas elípticas. | Andrew Wiles
+@@ geometria | Geometría
+pi-arquimedes | ~-250 | D | Medida del círculo | exhaucion | Pi acotado entre 223/71 y 22/7 con polígonos de 96 lados. | Arquímedes
+esfera-cilindro | ~-250 | D | Volumen y superficie de la esfera | exhaucion, ley-palanca | La esfera ocupa dos tercios del cilindro que la contiene. | Arquímedes
+formula-heron | ~60 | C | Fórmula de Herón | elementos | Área del triángulo a partir de sus tres lados. | Herón de Alejandría
+pi-liu-hui | 263 | D | Algoritmo de Liu Hui para pi | nueve-capitulos | Polígonos inscritos hasta 3072 lados. | Liu Hui
+coleccion-pappus | ~320 | C | Colección matemática de Pappus | conicas | Últimos grandes teoremas de la geometría griega. | Pappus de Alejandría
+pi-zu-chongzhi | ~480 | D | Pi con siete decimales | pi-liu-hui | La fracción 355/113, insuperada durante casi mil años. | Zu Chongzhi
+tabla-senos | ~500 | C | Tabla de senos | trigonometria, numeracion-decimal | El seno sustituye a la cuerda griega. | Aryabhata
+funcion-tangente | ~980 | C | Tangente y trigonometría esférica | tabla-senos, algebra | Las seis funciones y la ley de los senos esférica. | Abu al-Wafa
+postulado-paralelas-jayam | 1077 | C | Crítica del postulado de las paralelas | elementos | Cuadrilátero que anticipa las geometrías no euclídeas. | Omar Jayam
+trigonometria-independiente | 1260 | C | Trigonometría como disciplina propia | funcion-tangente | Tratado del cuadrilátero: la trigonometría se separa de la astronomía. | Nasir al-Din al-Tusi
+de-triangulis | 1464 | C | De triangulis omnimodis | trigonometria-independiente | La trigonometría sistemática llega a Europa. | Regiomontano
+geometria-proyectiva | 1639 | C | Geometría proyectiva | perspectiva, conicas | Propiedades que se conservan al proyectar. | Girard Desargues
+formula-poliedros | 1752 | D | Fórmula de Euler de los poliedros | elementos | Vértices menos aristas más caras es igual a dos. | Leonhard Euler
+geometria-descriptiva | 1799 | T | Geometría descriptiva | geometria-proyectiva | Representar el espacio en dos planos: el dibujo técnico de la ingeniería. | Gaspard Monge
+curvatura-gauss | 1827 | C | Geometría intrínseca de superficies | calculo, geometria-analitica | La curvatura puede medirse sin salir de la superficie. | Carl Friedrich Gauss
+programa-erlangen | 1872 | C | Programa de Erlangen | teoria-grupos, geometria-proyectiva | Cada geometría es el estudio de los invariantes de un grupo. | Felix Klein
+topologia | 1895 | C | Topología algebraica | formula-poliedros, geometria-riemann | Analysis Situs: formas estudiadas por sus agujeros. | Henri Poincaré
+fundamentos-hilbert | 1899 | C | Fundamentos de la geometría | elementos, geometria-no-euclidea | Axiomática completa y rigurosa. | David Hilbert
+teselas-penrose | 1974 | D | Teselaciones aperiódicas | teoria-grupos | Dos piezas que cubren el plano sin repetirse nunca. | Roger Penrose
+fractales | 1975 | C | Geometría fractal | analisis-complejo, miniordenador | Formas con detalle a todas las escalas. | Benoît Mandelbrot
+cuatro-colores | 1976 | D | Teorema de los cuatro colores | teoria-grafos, ibm-system-360 | Primera gran demostración asistida por ordenador. | Kenneth Appel, Wolfgang Haken
+conjetura-poincare | 2003 | D | Demostración de la conjetura de Poincaré | topologia, geometria-riemann | Flujo de Ricci con cirugía. | Grigori Perelmán
+@@ algebra | Álgebra
+cuadraticas-babilonia | ~-1800 | C | Problemas de segundo grado | numeracion-sexagesimal | Recetas para resolver ecuaciones cuadráticas en tablillas paleobabilónicas. |
+cuadratica-general | 628 | C | Solución general de la cuadrática | cero, cuadraticas-babilonia | Fórmula con números negativos admitidos como deudas. | Brahmagupta
+algebra-polinomios | ~1010 | C | Álgebra de polinomios | algebra | Operar con potencias de la incógnita sin apoyo geométrico. | al-Karaji
+cubicas-jayam | 1070 | C | Cúbicas por intersección de cónicas | algebra, conicas | Clasificación y solución geométrica de las ecuaciones de tercer grado. | Omar Jayam
+metodo-qin | 1247 | C | Solución numérica de polinomios | nueve-capitulos | Método equivalente al de Horner. | Qin Jiushao
+simbolos-al-qalasadi | ~1460 | C | Notación algebraica abreviada | algebra | Letras árabes como símbolos de incógnita, cuadrado e igualdad. | al-Qalasadi
+determinantes | 1683 | C | Determinantes | nueve-capitulos, notacion-simbolica | Ideados a la vez en Japón y en Europa. | Seki Takakazu, Gottfried Leibniz
+regla-cramer | 1750 | C | Regla de Cramer | determinantes | Sistemas lineales resueltos con determinantes. | Gabriel Cramer
+teorema-fundamental-algebra | 1799 | D | Teorema fundamental del álgebra | complejos, analisis-euler | Todo polinomio tiene raíz compleja. | Carl Friedrich Gauss
+quintica-irresoluble | 1824 | D | Irresolubilidad de la quíntica | cubica | No hay fórmula con radicales para el quinto grado. | Niels Abel
+cuaterniones | 1843-10 | C | Cuaterniones | complejos | Números de cuatro dimensiones no conmutativos. | William Rowan Hamilton
+matrices | 1858 | C | Álgebra de matrices | determinantes | Las tablas de coeficientes se multiplican como objetos. | Arthur Cayley
+analisis-vectorial | 1881 | C | Análisis vectorial | cuaterniones, ecuaciones-maxwell | Gradiente, divergencia y rotacional. | Josiah Gibbs, Oliver Heaviside
+espacios-vectoriales | 1888 | C | Espacios vectoriales | matrices | Definición axiomática. | Giuseppe Peano
+algebra-abstracta | 1921 | C | Álgebra abstracta | teoria-grupos, espacios-vectoriales | Anillos e ideales estudiados por sus axiomas. | Emmy Noether
+teoria-categorias | 1945 | C | Teoría de categorías | algebra-abstracta, topologia | Objetos y flechas: el lenguaje común de la matemática moderna. | Samuel Eilenberg, Saunders Mac Lane
+@@ analisis | Análisis
+series-kerala | ~1400 | D | Series infinitas de Kerala | tabla-senos | Series para el seno, el coseno y pi, tres siglos antes que en Europa. | Madhava de Sangamagrama
+indivisibles | 1635 | C | Método de los indivisibles | exhaucion | Áreas como suma de infinitas líneas. | Bonaventura Cavalieri
+tangentes-fermat | 1636 | C | Máximos, mínimos y tangentes | conicas, notacion-simbolica | Antecedente directo de la derivada. | Pierre de Fermat
+aritmetica-infinitos | 1656 | C | Aritmética de los infinitos | indivisibles | Productos y series infinitas; el símbolo ∞. | John Wallis
+notacion-leibniz | 1684 | C | Notación diferencial de Leibniz | calculo | dx, dy y ∫: la notación que hace el cálculo manejable. | Gottfried Leibniz
+ecuaciones-diferenciales | 1693 | C | Ecuaciones diferenciales | notacion-leibniz | Separación de variables y primeros métodos. | Jacob y Johann Bernoulli
+manual-calculo | 1696 | S | Primer manual de cálculo | notacion-leibniz, imprenta | Analyse des infiniment petits, con la regla de L'Hôpital. | Guillaume de l'Hôpital
+series-taylor | 1715 | C | Series de Taylor | calculo | Toda función suave como suma de potencias. | Brook Taylor
+calculo-variaciones | 1744 | C | Cálculo de variaciones | ecuaciones-diferenciales | Hallar la curva que hace mínima una cantidad. | Leonhard Euler
+ecuacion-ondas | 1747 | C | Ecuación de ondas | ecuaciones-diferenciales | Primera ecuación en derivadas parciales, para la cuerda vibrante. | Jean d'Alembert
+limite-riguroso | 1821 | C | Definición rigurosa de límite | series-taylor | Cours d'analyse: continuidad y convergencia sin infinitésimos. | Augustin Cauchy
+analisis-complejo | 1825 | C | Análisis complejo | complejos, limite-riguroso | Teorema integral de Cauchy. | Augustin Cauchy
+integral-riemann | 1854 | C | Integral de Riemann | limite-riguroso | Definición precisa del área bajo una curva. | Bernhard Riemann
+epsilon-delta | 1861 | C | Formulación épsilon-delta | limite-riguroso | El rigor definitivo del análisis. | Karl Weierstrass
+integral-lebesgue | 1902 | C | Integral de Lebesgue | integral-riemann, teoria-conjuntos | Medida e integración de funciones muy irregulares. | Henri Lebesgue
+espacio-hilbert | 1906 | C | Espacios de Hilbert | integral-lebesgue, espacios-vectoriales | Geometría en infinitas dimensiones. | David Hilbert
+analisis-funcional | 1922 | C | Análisis funcional | espacio-hilbert | Espacios de funciones normados. | Stefan Banach
+teoria-caos | 1963 | D | Caos determinista | ecuaciones-diferenciales, computador-transistores | Diferencias mínimas en el inicio crecen sin límite: el efecto mariposa. | Edward Lorenz
+@@ azar | Probabilidad y estadística
+juegos-azar-cardano | ~1564 | C | Libro de los juegos de azar | cubica | Primer cálculo sistemático de probabilidades. | Gerolamo Cardano
+esperanza-huygens | 1657 | C | Esperanza matemática | probabilidad | Primer tratado impreso de probabilidad. | Christiaan Huygens
+tablas-mortalidad | 1662 | T | Tablas de mortalidad | decimales | Estadística demográfica a partir de los registros de Londres. | John Graunt
+ley-grandes-numeros | 1713 | C | Ley de los grandes números | esperanza-huygens | La frecuencia observada converge a la probabilidad. | Jacob Bernoulli
+teorema-central-limite | 1810 | C | Teorema central del límite | distribucion-normal | La suma de muchos efectos pequeños tiende a la campana. | Pierre-Simon Laplace
+regresion | 1886 | C | Regresión y correlación | minimos-cuadrados | La «regresión a la media» en la herencia de la estatura. | Francis Galton
+ji-cuadrado | 1900 | T | Prueba ji-cuadrado | regresion | ¿Se ajustan los datos a lo esperado? | Karl Pearson
+cadenas-markov | 1906 | C | Cadenas de Márkov | ley-grandes-numeros | Procesos en que el futuro solo depende del presente. | Andréi Márkov
+t-student | 1908 | T | Distribución t de Student | ji-cuadrado | Inferencia con muestras pequeñas, ideada en la cervecera Guinness. | William Gosset
+diseno-experimentos | 1925 | T | Diseño de experimentos | t-student | Aleatorización, análisis de la varianza y significación. | Ronald Fisher
+axiomas-kolmogorov | 1933 | C | Axiomas de la probabilidad | integral-lebesgue, cadenas-markov | La probabilidad como teoría de la medida. | Andréi Kolmogórov
+metodo-monte-carlo | 1946 | T | Método de Montecarlo | eniac, axiomas-kolmogorov | Resolver problemas simulando el azar millones de veces. | Stanisław Ulam, John von Neumann
+@@ logica | Lógica
+paradojas-zenon | ~-450 | C | Paradojas de Zenón | demostracion | Aquiles y la tortuga: el infinito entra en la matemática. | Zenón de Elea
+logica-estoica | ~-280 | C | Lógica proposicional estoica | silogismo | Razonamientos con «si», «y», «o». | Crisipo
+arte-combinatoria | 1666 | C | Característica universal | silogismo, notacion-simbolica | El sueño de reducir el razonamiento a cálculo. | Gottfried Leibniz
+paradoja-russell | 1901 | D | Paradoja de Russell | teoria-conjuntos, logica-predicados | El conjunto de los conjuntos que no se contienen a sí mismos. | Bertrand Russell
+problemas-hilbert | 1900 | S | Los 23 problemas de Hilbert | fundamentos-hilbert | Programa de investigación para todo un siglo. | David Hilbert
+axiomas-zermelo | 1908 | C | Axiomas de la teoría de conjuntos | paradoja-russell | Sistema ZF, ampliado en 1922. | Ernst Zermelo, Abraham Fraenkel
+principia-mathematica | 1910 | C | Principia Mathematica | paradoja-russell, axiomas-peano | Intento de derivar toda la matemática de la lógica. | Bertrand Russell, Alfred Whitehead
+hipotesis-continuo | 1963 | D | Independencia de la hipótesis del continuo | axiomas-zermelo, incompletitud | Ni demostrable ni refutable desde ZFC. | Paul Cohen
+logica-difusa | 1965 | C | Lógica difusa | algebra-boole | Grados de verdad entre 0 y 1. | Lotfi Zadeh
+np-completitud | 1971 | C | NP-completitud | maquina-turing | Una familia de problemas tan difíciles como cualquier otro verificable. | Stephen Cook, Leonid Levin

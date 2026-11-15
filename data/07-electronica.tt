@@ -10,7 +10,7 @@ regeneracion | 1912 | I | Circuito regenerativo y oscilador | triodo | Realiment
 rectificador-cristal | 1874 | D | Rectificación en cristales | galvanometro | Contacto de punta sobre galena. | Ferdinand Braun
 czochralski | 1916 | T | Crecimiento de monocristales | termoelectricidad | Tirar de un germen desde el fundido. | Jan Czochralski
 teoria-bandas | 1931 | C | Teoría de bandas de los semiconductores | ecuacion-schrodinger | Explica conductores, aislantes y semiconductores. | Alan Wilson
-transistor | 1947 | I | Transistor de contacto puntual | rectificador-cristal, teoria-bandas, radar | Amplificación en germanio. | John Bardeen, Walter Brattain, William Shockley
+transistor | 1947-12-16 | I | Transistor de contacto puntual | rectificador-cristal, teoria-bandas, radar | Amplificación en germanio. | John Bardeen, Walter Brattain, William Shockley
 transistor-union | 1951 | I | Transistor de unión | transistor, czochralski | Uniones p-n crecidas en el cristal. | William Shockley, Gordon Teal
 fusion-zonas | 1951 | T | Refinado por fusión de zonas | czochralski | Purezas de partes por mil millones. | William Pfann
 transistor-silicio | 1954 | I | Transistor de silicio | transistor-union, fusion-zonas | Soporta más temperatura que el germanio. | Morris Tanenbaum, Gordon Teal
@@ -22,14 +22,14 @@ mosfet | 1959 | I | MOSFET | oxido-pasivante | Transistor de efecto de campo met
 cmos | 1963 | I | Lógica CMOS | mosfet, proceso-planar | Pares complementarios de consumo mínimo. | Frank Wanlass
 dram | 1966 | I | Memoria DRAM | mosfet | Un transistor y un condensador por bit. | Robert Dennard
 ccd | 1969 | I | Sensor CCD | mosfet | Transferencia de carga: imagen digital. | Willard Boyle, George Smith
-microprocesador | 1971 | I | Microprocesador | circuito-integrado, mosfet, proceso-planar | Intel 4004: una CPU en un chip. | Federico Faggin, Ted Hoff, Masatoshi Shima
+microprocesador | 1971-11-15 | I | Microprocesador | circuito-integrado, mosfet, proceso-planar | Intel 4004: una CPU en un chip. | Federico Faggin, Ted Hoff, Masatoshi Shima
 memoria-flash | 1980 | I | Memoria flash | dram | No volátil y borrable por bloques. | Fujio Masuoka
 finfet | 1998 | I | Transistor FinFET | cmos | Canal en aleta rodeado por la puerta. | Chenming Hu
 litografia-euv | 2019 | T | Litografía ultravioleta extrema | fotolitografia, laser, finfet | Luz de 13,5 nm en producción en serie. |
 @@ laser | Láser y fotónica
 emision-estimulada | 1917 | C | Emisión estimulada | cuanto-planck, atomo-bohr | Un fotón induce la emisión de otro idéntico. | Albert Einstein
 maser | 1953 | I | Máser | emision-estimulada, radar | Amplificación de microondas. | Charles Townes
-laser | 1960 | I | Láser | maser | Rubí bombeado con lámpara de destello. | Theodore Maiman
+laser | 1960-05-16 | I | Láser | maser | Rubí bombeado con lámpara de destello. | Theodore Maiman
 laser-semiconductor | 1962 | I | Láser de semiconductor | laser, electroluminiscencia-gaas | Diodo de arseniuro de galio. | Robert Hall
 @@ calculo-mecanico | Cálculo mecánico
 abaco | ~-2400 | H | Ábaco | fichas-contables | Tablero de cuentas sumerio; después, griego, romano y chino. |
@@ -46,20 +46,20 @@ maquina-turing | 1936 | C | Máquina de Turing | incompletitud | Máquina abstra
 logica-conmutacion | 1937 | C | Álgebra de circuitos de conmutación | algebra-boole, rele | Los relés implementan lógica booleana. | Claude Shannon
 z3 | 1941 | I | Computador Z3 | logica-conmutacion, sistema-binario | Programable, binario, de relés. | Konrad Zuse
 colossus | 1944 | I | Colossus | triodo, logica-conmutacion | Electrónico, para criptoanálisis. | Tommy Flowers
-eniac | 1945 | I | ENIAC | triodo, tabuladora | Electrónico de propósito general. | John Mauchly, J. Presper Eckert
+eniac | 1945-12 | I | ENIAC | triodo, tabuladora | Electrónico de propósito general. | John Mauchly, J. Presper Eckert
 arquitectura-von-neumann | 1945 | C | Programa almacenado | eniac, maquina-turing | Instrucciones y datos en la misma memoria. | John von Neumann
-manchester-baby | 1948 | I | Primer computador de programa almacenado | arquitectura-von-neumann, tubo-rayos-catodicos | Memoria de tubos Williams. | Frederic Williams, Tom Kilburn
+manchester-baby | 1948-06 | I | Primer computador de programa almacenado | arquitectura-von-neumann, tubo-rayos-catodicos | Memoria de tubos Williams. | Frederic Williams, Tom Kilburn
 teoria-informacion | 1948 | C | Teoría de la información | logica-conmutacion, probabilidad | El bit y la capacidad de canal. | Claude Shannon
 memoria-nucleos | 1951 | I | Memoria de núcleos magnéticos | manchester-baby | Anillos de ferrita magnetizados en uno u otro sentido: memoria fiable de acceso aleatorio. | An Wang, Jay Forrester
 disco-duro | 1956 | I | Disco duro | memoria-nucleos, cinta-magnetica | IBM 350 RAMAC: cincuenta discos magnéticos giratorios con cabezal móvil. | Reynold Johnson
 computador-transistores | 1955 | I | Computador transistorizado | transistor-union, manchester-baby | El transistor sustituye a la válvula: máquinas más pequeñas, frías y fiables (TRADIC, Harwell CADET).
 miniordenador | 1965 | I | Miniordenador | computador-transistores, circuito-integrado | PDP-8: un computador del tamaño de un armario al alcance de un laboratorio.
-ordenador-personal | 1977 | I | Ordenador personal | microprocesador, dram | Apple II, TRS-80, PET; antes, el Altair 8800. | Steve Wozniak
+ordenador-personal | 1977-06 | I | Ordenador personal | microprocesador, dram | Apple II, TRS-80, PET; antes, el Altair 8800. | Steve Wozniak
 interfaz-grafica | 1973 | I | Interfaz gráfica de usuario | raton, miniordenador | Xerox Alto: ventanas, iconos, mapa de bits. | Alan Kay, Charles Thacker
 raton | 1964 | I | Ratón | tubo-rayos-catodicos, tiempo-compartido | Dispositivo de mano con ruedas que mueve un puntero en la pantalla. | Douglas Engelbart, Bill English
 tiempo-compartido | 1961 | S | Tiempo compartido | computador-transistores | Varios usuarios interactivos en una máquina: CTSS. | Fernando Corbató
-telefono-inteligente | 2007 | I | Teléfono inteligente táctil | gsm, memoria-flash, bateria-litio, interfaz-grafica, gps | Pantalla capacitiva multitáctil. |
-gps | 1995 | S | GPS operativo | reloj-atomico, sputnik, relatividad-general | Constelación completa de 24 satélites. |
+telefono-inteligente | 2007-06-29 | I | Teléfono inteligente táctil | gsm, memoria-flash, bateria-litio, interfaz-grafica, gps | Pantalla capacitiva multitáctil. |
+gps | 1995-04 | S | GPS operativo | reloj-atomico, sputnik, relatividad-general | Constelación completa de 24 satélites. |
 computacion-cuantica | 1994 | C | Algoritmo de Shor | ecuacion-schrodinger, maquina-turing, rsa | Factorización eficiente en un computador cuántico. | Peter Shor
 ventaja-cuantica | 2019 | D | Ventaja cuántica experimental | computacion-cuantica, superconductividad | Procesador Sycamore de 53 cúbits. |
 @@ software | Software
@@ -72,17 +72,17 @@ lenguaje-c | 1972 | I | Lenguaje C | unix | Lenguaje estructurado cercano a la m
 base-relacional | 1970 | C | Modelo relacional | disco-duro, teoria-conjuntos | Datos en tablas y álgebra relacional; origen de SQL. | Edgar Codd
 clave-publica | 1976 | C | Criptografía de clave pública | teoria-informacion | Intercambio de claves sin secreto previo. | Whitfield Diffie, Martin Hellman
 rsa | 1977 | I | RSA | clave-publica | Cifrado basado en la factorización. | Ron Rivest, Adi Shamir, Leonard Adleman
-linux | 1991 | I | Linux | unix, lenguaje-c, internet | Núcleo de sistema operativo libre desarrollado en colaboración a través de internet. | Linus Torvalds
+linux | 1991-09 | I | Linux | unix, lenguaje-c, internet | Núcleo de sistema operativo libre desarrollado en colaboración a través de internet. | Linus Torvalds
 @@ redes | Redes
 conmutacion-paquetes | 1964 | C | Conmutación de paquetes | teoria-informacion, tiempo-compartido | Mensajes troceados y encaminados por separado. | Paul Baran, Donald Davies
-arpanet | 1969 | S | ARPANET | conmutacion-paquetes, miniordenador | Red de conmutación de paquetes que une cuatro universidades de EE. UU. | Lawrence Roberts
-correo-electronico | 1971 | I | Correo electrónico en red | arpanet | Mensajes entre usuarios de distintas máquinas, con la dirección usuario@máquina. | Ray Tomlinson
+arpanet | 1969-10-29 | S | ARPANET | conmutacion-paquetes, miniordenador | Red de conmutación de paquetes que une cuatro universidades de EE. UU. | Lawrence Roberts
+correo-electronico | 1971-10 | I | Correo electrónico en red | arpanet | Mensajes entre usuarios de distintas máquinas, con la dirección usuario@máquina. | Ray Tomlinson
 ethernet | 1973 | I | Ethernet | arpanet | Red local por cable compartido con detección de colisiones; Xerox PARC. | Robert Metcalfe
 internet | 1974 | S | TCP/IP | arpanet | Protocolo de interconexión de redes; adoptado en 1983. | Vinton Cerf, Robert Kahn
-web | 1990 | I | World Wide Web | internet, interfaz-grafica | Documentos enlazados por hipertexto sobre internet: HTTP, HTML y URL; CERN. | Tim Berners-Lee
+web | 1990-12 | I | World Wide Web | internet, interfaz-grafica | Documentos enlazados por hipertexto sobre internet: HTTP, HTML y URL; CERN. | Tim Berners-Lee
 navegador-grafico | 1993 | I | Navegador gráfico | web | Mosaic muestra texto e imágenes en la misma página y populariza la web. | Marc Andreessen
 wifi | 1997 | S | Wi-Fi | ethernet, cmos | Red local inalámbrica por radio según la norma IEEE 802.11.
-buscador | 1998 | I | Buscador por enlaces | navegador-grafico | PageRank ordena las páginas según los enlaces que reciben. | Larry Page, Sergey Brin
+buscador | 1998-09 | I | Buscador por enlaces | navegador-grafico | PageRank ordena las páginas según los enlaces que reciben. | Larry Page, Sergey Brin
 @@ ia | Inteligencia artificial
 neurona-artificial | 1943 | C | Neurona artificial | logica-conmutacion | Modelo lógico de la neurona. | Warren McCulloch, Walter Pitts
 perceptron | 1958 | I | Perceptrón | neurona-artificial, computador-transistores | Clasificador que aprende. | Frank Rosenblatt
@@ -90,9 +90,9 @@ retropropagacion | 1986 | T | Retropropagación | perceptron, calculo | Gradient
 red-convolucional | 1989 | I | Red convolucional | retropropagacion | Reconocimiento de dígitos. | Yann LeCun
 lstm | 1997 | I | LSTM | retropropagacion | Memoria a largo plazo en redes recurrentes. | Sepp Hochreiter, Jürgen Schmidhuber
 gpu | 1999 | I | Procesador gráfico (GPU) | cmos, ordenador-personal | Cálculo paralelo masivo. |
-alexnet | 2012 | D | Aprendizaje profundo en GPU | red-convolucional, gpu, web | Una red convolucional profunda entrenada en GPU gana ImageNet con gran ventaja. | Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
-alphago | 2016 | I | AlphaGo | alexnet | Vence a Lee Sedol al go. | Demis Hassabis, David Silver
-transformer | 2017 | I | Transformer | alexnet, lstm | Atención sin recurrencia. | Ashish Vaswani
+alexnet | 2012-09 | D | Aprendizaje profundo en GPU | red-convolucional, gpu, web | Una red convolucional profunda entrenada en GPU gana ImageNet con gran ventaja. | Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
+alphago | 2016-03 | I | AlphaGo | alexnet | Vence a Lee Sedol al go. | Demis Hassabis, David Silver
+transformer | 2017-06 | I | Transformer | alexnet, lstm | Atención sin recurrencia. | Ashish Vaswani
 alphafold | 2020 | I | AlphaFold 2 | transformer, genoma-humano | Predice la estructura de las proteínas. | John Jumper, Demis Hassabis
 modelo-lenguaje | 2020 | I | Grandes modelos de lenguaje | transformer, gpu | Redes transformer entrenadas con enormes corpus de texto; GPT-3 y sucesores.
-asistente-conversacional | 2022 | I | Asistentes conversacionales generativos | modelo-lenguaje | Uso masivo de modelos de lenguaje. |
+asistente-conversacional | 2022-11-30 | I | Asistentes conversacionales generativos | modelo-lenguaje | Uso masivo de modelos de lenguaje. |

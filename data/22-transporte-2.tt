@@ -1,0 +1,167 @@
+@ transporte | Transporte | #6fb58e
+@@ ferrocarril | Ferrocarril
+cremallera-blenkinsop | 1812 | I | Locomotora de cremallera | locomotora | Primera locomotora rentable, en las minas de Middleton. | John Blenkinsop
+puffing-billy | 1813 | I | Locomotora de adherencia | locomotora | Prueba que las ruedas lisas bastan para arrastrar el tren. | William Hedley
+rail-laminado | 1820 | M | Raíl de hierro laminado | pudelado, rail-hierro | Carriles largos de hierro maleable que no se quiebran. | John Birkinshaw
+caldera-multitubular | 1827 | I | Caldera multitubular | vapor-alta-presion | Decenas de tubos de fuego multiplican la superficie de caldeo. | Marc Seguin
+liverpool-manchester | 1830-09 | S | Ferrocarril interurbano de viajeros | rocket, rail-laminado | Liverpool-Manchester: doble vía, horarios y solo locomotoras. |
+distribucion-stephenson | 1842 | I | Distribución de Stephenson | rocket | Mecanismo que invierte la marcha y regula la admisión de vapor. |
+telegrafo-ferroviario | 1839 | S | Telégrafo ferroviario | telegrafo-electrico, liverpool-manchester | Great Western: los trenes se coordinan por telégrafo. |
+ancho-internacional | 1846 | S | Ancho de vía normalizado | liverpool-manchester | La ley británica fija 1435 mm. |
+barcelona-mataro | 1848-10 | S | Primer ferrocarril de la península ibérica | liverpool-manchester | Línea Barcelona-Mataró. | Miquel Biada
+rail-acero | 1857 | M | Raíl de acero | convertidor-bessemer, rail-laminado | Dura diez veces más que el de hierro. | Robert Mushet
+coche-cama | 1865 | I | Coche cama | liverpool-manchester | Viajes nocturnos de largo recorrido. | George Pullman
+transcontinental | 1869-05 | S | Ferrocarril transcontinental | rail-acero, telegrafo-ferroviario | Unión de las costas de Estados Unidos en Promontory. |
+enganche-automatico | 1873 | I | Enganche automático | rail-acero | Acoplador de nudillo que evita miles de muertes de enganchadores. | Eli Janney
+cremallera-riggenbach | 1871 | I | Ferrocarril de cremallera de montaña | cremallera-blenkinsop | Vitznau-Rigi. | Niklaus Riggenbach
+locomotora-compound | 1876 | I | Locomotora compound | caldera-multitubular, segunda-ley | El vapor se expande dos veces. | Anatole Mallet
+tranvia-electrico | 1881 | I | Tranvía eléctrico | ferrocarril-electrico | Línea de Lichterfelde, en Berlín. | Werner von Siemens
+metro-electrico | 1890 | S | Metro eléctrico de tubo profundo | ferrocarril-electrico, tuneladora | City and South London Railway. |
+recalentador | 1898 | I | Recalentador de vapor | caldera-multitubular | Vapor seco: una cuarta parte menos de carbón. | Wilhelm Schmidt
+traccion-trifasica | 1899 | I | Tracción eléctrica en alterna | motor-induccion, ferrocarril-electrico | Línea Burgdorf-Thun. |
+locomotora-diesel | 1912 | I | Locomotora diésel | motor-diesel, locomotora-compound | Prototipo Sulzer-Diesel-Klose. |
+diesel-electrica | 1924 | I | Locomotora diésel-eléctrica | locomotora-diesel, motor-electrico | El motor mueve un generador y este los motores de tracción. |
+tren-aerodinamico | 1933 | I | Tren diésel aerodinámico | diesel-electrica | Fliegender Hamburger a 160 km/h. |
+record-mallard | 1938-07 | D | Récord de velocidad a vapor | recalentador | La Mallard alcanza 203 km/h. | Nigel Gresley
+talgo | 1942 | I | Tren articulado ligero | diesel-electrica, hall-heroult | Ruedas independientes y rodadura guiada. | Alejandro Goicoechea
+electrificacion-25kv | 1951 | S | Electrificación a 25 kV y 50 Hz | transmision-alterna, traccion-trifasica | La frecuencia industrial llega a la catenaria. |
+barra-larga-soldada | 1950 | T | Carril continuo soldado | rail-acero, horno-arco | Vía sin juntas. |
+tgv | 1981-09 | S | TGV | alta-velocidad, electrificacion-25kv | París-Lyon a 260 km/h con trenes articulados. |
+tren-pendular | 1988 | I | Tren pendular activo | talgo, microprocesador | La caja se inclina en las curvas: Pendolino. |
+eurotunel | 1994-05 | S | Túnel del Canal de la Mancha | tuneladora, tgv | Cincuenta kilómetros bajo el mar. |
+ave | 1992-04 | S | Alta velocidad española | tgv | Línea Madrid-Sevilla. |
+maglev-superconductor | 2015-04 | D | Récord de velocidad ferroviaria | maglev | El maglev japonés L0 alcanza 603 km/h. |
+tren-hidrogeno | 2018 | I | Tren de pila de combustible | pila-combustible, bateria-litio | Coradia iLint en servicio regular. |
+@@ automovil | Automóvil
+omnibus-vapor | 1831 | I | Ómnibus de vapor | vapor-alta-presion, carro-bueyes | Servicios regulares por carretera en Inglaterra. | Walter Hancock
+diferencial | 1827 | H | Diferencial | engranaje-reloj | Deja girar a distinta velocidad las ruedas de un mismo eje en curva. | Onésiphore Pecqueur
+macadan | 1820 | M | Firme de macadán | calzada | Capas de piedra machacada compactada. | John McAdam
+motocicleta | 1885 | I | Motocicleta | motor-rapido, bicicleta | Reitwagen: bastidor de madera con un motor de gasolina de un cilindro. | Gottlieb Daimler, Wilhelm Maybach
+asfalto | 1870 | M | Pavimento asfáltico | macadan, pozo-petroleo | Betún y áridos en caliente. | Edward de Smedt
+cambio-marchas | 1894 | H | Caja de cambios de engranajes desplazables | automovil, diferencial | Sistema Panhard: motor delante y tracción trasera. | Émile Levassor
+radiador-panal | 1900 | H | Radiador de panal | automovil | Mercedes 35 HP: el primer automóvil moderno. | Wilhelm Maybach
+freno-tambor | 1902 | H | Freno de tambor | automovil | Zapatas interiores expansivas. | Louis Renault
+camion | 1896 | I | Camión | automovil | Primer camión con motor de combustión. | Gottlieb Daimler
+ford-t | 1908-10 | I | Ford T | automovil, acero-aleado | Coche sencillo y robusto para las masas. | Henry Ford
+gasolina-etilada | 1921 | M | Gasolina con plomo | craqueo-termico | El tetraetilo de plomo evita el picado; prohibido décadas después por tóxico. | Thomas Midgley
+autopista | 1924 | S | Autopista | asfalto, hormigon-armado | Autostrada Milán-Lagos. | Piero Puricelli
+carroceria-autoportante | 1922 | I | Carrocería autoportante | automovil | Lancia Lambda. | Vincenzo Lancia
+traccion-delantera | 1934 | I | Tracción delantera en serie | carroceria-autoportante | Citroën Traction Avant. |
+cambio-automatico | 1939 | I | Cambio automático | cambio-marchas | Hydra-Matic. |
+motor-wankel | 1957 | I | Motor rotativo | ciclo-otto | Un rotor triangular en lugar de pistones. | Felix Wankel
+cinturon-tres-puntos | 1959 | I | Cinturón de tres puntos | carroceria-autoportante | Patente cedida libremente por Volvo. | Nils Bohlin
+inyeccion-electronica | 1967 | I | Inyección electrónica | carburador, transistor-silicio | Bosch D-Jetronic. |
+catalizador | 1975 | I | Catalizador de tres vías | platino-maleable, gasolina-etilada | Elimina CO, hidrocarburos y óxidos de nitrógeno. |
+abs | 1978 | I | Frenos antibloqueo | microprocesador, freno-tambor | ABS electrónico de Bosch. |
+airbag | 1981 | I | Airbag | microprocesador | Bolsa inflada por un generador pirotécnico. |
+navegador-coche | 1990 | I | Navegador para automóvil | satelite-comunicaciones, cd-rom | Mapas digitales a bordo. |
+control-estabilidad | 1995 | I | Control de estabilidad | abs | Frena cada rueda por separado para corregir el derrape. |
+conduccion-autonoma | 2005 | D | Vehículo autónomo en campo abierto | gps, maquinas-vectores-soporte, laser | Stanley completa el DARPA Grand Challenge. | Sebastian Thrun
+robotaxi | 2020 | S | Taxi sin conductor | conduccion-autonoma, alexnet | Servicio público sin persona al volante en Phoenix. |
+@@ naval | Navegación
+remo | ~-5500 | H | Remo y canalete | canoa-monoxila | Canaletes de madera neolíticos. |
+ancla-piedra | ~-3000 | H | Ancla de piedra | barca-juncos | Piedras perforadas con estacas. |
+barca-juncos | ~-3100 | I | Barcas de juncos | cuerda, cesteria | Haces de papiro atados; Nilo y Mesopotamia. |
+canoa-balancin | ~-1500 | I | Canoa con balancín | canoa-monoxila, vela | Flotador lateral que da estabilidad en alta mar; expansión austronesia. |
+navegacion-estelar | ~-1000 | T | Navegación polinesia | canoa-balancin | Rumbo por estrellas, oleaje y aves, sin instrumentos. |
+quilla | ~-1300 | H | Quilla y cuadernas | barco-tablas, bronce | Pecio de Uluburun. |
+birreme | ~-700 | I | Birreme | quilla | Dos órdenes de remos; fenicios. |
+faro | -280 | S | Faro | piramide-escalonada, espejo | Torre de más de cien metros con fuego y espejo en Alejandría.
+ancla-hierro | ~-500 | H | Ancla de hierro con cepo | forja | Brazos y cepo que hacen presa en el fondo. |
+drakkar | ~800 | I | Barco vikingo | quilla, forja | Tingladillo flexible y poco calado. |
+junco | ~200 | I | Junco con mamparos estancos | timon-codaste | Casco compartimentado y velas de sables. |
+coca | ~1150 | I | Coca hanseática | timon-codaste, drakkar | Carguero de un mástil y timón de codaste. |
+carraca | ~1400 | I | Carraca | coca, vela-latina | Tres o cuatro mástiles con aparejo mixto. |
+corredera | ~1574 | H | Corredera | carabela | Cordel con nudos para medir la velocidad. |
+galeon | ~1530 | I | Galeón | carraca, canon-bronce | Nave de guerra y carga de las flotas de Indias. |
+tornaviaje | 1565 | D | Tornaviaje del Pacífico | galeon, astrolabio-nautico | Ruta de vuelta de Filipinas a México. | Andrés de Urdaneta
+circunnavegacion | 1522-09 | D | Primera circunnavegación | carraca, astrolabio-nautico | La nao Victoria regresa a Sanlúcar. | Fernando de Magallanes, Juan Sebastián Elcano
+campana-buceo | 1690 | I | Campana de buceo con suministro de aire | bomba-vacio | Barriles lastrados renuevan el aire. | Edmond Halley
+sextante | 1757 | I | Sextante | octante | Arco de 60° para medir distancias lunares. | John Campbell
+forro-cobre | 1761 | T | Forro de cobre del casco | laminador | Protege la madera de la broma. |
+submarino-turtle | 1775 | I | Submarino de combate | campana-buceo, tornillo | Turtle: casco de madera para un hombre, con hélices a mano. | David Bushnell
+bote-salvavidas | 1790 | I | Bote salvavidas insumergible | barco-tablas | El Original, con corcho en la borda, rescata náufragos en la desembocadura del Tyne. | Henry Greathead
+clipper | 1845 | I | Clíper | forro-cobre | Veleros de carga muy finos y rápidos. |
+ictineo | 1859 | I | Submarino Ictíneo | submarino-turtle | Doble casco; el Ictíneo II lleva motor anaeróbico. | Narcís Monturiol
+canal-suez | 1869-11 | S | Canal de Suez | maquina-newcomen, esclusa | Une el Mediterráneo y el mar Rojo sin esclusas. | Ferdinand de Lesseps
+petrolero | 1886 | I | Buque petrolero | casco-hierro, pozo-petroleo | Glückauf: el casco es el tanque. |
+turbinia | 1897 | I | Buque de turbinas | turbina-vapor, helice | Turbinia alcanza 34 nudos. | Charles Parsons
+girocompas | 1908 | I | Girocompás | giroscopo, motor-electrico | Señala el norte verdadero. | Hermann Anschütz-Kaempfe
+buque-diesel | 1912 | I | Motonave oceánica | motor-diesel, casco-hierro | Selandia: primer gran buque oceánico de motores diésel.
+canal-panama | 1914-08 | S | Canal de Panamá | esclusa, hormigon-armado, dinamita | Esclusas que salvan 26 m de desnivel. |
+escafandra-autonoma | 1943 | I | Escafandra autónoma | vulcanizacion, acero-aleado | Regulador a demanda Aqua-Lung. | Jacques Cousteau, Émile Gagnan
+aerodeslizador | 1959 | I | Aerodeslizador | turbina-gas | SR.N1 cruza el canal de la Mancha. | Christopher Cockerell
+batiscafo-fosa | 1960-01 | D | Descenso a la fosa de las Marianas | acero-aleado | El batiscafo Trieste llega a 10.900 m. | Jacques Piccard, Don Walsh
+@@ aviacion | Aviación
+linterna-celeste | ~200 | I | Farolillo de aire caliente | papel, lampara-aceite | Globos de papel usados como señal militar en China. |
+globo-hidrogeno | 1783-12 | I | Globo de hidrógeno | globo, hidrogeno | Vuelo tripulado de Charles y Robert. | Jacques Charles
+paracaidas | 1797 | I | Paracaídas | globo, seda | Salto desde un globo sobre París. | André-Jacques Garnerin
+dirigible-vapor | 1852 | I | Dirigible con motor | globo-hidrogeno, vapor-alta-presion | Giffard recorre 27 km. | Henri Giffard
+cometa-celular | 1893 | I | Cometa celular | cometa | Estructura de caja estable. | Lawrence Hargrave
+aleron | 1904 | H | Alerón | avion | Superficie articulada de control lateral. | Robert Esnault-Pelterie
+motor-rotativo | 1908 | I | Motor rotativo Gnome | motor-rapido | Los cilindros giran con la hélice. | Laurent Seguin
+travesia-canal | 1909-07 | D | Travesía aérea del canal de la Mancha | avion | Blériot XI. | Louis Blériot
+hidroavion | 1910 | I | Hidroavión | avion | Despegue desde el agua. | Henri Fabre
+avion-metalico | 1915 | I | Avión enteramente metálico | avion, acero-aleado | Junkers J 1. | Hugo Junkers
+duraluminio | 1909 | M | Duraluminio | hall-heroult | Aleación de aluminio que endurece por envejecimiento. | Alfred Wilm
+piloto-automatico | 1914 | I | Piloto automático | giroscopo, avion | Estabilizador giroscópico. | Lawrence Sperry
+linea-aerea | 1919 | S | Líneas aéreas regulares | avion-metalico | KLM, Aeropostale. |
+atlantico-sin-escalas | 1919-06 | D | Travesía atlántica sin escalas | avion | Alcock y Brown en un Vickers Vimy. | John Alcock, Arthur Brown
+vuelo-instrumental | 1929 | T | Vuelo sin visibilidad | giroscopo, radio-voz | Despegue y aterrizaje solo con instrumentos. | James Doolittle
+helice-paso-variable | 1932 | H | Hélice de paso variable | avion-metalico | Palas que cambian de ángulo en vuelo. |
+dc-3 | 1935-12 | I | Douglas DC-3 | avion-metalico, duraluminio, helice-paso-variable | Primer avión comercial rentable solo con pasajeros. |
+primer-reactor | 1939-08 | D | Primer vuelo a reacción | turborreactor | Heinkel He 178. | Hans von Ohain
+asiento-eyectable | 1946 | I | Asiento eyectable | turborreactor | Martin-Baker. |
+ala-flecha | 1947 | H | Ala en flecha | tunel-viento, turborreactor | Retrasa la onda de choque. |
+turbohelice | 1948 | I | Turbohélice | turborreactor | Vickers Viscount. |
+turbofan | 1960 | I | Turbofán | turborreactor | Flujo secundario frío: más empuje y menos ruido. |
+boeing-707 | 1958-10 | I | Boeing 707 | reactor-comercial, ala-flecha | El reactor transoceánico se generaliza. |
+despegue-vertical | 1960 | I | Avión de despegue vertical | turbofan | Hawker P.1127, origen del Harrier. |
+boeing-747 | 1970-01 | I | Avión de fuselaje ancho | turbofan-alto-indice | Boeing 747. | Joe Sutter
+turbofan-alto-indice | 1968 | I | Turbofán de alto índice de derivación | turbofan | General Electric TF39 y Pratt & Whitney JT9D. |
+concorde | 1976-01 | I | Avión comercial supersónico | vuelo-supersonico, ala-flecha | Concorde en servicio a Mach 2. |
+mandos-electricos | 1972 | I | Mandos de vuelo electrónicos | computador-apolo, piloto-automatico | Un computador interpreta las órdenes del piloto. |
+computador-apolo | 1966 | I | Computador de guiado del Apolo | circuito-integrado | Primer computador de vuelo con circuitos integrados. | Charles Draper
+a320 | 1988 | I | Avión comercial de mandos electrónicos | mandos-electricos, turbofan-alto-indice | Airbus A320. |
+materiales-compuestos-avion | 2011 | I | Avión comercial de materiales compuestos | fibra-carbono, a320 | Boeing 787. |
+dron-cuadricoptero | 2010 | I | Dron cuadricóptero de consumo | bateria-litio, giroscopo-mems | Estabilizado por sensores y un microcontrolador. |
+giroscopo-mems | 1991 | I | Sensores inerciales microelectromecánicos | cmos, giroscopo | Acelerómetros y giróscopos tallados en silicio. |
+@@ espacio | Astronáutica
+cohete-etapas | 1929 | C | Cohete de varias etapas | ecuacion-cohete | Soltar masa muerta para alcanzar la órbita. | Konstantín Tsiolkovski
+r7 | 1957-08 | I | Cohete R-7 | v2, cohete-etapas | Primer misil intercontinental y lanzador del Sputnik. | Serguéi Koroliov
+laika | 1957-11 | D | Primer animal en órbita | sputnik | La perra Laika en el Sputnik 2. |
+explorer-1 | 1958-01 | D | Cinturones de Van Allen | sputnik, contador-geiger | Descubiertos por el Explorer 1. | James Van Allen
+luna-2 | 1959-09 | D | Primer impacto en la Luna | r7 | La sonda soviética Luna 2 se estrella junto al Mare Imbrium.
+luna-3 | 1959-10 | D | Cara oculta de la Luna | luna-2, pelicula-rollo | Fotografiada por Luna 3. |
+tiros-1 | 1960-04 | I | Satélite meteorológico | sputnik, television-electronica | TIROS-1 envía imágenes de televisión de las nubes.
+mariner-2 | 1962-12 | D | Primer sobrevuelo de otro planeta | luna-3, celula-silicio | Mariner 2 en Venus. |
+tereshkova | 1963-06 | D | Primera mujer en el espacio | vuelo-tripulado | Valentina Tereshkova en la Vostok 6. |
+syncom | 1964-08 | I | Satélite geoestacionario | satelite-comunicaciones | Syncom 3 retransmite los Juegos de Tokio. | Harold Rosen
+paseo-espacial | 1965-03 | D | Primer paseo espacial | vuelo-tripulado | Alekséi Leónov sale de la Vosjod 2. |
+mariner-4 | 1965-07 | D | Primeras imágenes cercanas de Marte | mariner-2 | Mariner 4. |
+acoplamiento-orbital | 1966-03 | T | Acoplamiento en órbita | vuelo-tripulado, radar | Gemini 8 y un vehículo Agena. |
+luna-9 | 1966-02 | D | Primer alunizaje suave | luna-3 | Luna 9 se posa y envía las primeras fotos desde la superficie.
+saturno-v | 1967-11 | I | Saturno V | r7, motor-hidrogeno | El mayor cohete del siglo XX. | Wernher von Braun
+motor-hidrogeno | 1963 | I | Motor cohete de hidrógeno líquido | motor-cohete-liquido, licuefaccion-aire | RL10 de la etapa Centaur. |
+apolo-8 | 1968-12 | D | Primera órbita lunar tripulada | saturno-v | Tres astronautas del Apolo 8 orbitan la Luna diez veces en Nochebuena.
+venera-7 | 1970-12 | D | Primer aterrizaje en otro planeta | mariner-2 | Venera 7 transmite desde la superficie de Venus. |
+lunojod | 1970-11 | I | Vehículo robótico lunar | luna-9 | Lunojod 1 recorre 10 km dirigido por radio desde la Tierra.
+mariner-9 | 1971-11 | D | Primera sonda en órbita de otro planeta | mariner-4 | Mariner 9 en Marte. |
+pioneer-10 | 1973-12 | D | Primer sobrevuelo de Júpiter | mariner-9, generador-radioisotopos | Pioneer 10. |
+skylab | 1973-05 | S | Skylab | saturno-v, estacion-espacial | Estación estadounidense. |
+viking | 1976-07 | D | Primer laboratorio en Marte | mariner-9 | Viking 1 aterriza, fotografía y busca vida en el suelo marciano.
+ariane | 1979-12 | I | Lanzador europeo Ariane | motor-hidrogeno | Primer vuelo desde Kurú. |
+mir | 1986-02 | S | Estación modular Mir | estacion-espacial, acoplamiento-orbital | Ocupada casi sin interrupción durante diez años. |
+giotto | 1986-03 | D | Sobrevuelo del cometa Halley | viking, ccd | Sonda Giotto. |
+galileo-sonda | 1995-12 | D | Sonda en órbita de Júpiter | pioneer-10 | Galileo estudia ocho años el planeta y suelta una sonda en su atmósfera.
+sojourner | 1997-07 | I | Vehículo robótico en Marte | viking, microprocesador | Sojourner, de 10 kg, recorre el entorno de la Mars Pathfinder.
+estacion-internacional | 1998-11 | S | Estación Espacial Internacional | mir, transbordador | Primer módulo, Zaryá. |
+cassini | 2004-07 | D | Sonda en órbita de Saturno | galileo-sonda | Cassini; la sonda Huygens desciende a Titán en 2005. |
+turismo-suborbital | 2004-06 | D | Primer vuelo espacial privado tripulado | motor-cohete-liquido, fibra-carbono | SpaceShipOne. | Burt Rutan
+curiosity | 2012-08 | I | Laboratorio móvil en Marte | sojourner, generador-radioisotopos | Curiosity, depositado con grúa aérea. |
+rosetta | 2014-11 | D | Aterrizaje en un cometa | giotto | El módulo Philae de Rosetta. |
+new-horizons | 2015-07 | D | Sobrevuelo de Plutón | pioneer-10 | New Horizons. |
+megaconstelacion | 2019 | S | Megaconstelación de satélites | cohete-reutilizable, satelite-comunicaciones | Starlink: miles de satélites en órbita baja. |
+capsula-comercial | 2020-05 | I | Cápsula tripulada comercial | cohete-reutilizable | Crew Dragon lleva astronautas a la estación. |
+ingenuity | 2021-04 | D | Primer vuelo con motor en otro planeta | curiosity, dron-cuadricoptero | Helicóptero Ingenuity en Marte. |
+telescopio-webb | 2021-12 | I | Telescopio espacial James Webb | telescopio-espacial, elemento-berilio | Espejo segmentado de 6,5 m para el infrarrojo. |

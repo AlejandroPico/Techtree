@@ -1,0 +1,121 @@
+@ electronica | Electrónica e informática | #5fa8d3
+@@ procesadores | Procesadores
+microprogramacion | 1951 | C | Microprogramación | manchester-baby | La unidad de control se construye como un pequeño programa almacenado. | Maurice Wilkes
+ibm-system-360 | 1964-04 | I | IBM System/360 | computador-transistores, microprogramacion | Familia de máquinas compatibles con una misma arquitectura y el byte de 8 bits. | Gene Amdahl, Fred Brooks
+cdc-6600 | 1964 | I | CDC 6600 | computador-transistores | Primer superordenador: diez veces más rápido que sus rivales. | Seymour Cray
+ley-moore | 1965-04 | C | Ley de Moore | circuito-integrado, proceso-planar | El número de componentes por chip se duplica a ritmo regular. | Gordon Moore
+memoria-cache | 1968 | I | Memoria caché | ibm-system-360, memoria-nucleos | Una memoria pequeña y rápida guarda lo más usado; IBM System/360 modelo 85. | Maurice Wilkes
+intel-8008 | 1972-04 | I | Intel 8008 | microprocesador | Primer microprocesador de 8 bits. |
+intel-8080 | 1974-04 | I | Intel 8080 | intel-8008 | CPU de 8 bits del Altair 8800. | Federico Faggin, Masatoshi Shima
+escalado-dennard | 1974 | C | Escalado de Dennard | mosfet, ley-moore | Al reducir el transistor, baja la tensión y la densidad de potencia se mantiene. | Robert Dennard
+motorola-6800 | 1974 | I | Motorola 6800 | microprocesador | CPU de 8 bits con una sola tensión de alimentación. |
+mos-6502 | 1975 | I | MOS 6502 | motorola-6800 | CPU de 25 dólares del Apple II, el Commodore 64 y la NES. | Chuck Peddle
+zilog-z80 | 1976-07 | I | Zilog Z80 | intel-8080 | Compatible con el 8080 y más integrado; base de CP/M y del Spectrum. | Federico Faggin
+cray-1 | 1976 | I | Cray-1 | cdc-6600, circuito-integrado | Superordenador vectorial refrigerado por freón. | Seymour Cray
+intel-8086 | 1978-06 | I | Intel 8086 | intel-8080 | CPU de 16 bits que inaugura la arquitectura x86. |
+motorola-68000 | 1979 | I | Motorola 68000 | motorola-6800 | CPU de 16/32 bits del Macintosh, el Amiga y el Atari ST. |
+intel-8088 | 1979 | I | Intel 8088 | intel-8086 | 8086 con bus de 8 bits: el procesador del IBM PC. |
+ibm-pc | 1981-08 | I | IBM PC | intel-8088, ms-dos, bus-isa | Arquitectura abierta que se convierte en estándar de la industria. | Don Estridge
+intel-8087 | 1980 | I | Coprocesador matemático 8087 | intel-8086 | Coma flotante por hardware; base de la norma IEEE 754. | William Kahan
+vlsi-mead-conway | 1980 | T | Diseño VLSI de Mead y Conway | cmos, ley-moore | Reglas de diseño simples que separan el diseño del chip de su fabricación. | Carver Mead, Lynn Conway
+arquitectura-risc | 1981 | C | Arquitectura RISC | ibm-system-360, vlsi-mead-conway | Pocas instrucciones simples y rápidas: IBM 801, Berkeley RISC y Stanford MIPS. | John Cocke, David Patterson, John Hennessy
+intel-80286 | 1982-02 | I | Intel 80286 | intel-8086 | Modo protegido y 16 MB de memoria. |
+dsp | 1983 | I | Procesador digital de señal | microprocesador, transformada-rapida-fourier | TMS32010: multiplicador rápido para audio y telecomunicación. |
+ieee-754 | 1985 | S | Norma IEEE 754 de coma flotante | intel-8087 | Mismo resultado aritmético en cualquier máquina. | William Kahan
+fpga | 1985 | I | FPGA | cmos, memoria-estatica | Xilinx XC2064: lógica reconfigurable por el usuario. | Ross Freeman
+intel-80386 | 1985-10 | I | Intel 80386 | intel-80286 | x86 de 32 bits con memoria virtual paginada. |
+arm1 | 1985-04 | I | ARM1 | arquitectura-risc, mos-6502 | Procesador RISC de Acorn, de bajísimo consumo. | Sophie Wilson, Steve Furber
+mips-r2000 | 1985 | I | MIPS R2000 | arquitectura-risc | Primer RISC comercial de MIPS. | John Hennessy
+sparc | 1987 | I | SPARC | arquitectura-risc | RISC de Sun con ventanas de registros. |
+intel-80486 | 1989-04 | I | Intel 80486 | intel-80386, memoria-cache, intel-8087 | Caché y coma flotante integradas; más de un millón de transistores. |
+dec-alpha | 1992 | I | DEC Alpha | arquitectura-risc | Primer microprocesador de 64 bits de alto rendimiento. |
+powerpc | 1992 | I | PowerPC | arquitectura-risc | RISC de IBM, Apple y Motorola. |
+pentium | 1993-03 | I | Intel Pentium | intel-80486 | Superescalar: dos instrucciones por ciclo. |
+pentium-pro | 1995-11 | I | Pentium Pro | pentium, arquitectura-risc | Ejecución fuera de orden y microoperaciones (núcleo P6). |
+mmx | 1997-01 | I | Instrucciones MMX | pentium | Instrucciones vectoriales para multimedia; después SSE y AVX. |
+interconexion-cobre | 1997 | T | Interconexiones de cobre | cmos, galvanoplastia | El cobre sustituye al aluminio en el cableado del chip. |
+athlon | 1999-06 | I | AMD Athlon | pentium-pro | Primer x86 en alcanzar 1 GHz, en marzo de 2000. |
+pentium-4 | 2000-11 | I | Pentium 4 | pentium-pro | Canalización muy larga para subir la frecuencia; topa con el calor. |
+hyper-threading | 2002 | I | Multihilo simultáneo | pentium-4 | Un núcleo ejecuta dos hilos a la vez. |
+x86-64 | 2003-04 | I | x86-64 | athlon | AMD extiende x86 a 64 bits en el Opteron y el Athlon 64. |
+silicio-tensado | 2003 | T | Silicio tensado | cmos | Deformar la red cristalina acelera los portadores; nodo de 90 nm. |
+doble-nucleo | 2005 | I | Procesadores multinúcleo | x86-64, escalado-dennard | Agotado el aumento de frecuencia, se añaden núcleos. |
+cortex-a8 | 2005 | I | ARM Cortex-A8 | arm1 | Núcleo superescalar para teléfonos inteligentes. |
+core-2 | 2006-07 | I | Intel Core 2 | pentium-pro, doble-nucleo | Vuelta a un diseño eficiente tras el Pentium 4. |
+puerta-metalica-alto-k | 2007 | T | Dieléctrico de alto k y puerta metálica | cmos, elemento-hafnio | Óxido de hafnio en lugar de SiO2; nodo de 45 nm. |
+nehalem | 2008-11 | I | Intel Core i7 (Nehalem) | core-2, hyper-threading | Controlador de memoria integrado y turbo. |
+risc-v | 2010 | I | RISC-V | arquitectura-risc | Juego de instrucciones abierto y libre de licencias. | Krste Asanović, David Patterson
+apple-a4 | 2010 | I | Sistema en chip para móviles | cortex-a8, memoria-nand | CPU, gráficos y memoria en un solo encapsulado. |
+finfet-produccion | 2011 | T | FinFET en producción | finfet, puerta-metalica-alto-k | Transistores tridimensionales en el nodo de 22 nm. |
+armv8 | 2011 | I | ARM de 64 bits | cortex-a8 | Arquitectura ARMv8; el A7 de Apple la estrena en un teléfono en 2013. |
+ryzen | 2017-03 | I | AMD Ryzen (Zen) | x86-64, finfet-produccion | Devuelve la competencia en x86 con muchos núcleos. |
+apple-m1 | 2020-11 | I | Apple M1 | armv8, litografia-euv | ARM de sobremesa a 5 nm con memoria unificada. |
+transistor-gaa | 2022 | T | Transistor de puerta envolvente | finfet-produccion, litografia-euv | Nanoláminas rodeadas por la puerta; nodo de 3 nm. |
+@@ fabricacion | Fabricación de chips
+epitaxia | 1960 | T | Epitaxia en fase vapor | transistor-silicio | Capas cristalinas crecidas sobre la oblea. |
+implantacion-ionica | 1970 | T | Implantación iónica | ciclotron, proceso-planar | Dopado disparando iones acelerados contra la oblea. |
+spice | 1973 | I | Simulador de circuitos SPICE | fortran, circuito-integrado | Simula el circuito antes de fabricarlo. | Laurence Nagel
+stepper | 1978 | H | Fotorrepetidora (stepper) | fotolitografia | Proyecta y repite el patrón campo a campo sobre la oblea. |
+laser-excimero-litografia | 1982 | T | Litografía con láser de excímero | stepper, laser | Ultravioleta profundo de 248 y 193 nm. | Kanti Jain
+verilog | 1984 | I | Lenguajes de descripción de hardware | vlsi-mead-conway, lenguaje-c | Verilog y VHDL: el chip se escribe como código. |
+planarizacion-cmp | 1989 | T | Pulido químico-mecánico | cmos | Aplana cada capa para poder apilar muchas. |
+litografia-inmersion | 2004 | T | Litografía de inmersión | laser-excimero-litografia | Agua entre lente y oblea: más resolución con 193 nm. |
+@@ memorias | Memorias y almacenamiento
+tambor-magnetico | 1932 | I | Tambor magnético | cinta-magnetica | Cilindro giratorio recubierto de material magnético. | Gustav Tauschek
+linea-retardo | 1947 | I | Línea de retardo de mercurio | radar | Los bits circulan como pulsos sonoros en un tubo de mercurio. | J. Presper Eckert
+tubo-williams | 1947 | I | Tubo de Williams | tubo-rayos-catodicos | Bits como puntos de carga en una pantalla: primera memoria de acceso aleatorio. | Frederic Williams, Tom Kilburn
+codigo-hamming | 1950 | C | Códigos correctores de errores | teoria-informacion | Bits redundantes que detectan y corrigen fallos. | Richard Hamming
+cinta-datos | 1951 | I | Cinta magnética de datos | cinta-magnetica, eniac | UNISERVO del UNIVAC I. |
+prom | 1956 | I | Memoria PROM | memoria-nucleos | Se programa una sola vez fundiendo fusibles. | Wen Tsing Chow
+memoria-virtual | 1962 | I | Memoria virtual | tambor-magnetico, computador-transistores | El computador Atlas pagina entre memoria principal y tambor. | Tom Kilburn
+memoria-estatica | 1969 | I | Memoria SRAM integrada | circuito-integrado | Intel 3101: 64 bits. |
+intel-1103 | 1970-10 | I | Intel 1103 | dram, mosfet | DRAM de 1 kilobit que desplaza a los núcleos magnéticos. |
+disquete | 1971 | I | Disquete de 8 pulgadas | disco-duro | Disco flexible extraíble de IBM. | Alan Shugart
+eprom | 1971 | I | Memoria EPROM | mosfet | Puerta flotante; se borra con luz ultravioleta. | Dov Frohman
+disco-winchester | 1973 | I | Disco Winchester | disco-duro | Cabezales y platos sellados (IBM 3340). |
+disquete-5 | 1976 | I | Disquete de 5¼ pulgadas | disquete | Formato de los primeros ordenadores personales. |
+eeprom | 1978 | I | Memoria EEPROM | eprom | Borrable eléctricamente. | George Perlegos
+disco-5-pulgadas | 1980 | I | Disco duro de 5¼ pulgadas | disco-winchester | Seagate ST-506 de 5 MB para microordenadores. |
+disquete-3 | 1981 | I | Disquete de 3½ pulgadas | disquete-5 | Carcasa rígida de Sony. |
+simm | 1983 | I | Módulo de memoria SIMM | intel-1103 | Chips de memoria sobre una plaquita enchufable. |
+cd-rom | 1985 | I | CD-ROM | disco-compacto | 650 MB de datos en un disco óptico. |
+memoria-nand | 1987 | I | Flash NAND | memoria-flash | Celdas en serie: máxima densidad para almacenamiento. | Fujio Masuoka
+raid | 1988 | I | RAID | disco-winchester, codigo-hamming | Varios discos baratos funcionando como uno fiable. | David Patterson, Garth Gibson, Randy Katz
+magnetorresistencia-gigante | 1988 | D | Magnetorresistencia gigante | ecuacion-schrodinger, disco-duro | Capas magnéticas nanométricas cuya resistencia cambia con el campo: cabezales mucho más sensibles. | Albert Fert, Peter Grünberg
+ssd | 1991 | I | Unidad de estado sólido | memoria-nand | Módulo flash de 20 MB de SanDisk con interfaz de disco. |
+sdram | 1992 | I | SDRAM | intel-1103, simm | Memoria síncrona con el reloj del sistema. |
+compactflash | 1994 | I | Tarjetas de memoria flash | memoria-nand | CompactFlash; después SD (1999) y microSD. |
+dvd | 1996-11 | I | DVD | cd-rom, laser-semiconductor | 4,7 GB con láser rojo de 650 nm. |
+memoria-usb | 2000 | I | Memoria USB | memoria-nand, usb | Lápiz de memoria flash. |
+ddr-sdram | 2000-06 | I | DDR SDRAM | sdram | Transfiere en ambos flancos del reloj. |
+ddr2 | 2003 | I | DDR2 | ddr-sdram | 1,8 V y hasta 800 MHz. |
+grabacion-perpendicular | 2005 | T | Grabación magnética perpendicular | magnetorresistencia-gigante | Bits de pie en lugar de tumbados. |
+blu-ray | 2006 | I | Blu-ray | dvd, led-azul | 25 GB por capa con láser violeta de 405 nm. |
+ddr3 | 2007 | I | DDR3 | ddr2 | Tensión de 1,5 V y el doble de velocidad que DDR2.
+nvme | 2011 | S | NVMe | ssd, pci-express | Protocolo pensado para flash, sin la herencia del disco. |
+nand-3d | 2013 | T | NAND 3D | memoria-nand | Celdas apiladas en decenas de capas verticales. |
+hbm | 2013 | I | Memoria de gran ancho de banda (HBM) | ddr3, interconexion-cobre | Chips DRAM apilados y unidos por vías a través del silicio. |
+ddr4 | 2014 | I | DDR4 | ddr3 | 1,2 V y módulos de mayor capacidad. |
+ddr5 | 2020-07 | I | DDR5 | ddr4 | Regulación de tensión en el propio módulo. |
+@@ graficos | Gráficos y aceleradores
+sketchpad | 1963 | I | Sketchpad | tubo-rayos-catodicos, computador-transistores | Dibujo interactivo con lápiz óptico: nace la infografía. | Ivan Sutherland
+transformada-rapida-fourier | 1965 | C | Transformada rápida de Fourier | series-fourier, fortran | Algoritmo que hace práctico el análisis espectral digital. | James Cooley, John Tukey
+framebuffer | 1973 | I | Memoria de imagen (framebuffer) | intel-1103, sketchpad | Cada píxel de la pantalla, un valor en memoria; SuperPaint. | Richard Shoup
+z-buffer | 1974 | C | Z-buffer y mapeado de texturas | framebuffer | Profundidad por píxel e imágenes pegadas sobre superficies. | Edwin Catmull
+transformada-coseno | 1974 | C | Transformada discreta del coseno | transformada-rapida-fourier | Base de JPEG, MPEG y casi todo el vídeo digital. | Nasir Ahmed
+sombreado-phong | 1975 | C | Sombreado de Phong | z-buffer | Brillos especulares interpolando normales. | Bui Tuong Phong
+trazado-rayos | 1980 | C | Trazado de rayos recursivo | sombreado-phong | Reflejos, refracciones y sombras siguiendo rayos de luz. | Turner Whitted
+motor-geometria | 1981 | I | Geometry Engine | vlsi-mead-conway, z-buffer | Chip que transforma vértices; origen de Silicon Graphics. | James Clark
+vga | 1987 | S | VGA | framebuffer, ibm-pc | 640 × 480 píxeles y 256 colores. |
+jpeg | 1992 | S | JPEG | transformada-coseno | Compresión de fotografías con pérdida. |
+opengl | 1992 | S | OpenGL | motor-geometria | Interfaz de programación gráfica multiplataforma. |
+mpeg | 1993 | S | MPEG-1 y MP3 | transformada-coseno | Vídeo y audio comprimidos. | Karlheinz Brandenburg
+directx | 1995 | S | DirectX | windows-95 | Acceso directo al hardware gráfico en Windows. |
+voodoo | 1996 | I | 3dfx Voodoo | opengl, pentium | Aceleradora 3D de consumo. |
+sombreadores | 2001 | I | Sombreadores programables | gpu | GeForce 3: el programador escribe el cálculo de cada vértice y píxel. |
+h264 | 2003 | S | H.264 | mpeg | Códec de vídeo de la alta definición y el streaming. |
+cuda | 2007 | I | CUDA | sombreadores, lenguaje-c | Programar la GPU para cálculo general. | Ian Buck
+opencl | 2009 | S | OpenCL | cuda | Cálculo heterogéneo abierto. |
+tpu | 2016-05 | I | Tensor Processing Unit | alexnet, cmos | Chip de Google específico para redes neuronales. |
+nucleos-tensor | 2017 | I | Núcleos tensoriales | cuda, alexnet | GPU Volta: multiplicación de matrices en precisión mixta. |
+trazado-rayos-tiempo-real | 2018 | I | Trazado de rayos en tiempo real | trazado-rayos, nucleos-tensor | GeForce RTX: rayos acelerados por hardware y reducción de ruido por IA. |

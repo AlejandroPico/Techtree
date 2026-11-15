@@ -3,19 +3,23 @@ export const KINDS: Kind[] = ['descubrimiento', 'invento', 'tecnica', 'material'
 export interface Domain { id: string; name: string; color: string }
 export interface Subdomain { id: string; domain: string; name: string }
 export interface Tech {
-  id: string; name: string; year: number; approx: boolean; kind: Kind; domain: string; sub: string;
+  id: string; name: string; year: number; /** fecha exacta opcional: AAAA-MM o AAAA-MM-DD */ date?: string; /** posición temporal en años decimales */ t: number; approx: boolean; kind: Kind; domain: string; sub: string;
   summary: string; people: string; requires: string[];
   /** índices resueltos */ i: number; req: number[]; enables: number[]; subIndex: number; domainIndex: number;
 }
 export interface Tree { domains: Domain[]; subs: Subdomain[]; nodes: Tech[]; byId: Map<string, Tech>; presentYear: number }
 
+const DAYS = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+/** Fracción de año de una fecha AAAA-MM(-DD): los meses ocupan doceavos iguales, como en la regla. */
+export function dateFraction(date?: string) { if (!date) return 0; const [, m, d] = date.split('-').map(Number); return ((m - 1) + ((d || 1) - 1) / DAYS[m - 1]) / 12; }
+export { DAYS };
 export async function loadTree(base: string): Promise<Tree> {
   const raw = await (await fetch(base + 'data/techtree.json')).json();
   return link(raw.domains, raw.subdomains, raw.nodes);
 }
 export function link(domains: Domain[], subs: Subdomain[], nodes: Tech[]): Tree {
   const byId = new Map<string, Tech>(), subIndex = new Map(subs.map((s, i) => [s.id, i])), domIndex = new Map(domains.map((d, i) => [d.id, i]));
-  nodes.forEach((n, i) => { n.i = i; n.req = []; n.enables = []; n.subIndex = subIndex.get(n.sub)!; n.domainIndex = domIndex.get(n.domain)!; byId.set(n.id, n); });
+  nodes.forEach((n, i) => { n.i = i; n.t = n.year + dateFraction(n.date); n.req = []; n.enables = []; n.subIndex = subIndex.get(n.sub)!; n.domainIndex = domIndex.get(n.domain)!; byId.set(n.id, n); });
   for (const n of nodes) for (const r of n.requires) { const p = byId.get(r); if (p) { n.req.push(p.i); p.enables.push(n.i); } }
   return { domains, subs, nodes, byId, presentYear: new Date().getFullYear() };
 }

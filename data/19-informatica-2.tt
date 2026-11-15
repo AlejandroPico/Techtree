@@ -1,0 +1,181 @@
+@ electronica | Electrónica e informática | #5fa8d3
+@@ perifericos | Buses, periféricos y pantallas
+escaner | 1957 | I | Escáner de imagen | tubo-rayos-catodicos, computador-transistores | Primera imagen digitalizada, de 176 × 176 píxeles. | Russell Kirsch
+rs-232 | 1960 | S | Puerto serie RS-232 | computador-transistores | Norma para conectar terminales y módems. |
+modem | 1962 | I | Módem comercial | central-telefonica, computador-transistores | Bell 103: datos a 300 bits por segundo por la línea telefónica. |
+pantalla-plasma | 1964 | I | Pantalla de plasma | lampara-neon | Celdas de gas que se iluminan una a una. | Donald Bitzer, Gene Slottow
+pantalla-tactil | 1965 | I | Pantalla táctil capacitiva | tubo-rayos-catodicos | El dedo altera la capacidad eléctrica de una lámina transparente. | Eric Johnson
+impresora-matricial | 1970 | I | Impresora matricial | maquina-escribir, microprogramacion | Agujas que forman cada letra con puntos. |
+pantalla-lcd | 1971 | I | Pantalla de cristal líquido | macromoleculas, proceso-planar | Efecto nemático torcido: el cristal gira la luz polarizada según la tensión. | Wolfgang Helfrich, Martin Schadt, James Fergason
+impresora-laser | 1971 | I | Impresora láser | xerografia, laser | Un láser dibuja la página sobre el tambor xerográfico. | Gary Starkweather
+lcd-matriz-activa | 1973 | I | LCD de matriz activa (TFT) | pantalla-lcd, mosfet | Un transistor de película fina por píxel. | Peter Brody
+codigo-barras | 1974-06 | S | Código de barras UPC | laser, miniordenador | Primer producto escaneado en un supermercado de Ohio. | Norman Woodland, George Laurer
+bus-s100 | 1975 | S | Bus S-100 | intel-8080 | Bus de expansión del Altair, adoptado por decenas de fabricantes. |
+bus-isa | 1981 | S | Bus ISA | intel-8088 | Ranuras de expansión del IBM PC. |
+midi | 1983 | S | MIDI | microprocesador | Lenguaje común entre instrumentos electrónicos. | Dave Smith
+impresora-tinta | 1984 | I | Impresora de inyección térmica | proceso-planar | Burbujas de vapor que expulsan gotas de tinta. |
+estereolitografia | 1984 | I | Impresión 3D por estereolitografía | laser, macromoleculas | Un láser solidifica resina capa a capa. | Chuck Hull
+scsi | 1986 | S | SCSI e IDE | disco-5-pulgadas | Interfaces normalizadas para discos. |
+oled | 1987 | I | Diodo orgánico emisor de luz | led, macromoleculas | Capas orgánicas finas que emiten luz propia. | Ching Tang, Steven Van Slyke
+impresion-fdm | 1989 | I | Impresión 3D por deposición fundida | estereolitografia | Un hilo de plástico fundido dibuja cada capa. | Scott Crump
+tarjeta-sonido | 1989 | I | Tarjeta de sonido | bus-isa, dsp | Sound Blaster: audio digital en el PC. |
+bus-pci | 1992 | S | Bus PCI | bus-isa, intel-80486 | Bus local rápido y autoconfigurable. |
+codigo-qr | 1994 | S | Código QR | codigo-barras, ccd | Matriz bidimensional de lectura rápida. | Masahiro Hara
+firewire | 1995 | S | FireWire | bus-pci | Bus serie rápido para vídeo. |
+usb | 1996-01 | S | USB 1.0 | bus-pci | Un conector para todo, con alimentación y conexión en caliente. | Ajay Bhatt
+tinta-electronica | 1997 | I | Tinta electrónica | lcd-matriz-activa | Microcápsulas con pigmento que solo gastan energía al cambiar. | Joseph Jacobson
+agp | 1997 | S | Puerto AGP | bus-pci, voodoo | Bus dedicado a la tarjeta gráfica. |
+bluetooth | 1999 | S | Bluetooth | wifi, cmos | Radio de corto alcance y bajo consumo. | Jaap Haartsen
+usb-2 | 2000 | S | USB 2.0 | usb | Velocidad de 480 Mbit/s: discos y cámaras por USB.
+sata | 2003 | S | Serial ATA | scsi | Cable serie fino para discos. |
+hdmi | 2003 | S | HDMI | lcd-matriz-activa | Vídeo y audio digitales por un cable. |
+pci-express | 2003 | S | PCI Express | bus-pci, agp | Enlaces serie punto a punto escalables. |
+multitactil | 2005 | I | Pantalla multitáctil capacitiva proyectada | pantalla-tactil, lcd-matriz-activa | Detecta varios dedos a la vez. |
+usb-3 | 2008 | S | USB 3.0 | usb-2 | Velocidad de 5 Gbit/s con nuevos contactos.
+thunderbolt | 2011 | S | Thunderbolt | pci-express | PCI Express y vídeo por un mismo cable. |
+usb-c | 2014 | S | USB-C | usb-3 | Conector reversible con carga de alta potencia. |
+@@ sistemas-operativos | Sistemas operativos
+monitor-lotes | 1956 | I | Monitor de procesamiento por lotes | ensamblador | GM-NAA I/O encadena trabajos sin intervención del operador. |
+ensamblador | 1949 | I | Lenguaje ensamblador | manchester-baby | Mnemónicos en lugar de números; EDSAC. | David Wheeler, Kathleen Booth
+os-360 | 1966 | I | OS/360 | ibm-system-360, monitor-lotes | Un sistema operativo para toda una familia de máquinas. | Fred Brooks
+multics | 1969 | I | Multics | tiempo-compartido, memoria-virtual | Sistema de archivos jerárquico y anillos de protección. | Fernando Corbató
+maquina-virtual | 1972 | I | Máquinas virtuales | ibm-system-360, memoria-virtual | VM/370: varios sistemas operativos en una misma máquina. |
+cp-m | 1974 | I | CP/M | intel-8080, disquete | Sistema operativo de disco para microordenadores. | Gary Kildall
+sistema-fat | 1977 | I | Sistema de archivos FAT | disquete-5 | Tabla de asignación de archivos. | Marc McDonald
+vms | 1977 | I | VMS | memoria-virtual, miniordenador | Sistema del VAX, de 32 bits. | Dave Cutler
+bsd | 1978 | I | BSD | unix | Distribución de Berkeley: memoria virtual y pila TCP/IP. | Bill Joy
+ms-dos | 1981-08 | I | MS-DOS | cp-m, intel-8086 | Sistema operativo del IBM PC. | Tim Paterson
+proyecto-gnu | 1983-09 | S | Proyecto GNU y software libre | unix, lenguaje-c | Un sistema completo que cualquiera puede usar, estudiar y modificar. | Richard Stallman
+macintosh | 1984-01 | I | Macintosh | interfaz-grafica, motorola-68000, disquete-3 | Interfaz gráfica y ratón para el gran público. | Jef Raskin, Steve Jobs
+windows-1 | 1985-11 | I | Windows 1.0 | ms-dos, interfaz-grafica | Entorno gráfico sobre MS-DOS. |
+micronucleo | 1985 | C | Micronúcleo | bsd | Mach: el núcleo solo gestiona mensajes, memoria e hilos. | Richard Rashid
+minix | 1987 | I | MINIX | unix, intel-8088 | UNIX didáctico con código abierto a los estudiantes. | Andrew Tanenbaum
+posix | 1988 | S | POSIX | unix | Interfaz común que hace portables los programas. |
+licencia-gpl | 1989 | S | Licencia GPL | proyecto-gnu | Copyleft: las obras derivadas siguen siendo libres. | Richard Stallman
+nextstep | 1989 | I | NeXTSTEP | micronucleo, bsd | Sistema orientado a objetos; antepasado de macOS e iOS. |
+windows-3 | 1990 | I | Windows 3.0 | windows-1, intel-80386 | Primer Windows de éxito masivo. |
+windows-nt | 1993 | I | Windows NT | vms, intel-80386 | Núcleo de 32 bits portable y protegido. | Dave Cutler
+windows-95 | 1995-08 | I | Windows 95 | windows-3, windows-nt | Menú Inicio, multitarea apropiativa y nombres largos. |
+vmware | 1999 | I | Virtualización de x86 | maquina-virtual, pentium-pro | Traducción binaria para una arquitectura que no se dejaba virtualizar. | Mendel Rosenblum
+mac-os-x | 2001-03 | I | Mac OS X | nextstep, powerpc | Núcleo Mach/BSD con interfaz Aqua. |
+windows-xp | 2001-10 | I | Windows XP | windows-nt, windows-95 | El núcleo NT llega al hogar. |
+git | 2005-04 | I | Git | linux | Control de versiones distribuido. | Linus Torvalds
+android | 2008-09 | I | Android | linux, telefono-inteligente | Sistema móvil de código abierto. | Andy Rubin
+contenedores | 2013 | I | Contenedores de software | linux, vmware | Docker empaqueta una aplicación con todo lo que necesita. | Solomon Hykes
+kubernetes | 2014 | I | Orquestación de contenedores | contenedores, computacion-nube | Kubernetes despliega y escala miles de contenedores. |
+@@ lenguajes | Lenguajes y algoritmos
+codigo-huffman | 1952 | C | Código de Huffman | teoria-informacion | Códigos más cortos para los símbolos más frecuentes. | David Huffman
+tabla-hash | 1953 | C | Tabla hash | manchester-baby | Acceso casi directo a un dato por su clave. | Hans Peter Luhn
+algoritmo-dijkstra | 1959 | C | Algoritmo de Dijkstra | teoria-grafos, compilador | Camino más corto en un grafo. | Edsger Dijkstra
+cobol | 1959 | I | COBOL | compilador | Lenguaje de gestión cercano al inglés. | Grace Hopper
+algol | 1960 | I | ALGOL 60 | fortran | Bloques, recursión y gramática formal: molde de casi todos los lenguajes posteriores. | John Backus, Peter Naur
+quicksort | 1961 | C | Quicksort | algol | Ordenación rápida por partición. | Tony Hoare
+ascii | 1963 | S | ASCII | codigo-morse, computador-transistores | Siete bits por carácter. | Bob Bemer
+basic | 1964-05 | I | BASIC | fortran, tiempo-compartido | Lenguaje sencillo para estudiantes. | John Kemeny, Thomas Kurtz
+simula | 1967 | I | Simula 67 | algol | Clases, objetos y herencia. | Ole-Johan Dahl, Kristen Nygaard
+programacion-estructurada | 1968 | C | Programación estructurada | algol | Secuencia, selección e iteración en lugar de saltos. | Edsger Dijkstra
+expresiones-regulares | 1968 | I | Expresiones regulares | maquina-turing, compilador | Búsqueda de patrones de texto compilados a un autómata. | Ken Thompson
+pascal-lenguaje | 1970 | I | Pascal | algol, programacion-estructurada | Lenguaje estructurado para enseñar. | Niklaus Wirth
+arbol-b | 1970 | C | Árbol B | disco-duro | Índice equilibrado para datos en disco. | Rudolf Bayer, Edward McCreight
+smalltalk | 1972 | I | Smalltalk | simula, raton | Todo es un objeto que recibe mensajes. | Alan Kay, Dan Ingalls
+prolog | 1972 | I | Prolog | logica-predicados, lisp | Programación lógica: se declaran hechos y reglas y el sistema deduce. | Alain Colmerauer
+sql | 1974 | I | SQL | base-relacional | Lenguaje declarativo de consulta. | Donald Chamberlin, Raymond Boyce
+lz77 | 1977 | C | Compresión Lempel-Ziv | codigo-huffman | Sustituye repeticiones por referencias; base de ZIP, GIF y PNG. | Abraham Lempel, Jacob Ziv
+tex | 1978 | I | TeX | lenguaje-c | Composición tipográfica de textos científicos. | Donald Knuth
+procesador-textos | 1978 | I | Procesador de textos | cp-m | WordStar. |
+hoja-calculo | 1979 | I | Hoja de cálculo | ordenador-personal | VisiCalc: la aplicación que vende ordenadores. | Dan Bricklin, Bob Frankston
+ada | 1980 | I | Ada | pascal-lenguaje | Lenguaje para sistemas críticos. | Jean Ichbiah
+postscript | 1984 | I | PostScript | impresora-laser | Lenguaje de descripción de página: autoedición. | John Warnock
+c-mas-mas | 1985 | I | C++ | lenguaje-c, simula | Objetos sobre C sin perder rendimiento. | Bjarne Stroustrup
+erlang | 1986 | I | Erlang | prolog | Procesos ligeros y tolerancia a fallos para centralitas. | Joe Armstrong
+perl | 1987 | I | Perl | expresiones-regulares, lenguaje-c | Lenguaje de guiones para texto. | Larry Wall
+haskell | 1990 | I | Haskell | calculo-lambda | Funcional puro con evaluación perezosa. |
+unicode | 1991 | S | Unicode | ascii | Un código para todas las escrituras del mundo. |
+python | 1991-02 | I | Python | lenguaje-c | Lenguaje interpretado que pone la legibilidad ante todo. | Guido van Rossum
+utf-8 | 1992 | S | UTF-8 | unicode | Codificación variable compatible con ASCII. | Ken Thompson, Rob Pike
+lenguaje-r | 1993 | I | R | lisp | Lenguaje libre de estadística. | Ross Ihaka, Robert Gentleman
+java | 1995-05 | I | Java | c-mas-mas, maquina-virtual | Código portable sobre una máquina virtual con recolección de basura. | James Gosling
+javascript | 1995-12 | I | JavaScript | navegador-grafico | Lenguaje del navegador, escrito en diez días. | Brendan Eich
+php | 1995 | I | PHP | web, perl | Páginas web generadas en el servidor. | Rasmus Lerdorf
+ruby | 1995 | I | Ruby | smalltalk, perl | Orientado a objetos y pensado para el programador. | Yukihiro Matsumoto
+css | 1996-12 | S | CSS | web | Separa la presentación del contenido. | Håkon Wium Lie
+xml | 1998 | S | XML | web | Marcado extensible para intercambio de datos. |
+c-sharp | 2000 | I | C# | java, c-mas-mas | Lenguaje de la plataforma .NET. | Anders Hejlsberg
+json | 2001 | S | JSON | javascript | Formato ligero de intercambio de datos. | Douglas Crockford
+go | 2009-11 | I | Go | lenguaje-c, doble-nucleo | Concurrencia sencilla y compilación rápida. | Rob Pike, Ken Thompson, Robert Griesemer
+typescript | 2012-10 | I | TypeScript | javascript, c-sharp | Tipos estáticos sobre JavaScript. | Anders Hejlsberg
+swift | 2014-06 | I | Swift | c-mas-mas | Lenguaje de Apple seguro por diseño. | Chris Lattner
+rust | 2015-05 | I | Rust 1.0 | c-mas-mas, haskell | Seguridad de memoria sin recolector de basura. | Graydon Hoare
+@@ redes | Redes
+des | 1977 | S | Cifrado DES | logica-conmutacion, circuito-integrado | Primer cifrado normalizado de uso civil. |
+ftp | 1971 | S | FTP | arpanet | Transferencia de archivos. | Abhay Bhushan
+aloha | 1971 | I | ALOHAnet | arpanet, radiodifusion | Red de paquetes por radio en Hawái; inspira Ethernet y el wifi. | Norman Abramson
+rfid | 1973 | I | RFID | radar, circuito-integrado | Etiquetas que responden por radio sin batería. | Mario Cardullo
+x25 | 1976 | S | X.25 | conmutacion-paquetes | Redes públicas de paquetes. |
+usenet | 1980 | S | Usenet | unix, modem | Grupos de discusión distribuidos. |
+telefonia-1g | 1979 | S | Telefonía celular analógica | telefono-movil, central-telefonica | Red de NTT en Tokio; después NMT y AMPS. |
+smtp | 1982 | S | SMTP | correo-electronico, internet | Protocolo de transporte del correo. | Jon Postel
+dns | 1983 | S | Sistema de nombres de dominio | internet | Base de datos distribuida que traduce nombres a direcciones. | Paul Mockapetris
+enrutador | 1986 | I | Enrutador multiprotocolo | internet, motorola-68000 | Equipos dedicados que encaminan paquetes entre redes. |
+nsfnet | 1986 | S | NSFNET | internet | Red troncal académica que abre internet a las universidades. |
+amplificador-fibra | 1987 | I | Amplificador de fibra dopada con erbio | fibra-optica, laser-semiconductor, elemento-erbio-terbio | Amplifica la luz sin convertirla en electricidad. | David Payne, Emmanuel Desurvire
+tat-8 | 1988-12 | S | Cable transatlántico de fibra óptica | fibra-optica, cable-transatlantico | TAT-8: 40.000 llamadas simultáneas. |
+gusano-morris | 1988-11 | D | Primer gusano de internet | internet, bsd | Un programa que se copia solo colapsa parte de la red. | Robert Morris
+irc | 1988 | S | IRC | internet | Conversación en tiempo real por canales. | Jarkko Oikarinen
+bgp | 1989 | S | Protocolo BGP | enrutador, nsfnet | Encaminamiento entre redes autónomas. |
+pgp | 1991 | I | PGP | rsa, correo-electronico | Cifrado fuerte al alcance de cualquiera. | Phil Zimmermann
+sms | 1992-12 | I | Mensaje corto SMS | gsm | Primer mensaje de texto. |
+dhcp | 1993 | S | DHCP | internet | Configuración automática de direcciones. |
+ssl | 1995 | S | SSL/TLS | rsa, navegador-grafico | Conexiones cifradas en la web. | Taher Elgamal
+wiki | 1995 | I | Wiki | web | Páginas que cualquiera puede editar. | Ward Cunningham
+voz-ip | 1995 | I | Voz sobre IP | internet, dsp | Llamadas telefónicas por internet. |
+multiplexacion-longitud-onda | 1995 | T | Multiplexación densa por longitud de onda | amplificador-fibra | Decenas de colores de luz por una misma fibra. |
+ipv6 | 1998-12 | S | IPv6 | internet | Direcciones de 128 bits. |
+adsl | 1999 | S | ADSL | modem, dsp | Banda ancha por el par de cobre telefónico. | Joseph Lechleider
+redes-p2p | 1999 | I | Redes entre pares | internet, mpeg | Napster; después BitTorrent (2001). | Shawn Fanning, Bram Cohen
+wikipedia | 2001-01 | S | Wikipedia | wiki | Enciclopedia libre colaborativa. | Jimmy Wales, Larry Sanger
+aes | 2001 | S | Cifrado AES | des | Algoritmo Rijndael elegido en concurso público como estándar. | Joan Daemen, Vincent Rijmen
+telefonia-3g | 2001-10 | S | Telefonía 3G | gsm | Datos de banda ancha; red FOMA de NTT DoCoMo. |
+redes-sociales | 2004-02 | S | Redes sociales masivas | web, php | Facebook; antes Friendster y MySpace. | Mark Zuckerberg
+mapreduce | 2004 | I | MapReduce | linux, enrutador | Cálculo distribuido sobre miles de máquinas baratas. | Jeffrey Dean, Sanjay Ghemawat
+video-en-linea | 2005 | S | Vídeo en línea | h264, adsl | YouTube. |
+computacion-nube | 2006 | S | Computación en la nube | vmware, mapreduce | Amazon alquila cómputo y almacenamiento por horas. |
+bitcoin | 2009-01 | I | Bitcoin | clave-publica, redes-p2p | Dinero digital sin autoridad central mediante prueba de trabajo. | Satoshi Nakamoto
+telefonia-4g | 2009-12 | S | Telefonía 4G LTE | telefonia-3g, transformada-rapida-fourier | Red solo de paquetes. |
+telefonia-5g | 2019-04 | S | Telefonía 5G | telefonia-4g | Ondas milimétricas y antenas masivas. |
+@@ ia | Inteligencia artificial
+congreso-dartmouth | 1956 | S | Conferencia de Dartmouth | neurona-artificial, maquina-turing | Nace el campo y el nombre de inteligencia artificial. | John McCarthy, Marvin Minsky
+logic-theorist | 1956 | I | Logic Theorist | prueba-turing | Programa que demuestra teoremas de los Principia Mathematica. | Allen Newell, Herbert Simon
+prueba-turing | 1950 | C | Prueba de Turing | maquina-turing | ¿Puede una máquina pasar por humana en una conversación? | Alan Turing
+eliza | 1966 | I | ELIZA | lisp | Programa de conversación por patrones. | Joseph Weizenbaum
+sistemas-expertos | 1965 | I | Sistemas expertos | lisp | DENDRAL y MYCIN: conocimiento de especialistas en reglas. | Edward Feigenbaum
+robot-shakey | 1969 | I | Robot Shakey | lisp, miniordenador | Primer robot móvil que razona sobre sus acciones. |
+modelos-markov | 1975 | C | Modelos ocultos de Márkov en reconocimiento de voz | probabilidad, miniordenador | Estadística en lugar de reglas fonéticas. | James Baker, Frederick Jelinek
+redes-bayesianas | 1985 | C | Redes bayesianas | teorema-bayes | Razonamiento probabilístico sobre grafos. | Judea Pearl
+aprendizaje-q | 1989 | C | Aprendizaje por refuerzo Q | redes-bayesianas | Aprender una política por ensayo y recompensa. | Chris Watkins
+maquinas-vectores-soporte | 1995 | C | Máquinas de vectores de soporte | perceptron | Clasificador de margen máximo. | Vladimir Vapnik, Corinna Cortes
+deep-blue | 1997-05 | I | Deep Blue | cmos, algoritmo-minimax | Derrota al campeón mundial de ajedrez Kaspárov. |
+algoritmo-minimax | 1950 | C | Búsqueda minimax | teoria-juegos | Programar un computador para jugar al ajedrez. | Claude Shannon
+teoria-juegos | 1944 | C | Teoría de juegos | probabilidad | Decisiones estratégicas formalizadas. | John von Neumann, Oskar Morgenstern
+imagenet | 2009 | S | ImageNet | redes-sociales, red-convolucional | Catorce millones de imágenes etiquetadas. | Fei-Fei Li
+watson | 2011-02 | I | IBM Watson | mapreduce, modelos-markov | Gana a los campeones humanos de Jeopardy! |
+word2vec | 2013 | I | Vectores de palabras | retropropagacion | Las palabras como puntos de un espacio semántico. | Tomáš Mikolov
+redes-generativas | 2014 | I | Redes generativas antagónicas | alexnet | Un generador y un discriminador compiten. | Ian Goodfellow
+mecanismo-atencion | 2014-09 | I | Mecanismo de atención | lstm, word2vec | La red aprende a qué parte de la entrada mirar. | Dzmitry Bahdanau
+resnet | 2015-12 | I | Redes residuales | alexnet | Conexiones de atajo: redes de más de cien capas. | Kaiming He
+alphazero | 2017-12 | I | AlphaZero | alphago | Aprende ajedrez, shogi y go jugando solo contra sí mismo. |
+bert | 2018-10 | I | BERT | transformer | Preentrenamiento bidireccional del lenguaje. | Jacob Devlin
+gpt-2 | 2019-02 | I | GPT-2 | transformer | Texto coherente generado palabra a palabra. |
+modelos-difusion | 2020 | I | Modelos de difusión | redes-generativas, resnet | Generar imágenes eliminando ruido paso a paso. | Jonathan Ho
+imagen-desde-texto | 2022 | I | Generación de imágenes desde texto | modelos-difusion, transformer | DALL·E 2, Stable Diffusion y Midjourney. |
+@@ videojuegos | Videojuegos
+spacewar | 1962 | I | Spacewar! | computador-transistores, tubo-rayos-catodicos | Duelo espacial en un PDP-1. | Steve Russell
+pong | 1972-11 | I | Pong | television-electronica, circuito-integrado | Primer videojuego de éxito comercial. | Allan Alcorn, Nolan Bushnell
+consola-cartuchos | 1977 | I | Consola de cartuchos | mos-6502, pong | Atari 2600. |
+space-invaders | 1978 | I | Space Invaders | intel-8080 | El arcade se vuelve fenómeno de masas. | Tomohiro Nishikado
+famicom | 1983-07 | I | Nintendo Famicom/NES | mos-6502 | Recupera la industria tras la crisis de 1983. | Masayuki Uemura
+game-boy | 1989-04 | I | Game Boy | zilog-z80, pantalla-lcd | Consola portátil de cartuchos. | Gunpei Yokoi
+doom | 1993-12 | I | Doom | intel-80486, vga | Disparos en primera persona y partidas en red. | John Carmack, John Romero
+playstation | 1994-12 | I | PlayStation | cd-rom, mips-r2000 | Gráficos 3D en CD-ROM. | Ken Kutaragi
+juego-masivo-en-linea | 1997 | I | Juegos multijugador masivos | internet, directx | Ultima Online; después World of Warcraft (2004). |
+motor-unreal | 1998 | I | Motores de juego reutilizables | voodoo, c-mas-mas | Unreal Engine: la tecnología se licencia a otros estudios. | Tim Sweeney

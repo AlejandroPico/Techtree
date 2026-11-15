@@ -45,8 +45,8 @@ teoria-cinetica | 1860 | C | Teoría cinética de los gases | segunda-ley, proba
 licuefaccion-aire | 1895 | T | Licuefacción industrial del aire | segunda-ley, frigorifico-amoniaco | Expansión Joule-Thomson regenerativa; oxígeno y nitrógeno por destilación. | Carl von Linde, William Hampson
 superconductividad | 1911 | D | Superconductividad | licuefaccion-aire | La resistencia del mercurio desaparece a 4,2 K. | Heike Kamerlingh Onnes
 @@ cuantica | Física atómica y cuántica
-rayos-x | 1895 | D | Rayos X | rayos-catodicos, bobina-induccion | Radiación penetrante de un tubo de Crookes. | Wilhelm Röntgen
-radiactividad | 1896 | D | Radiactividad | rayos-x, placa-seca | Las sales de uranio velan placas sin luz. | Henri Becquerel
+rayos-x | 1895-11-08 | D | Rayos X | rayos-catodicos, bobina-induccion | Radiación penetrante de un tubo de Crookes. | Wilhelm Röntgen
+radiactividad | 1896-03 | D | Radiactividad | rayos-x, placa-seca | Las sales de uranio velan placas sin luz. | Henri Becquerel
 electron | 1897 | D | Electrón | rayos-catodicos | Partícula de carga negativa mucho más ligera que el átomo. | J. J. Thomson
 polonio-radio | 1898 | D | Polonio y radio | radiactividad | Elementos aislados de la pechblenda por su actividad. | Marie y Pierre Curie
 cuanto-planck | 1900 | C | Cuantización de la energía | teoria-cinetica, espectroscopia | La energía se intercambia en múltiplos de hν. | Max Planck
@@ -62,14 +62,14 @@ ecuacion-schrodinger | 1926 | C | Mecánica ondulatoria | atomo-bohr, series-fou
 ecuacion-dirac | 1928 | C | Ecuación de Dirac | ecuacion-schrodinger, relatividad-especial | Electrón relativista con espín; predice la antimateria. | Paul Dirac
 expansion-universo | 1929 | D | Expansión del universo | relatividad-general, espectroscopia | Las galaxias se alejan con velocidad proporcional a su distancia. | Georges Lemaître, Edwin Hubble
 ciclotron | 1931 | I | Ciclotrón | electroiman, triodo | Acelerador circular de resonancia. | Ernest Lawrence
-neutron | 1932 | D | Neutrón | proton, polonio-radio | Partícula neutra del núcleo. | James Chadwick
+neutron | 1932-02 | D | Neutrón | proton, polonio-radio | Partícula neutra del núcleo. | James Chadwick
 positron | 1932 | D | Positrón | ecuacion-dirac, camara-niebla | Antielectrón hallado en rayos cósmicos. | Carl Anderson
 radiactividad-artificial | 1934 | D | Radiactividad artificial | neutron | Isótopos radiactivos creados por bombardeo. | Irène y Frédéric Joliot-Curie
-fision | 1938 | D | Fisión nuclear | radiactividad-artificial, neutron | El uranio se parte al absorber un neutrón y libera energía. | Otto Hahn, Lise Meitner, Fritz Strassmann
+fision | 1938-12 | D | Fisión nuclear | radiactividad-artificial, neutron | El uranio se parte al absorber un neutrón y libera energía. | Otto Hahn, Lise Meitner, Fritz Strassmann
 electrodinamica-cuantica | 1948 | C | Electrodinámica cuántica | ecuacion-dirac | Teoría cuántica de la luz y la materia con renormalización. | Richard Feynman, Julian Schwinger, Shin'ichirō Tomonaga
 quarks | 1964 | C | Modelo de quarks | ciclotron, teoria-grupos | Los hadrones están formados por constituyentes de carga fraccionaria. | Murray Gell-Mann, George Zweig
 fondo-cosmico | 1965 | D | Fondo cósmico de microondas | expansion-universo, maser | Radiación residual a 2,7 K. | Arno Penzias, Robert Wilson
 modelo-estandar | 1967 | C | Unificación electrodébil | electrodinamica-cuantica, quarks | Electromagnetismo e interacción débil en una sola teoría. | Steven Weinberg, Abdus Salam, Sheldon Glashow
 fusion-fria | 1989 | X | Fusión fría | electrolisis-agua, fision | Anuncio de fusión en una celda electrolítica que nadie logró reproducir. | Martin Fleischmann, Stanley Pons
-boson-higgs | 2012 | D | Bosón de Higgs | modelo-estandar, superconductividad | Detectado por ATLAS y CMS en el LHC del CERN. | 
-ondas-gravitacionales | 2015 | D | Ondas gravitacionales | relatividad-general, laser | LIGO registra la fusión de dos agujeros negros. | 
+boson-higgs | 2012-07-04 | D | Bosón de Higgs | modelo-estandar, superconductividad | Detectado por ATLAS y CMS en el LHC del CERN. | 
+ondas-gravitacionales | 2015-09-14 | D | Ondas gravitacionales | relatividad-general, laser | LIGO registra la fusión de dos agujeros negros. | 

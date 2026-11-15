@@ -18,8 +18,8 @@ cadena-rodillos | 1880 | I | Cadena de rodillos | acero-crisol, piezas-intercamb
 neumatico | 1888 | I | Neumático | vulcanizacion, bicicleta | Cámara de aire a presión dentro de una cubierta de caucho. | John Boyd Dunlop
 @@ ferrocarril | Ferrocarril
 rail-hierro | 1767 | M | Raíl de hierro | vagoneta-rail, coque | Carriles de hierro fundido sobre los de madera en Coalbrookdale.
-locomotora | 1804 | I | Locomotora de vapor | vapor-alta-presion, rail-hierro | Máquina de alta presión sobre raíles que arrastra diez toneladas en Penydarren (Gales). | Richard Trevithick
-ferrocarril-publico | 1825 | S | Ferrocarril público de vapor | locomotora, pudelado | Línea Stockton-Darlington: mercancías y viajeros con locomotoras de vapor. | George Stephenson
+locomotora | 1804-02 | I | Locomotora de vapor | vapor-alta-presion, rail-hierro | Máquina de alta presión sobre raíles que arrastra diez toneladas en Penydarren (Gales). | Richard Trevithick
+ferrocarril-publico | 1825-09 | S | Ferrocarril público de vapor | locomotora, pudelado | Línea Stockton-Darlington: mercancías y viajeros con locomotoras de vapor. | George Stephenson
 rocket | 1829 | I | Locomotora Rocket | ferrocarril-publico | Caldera multitubular y tiro forzado. | Robert Stephenson
 metro | 1863 | S | Ferrocarril metropolitano | rocket, tuneladora | Ferrocarril urbano en túnel; Metropolitan Railway de Londres.
 freno-aire | 1869 | I | Freno de aire comprimido | rocket | Frenado simultáneo y automático de todo el tren. | George Westinghouse
@@ -50,19 +50,19 @@ astrolabio-nautico | ~1480 | I | Astrolabio náutico | astrolabio, carabela | La
 proyeccion-mercator | 1569 | C | Proyección de Mercator | portulano | Mapa cilíndrico conforme donde un rumbo constante es una línea recta. | Gerardus Mercator
 octante | 1731 | I | Octante | telescopio-reflector | Dos espejos superponen el astro y el horizonte: altura medida desde un barco en movimiento. | John Hadley
 cronometro-marino | 1761 | I | Cronómetro marino | reloj-muelle, acero-crisol | H4: la longitud en el mar. | John Harrison
-barco-vapor | 1807 | I | Barco de vapor comercial | movimiento-rotativo, barco-tablas | Servicio regular del North River Steamboat en el Hudson. | Robert Fulton
+barco-vapor | 1807-08 | I | Barco de vapor comercial | movimiento-rotativo, barco-tablas | Servicio regular del North River Steamboat en el Hudson. | Robert Fulton
 helice | 1836 | I | Hélice naval | barco-vapor, tornillo | Sustituye a las ruedas de paletas: más eficaz y menos vulnerable. | Francis Pettit Smith, John Ericsson
 casco-hierro | 1843 | I | Transatlántico de hierro con hélice | helice, pudelado | SS Great Britain: casco de hierro, hélice y máquina de vapor en un transatlántico. | Isambard Brunel
 submarino-electrico | 1888 | I | Submarino eléctrico | acumulador-plomo, motor-electrico, torpedo | Submarino de Isaac Peral: propulsión por acumuladores y tubo lanzatorpedos. | Isaac Peral
 contenedor | 1956 | S | Contenedor intermodal | casco-hierro, motor-diesel | Caja normalizada que pasa de camión a barco sin manipular la carga. | Malcom McLean
 @@ aviacion | Aviación
 cometa | ~-450 | I | Cometa | seda, cuerda | Armazón ligero de bambú y seda sostenido por el viento; China.
-globo | 1783 | I | Globo aerostático | papel, hidrogeno | Aire caliente e hidrógeno. | Hermanos Montgolfier, Jacques Charles
+globo | 1783-06 | I | Globo aerostático | papel, hidrogeno | Aire caliente e hidrógeno. | Hermanos Montgolfier, Jacques Charles
 aeroplano-cayley | 1799 | C | Concepto de aeroplano de ala fija | principia, cometa | Separa sustentación, propulsión y control. | George Cayley
 tunel-viento | 1871 | H | Túnel de viento | aeroplano-cayley, movimiento-rotativo | Permite medir sustentación y resistencia sobre modelos. | Francis Wenham
 planeador | 1891 | I | Planeador controlado | aeroplano-cayley | Más de dos mil vuelos planeados con control por desplazamiento del cuerpo. | Otto Lilienthal
 dirigible | 1900 | I | Dirigible rígido | globo, motor-rapido, hall-heroult | Estructura rígida de aluminio con celdas de gas; LZ 1. | Ferdinand von Zeppelin
-avion | 1903 | I | Avión con motor controlado | planeador, tunel-viento, motor-rapido, bicicleta | Flyer de los Wright: vuelo propulsado, sostenido y controlado en los tres ejes. | Orville y Wilbur Wright
+avion | 1903-12-17 | I | Avión con motor controlado | planeador, tunel-viento, motor-rapido, bicicleta | Flyer de los Wright: vuelo propulsado, sostenido y controlado en los tres ejes. | Orville y Wilbur Wright
 autogiro | 1923 | I | Autogiro | avion | Rotor libre con palas articuladas que da sustentación sin entrar en pérdida. | Juan de la Cierva
 helicoptero | 1939 | I | Helicóptero práctico | autogiro | VS-300: rotor principal único y rotor de cola antipar. | Igor Sikorsky
 cabina-presurizada | 1938 | I | Cabina presurizada | avion, hall-heroult | Fuselaje estanco que mantiene la presión para volar sobre el mal tiempo; Boeing 307.
@@ -72,14 +72,14 @@ reactor-comercial | 1952 | S | Avión comercial a reacción | turborreactor, cab
 cohete-polvora | ~1232 | I | Cohete de pólvora | polvora, papel | Tubos de pólvora que se impulsan por reacción; flechas de fuego en el asedio de Kaifeng.
 ecuacion-cohete | 1903 | C | Ecuación del cohete | principia, cohete-polvora | Relaciona la velocidad final con la masa de propulsante y la velocidad de escape. | Konstantín Tsiolkovski
 motor-cohete-liquido | 1926 | I | Cohete de combustible líquido | ecuacion-cohete, licuefaccion-aire | Primer vuelo con oxígeno líquido y gasolina en Auburn (Massachusetts). | Robert Goddard
-v2 | 1942 | I | Misil balístico V-2 | motor-cohete-liquido, giroscopo | Primer objeto artificial en alcanzar el espacio; guiado inercial. | Wernher von Braun
+v2 | 1942-10 | I | Misil balístico V-2 | motor-cohete-liquido, giroscopo | Primer objeto artificial en alcanzar el espacio; guiado inercial. | Wernher von Braun
 giroscopo | 1852 | I | Giróscopo | principia | Rotor que conserva su orientación; base del guiado inercial. | Léon Foucault
-sputnik | 1957 | I | Satélite artificial | v2, transistor-union | Sputnik 1: una esfera con radiotransmisor puesta en órbita por un cohete R-7. | Serguéi Koroliov
-vuelo-tripulado | 1961 | D | Vuelo espacial tripulado | sputnik | Vostok 1: Yuri Gagarin completa una órbita y regresa con vida. | Yuri Gagarin
-alunizaje | 1969 | D | Alunizaje tripulado | vuelo-tripulado, circuito-integrado, pila-combustible | Apolo 11: dos astronautas pisan la Luna y vuelven a la Tierra. | Neil Armstrong, Buzz Aldrin
+sputnik | 1957-10-04 | I | Satélite artificial | v2, transistor-union | Sputnik 1: una esfera con radiotransmisor puesta en órbita por un cohete R-7. | Serguéi Koroliov
+vuelo-tripulado | 1961-04-12 | D | Vuelo espacial tripulado | sputnik | Vostok 1: Yuri Gagarin completa una órbita y regresa con vida. | Yuri Gagarin
+alunizaje | 1969-07-20 | D | Alunizaje tripulado | vuelo-tripulado, circuito-integrado, pila-combustible | Apolo 11: dos astronautas pisan la Luna y vuelven a la Tierra. | Neil Armstrong, Buzz Aldrin
 pila-combustible | 1839 | I | Pila de combustible | electrolisis-agua, platino-maleable | Hidrógeno y oxígeno producen electricidad y agua sobre electrodos de platino. | William Grove
-estacion-espacial | 1971 | S | Estación espacial | vuelo-tripulado | Saliut 1: laboratorio habitable en órbita.
-sonda-interestelar | 1977 | I | Sondas Voyager | alunizaje | Asistencias gravitatorias hacia los planetas exteriores; la Voyager 1 cruzó la heliopausa en 2012. | 
-transbordador | 1981 | I | Transbordador espacial | alunizaje, microprocesador | Orbitador reutilizable con escudo térmico de losetas cerámicas. | 
-telescopio-espacial | 1990 | I | Telescopio espacial | transbordador, ccd | Hubble: espejo de 2,4 m fuera de la atmósfera, reparable en órbita.
-cohete-reutilizable | 2015 | I | Cohete orbital reutilizable | transbordador, gps | Aterrizaje de la primera etapa del Falcon 9. |
+estacion-espacial | 1971-04 | S | Estación espacial | vuelo-tripulado | Saliut 1: laboratorio habitable en órbita.
+sonda-interestelar | 1977-09 | I | Sondas Voyager | alunizaje | Asistencias gravitatorias hacia los planetas exteriores; la Voyager 1 cruzó la heliopausa en 2012. | 
+transbordador | 1981-04 | I | Transbordador espacial | alunizaje, microprocesador | Orbitador reutilizable con escudo térmico de losetas cerámicas. | 
+telescopio-espacial | 1990-04 | I | Telescopio espacial | transbordador, ccd | Hubble: espejo de 2,4 m fuera de la atmósfera, reparable en órbita.
+cohete-reutilizable | 2015-12-21 | I | Cohete orbital reutilizable | transbordador, gps | Aterrizaje de la primera etapa del Falcon 9. |

@@ -1,0 +1,137 @@
+@ medicina | Medicina y biología | #d97a8c
+@@ antigua | Medicina antigua y cirugía
+sutura | ~-3000 | T | Sutura de heridas | aguja, lino-tejido | Puntos con hilo de lino descritos en Egipto. |
+protesis-dedo | ~-950 | I | Prótesis funcional | sierra-metal | Dedo de madera y cuero en una momia de Tebas. |
+cirugia-sushruta | ~-500 | C | Cirugía de Sushruta | ayurveda | Rinoplastia, cataratas y más de cien instrumentos. | Sushruta
+ayurveda | ~-1500 | C | Medicina ayurvédica | plantas-medicinales | Tradición médica védica de la India. |
+acupuntura | ~-100 | T | Acupuntura | forja | Agujas metálicas y canales descritos en el Huangdi Neijing. |
+materia-medica | ~65 | C | De materia medica | medicina-hipocratica, papiro | Seiscientas plantas y sus usos; referencia durante 1500 años. | Dioscórides
+cesarea | ~1500 | T | Cesárea con supervivencia materna | sutura | Caso atribuido a Jacob Nufer. |
+cirugia-albucasis | ~1000 | C | Tratado quirúrgico de Albucasis | galeno, forja | Al-Tasrif: doscientos instrumentos ilustrados. | Abulcasis
+circulacion-pulmonar | 1242 | D | Circulación pulmonar | canon-avicena | La sangre pasa del corazón derecho al izquierdo por los pulmones. | Ibn al-Nafis
+cuarentena | 1377 | S | Cuarentena | hospital | Ragusa aísla a los viajeros durante la peste. |
+iatroquimica | ~1530 | C | Iatroquímica | alambique, canon-avicena | Remedios químicos y dosis: «la dosis hace el veneno». | Paracelso
+forceps | ~1600 | H | Fórceps obstétrico | forja | Secreto de la familia Chamberlen durante un siglo. |
+transfusion | 1667 | T | Transfusión de sangre | circulacion | Primera transfusión a un humano, con sangre de cordero. | Jean-Baptiste Denys
+termometro-clinico | 1867 | H | Termómetro clínico | termometro | Corto y rápido, para uso diario. | Thomas Allbutt
+jeringa-hipodermica | 1853 | H | Jeringa hipodérmica | vidrio-soplado, trefilado-hidraulico | Aguja hueca y émbolo. | Alexander Wood, Charles Pravaz
+oftalmoscopio | 1851 | H | Oftalmoscopio | espejo, vidrio-optico | Ver la retina en vivo. | Hermann von Helmholtz
+anestesia-cloroformo | 1847 | T | Anestesia con cloroformo | anestesia, cloro | Usado en partos desde ese año. | James Simpson
+anestesia-local | 1884 | T | Anestesia local | quinina | Cocaína en cirugía ocular. | Karl Koller
+enfermeria-moderna | 1860 | S | Enfermería profesional | lavado-manos, tablas-mortalidad | Escuela del hospital St Thomas. | Florence Nightingale
+guantes-quirurgicos | 1890 | H | Guantes quirúrgicos de goma | vulcanizacion, antisepsia | Introducidos en el Johns Hopkins. | William Halsted
+asepsia | 1886 | T | Asepsia y esterilización por vapor | antisepsia, digestor-papin | El autoclave esteriliza instrumental y ropa. | Ernst von Bergmann
+esfigmomanometro | 1896 | H | Esfigmomanómetro | barometro, vulcanizacion | Presión arterial con manguito inflable. | Scipione Riva-Rocci
+apendicectomia | 1880 | T | Apendicectomía | antisepsia, anestesia | Cirugía abdominal programada. | Lawson Tait
+banco-sangre | 1937 | S | Banco de sangre | grupos-sanguineos, refrigeracion-compresion | Sangre conservada con citrato. | Bernard Fantus
+electroencefalograma | 1924 | I | Electroencefalograma | electrocardiograma, triodo | Ritmos eléctricos del cerebro. | Hans Berger
+dialisis | 1943 | I | Riñón artificial | viscosa, bomba-impelente | Diálisis con membrana de celofán. | Willem Kolff
+maquina-corazon-pulmon | 1953-05 | I | Máquina corazón-pulmón | dialisis, anestesia | Cirugía a corazón abierto. | John Gibbon
+ecografia | 1956 | I | Ecografía médica | sonar, tubo-rayos-catodicos | Imagen por ultrasonidos. | Ian Donald
+endoscopio-fibra | 1957 | I | Endoscopio de fibra óptica | fibra-vidrio, vidrio-optico | Haz flexible de fibras. | Basil Hirschowitz
+desfibrilador | 1947 | I | Desfibrilador | electrocardiograma, transformador | Choque eléctrico que restablece el ritmo. | Claude Beck
+protesis-cadera | 1962 | I | Prótesis total de cadera | acero-inoxidable, polietileno | Baja fricción. | John Charnley
+trasplante-corazon | 1967-12 | T | Trasplante de corazón | maquina-corazon-pulmon, trasplante-rinon | Hospital Groote Schuur. | Christiaan Barnard
+angioplastia | 1977 | T | Angioplastia con balón | radiografia, polietileno | Dilata arterias coronarias. | Andreas Grüntzig
+ciclosporina | 1976 | M | Ciclosporina | penicilina-industrial | Inmunosupresor que hace viables los trasplantes. | Jean-François Borel
+laparoscopia | 1987 | T | Cirugía laparoscópica | endoscopio-fibra, ccd | Colecistectomía por pequeñas incisiones. | Philippe Mouret
+cirugia-robotica | 2000 | I | Cirugía robótica | laparoscopia, microprocesador | Sistema da Vinci. |
+@@ microbios | Microbiología y vacunas
+refutacion-redi | 1668 | D | Experimento de Redi | generacion-espontanea | Las larvas no nacen de la carne si las moscas no llegan a ella. | Francesco Redi
+placa-petri | 1887 | H | Placa de Petri y medios sólidos | postulados-koch | Cultivos puros sobre agar. | Julius Petri, Fanny Hesse
+tincion-gram | 1884 | T | Tinción de Gram | mauveina, postulados-koch | Clasifica las bacterias en dos grandes grupos. | Hans Christian Gram
+bacilo-tuberculosis | 1882-03 | D | Bacilo de la tuberculosis | postulados-koch | Identificado en el esputo. | Robert Koch
+suero-antidifterico | 1890 | M | Sueroterapia | postulados-koch | Antitoxinas contra la difteria y el tétanos. | Emil von Behring, Kitasato Shibasaburō
+fagocitosis | 1882 | D | Fagocitosis | microscopio-acromatico | Células que devoran microbios: inmunidad celular. | Iliá Méchnikov
+mosquito-malaria | 1897 | D | Transmisión de la malaria por mosquitos | microscopio-acromatico | Parásito en el estómago del Anopheles. | Ronald Ross
+fiebre-amarilla | 1900 | D | Transmisión de la fiebre amarilla | mosquito-malaria | Hipótesis de Finlay confirmada. | Carlos Finlay, Walter Reed
+vacuna-bcg | 1921 | I | Vacuna BCG | bacilo-tuberculosis, vacuna-rabia | Bacilo bovino atenuado. | Albert Calmette, Camille Guérin
+vacuna-difteria | 1923 | I | Toxoides | suero-antidifterico | Toxina inactivada con formol. | Gaston Ramon
+cultivo-celular-virus | 1949 | T | Cultivo de virus en tejidos | virus, placa-petri | Poliovirus en células no nerviosas. | John Enders
+vacuna-polio-oral | 1961 | I | Vacuna oral de la polio | vacuna-polio | Virus atenuado. | Albert Sabin
+vacuna-sarampion | 1963 | I | Vacuna del sarampión | cultivo-celular-virus | Cepa Edmonston. | John Enders, Maurice Hilleman
+vacuna-hepatitis-b | 1986 | I | Vacuna recombinante | adn-recombinante | Antígeno de la hepatitis B producido en levadura. |
+priones | 1982 | D | Priones | microscopio-electronico | Proteínas infecciosas sin ácido nucleico. | Stanley Prusiner
+vih | 1983 | D | Virus de la inmunodeficiencia humana | cultivo-celular-virus, microscopio-electronico | Aislado en el Instituto Pasteur. | Françoise Barré-Sinoussi, Luc Montagnier
+helicobacter | 1982 | D | Helicobacter pylori | tincion-gram, endoscopio-fibra | Una bacteria causa la úlcera gástrica. | Barry Marshall, Robin Warren
+vacuna-vph | 2006 | I | Vacuna del papiloma humano | vacuna-hepatitis-b | Previene el cáncer de cuello uterino. |
+@@ farmacos | Farmacología
+opio | ~-3400 | M | Opio | plantas-neandertales | Adormidera cultivada en Mesopotamia. |
+plantas-neandertales | ~-60000 | T | Uso de plantas medicinales | hogar | Indicios de consumo de plantas con principios activos entre neandertales. |
+morfina | 1804 | M | Morfina | opio, analisis-mineral | Primer alcaloide aislado. | Friedrich Sertürner
+digital | 1785 | M | Digital | ensayo-clinico | Dedalera contra la hidropesía, con dosis medidas. | William Withering
+oxido-nitroso | 1799 | D | Efecto anestésico del óxido nitroso | oxigeno | El «gas de la risa». | Humphry Davy
+barbituricos | 1903 | M | Barbitúricos | sintesis-urea | Veronal: primer sedante e hipnótico sintético de uso amplio. | Emil Fischer
+vitaminas | 1912 | C | Vitaminas | ensayo-clinico | Sustancias esenciales cuya falta causa beriberi o escorbuto. | Casimir Funk
+heparina | 1916 | M | Heparina | hormonas | Anticoagulante aislado del hígado; hace posibles la diálisis y la cirugía cardíaca. | Jay McLean
+estreptomicina | 1943 | M | Estreptomicina | penicilina-industrial | Primer antibiótico eficaz contra la tuberculosis. | Albert Schatz, Selman Waksman
+quimioterapia | 1946 | T | Quimioterapia del cáncer | iperita | Mostazas nitrogenadas contra linfomas. | Louis Goodman, Alfred Gilman
+cortisona | 1948 | M | Cortisona | hormonas | Antiinflamatorio esteroideo. | Philip Hench, Edward Kendall
+clorpromazina | 1952 | M | Clorpromazina | estructura-benceno | Primer antipsicótico. | Henri Laborit
+ensayo-aleatorizado | 1948 | T | Ensayo clínico aleatorizado | diseno-experimentos, estreptomicina | Asignación al azar con grupo de control. | Austin Bradford Hill
+talidomida | 1961 | D | Tragedia de la talidomida | ensayo-aleatorizado | Malformaciones que obligan a exigir pruebas de seguridad. | Frances Kelsey, Widukind Lenz
+benzodiacepinas | 1960 | M | Benzodiacepinas | barbituricos | Librium y Valium. | Leo Sternbach
+betabloqueantes | 1964 | M | Betabloqueantes | hormonas | Propranolol. | James Black
+levodopa | 1967 | M | Levodopa | hormonas | Tratamiento del párkinson. | George Cotzias
+estatinas | 1976 | M | Estatinas | penicilina-industrial | Reducen el colesterol. | Akira Endo
+insulina-recombinante | 1982 | M | Insulina humana recombinante | adn-recombinante, insulina | Primer fármaco biotecnológico. |
+anticuerpos-monoclonales | 1975 | T | Anticuerpos monoclonales | cultivo-celular-virus | Hibridomas que fabrican un solo anticuerpo. | César Milstein, Georges Köhler
+fluoxetina | 1987 | M | Inhibidores de la recaptación de serotonina | clorpromazina | Prozac. |
+imatinib | 2001 | M | Terapia dirigida contra el cáncer | cromosomas, anticuerpos-monoclonales | Bloquea la proteína de la leucemia mieloide crónica. | Brian Druker
+inmunoterapia-cancer | 2011 | M | Inmunoterapia de puntos de control | anticuerpos-monoclonales | Libera a los linfocitos para atacar tumores. | James Allison, Tasuku Honjo
+terapia-car-t | 2017 | T | Terapia CAR-T | adn-recombinante, inmunoterapia-cancer | Linfocitos del paciente reprogramados. |
+agonistas-glp1 | 2017 | M | Agonistas de GLP-1 | insulina-recombinante | Semaglutida para diabetes y obesidad. |
+@ biologia | Biología | #7cc47a
+@@ natural | Historia natural y evolución
+historia-animales | ~-340 | C | Zoología de Aristóteles | silogismo | Clasificación y anatomía de quinientas especies. | Aristóteles
+botanica-teofrasto | ~-300 | C | Botánica de Teofrasto | historia-animales | Historia de las plantas. | Teofrasto
+jardin-botanico | 1545 | S | Jardín botánico universitario | materia-medica | Padua y Pisa. |
+herbario-impreso | 1542 | C | Herbarios ilustrados | imprenta, materia-medica | De historia stirpium. | Leonhart Fuchs
+fosiles-organicos | 1669 | D | Origen orgánico de los fósiles | anatomia-vesalio | Los estratos se depositan en orden. | Nicolás Steno
+espermatozoides | 1677 | D | Espermatozoides | microorganismos | «Animálculos» en el semen. | Antonie van Leeuwenhoek
+sexualidad-plantas | 1694 | D | Sexualidad de las plantas | microscopio | Estambres y pistilos. | Rudolf Camerarius
+fotosintesis | 1779 | D | Fotosíntesis | oxigeno | Las plantas producen oxígeno con luz. | Jan Ingenhousz
+extincion | 1796 | D | Realidad de la extinción | fosiles-organicos | Mamuts y mastodontes son especies desaparecidas. | Georges Cuvier
+dinosaurios | 1824 | D | Primeros dinosaurios descritos | extincion | Megalosaurus e Iguanodon. | William Buckland, Gideon Mantell
+viaje-beagle | 1836 | D | Viaje del Beagle | cronometro-marino, clasificacion-linneo | Observaciones de las Galápagos. | Charles Darwin
+nucleo-celular | 1831 | D | Núcleo celular | microscopio-acromatico | Presente en todas las células vegetales. | Robert Brown
+omnis-cellula | 1855 | C | Toda célula procede de otra célula | teoria-celular | Patología celular. | Rudolf Virchow
+neandertal | 1856 | D | Hombre de Neandertal | extincion | Primer humano fósil reconocido. | Johann Fuhlrott
+archaeopteryx | 1861 | D | Archaeopteryx | evolucion | Eslabón entre reptiles y aves. |
+ecologia | 1866 | C | Ecología | evolucion | Estudio de los organismos en su ambiente. | Ernst Haeckel
+mitosis | 1882 | D | Mitosis | nucleo-celular, mauveina | Los cromosomas se dividen longitudinalmente. | Walther Flemming
+neurona | 1888 | D | Doctrina de la neurona | microscopio-acromatico, tincion-golgi | El sistema nervioso está hecho de células individuales. | Santiago Ramón y Cajal
+tincion-golgi | 1873 | T | Tinción de Golgi | daguerrotipo | Nitrato de plata que tiñe neuronas enteras. | Camillo Golgi
+reflejos-condicionados | 1903 | D | Reflejos condicionados | neurona | Aprendizaje asociativo. | Iván Pávlov
+etologia | 1935 | C | Etología | evolucion | Impronta y conducta innata. | Konrad Lorenz, Nikolaas Tinbergen
+sintesis-evolutiva | 1937 | C | Síntesis evolutiva moderna | evolucion, cromosomas, diseno-experimentos | Genética de poblaciones y selección natural. | Theodosius Dobzhansky
+potencial-accion | 1952 | D | Potencial de acción | neurona, triodo | Mecanismo iónico del impulso nervioso. | Alan Hodgkin, Andrew Huxley
+lucy | 1974-11 | D | Australopithecus afarensis | neandertal, datacion-radiocarbono | «Lucy», bípeda de 3,2 millones de años. | Donald Johanson
+endosimbiosis | 1967 | C | Teoría endosimbiótica | microscopio-electronico | Mitocondrias y cloroplastos fueron bacterias. | Lynn Margulis
+arqueas | 1977 | D | Arqueas | secuenciacion | Tercer dominio de la vida. | Carl Woese
+impacto-chicxulub | 1980 | D | Extinción por impacto | dinosaurios, elemento-osmio-iridio | Capa de iridio de hace 66 millones de años. | Luis y Walter Álvarez
+adn-antiguo | 2010 | D | Genoma neandertal | pcr, genoma-humano | Prueba el cruce con humanos modernos. | Svante Pääbo
+@@ molecular | Bioquímica y biología molecular
+enzimas | 1833 | D | Enzimas | microscopio-acromatico | La diastasa convierte almidón en azúcar. | Anselme Payen
+nucleina | 1869 | D | Nucleína (ADN) | microscopio-acromatico | Sustancia rica en fósforo aislada del pus. | Friedrich Miescher
+fermentacion-sin-celulas | 1897 | D | Fermentación sin células | enzimas, teoria-germinal | Nace la bioquímica. | Eduard Buchner
+ciclo-krebs | 1937 | D | Ciclo de Krebs | fermentacion-sin-celulas | Ruta central del metabolismo. | Hans Krebs
+un-gen-una-enzima | 1941 | C | Un gen, una enzima | cromosomas, enzimas | Los genes dirigen reacciones químicas. | George Beadle, Edward Tatum
+estructura-proteinas | 1951 | D | Hélice alfa | difraccion-rayos-x, enlace-covalente | Estructura secundaria de las proteínas. | Linus Pauling
+secuencia-insulina | 1955 | D | Secuencia de una proteína | cromatografia, insulina | Las proteínas tienen una secuencia definida. | Frederick Sanger
+replicacion-semiconservativa | 1958 | D | Replicación semiconservativa | doble-helice, ultracentrifuga | Experimento de Meselson y Stahl. | Matthew Meselson, Franklin Stahl
+ultracentrifuga | 1925 | H | Ultracentrífuga | turbina-vapor | Separa macromoléculas por su masa. | Theodor Svedberg
+estructura-mioglobina | 1958 | D | Estructura tridimensional de una proteína | difraccion-rayos-x, computador-transistores | Mioglobina. | John Kendrew, Max Perutz
+arn-mensajero | 1961 | D | ARN mensajero | doble-helice | Intermediario entre el gen y la proteína. | François Jacob, Sydney Brenner
+operon | 1961 | C | Regulación génica | arn-mensajero | Los genes se encienden y se apagan. | François Jacob, Jacques Monod
+enzimas-restriccion | 1970 | H | Enzimas de restricción | codigo-genetico | Tijeras que cortan el ADN en secuencias concretas. | Hamilton Smith, Werner Arber
+transcriptasa-inversa | 1970 | D | Transcriptasa inversa | arn-mensajero | De ARN a ADN. | Howard Temin, David Baltimore
+oncogenes | 1976 | D | Oncogenes celulares | transcriptasa-inversa | Los genes del cáncer son genes propios alterados. | Michael Bishop, Harold Varmus
+raton-transgenico | 1982 | T | Ratón transgénico | adn-recombinante | Un gen ajeno heredable en un mamífero. | Richard Palmiter, Ralph Brinster
+huella-genetica | 1984 | T | Huella genética | enzimas-restriccion | Identificación por ADN. | Alec Jeffreys
+celulas-madre-embrionarias | 1998 | T | Células madre embrionarias humanas | fecundacion-in-vitro | Cultivadas en laboratorio. | James Thomson
+interferencia-arn | 1998 | D | Interferencia por ARN | arn-mensajero | ARN de doble cadena silencia genes. | Andrew Fire, Craig Mello
+celulas-ips | 2006 | T | Células pluripotentes inducidas | celulas-madre-embrionarias | Células adultas reprogramadas con cuatro genes. | Shinya Yamanaka
+secuenciacion-masiva | 2005 | T | Secuenciación masiva en paralelo | secuenciacion, ccd | Millones de fragmentos leídos a la vez. |
+criomicroscopia | 2013 | T | Criomicroscopía electrónica de alta resolución | microscopio-electronico, cmos | Estructuras atómicas sin cristalizar. | Richard Henderson, Joachim Frank, Jacques Dubochet
+celula-sintetica | 2010 | D | Célula con genoma sintético | secuenciacion-masiva | Mycoplasma con un cromosoma fabricado. | Craig Venter

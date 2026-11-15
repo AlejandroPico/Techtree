@@ -1,0 +1,175 @@
+@ quimica | Química | #58b7a8
+@@ moderna | Química moderna
+ley-proporciones-definidas | 1799 | C | Ley de las proporciones definidas | combustion-lavoisier, balanza-precision | Un compuesto tiene siempre la misma composición. | Joseph Proust
+simbolos-quimicos | 1813 | C | Símbolos químicos modernos | teoria-atomica | Letras para los elementos y subíndices para las proporciones. | Jöns Berzelius
+isomeria | 1830 | C | Isomería | sintesis-urea | Misma fórmula, distintas sustancias. | Jöns Berzelius
+catalisis | 1835 | C | Catálisis | electroquimica-davy | Sustancias que aceleran una reacción sin consumirse. | Jöns Berzelius
+ozono | 1840 | D | Ozono | maquina-friccion, oxigeno | Olor de las descargas eléctricas. | Christian Schönbein
+valencia | 1852 | C | Valencia | ley-avogadro | Cada átomo forma un número fijo de enlaces. | Edward Frankland
+congreso-karlsruhe | 1860-09 | S | Congreso de Karlsruhe | ley-avogadro, valencia | Pesos atómicos unificados gracias a Cannizzaro. | Stanislao Cannizzaro
+estereoquimica | 1874 | C | Carbono tetraédrico | estructura-benceno, polarizacion | Las moléculas tienen forma en tres dimensiones. | Jacobus van 't Hoff, Joseph Le Bel
+ley-accion-masas | 1864 | C | Ley de acción de masas | catalisis | Equilibrio químico. | Cato Guldberg, Peter Waage
+disociacion-electrolitica | 1884 | C | Disociación electrolítica | ley-faraday-electrolisis | Las sales se separan en iones al disolverse. | Svante Arrhenius
+termodinamica-quimica | 1876 | C | Termodinámica química | segunda-ley, ley-accion-masas | Energía libre y regla de las fases. | Josiah Gibbs
+escala-ph | 1909 | C | Escala de pH | disociacion-electrolitica | Medida de la acidez. | Søren Sørensen
+cristalografia-rayos-x | 1913 | T | Cristalografía de rayos X | difraccion-rayos-x | Posición de cada átomo en un cristal. | William y Lawrence Bragg
+enlace-quimico-cuantico | 1931 | C | Naturaleza cuántica del enlace | enlace-covalente, ecuacion-schrodinger | Hibridación y resonancia. | Linus Pauling
+espectroscopia-rmn | 1951 | T | Espectroscopia de RMN | resonancia-magnetica-nuclear | El desplazamiento químico delata la estructura. |
+cromatografia-gases | 1952 | T | Cromatografía de gases | cromatografia | Separa mezclas volátiles. | Archer Martin, Anthony James
+gases-nobles-compuestos | 1962 | D | Compuestos de gases nobles | elemento-neon-kripton-xenon, elemento-fluor | El xenón sí reacciona. | Neil Bartlett
+nanotubos | 1991 | D | Nanotubos de carbono | fullerenos, microscopio-electronico | Cilindros de grafeno. | Sumio Iijima
+quimica-clic | 2001 | T | Química clic | catalisis | Reacciones rápidas, limpias y modulares. | Barry Sharpless, Morten Meldal
+@@ industrial | Industria química
+alumbre | ~-2000 | M | Alumbre | extraccion-sal | Mordiente para teñir y curtir. |
+curtido | ~-5000 | T | Curtido vegetal | ropa-cosida | Taninos que vuelven imputrescible la piel. |
+betun | ~-40000 | M | Betún natural | enmangue | Adhesivo e impermeabilizante en el Próximo Oriente. |
+azul-egipcio | ~-3100 | M | Azul egipcio | fayenza | Primer pigmento sintético: silicato de calcio y cobre. |
+purpura-tiro | ~-1500 | M | Púrpura de Tiro | tintes | Tinte de múrex, miles de moluscos por gramo. |
+salitre-purificado | ~1250 | T | Refinado del salitre | polvora, cal | Recristalización con cenizas. | Hasan al-Rammah
+azul-prusia | 1706 | M | Azul de Prusia | acido-nitrico | Primer pigmento sintético moderno. | Johann Diesbach
+blanqueo-cloro | 1785 | T | Blanqueo con cloro | cloro | Lejía para la industria textil. | Claude Berthollet
+cerilla | 1826 | I | Cerilla de fricción | fosforo | Cabeza que prende al frotarla. | John Walker
+cerilla-seguridad | 1844 | I | Cerilla de seguridad | cerilla | Fósforo rojo en la caja y no en la cabeza. | Gustaf Pasch
+soda-caustica | 1851 | M | Sosa cáustica industrial | proceso-leblanc | Para jabón y papel. |
+colorantes-azoicos | 1858 | M | Colorantes azoicos | mauveina | Diazotación. | Peter Griess
+alizarina-sintetica | 1868 | M | Alizarina sintética | mauveina, estructura-benceno | Sustituye a la raíz de rubia. | Carl Graebe, Carl Liebermann
+indigo-sintetico | 1897 | M | Índigo sintético | alizarina-sintetica | BASF arruina el cultivo del añil. | Adolf von Baeyer
+celofan | 1908 | M | Celofán | viscosa | Película transparente de celulosa. | Jacques Brandenberger
+gas-agua | 1873 | T | Gas de agua | coque | Hidrógeno y monóxido de carbono a partir de vapor y coque. |
+hidrogenacion-grasas | 1902 | T | Hidrogenación de grasas | hidrogeno, catalisis | Margarina sólida a partir de aceites. | Wilhelm Normann
+fischer-tropsch | 1925 | T | Síntesis de Fischer-Tropsch | gas-agua, catalisis | Combustibles líquidos a partir de carbón. | Franz Fischer, Hans Tropsch
+neopreno | 1930 | M | Caucho sintético | macromoleculas | Neopreno y Buna. | Wallace Carothers
+plexiglas | 1933 | M | Polimetacrilato | macromoleculas | Vidrio acrílico. | Otto Röhm
+poliestireno | 1931 | M | Poliestireno industrial | macromoleculas | Plástico rígido y barato. |
+pvc | 1926 | M | PVC plastificado | macromoleculas | Policloruro de vinilo flexible. | Waldo Semon
+poliuretano | 1937 | M | Poliuretano | macromoleculas | Espumas y elastómeros. | Otto Bayer
+siliconas | 1940 | M | Siliconas | macromoleculas, elemento-silicio | Polímeros de silicio y oxígeno. | Eugene Rochow
+freones | 1930 | M | Clorofluorocarbonos | elemento-fluor, refrigeracion-compresion | Refrigerantes seguros que resultaron destruir el ozono. | Thomas Midgley
+agujero-ozono | 1985 | D | Agujero de la capa de ozono | freones, ozono | Hallado sobre la Antártida; lleva al Protocolo de Montreal. | Joseph Farman
+polipropileno | 1954 | M | Polipropileno | ziegler-natta | Polímero isotáctico. | Giulio Natta
+pet | 1941 | M | Poliéster PET | nailon | Fibras y, después, botellas. | John Whinfield, James Dickson
+superpegamento | 1958 | M | Cianoacrilato | macromoleculas | Adhesivo instantáneo. | Harry Coover
+@ materiales | Materiales | #c9a25c
+@@ ciencia-materiales | Ciencia de materiales
+metalografia | 1863 | T | Metalografía | microscopio-acromatico, acero-crisol | Estructura del acero vista al microscopio. | Henry Sorby
+acero-manganeso | 1882 | M | Acero al manganeso | convertidor-bessemer, elemento-manganeso | Primer acero aleado comercial. | Robert Hadfield
+acero-rapido | 1900 | M | Acero rápido | acero-aleado, elemento-wolframio | Herramientas que cortan al rojo. | Frederick Taylor, Maunsel White
+diagrama-hierro-carbono | 1897 | C | Diagrama hierro-carbono | metalografia, termodinamica-quimica | Fases del acero según temperatura y composición. | William Roberts-Austen
+dislocaciones | 1934 | C | Teoría de dislocaciones | difraccion-rayos-x | Por qué los metales se deforman. | Geoffrey Taylor, Egon Orowan
+carburo-tungsteno | 1923 | M | Carburo cementado | pulvimetalurgia-tungsteno, elemento-cobalto | Widia: «como el diamante». | Karl Schröter
+superaleaciones | 1941 | M | Superaleaciones de níquel | elemento-niquel, turborreactor | Resisten al rojo en las turbinas. |
+diamante-sintetico | 1954-12 | M | Diamante sintético | carburo-tungsteno | Alta presión y temperatura. | Tracy Hall
+vidrio-borosilicato | 1887 | M | Vidrio de borosilicato | vidrio-optico, elemento-boro | Resiste el choque térmico. | Otto Schott
+vidrio-templado | 1929 | M | Vidrio templado y laminado | vidrio-plomo | Vidrio de seguridad para automóviles. |
+ferritas | 1930 | M | Ferritas | magnetita | Cerámicas magnéticas. | Yogoro Kato, Takeshi Takei
+imanes-neodimio | 1984 | M | Imanes de neodimio | elemento-praseodimio-neodimio, ferritas | Los imanes permanentes más potentes. | Masato Sagawa
+cristales-liquidos | 1888 | D | Cristales líquidos | microscopio-acromatico | Fase intermedia entre sólido y líquido. | Friedrich Reinitzer
+aleacion-memoria | 1962 | M | Aleación con memoria de forma | elemento-niquel, elemento-titanio | Nitinol. | William Buehler
+cuasicristales | 1982 | D | Cuasicristales | microscopio-electronico, teselas-penrose | Orden sin periodicidad. | Dan Shechtman
+aerogel | 1931 | M | Aerogel | elemento-silicio | El sólido más ligero. | Samuel Kistler
+perovskitas-solares | 2009 | M | Células solares de perovskita | celula-silicio | Rendimiento que pasa del 4 % al 25 % en una década. | Tsutomu Miyasaka
+@ energia | Energía y máquinas | #d1663f
+@@ mecanismos | Mecanismos
+torno-arco | ~-1300 | H | Torno de arco | cuerda, herramientas-cobre | Pieza girada con un arco; Egipto. |
+trepano-arco | ~-7000 | H | Taladro de arco | arco, talla-presion | Perforación rotatoria; también usado en dientes en Mehrgarh. |
+cabrestante | ~-500 | H | Cabrestante y torno | palanca, cuerda | Tambor que enrolla una cuerda. |
+ballestas-suspension | ~1650 | H | Ballesta de suspensión | temple | Láminas de acero que amortiguan el carruaje. |
+cardan | ~-250 | H | Suspensión cardán | bronce | Anillos concéntricos que mantienen horizontal un objeto. | Filón de Bizancio
+reloj-agua-automata | ~1206 | I | Autómatas de al-Jazari | arbol-levas, biela-manivela, clepsidra | Relojes y máquinas con levas, válvulas y cigüeñal. | al-Jazari
+batan | ~1000 | S | Batán hidráulico | arbol-levas, molino-agua | Mazos que enfurten paños. |
+martinete | ~1100 | S | Martinete hidráulico | arbol-levas, molino-agua, forja | Martillo de forja movido por rueda. |
+sierra-hidraulica | ~1230 | S | Sierra hidráulica | biela-manivela, molino-agua | Dibujada por Villard de Honnecourt. |
+molino-mareas | ~620 | S | Molino de mareas | molino-agua | Nendrum (Irlanda). |
+volante-inercia | ~1100 | H | Volante de inercia | rueda | Regulariza el giro de una máquina. |
+torno-pedal | ~1250 | H | Torno de pértiga y pedal | torno-arco | Deja libres ambas manos. |
+tornillo-metalico | ~1450 | H | Tornillo y tuerca metálicos | tornillo, forja | Uniones desmontables en armaduras y relojes. |
+cojinete-rodillos | ~1500 | C | Cojinetes de rodillos | rueda | Dibujados por Leonardo. | Leonardo da Vinci
+maquinas-leonardo | ~1490 | C | Estudios de máquinas de Leonardo | engranaje-reloj, biela-manivela | Análisis sistemático de mecanismos. | Leonardo da Vinci
+bomba-aspirante | ~1450 | H | Bomba aspirante de pistón | bomba-impelente | Eleva agua hasta diez metros. |
+maquina-dividir | 1773 | H | Máquina de dividir | engranaje-reloj, micrometro | Gradúa círculos con precisión mecánica. | Jesse Ramsden
+prensa-hidraulica | 1795 | I | Prensa hidráulica | hidrostatica, bomba-aspirante | Multiplica la fuerza con un líquido. | Joseph Bramah
+cepilladora | 1817 | H | Cepilladora | torno-paralelo | Superficies planas de precisión. | Richard Roberts
+rosca-normalizada | 1841 | S | Rosca normalizada | torno-paralelo | Tornillos intercambiables entre fabricantes. | Joseph Whitworth
+martillo-vapor | 1839 | H | Martillo pilón de vapor | vapor-alta-presion, forja | Forja grandes ejes. | James Nasmyth
+torno-revolver | 1845 | H | Torno revólver | torno-paralelo, piezas-intercambiables | Varias herramientas en una torreta. |
+rectificadora | 1876 | H | Rectificadora universal | torno-paralelo | Acabado por muela abrasiva. | Joseph Brown
+soldadura-arco | 1881 | T | Soldadura por arco | arco-electrico, dinamo-gramme | Une metales fundiéndolos con electricidad. | Nikolái Benardos
+soldadura-oxiacetilenica | 1903 | T | Soplete oxiacetilénico | licuefaccion-aire | Corta y suelda acero. | Edmond Fouché
+control-numerico | 1952 | I | Control numérico | fresadora, servomecanismos | Fresadora guiada por cinta perforada en el MIT. | John Parsons
+servomecanismos | 1949 | I | Servomecanismos | regulador-centrifugo, triodo | Control automático por realimentación eléctrica. |
+robot-industrial | 1961 | I | Robot industrial | control-numerico, transistor-silicio | Unimate en una cadena de General Motors. | George Devol, Joseph Engelberger
+corte-laser | 1965 | T | Corte por láser | laser | Taladra matrices de diamante. |
+cad | 1963 | I | Diseño asistido por ordenador | sketchpad | El dibujo técnico pasa a la pantalla. | Ivan Sutherland, Pierre Bézier
+@@ vapor | Vapor
+bomba-fuego-worcester | 1663 | C | Máquina de elevar agua por fuego | eolipila | Descripción del marqués de Worcester. | Edward Somerset
+maquina-papin | 1690 | C | Cilindro y pistón de vapor | digestor-papin, bomba-vacio | El vapor condensado deja un vacío que mueve un pistón. | Denis Papin
+indicador-watt | 1796 | H | Diagrama indicador | movimiento-rotativo | Presión frente a volumen: la máquina se puede medir. | James Watt, John Southern
+maquina-corliss | 1849 | I | Máquina Corliss | movimiento-rotativo | Válvulas rotativas de gran rendimiento. | George Corliss
+triple-expansion | 1881 | I | Máquina de triple expansión | vapor-alta-presion, convertidor-bessemer | Motor de los transatlánticos. |
+turbina-laval | 1883 | I | Turbina de acción | vapor-alta-presion | Tobera convergente-divergente. | Gustaf de Laval
+@@ combustion | Motores de combustión
+motor-dos-tiempos | 1879 | I | Motor de dos tiempos | ciclo-otto | Una explosión por vuelta. | Dugald Clerk
+magneto | 1887 | I | Magneto de encendido | induccion, motor-rapido | Chispa sin batería. | Robert Bosch
+turbocompresor | 1905 | I | Turbocompresor | motor-diesel, turbina-vapor | Los gases de escape comprimen el aire de admisión. | Alfred Büchi
+motor-radial | 1901 | I | Motor radial | motor-rapido | Cilindros en estrella. | Charles Manly
+octanaje | 1927 | C | Índice de octano | gasolina-etilada | Mide la resistencia al picado. | Graham Edgar
+postcombustion | 1944 | I | Postcombustión | turborreactor | Combustible inyectado tras la turbina. |
+@@ renovables | Fotovoltaica y almacenamiento
+pila-seca | 1886 | I | Pila seca | pila-leclanche | Electrolito en pasta: pilas portátiles. | Carl Gassner
+bateria-niquel-cadmio | 1899 | I | Batería de níquel-cadmio | acumulador-plomo, elemento-cadmio | Recargable alcalina. | Waldemar Jungner
+pila-alcalina | 1957 | I | Pila alcalina | pila-seca | Zinc y dióxido de manganeso con electrolito alcalino. | Lewis Urry
+central-geotermica | 1904 | S | Energía geotérmica | dinamo-gramme | Larderello. | Piero Ginori Conti
+presa-hoover | 1936 | S | Gran presa hidroeléctrica | hormigon-armado, central-niagara | Presa Hoover. |
+central-solar-termica | 1984 | S | Central termosolar | espejo, turbina-vapor | Cilindros parabólicos en California. |
+aerogenerador-moderno | 1979 | I | Aerogenerador tripala moderno | aerogenerador, fibra-vidrio | Concepto danés. |
+parque-eolico-marino | 1991 | S | Parque eólico marino | aerogenerador-moderno | Vindeby. |
+bombeo-reversible | 1907 | S | Central de bombeo | central-hidroelectrica | Almacena energía subiendo agua. |
+@@ nuclear | Energía nuclear
+reactor-agua-presion | 1957 | S | Reactor de agua a presión | central-nuclear, submarino-nuclear | Shippingport. |
+reactor-reproductor | 1951-12 | I | Reactor reproductor | reactor-cp1, plutonio-239 | EBR-I produce la primera electricidad nuclear. |
+accidente-chernobil | 1986-04 | D | Accidente de Chernóbil | central-nuclear | Explosión de un reactor RBMK. |
+iter | 2007 | S | Proyecto ITER | tokamak, superconductores-alta-temperatura | Reactor experimental de fusión internacional. |
+@ electricidad | Electricidad y telecomunicación | #e3b23c
+@@ red | Red eléctrica
+guerra-corrientes | 1888 | S | Corriente alterna frente a continua | transformador, central-electrica | La alterna se impone para el transporte a distancia. | George Westinghouse, Thomas Edison
+contador-electrico | 1888 | I | Contador eléctrico de inducción | motor-induccion | Mide la energía consumida. | Oliver Shallenberger
+interruptor-automatico | 1879 | I | Interruptor automático | electroiman | Corta el circuito en caso de sobrecarga. | Thomas Edison
+enchufe | 1904 | I | Enchufe y clavija | central-electrica | Conexión doméstica desmontable. | Harvey Hubbell
+red-interconectada | 1926 | S | Red eléctrica nacional | transmision-alterna | National Grid británica. |
+corriente-continua-alta-tension | 1954 | S | Transporte en continua de alta tensión | transmision-alterna, valvula-mercurio | Enlace submarino de Gotland. |
+valvula-mercurio | 1902 | I | Rectificador de vapor de mercurio | tubo-geissler | Convierte alterna en continua. | Peter Cooper Hewitt
+tiristor | 1957 | I | Tiristor | transistor-silicio | Interruptor de potencia de estado sólido. |
+@@ domestica | Electricidad doméstica
+plancha-electrica | 1882 | I | Plancha eléctrica | bombilla | Resistencia calefactora. | Henry Seely
+ventilador-electrico | 1882 | I | Ventilador eléctrico | motor-electrico | Motor con aspas. | Schuyler Wheeler
+aspiradora | 1901 | I | Aspiradora | motor-electrico | Succión por motor. | Hubert Booth
+lavadora-electrica | 1908 | I | Lavadora eléctrica | motor-electrico | Tambor motorizado. | Alva Fisher
+nevera-domestica | 1913 | I | Frigorífico doméstico | refrigeracion-compresion, motor-induccion | Compresor eléctrico en casa. |
+tostadora | 1909 | I | Tostadora eléctrica | nicrom | Hilo resistente que no se oxida. |
+nicrom | 1905 | M | Nicrom | elemento-niquel, elemento-cromo | Aleación para resistencias. | Albert Marsh
+horno-microondas | 1946 | I | Horno de microondas | magnetron | Raytheon. | Percy Spencer
+lavavajillas | 1886 | I | Lavavajillas | bomba-aspirante | Agua a presión sobre una rejilla. | Josephine Cochrane
+placa-induccion | 1971 | I | Cocina de inducción | induccion, tiristor | Calienta el recipiente y no la placa. |
+@@ telecom | Telecomunicación
+telegrafo-electroquimico | 1809 | I | Telégrafo electroquímico | pila-volta | Burbujas en tubos de agua. | Samuel von Sömmerring
+telegrafo-impresor | 1855 | I | Telégrafo impresor | telegrafo-electrico | Teclado tipo piano. | David Hughes
+telegrafia-duplex | 1872 | I | Telegrafía múltiplex | codigo-morse | Varios mensajes por un hilo. | Joseph Stearns, Thomas Edison
+fotofono | 1880 | I | Fotófono | telefono, elemento-selenio | Voz transmitida por un haz de luz. | Alexander Graham Bell
+conmutador-strowger | 1891 | I | Central telefónica automática | central-telefonica, rele | Selector paso a paso. | Almon Strowger
+bobina-carga | 1899 | I | Bobinas de carga | telefono, ecuaciones-maxwell | Líneas telefónicas de larga distancia. | Michael Pupin
+radio-transatlantica | 1901-12 | D | Radio transatlántica | radiotelegrafia | Señal de Cornualles a Terranova. | Guglielmo Marconi
+radio-galena | 1906 | I | Receptor de galena | rectificador-cristal, radiotelegrafia | Radio sin alimentación. | Greenleaf Pickard
+superheterodino | 1918 | I | Receptor superheterodino | regeneracion | Arquitectura de casi todas las radios. | Edwin Armstrong
+teletipo | 1924 | I | Teletipo | telegrafo-impresor, maquina-escribir | Máquinas de escribir a distancia. |
+cable-coaxial | 1929 | I | Cable coaxial | hilo-cobre-aislado | Ancho de banda para televisión y telefonía. | Lloyd Espenschied, Herman Affel
+frecuencia-modulada | 1933 | I | Frecuencia modulada | superheterodino | Radio sin ruido. | Edwin Armstrong
+modulacion-pulsos | 1937 | C | Modulación por impulsos codificados | teoria-muestreo | La voz convertida en números. | Alec Reeves
+teoria-muestreo | 1928 | C | Teorema de muestreo | series-fourier | Una señal queda definida por muestras al doble de su frecuencia máxima. | Harry Nyquist
+television-color | 1953 | S | Televisión en color | television-electronica | Sistema NTSC compatible. |
+radio-transistores | 1954 | I | Radio de transistores | transistor-union | Regency TR-1. |
+television-satelite | 1962-07 | D | Televisión transatlántica en directo | satelite-comunicaciones | Telstar. |
+fax-moderno | 1964 | I | Fax por línea telefónica | modem, xerografia | Xerox LDX. |
+telefono-teclas | 1963 | I | Marcación por tonos | central-telefonica, transistor-silicio | Teclado en lugar de disco. |
+video-domestico | 1976 | I | Vídeo doméstico | cinta-magnetica, television-color | VHS y Betamax. |
+walkman | 1979 | I | Reproductor portátil | cinta-magnetica, radio-transistores | Walkman. |
+television-digital | 1998 | S | Televisión digital | mpeg | DVB y ATSC. |

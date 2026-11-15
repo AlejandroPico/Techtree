@@ -24,7 +24,7 @@ antisepsia | 1867 | T | Cirugía antiséptica | teoria-germinal, benceno | Fenol
 grupos-sanguineos | 1901 | D | Grupos sanguíneos | microscopio-acromatico | Sistema ABO: transfusiones seguras. | Karl Landsteiner
 electrocardiograma | 1903 | I | Electrocardiógrafo | galvanometro | Galvanómetro de cuerda que registra el corazón. | Willem Einthoven
 radiografia | 1896 | T | Radiografía médica | rayos-x, placa-seca | Uso clínico a las semanas del descubrimiento. | 
-trasplante-rinon | 1954 | T | Trasplante renal | grupos-sanguineos, anestesia | Entre gemelos idénticos. | Joseph Murray
+trasplante-rinon | 1954-12 | T | Trasplante renal | grupos-sanguineos, anestesia | Entre gemelos idénticos. | Joseph Murray
 marcapasos | 1958 | I | Marcapasos implantable | transistor-silicio, electrocardiograma | Estimulador implantado con transistores de silicio. | Rune Elmqvist, Åke Senning
 tomografia | 1971 | I | Tomografía computarizada | radiografia, miniordenador | Reconstrucción por ordenador de cortes de rayos X. | Godfrey Hounsfield, Allan Cormack
 resonancia | 1973 | I | Imagen por resonancia magnética | superconductividad, miniordenador | Gradientes de campo para localizar la señal. | Paul Lauterbur, Peter Mansfield
@@ -42,16 +42,16 @@ teoria-germinal | 1861 | C | Teoría germinal | microscopio-acromatico, generaci
 postulados-koch | 1876 | C | Microbio específico para cada enfermedad | teoria-germinal | Carbunco; después tuberculosis y cólera. | Robert Koch
 vacuna-rabia | 1885 | I | Vacunas atenuadas | postulados-koch, vacuna-viruela | Patógenos debilitados en el laboratorio. | Louis Pasteur
 virus | 1892 | D | Virus | postulados-koch, porcelana-europea | Agente que atraviesa filtros de porcelana. | Dmitri Ivanovski, Martinus Beijerinck
-vacuna-polio | 1955 | I | Vacuna de la poliomielitis | virus, microscopio-electronico | Virus inactivado cultivado en tejido. | Jonas Salk
-erradicacion-viruela | 1980 | D | Erradicación de la viruela | vacuna-viruela, epidemiologia | Primera enfermedad humana eliminada. |
-vacuna-arnm | 2020 | I | Vacunas de ARN mensajero | codigo-genetico, secuenciacion | ARN modificado en nanopartículas lipídicas; COVID-19. | Katalin Karikó, Drew Weissman
+vacuna-polio | 1955-04 | I | Vacuna de la poliomielitis | virus, microscopio-electronico | Virus inactivado cultivado en tejido. | Jonas Salk
+erradicacion-viruela | 1980-05 | D | Erradicación de la viruela | vacuna-viruela, epidemiologia | Primera enfermedad humana eliminada. |
+vacuna-arnm | 2020-12 | I | Vacunas de ARN mensajero | codigo-genetico, secuenciacion | ARN modificado en nanopartículas lipídicas; COVID-19. | Katalin Karikó, Drew Weissman
 @@ farmacos | Farmacología
 plantas-medicinales | ~-3000 | T | Farmacopea de plantas | escritura-cuneiforme | Tablillas sumerias con recetas. |
 quinina | 1820 | M | Quinina aislada | acido-nitrico, plantas-medicinales | Alcaloide de la corteza de quina. | Pierre Pelletier, Joseph Caventou
 aspirina | 1897 | M | Ácido acetilsalicílico | estructura-benceno, plantas-medicinales | Derivado del ácido salicílico del sauce; Bayer. | Felix Hoffmann
 salvarsan | 1909 | M | Salvarsán | mauveina, postulados-koch | Primera quimioterapia dirigida. | Paul Ehrlich, Sahachiro Hata
 insulina | 1921 | M | Insulina | hormonas | Extracto pancreático que trata la diabetes. | Frederick Banting, Charles Best
-penicilina | 1928 | D | Penicilina | postulados-koch | Un moho inhibe el crecimiento bacteriano. | Alexander Fleming
+penicilina | 1928-09 | D | Penicilina | postulados-koch | Un moho inhibe el crecimiento bacteriano. | Alexander Fleming
 sulfamidas | 1932 | M | Sulfamidas | salvarsan | Prontosil: primer antibacteriano sintético de uso general. | Gerhard Domagk
 penicilina-industrial | 1942 | T | Producción masiva de penicilina | penicilina, cultivo-puro-levadura | Fermentación en tanque profundo. | Howard Florey, Ernst Chain
 cultivo-puro-levadura | 1883 | T | Cultivo puro de levaduras | pasteurizacion | Aislar una sola célula de levadura da fermentaciones reproducibles; Carlsberg. | Emil Hansen
@@ -64,11 +64,11 @@ evolucion | 1859 | C | Selección natural | clasificacion-linneo, lamarckismo | 
 leyes-mendel | 1866 | D | Leyes de la herencia | probabilidad, legumbres | Factores discretos que se segregan; guisantes. | Gregor Mendel
 cromosomas | 1902 | C | Teoría cromosómica | leyes-mendel, teoria-celular | Los genes residen en los cromosomas. | Walter Sutton, Theodor Boveri
 adn-genetico | 1944 | D | El ADN es el material genético | cromosomas | Principio transformante de los neumococos. | Oswald Avery
-doble-helice | 1953 | D | Doble hélice del ADN | adn-genetico, rayos-x | Dos hebras complementarias. | James Watson, Francis Crick, Rosalind Franklin
+doble-helice | 1953-04 | D | Doble hélice del ADN | adn-genetico, rayos-x | Dos hebras complementarias. | James Watson, Francis Crick, Rosalind Franklin
 codigo-genetico | 1961 | D | Código genético | doble-helice | Tripletes de bases codifican aminoácidos. | Marshall Nirenberg
 adn-recombinante | 1973 | T | ADN recombinante | codigo-genetico | Genes cortados y pegados entre organismos. | Stanley Cohen, Herbert Boyer
 secuenciacion | 1977 | T | Secuenciación del ADN | adn-recombinante | Método de terminadores de cadena. | Frederick Sanger
 pcr | 1983 | T | PCR | secuenciacion | Amplificación exponencial de ADN. | Kary Mullis
-clonacion | 1996 | D | Clonación de un mamífero adulto | fecundacion-in-vitro | La oveja Dolly nace del núcleo de una célula adulta. | Ian Wilmut
-genoma-humano | 2003 | D | Genoma humano | secuenciacion, pcr, internet | Secuencia de referencia completada por un consorcio internacional. | 
-crispr | 2012 | T | Edición genética CRISPR-Cas9 | genoma-humano | Corte programable del ADN guiado por ARN. | Jennifer Doudna, Emmanuelle Charpentier
+clonacion | 1996-07-05 | D | Clonación de un mamífero adulto | fecundacion-in-vitro | La oveja Dolly nace del núcleo de una célula adulta. | Ian Wilmut
+genoma-humano | 2003-04 | D | Genoma humano | secuenciacion, pcr, internet | Secuencia de referencia completada por un consorcio internacional. | 
+crispr | 2012-06 | T | Edición genética CRISPR-Cas9 | genoma-humano | Corte programable del ADN guiado por ARN. | Jennifer Doudna, Emmanuelle Charpentier

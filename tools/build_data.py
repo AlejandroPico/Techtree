@@ -5,7 +5,7 @@ Formato .tt (una tecnología por línea, campos separados por ' | '):
   @ id-ambito | Nombre del ámbito | #color
   @@ id-subambito | Nombre del subámbito
   id | año | tipo | Nombre | requisitos,inmediatos | Resumen | Personas
-Año: entero (negativo = a. C.); prefijo ~ = fecha aproximada.
+Año: entero (negativo = a. C.) o fecha AAAA-MM / AAAA-MM-DD; prefijo ~ = fecha aproximada.
 Tipos: D descubrimiento · I invento · T técnica/proceso · M material · H herramienta
        C concepto/teoría · S sistema/infraestructura · X vía muerta, superada o pseudociencia
 Valida: ids únicos, requisitos existentes, requisito no posterior al avance, ausencia de ciclos.
@@ -27,18 +27,24 @@ def parse():
             where = f'{path.name}:{n}'
             if line.startswith('@@'):
                 p = [x.strip() for x in line[2:].split('|')]
-                sub = {'id': f"{dom['id']}/{p[0]}", 'domain': dom['id'], 'name': p[1]}; subs.append(sub); continue
+                sid = f"{dom['id']}/{p[0]}"; sub = next((x for x in subs if x['id'] == sid), None)
+                if sub is None: sub = {'id': sid, 'domain': dom['id'], 'name': p[1]}; subs.append(sub)
+                continue
             if line.startswith('@'):
                 p = [x.strip() for x in line[1:].split('|')]
-                dom = {'id': p[0], 'name': p[1], 'color': p[2]}; domains.append(dom); sub = None; continue
+                dom = next((x for x in domains if x['id'] == p[0]), None)  # un ámbito puede continuar en otro archivo
+                if dom is None: dom = {'id': p[0], 'name': p[1], 'color': p[2]}; domains.append(dom)
+                sub = None; continue
             p = [x.strip() for x in line.rstrip('| ').split('|')]
             while len(p) < 7: p.append('')
             if not p[5]: errors.append(f'{where}: faltan campos'); continue
             if sub is None: errors.append(f'{where}: tecnología fuera de subámbito'); continue
             ys = p[1]; approx = ys.startswith('~'); ys = ys.lstrip('~')
-            if not re.fullmatch(r'-?\d+', ys): errors.append(f'{where}: año inválido {p[1]}'); continue
+            m = re.fullmatch(r'(-?\d+)(?:-(\d\d)(?:-(\d\d))?)?', ys)
+            if not m or (m.group(2) and not 1 <= int(m.group(2)) <= 12) or (m.group(3) and not 1 <= int(m.group(3)) <= 31): errors.append(f'{where}: fecha inválida {p[1]}'); continue
+            date = ys if m.group(2) else ''; ys = m.group(1)
             if p[2] not in KINDS: errors.append(f'{where}: tipo inválido {p[2]}'); continue
-            nodes.append({'id': p[0], 'year': int(ys), 'approx': approx, 'kind': KINDS[p[2]], 'name': p[3],
+            nodes.append({'id': p[0], 'year': int(ys), 'date': date, 'approx': approx, 'kind': KINDS[p[2]], 'name': p[3],
                           'requires': [r.strip() for r in p[4].split(',') if r.strip()], 'summary': p[5],
                           'people': p[6] if len(p) > 6 else '', 'domain': dom['id'], 'sub': sub['id'], '_w': where})
     return domains, subs, nodes, errors
@@ -51,7 +57,7 @@ def validate(nodes, errors):
     for n in nodes:
         for r in n['requires']:
             if r not in by: errors.append(f"{n['_w']}: {n['id']} requiere '{r}', que no existe")
-            elif by[r]['year'] > n['year']: errors.append(f"{n['_w']}: {n['id']} ({n['year']}) requiere {r} ({by[r]['year']}), posterior")
+            elif (by[r]['year'], by[r]['date']) > (n['year'], n['date'] or '9'): errors.append(f"{n['_w']}: {n['id']} ({n['year']}) requiere {r} ({by[r]['year']}), posterior")
             elif r == n['id']: errors.append(f"{n['_w']}: {n['id']} se requiere a sí mismo")
     state = {}
     def visit(i, trail):
@@ -65,6 +71,7 @@ def validate(nodes, errors):
 
 def main():
     domains, subs, nodes, errors = parse(); validate(nodes, errors)
+    order = {d['id']: i for i, d in enumerate(domains)}; subs.sort(key=lambda x: order[x['domain']])
     if errors:
         print('\n'.join(errors)); print(f'\n{len(errors)} errores'); sys.exit(1)
     for n in nodes: del n['_w']
@@ -76,7 +83,7 @@ def main():
     c.executescript('''
       CREATE TABLE domain(id TEXT PRIMARY KEY,name TEXT NOT NULL,color TEXT NOT NULL,position INTEGER NOT NULL);
       CREATE TABLE subdomain(id TEXT PRIMARY KEY,domain_id TEXT NOT NULL REFERENCES domain(id),name TEXT NOT NULL,position INTEGER NOT NULL);
-      CREATE TABLE technology(id TEXT PRIMARY KEY,name TEXT NOT NULL,year INTEGER NOT NULL,approximate INTEGER NOT NULL,
+      CREATE TABLE technology(id TEXT PRIMARY KEY,name TEXT NOT NULL,year INTEGER NOT NULL,date TEXT NOT NULL,approximate INTEGER NOT NULL,
         kind TEXT NOT NULL,domain_id TEXT NOT NULL REFERENCES domain(id),subdomain_id TEXT NOT NULL REFERENCES subdomain(id),
         summary TEXT NOT NULL,people TEXT NOT NULL);
       CREATE TABLE requirement(technology_id TEXT NOT NULL REFERENCES technology(id),requires_id TEXT NOT NULL REFERENCES technology(id),
@@ -85,7 +92,7 @@ def main():
     ''')
     c.executemany('INSERT INTO domain VALUES(?,?,?,?)', [(d['id'], d['name'], d['color'], i) for i, d in enumerate(domains)])
     c.executemany('INSERT INTO subdomain VALUES(?,?,?,?)', [(s['id'], s['domain'], s['name'], i) for i, s in enumerate(subs)])
-    c.executemany('INSERT INTO technology VALUES(?,?,?,?,?,?,?,?,?)', [(n['id'], n['name'], n['year'], int(n['approx']), n['kind'], n['domain'], n['sub'], n['summary'], n['people']) for n in nodes])
+    c.executemany('INSERT INTO technology VALUES(?,?,?,?,?,?,?,?,?,?)', [(n['id'], n['name'], n['year'], n['date'], int(n['approx']), n['kind'], n['domain'], n['sub'], n['summary'], n['people']) for n in nodes])
     c.executemany('INSERT INTO requirement VALUES(?,?)', [(n['id'], r) for n in nodes for r in n['requires']])
     c.commit(); c.execute('VACUUM'); c.close(); (out / 'techtree.db').write_bytes(tmp.read_bytes()); shutil.rmtree(tmp.parent, ignore_errors=True)
     edges = sum(len(n['requires']) for n in nodes)

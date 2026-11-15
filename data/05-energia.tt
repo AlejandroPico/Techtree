@@ -50,13 +50,13 @@ bujia | 1902 | I | Bujía con magneto de alta tensión | bobina-induccion, porce
 turbina-gas | 1903 | I | Turbina de gas | turbina-vapor | Primera en entregar potencia neta. | Ægidius Elling
 turborreactor | 1937 | I | Turborreactor | turbina-gas, acero-inoxidable | Bancos de ensayo independientes en Inglaterra y Alemania. | Frank Whittle, Hans von Ohain
 @@ nuclear | Energía nuclear
-reactor-cp1 | 1942 | I | Reacción en cadena controlada | fision, neutron | Chicago Pile-1: grafito y uranio natural. | Enrico Fermi, Leó Szilárd
+reactor-cp1 | 1942-12-02 | I | Reacción en cadena controlada | fision, neutron | Chicago Pile-1: grafito y uranio natural. | Enrico Fermi, Leó Szilárd
 enriquecimiento-uranio | 1944 | T | Enriquecimiento de uranio | espectrometro-masas, fision | Difusión gaseosa y separación electromagnética en Oak Ridge. |
-bomba-fision | 1945 | I | Bomba de fisión | reactor-cp1, enriquecimiento-uranio | Ensayo Trinity y bombardeos de Hiroshima y Nagasaki. | J. Robert Oppenheimer
-bomba-termonuclear | 1952 | I | Bomba termonuclear | bomba-fision | Ensayo Ivy Mike: fusión iniciada por fisión. | Edward Teller, Stanisław Ulam
-central-nuclear | 1954 | S | Central nuclear | reactor-cp1, turbina-vapor | Óbninsk (URSS) vierte electricidad a la red. |
+bomba-fision | 1945-07-16 | I | Bomba de fisión | reactor-cp1, enriquecimiento-uranio | Ensayo Trinity y bombardeos de Hiroshima y Nagasaki. | J. Robert Oppenheimer
+bomba-termonuclear | 1952-11-01 | I | Bomba termonuclear | bomba-fision | Ensayo Ivy Mike: fusión iniciada por fisión. | Edward Teller, Stanisław Ulam
+central-nuclear | 1954-06 | S | Central nuclear | reactor-cp1, turbina-vapor | Óbninsk (URSS) vierte electricidad a la red. |
 tokamak | 1958 | I | Tokamak | bomba-termonuclear, superconductividad | Confinamiento magnético toroidal del plasma. | Ígor Tamm, Andréi Sájarov
-ignicion-fusion | 2022 | D | Ganancia neta en fusión inercial | laser, tokamak | La National Ignition Facility obtiene más energía de fusión que la del láser incidente. |
+ignicion-fusion | 2022-12-05 | D | Ganancia neta en fusión inercial | laser, tokamak | La National Ignition Facility obtiene más energía de fusión que la del láser incidente. |
 @@ renovables | Fotovoltaica y almacenamiento
 efecto-fotovoltaico | 1839 | D | Efecto fotovoltaico | pila-volta | La luz genera corriente en una celda electrolítica. | Edmond Becquerel
 celula-selenio | 1883 | I | Célula solar de selenio | efecto-fotovoltaico | Rendimiento en torno al 1 %. | Charles Fritts

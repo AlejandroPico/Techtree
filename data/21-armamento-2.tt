@@ -1,0 +1,108 @@
+@ militar | Armamento | #b0605a
+@@ arcos | Arcos y ballestas
+flecha-emplumada | ~-10000 | H | Flecha con astil y emplumado | arco, brea-abedul | Flechas de pino de Stellmoor (Alemania), las más antiguas conservadas. |
+arco-plano | ~-7000 | H | Arco plano de olmo | arco, piedra-pulimentada | Arcos de Holmegaard (Dinamarca), los más antiguos conservados enteros. |
+arco-tejo | ~-3300 | H | Arco largo de tejo | arco-plano | El hombre de Ötzi llevaba uno de 1,82 m sin terminar. |
+anillo-arquero | ~-1200 | H | Anillo de arquero | arco-compuesto | Protege el pulgar en la suelta mongola; China Shang. |
+arco-escita | ~-700 | H | Arco recurvo escita | arco-compuesto, montar | Arco corto de doble curva para disparar a caballo. |
+ballesta-repeticion | ~-350 | H | Ballesta de repetición | ballesta | Cargador por gravedad y palanca; tumba de Chu. |
+arco-huno | ~300 | H | Arco compuesto con refuerzos de hueso | arco-escita | Palas rígidas y asimétricas que aumentan la potencia. |
+ballesta-europea | ~950 | H | Ballesta medieval europea | ballesta, forja | Nuez giratoria de hueso y llave larga. |
+ballesta-estribo | ~1100 | H | Ballesta de estribo | ballesta-europea | Se arma pisando el estribo y tirando con un gancho al cinto. |
+punta-bodkin | ~1200 | H | Punta de flecha perforante | forja, cota-malla | Punta estrecha de sección cuadrada contra mallas y placas. |
+arco-mongol | ~1200 | H | Arco compuesto mongol | arco-huno, estribo | Alcance de más de 300 m desde la silla. |
+arco-largo-ingles | ~1250 | H | Arco largo de guerra | arco-tejo, punta-bodkin | Tiro masivo de arqueros entrenados desde niños; Crécy y Agincourt. |
+ballesta-torno | ~1300 | H | Ballesta de torno | ballesta-estribo, polipasto | Cabrestante y poleas para armar arcos muy potentes. |
+ballesta-acero | ~1370 | H | Ballesta de verga de acero | ballesta-torno, temple | El arco de acero templado sustituye al compuesto. |
+cranequin | ~1400 | H | Cranequín | ballesta-acero, engranaje-reloj | Cremallera y manivela para armar a caballo. |
+arco-poleas | 1966 | H | Arco de poleas | arco-compuesto, fibra-vidrio | Levas excéntricas que reducen el esfuerzo al final del tensado. | Holless Allen
+fibra-vidrio | 1938 | M | Fibra de vidrio | vidrio-soplado, baquelita | Filamentos de vidrio en resina. | Russell Slayter
+@@ armaduras | Armas blancas y armaduras
+punal-silex | ~-2400 | H | Puñal de sílex tallado | talla-presion | Imitaciones nórdicas en piedra de los puñales de metal. |
+casco-metal | ~-2500 | H | Casco metálico | cobre-arsenical | Cascos de cobre y de oro en las tumbas reales de Ur. |
+escudo-bronce | ~-1300 | H | Escudo de bronce batido | bronce, recocido | Escudos de chapa repujada de la Edad del Bronce europea. |
+armadura-lamelar | ~-800 | H | Armadura lamelar | armadura-escamas | Laminillas atadas entre sí; Asiria. |
+panoplia-hoplita | ~-700 | H | Panoplia hoplita | escudo-bronce, casco-metal | Escudo redondo, coraza, grebas y lanza: la falange. |
+sarisa | ~-350 | H | Sarisa macedonia | panoplia-hoplita | Pica de cinco a seis metros. | Filipo II
+pilum | ~-300 | H | Pilum | forja | Jabalina de hierro dulce que se dobla al impactar. |
+gladius | ~-220 | H | Gladius hispaniensis | acero-cementado | Espada corta de origen ibérico adoptada por Roma. |
+lorica-segmentata | ~-10 | H | Lorica segmentata | forja, laton | Coraza de bandas de hierro articuladas. |
+soldadura-patron | ~200 | T | Forja con soldadura de patrón | forja, acero-cementado | Barras de hierro y acero retorcidas y soldadas: hojas tenaces y veteadas. |
+espada-ulfberht | ~850 | H | Espadas Ulfberht | acero-crisol-wootz, soldadura-patron | Hojas francas de acero de crisol con marca de taller. |
+acero-damasco | ~900 | M | Acero de Damasco | acero-crisol-wootz | Hojas forjadas de lingotes wootz con dibujo de aguas. |
+sable-japones | ~1000 | H | Sable japonés de temple diferencial | temple, soldadura-patron | Filo durísimo y lomo tenaz mediante arcilla en el temple. |
+lanza-ristre | ~1100 | T | Carga con lanza en ristre | estribo, silla-arzon | La lanza sujeta bajo el brazo transmite el empuje del caballo. |
+silla-arzon | ~1000 | H | Silla de arzones altos | estribo | Sujeta al jinete en el choque. |
+alabarda | ~1300 | H | Alabarda | forja | Hacha, punta y gancho en un asta; infantería suiza. |
+brigantina | ~1350 | H | Brigantina | forja, hilera | Placas remachadas dentro de una prenda de tela. |
+espada-larga | ~1350 | H | Espada larga a dos manos | temple | Arma del caballero a pie contra la armadura de placas. |
+arnes-blanco | ~1420 | H | Armadura completa de placas | brigantina, temple, trefilado-hidraulico | Arnés articulado de acero templado; Milán y Augsburgo. |
+pica-suiza | ~1420 | T | Cuadro de picas | alabarda | Infantería cerrada que detiene a la caballería pesada. |
+ropera | ~1500 | H | Espada ropera | temple | Hoja larga y estrecha para la estocada civil. |
+@@ fortificacion | Fortificación y asedio
+ariete | ~-900 | H | Ariete | rueda, forja | Arietes con cubierta y ruedas en los relieves asirios. |
+torre-asedio | ~-900 | H | Torre de asedio | ariete | Torres rodantes de varios pisos. |
+helepolis | -305 | H | Helépolis | torre-asedio, polea | Torre de 40 m en el asedio de Rodas. | Demetrio Poliorcetes
+corvus | -260 | H | Corvus | grua, trirreme | Pasarela de abordaje romana. |
+onagro | ~350 | H | Onagro | catapulta-torsion | Catapulta de un solo brazo. |
+mota-castral | ~950 | S | Castillo de mota y patio | palanca | Torre de madera sobre montículo artificial. |
+torre-homenaje | ~1000 | S | Torre del homenaje de piedra | mota-castral, cal | Donjon de mampostería. |
+matacan | ~1200 | S | Matacán | torre-homenaje | Galería en voladizo para batir el pie del muro. |
+castillo-concentrico | ~1190 | S | Castillo concéntrico | torre-homenaje, trabuquete-contrapeso | Recintos sucesivos que se cubren unos a otros. |
+traza-italiana | ~1500 | S | Fortificación abaluartada | bombarda, geometria-egipcia | Muros bajos y gruesos con baluartes en punta de flecha. |
+mina-polvora | 1503 | T | Mina explosiva de asedio | polvora, traza-italiana | Galería cargada de pólvora bajo la muralla; Castel dell'Ovo. | Pedro Navarro
+paralelas-vauban | 1673 | T | Asedio por paralelas | traza-italiana | Trincheras sucesivas que se acercan al muro. | Sébastien de Vauban
+alambre-espino | 1874 | M | Alambre de espino | trefilado-hidraulico, convertidor-bessemer | Cerca barata; después, obstáculo militar. | Joseph Glidden
+@@ fuego | Armas de fuego
+polvora-granulada | ~1420 | M | Pólvora granulada | polvora | Granos húmedos prensados: arde más rápido y no se separa. |
+canon-duelas | ~1380 | H | Cañón de duelas de hierro forjado | bombarda, forja | Barras soldadas y zunchadas como un tonel. |
+bombarda-gigante | 1453 | H | Grandes bombardas de bronce | canon-duelas, cera-perdida | El cañón de Orbán en el asedio de Constantinopla. | Orbán
+canon-bronce | ~1450 | H | Cañón de bronce fundido de una pieza | cera-perdida, bombarda | La técnica de las campanas aplicada a la artillería. |
+curena-munones | ~1465 | H | Cureña con muñones | canon-bronce, rueda-radios | El cañón bascula sobre dos pivotes: artillería móvil. |
+bala-hierro | ~1470 | H | Bala de hierro colado | alto-horno, canon-bronce | Más densa que la piedra: cañones menores con igual efecto. |
+mosquete | ~1520 | H | Mosquete | arcabuz | Arma pesada con horquilla que perfora armaduras. |
+tercio | 1534 | S | Tercio | mosquete, pica-suiza | Picas y armas de fuego combinadas. |
+contramarcha | 1594 | T | Fuego por descargas | mosquete | Filas que disparan y se relevan. | Mauricio de Nassau
+artilleria-regimental | ~1630 | H | Artillería ligera de campaña | curena-munones | Piezas que acompañan a la infantería. | Gustavo II Adolfo
+sistema-gribeauval | 1765 | S | Sistema Gribeauval | barrenado-canones, curena-munones | Calibres y piezas normalizados. | Jean-Baptiste de Gribeauval
+barrenado-canones | 1715 | H | Barrenado de cañones en macizo | canon-bronce, molino-agua | El ánima se taladra en la pieza fundida maciza. | Jean Maritz
+carronada | 1778 | H | Carronada | coque, canon-bronce | Cañón naval corto de gran calibre. |
+metralla-shrapnel | 1784 | H | Granada de metralla | bomba-polvora | Proyectil que estalla en el aire y dispersa balas. | Henry Shrapnel
+cohete-congreve | 1805 | H | Cohete Congreve | cohete-polvora, laminador | Cohetes de hierro inspirados en los de Mysore. | William Congreve
+canon-acero | 1851 | H | Cañón de acero fundido | acero-crisol | Krupp funde cañones de acero al crisol de una sola pieza. | Alfred Krupp
+canon-rayado | 1855 | H | Cañón rayado de retrocarga | canon-acero, anima-rayada | Cañón Armstrong. | William Armstrong
+fusil-repeticion | 1860 | H | Fusil de repetición | cartucho-metalico | Spencer y Henry: varios disparos sin recargar. |
+fusil-cerrojo | 1871 | H | Fusil de cerrojo de cartucho metálico | fusil-aguja, cartucho-metalico | Mauser modelo 1871. | Paul Mauser
+fusil-lebel | 1886 | H | Fusil de pólvora sin humo | polvora-sin-humo, fusil-cerrojo | Calibre reducido, gran alcance y sin nube delatora. |
+canon-75 | 1897 | H | Cañón de tiro rápido | canon-rayado, polvora-sin-humo | Freno hidroneumático: el cañón no se mueve al disparar. |
+lanzallamas | 1901 | H | Lanzallamas | queroseno | Usado en combate desde 1915. | Richard Fiedler
+granada-mano | 1915 | H | Granada de fragmentación | dinamita | Bomba Mills con espoleta de tiempo. | William Mills
+mortero-stokes | 1915 | H | Mortero de infantería | canon-75 | Tubo liso con percutor fijo. | Wilfred Stokes
+carga-profundidad | 1916 | H | Carga de profundidad | dinamita, submarino-electrico | Explosivo con espoleta hidrostática. |
+iperita | 1917 | M | Gas mostaza | gas-cloro | Agente vesicante persistente. |
+sonar | 1918 | I | Sonar activo | electron, triodo | Eco de ultrasonidos con cuarzo piezoeléctrico. | Paul Langevin
+subfusil | 1918 | H | Subfusil | ametralladora | MP 18: arma automática ligera de cartucho de pistola para el asalto de trincheras. | Hugo Schmeisser
+maquina-enigma | 1918 | I | Máquina Enigma | maquina-escribir, rele | Cifrado por rotores. | Arthur Scherbius
+fusil-semiautomatico | 1936 | H | Fusil semiautomático reglamentario | fusil-cerrojo, ametralladora | M1 Garand. | John Garand
+agente-nervioso | 1936 | M | Agentes nerviosos | organofosforados | Tabún, hallado al buscar insecticidas. | Gerhard Schrader
+organofosforados | 1932 | D | Insecticidas organofosforados | estructura-benceno | Compuestos de fósforo que bloquean la colinesterasa. |
+bombe | 1940 | I | Bombe criptoanalítica | maquina-enigma, tabuladora | Máquina que descarta configuraciones de Enigma. | Alan Turing, Gordon Welchman
+napalm | 1942 | M | Napalm | craqueo-termico | Gasolina gelificada. | Louis Fieser
+bazuca | 1942 | H | Lanzacohetes anticarro | carga-hueca | Carga hueca propulsada por cohete. |
+carga-hueca | 1888 | D | Efecto de carga hueca | dinamita | Una cavidad en el explosivo concentra el chorro. | Charles Munroe
+espoleta-proximidad | 1943-01 | I | Espoleta de proximidad | radar, triodo | Un radar diminuto en el proyectil lo detona cerca del blanco. |
+bomba-guiada | 1943 | H | Bomba guiada | radio-voz, giroscopo | Fritz X dirigida por radio. |
+fusil-asalto | 1944 | H | Fusil de asalto | subfusil, fusil-semiautomatico | Sturmgewehr 44: cartucho intermedio y fuego selectivo. |
+ak-47 | 1947 | H | AK-47 | fusil-asalto | El arma más fabricada de la historia. | Mijaíl Kaláshnikov
+misil-tierra-aire | 1954 | H | Misil tierra-aire | radar, v2 | Nike Ajax; después S-75. |
+misil-anticarro | 1955 | H | Misil anticarro filoguiado | bazuca, giroscopo | SS.10: el tirador guía el misil por dos hilos que se desenrollan en vuelo.
+misil-aire-aire | 1956 | H | Misil aire-aire infrarrojo | celula-selenio, turborreactor | AIM-9 Sidewinder. |
+misil-submarino | 1960 | H | Misil balístico de lanzamiento submarino | submarino-nuclear, misil-intercontinental | Polaris. |
+bomba-laser | 1968 | H | Bomba guiada por láser | laser, bomba-guiada | Paveway. |
+ojivas-multiples | 1970 | H | Ojivas múltiples independientes | misil-intercontinental, circuito-integrado | Minuteman III. |
+chaleco-antibalas | 1975 | H | Chaleco de aramida | kevlar | Protección ligera contra bala de pistola. |
+misil-crucero-moderno | 1983 | H | Misil de crucero de guiado por terreno | misil-crucero, microprocesador | Tomahawk. |
+bomba-gps | 1998 | H | Bomba guiada por GPS | gps, bomba-laser | JDAM: un kit de aletas y receptor GPS convierte bombas corrientes en guiadas.
+ciberarma | 2010 | I | Ciberarma industrial | internet, microprocesador | Stuxnet sabotea centrifugadoras a través de sus autómatas. |
+defensa-antimisiles | 2011 | S | Defensa contra cohetes de corto alcance | misil-tierra-aire, radar | Cúpula de Hierro. |
+misil-hipersonico | 2019 | H | Planeador hipersónico | misil-intercontinental | Avangard. |

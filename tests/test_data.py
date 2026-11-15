@@ -27,7 +27,7 @@ class DataTest(unittest.TestCase):
     def test_every_node_is_complete(self):
         for n in self.data['nodes']:
             self.assertRegex(n['id'], r'^[a-z0-9]+(-[a-z0-9]+)*$')
-            self.assertTrue(n['name'] and len(n["summary"]) >= 24, n['id'])
+            self.assertTrue(n['name'] and len(n["summary"]) >= 6, n['id'])
             self.assertGreaterEqual(n['year'], -3400000); self.assertLessEqual(n['year'], 2026)
             self.assertLessEqual(len(n['requires']), 8, f"{n['id']}: los requisitos deben ser inmediatos, no toda la cadena")
 

@@ -22,7 +22,7 @@ export function computeLayout(tree: Tree): Layout {
   const { nodes, subs } = tree, n = nodes.length, br = breaks(tree.presentYear + 1), bins = br.length - 1;
   const binOf = (year: number) => { let lo = 0, hi = bins - 1; while (lo < hi) { const m = (lo + hi + 1) >> 1; if (br[m] <= year) lo = m; else hi = m - 1; } return lo; };
   const count = new Uint32Array(bins * subs.length), nodeBin = new Int32Array(n);
-  for (const t of nodes) { const b = binOf(Math.max(START_YEAR, Math.min(tree.presentYear, t.year))); nodeBin[t.i] = b; count[b * subs.length + t.subIndex]++; }
+  for (const t of nodes) { const b = binOf(Math.max(START_YEAR, Math.min(tree.presentYear, t.t))); nodeBin[t.i] = b; count[b * subs.length + t.subIndex]++; }
   const years = Float64Array.from(br), xs = new Float64Array(br.length);
   for (let b = 0; b < bins; b++) {
     let max = 0; for (let s = 0; s < subs.length; s++) max = Math.max(max, count[b * subs.length + s]);
@@ -32,14 +32,14 @@ export function computeLayout(tree: Tree): Layout {
   const rawX = (year: number) => { const y = Math.max(years[0], Math.min(years[bins], year)), b = Math.min(bins - 1, binOf(y)); return xs[b] + (y - years[b]) / (years[b + 1] - years[b]) * span(b); };
   // Un avance debe quedar a la derecha de lo que requiere: se ensanchan los tramos donde una tarjeta taparía a su sucesora.
   if (n < 200000) for (let pass = 0; pass < 2; pass++) for (const t of nodes) for (const r of t.req) {
-    const a = nodes[r]; if (a.year >= t.year) continue; const gap = rawX(t.year) - rawX(a.year), need = CARD_W + GAP_X; if (gap >= need) continue;
+    const a = nodes[r]; if (a.t >= t.t) continue; const gap = rawX(t.t) - rawX(a.t), need = CARD_W + GAP_X; if (gap >= need) continue;
     const b0 = nodeBin[r], b1 = nodeBin[t.i], k = Math.min(3, need / gap), w: number[] = []; for (let b = 0; b < bins; b++) w.push(span(b) * (b >= b0 && b <= b1 ? k : 1));
     for (let b = 0; b < bins; b++) xs[b + 1] = xs[b] + w[b];
   }
   const yearToX = (year: number) => { const y = Math.max(years[0], Math.min(years[bins], year)), b = Math.min(bins - 1, binOf(y)); return xs[b] + (y - years[b]) / (years[b + 1] - years[b]) * (xs[b + 1] - xs[b]); };
   const xToYear = (x: number) => { const v = Math.max(0, Math.min(xs[bins], x)); let lo = 0, hi = bins - 1; while (lo < hi) { const m = (lo + hi + 1) >> 1; if (xs[m] <= v) lo = m; else hi = m - 1; } return years[lo] + (v - xs[lo]) / (xs[lo + 1] - xs[lo]) * (years[lo + 1] - years[lo]); };
   const x = new Float32Array(n), y = new Float32Array(n);
-  for (const t of nodes) x[t.i] = yearToX(t.year);
+  for (const t of nodes) x[t.i] = yearToX(t.t);
   const perSub: number[][] = subs.map(() => []);
   for (const t of nodes) perSub[t.subIndex].push(t.i);
   const lanes: Lane[] = [], bands: Band[] = []; let cursor = 0, lastDomain = -1;
@@ -67,12 +67,12 @@ export class Grid {
   }
   private key(cx: number, cy: number) { return cx * 100003 + cy; }
   /** Recorre las tarjetas que tocan el rectángulo; devuelve false si se alcanzó el límite. */
-  query(x0: number, y0: number, x1: number, y1: number, limit: number, visit: (i: number) => void) {
+  query(x0: number, y0: number, x1: number, y1: number, limit: number, visit: (i: number) => void, cardW = CARD_W) {
     const c = this.cell, { x, y } = this.layout; let seen = 0;
     for (let cx = Math.floor((x0 - CARD_W) / c); cx <= Math.floor(x1 / c); cx++) for (let cy = Math.floor((y0 - CARD_H) / c); cy <= Math.floor(y1 / c); cy++) {
       const k = this.key(cx, cy); let p = this.start.get(k); if (p === undefined) continue;
       for (; p < this.order.length && this.keys[this.order[p]] === k; p++) {
-        const i = this.order[p]; if (x[i] > x1 || x[i] + CARD_W < x0 || y[i] > y1 || y[i] + CARD_H < y0) continue;
+        const i = this.order[p]; if (x[i] > x1 || x[i] + cardW < x0 || y[i] > y1 || y[i] + CARD_H < y0) continue;
         if (++seen > limit) return false; visit(i);
       }
     }

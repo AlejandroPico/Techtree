@@ -1,0 +1,157 @@
+@ tierra | Ciencias de la Tierra | #8aa37b
+@@ geologia | Geología
+principios-steno | 1669 | C | Principios de la estratigrafía | fosiles-organicos | Superposición y horizontalidad original de los estratos. | Nicolás Steno
+tiempo-profundo | 1788 | C | Tiempo profundo | principios-steno | «Ni vestigio de un principio ni perspectiva de un fin». | James Hutton
+mapa-geologico | 1815 | I | Mapa geológico nacional | principios-steno, proyeccion-mercator | Estratos identificados por sus fósiles. | William Smith
+uniformismo | 1830 | C | Uniformismo | tiempo-profundo | El presente es la clave del pasado. | Charles Lyell
+glaciaciones | 1837 | D | Edad de hielo | uniformismo | Los bloques erráticos los dejaron glaciares. | Louis Agassiz
+escala-geologica | 1841 | C | Eras geológicas | mapa-geologico | Paleozoico, Mesozoico y Cenozoico. | John Phillips
+sismografo | 1880 | I | Sismógrafo moderno | sismoscopio, isocronismo-pendulo | Registro continuo del movimiento del suelo. | John Milne
+discontinuidad-moho | 1909 | D | Discontinuidad de Mohorovičić | sismografo | Límite entre corteza y manto. | Andrija Mohorovičić
+nucleo-terrestre | 1906 | D | Núcleo de la Tierra | sismografo | Las ondas S no lo atraviesan. | Richard Oldham
+deriva-continental | 1912 | C | Deriva continental | mapa-geologico, extincion | Los continentes estuvieron unidos; rechazada medio siglo. | Alfred Wegener
+ciclos-milankovic | 1920 | C | Ciclos de Milanković | glaciaciones, mecanica-analitica | Las variaciones orbitales marcan las glaciaciones. | Milutin Milanković
+escala-richter | 1935 | C | Escala de magnitud sísmica | sismografo | Medida logarítmica de la energía. | Charles Richter
+nucleo-interno | 1936 | D | Núcleo interno sólido | nucleo-terrestre | Deducido de ondas reflejadas. | Inge Lehmann
+dorsales-oceanicas | 1953 | D | Dorsal mesoatlántica y su rift | sonar | Cartografiada por ecosonda. | Marie Tharp, Bruce Heezen
+expansion-fondo-oceanico | 1962 | C | Expansión del fondo oceánico | dorsales-oceanicas | El fondo nace en las dorsales. | Harry Hess
+bandas-magneticas | 1963 | D | Bandas magnéticas del fondo marino | expansion-fondo-oceanico | Inversiones del campo grabadas en la roca. | Frederick Vine, Drummond Matthews
+tectonica-placas | 1967 | C | Tectónica de placas | bandas-magneticas, deriva-continental | La litosfera se divide en placas móviles. | Dan McKenzie, Jason Morgan
+@@ meteorologia | Meteorología y clima
+pluviometro | ~-400 | H | Pluviómetro | ceramica-vasijas | Medición de lluvia en la India. |
+veleta | ~-50 | H | Veleta | bronce | Torre de los Vientos de Atenas. |
+higrometro | 1450 | H | Higrómetro | balanza | Humedad medida con lana. | Nicolás de Cusa
+anemometro | 1450 | H | Anemómetro | veleta | Placa oscilante. | Leon Battista Alberti
+red-meteorologica | 1654 | S | Red de observación meteorológica | termometro-florentino, barometro | Accademia del Cimento. |
+termometro-florentino | 1641 | H | Termómetro sellado de alcohol | vidrio-soplado | No depende de la presión. | Fernando II de Médici
+vientos-alisios | 1686 | C | Mapa de los vientos alisios | carabela, barometro | Circulación atmosférica. | Edmond Halley
+clasificacion-nubes | 1802 | C | Clasificación de las nubes | clasificacion-linneo | Cirros, cúmulos, estratos. | Luke Howard
+escala-beaufort | 1805 | C | Escala de Beaufort | anemometro | Fuerza del viento por sus efectos. | Francis Beaufort
+mapa-tiempo | 1851 | I | Mapa del tiempo telegráfico | telegrafo-electrico, barometro | Datos simultáneos de muchas estaciones. |
+prediccion-tiempo | 1861 | S | Pronóstico meteorológico público | mapa-tiempo | Publicado en The Times. | Robert FitzRoy
+efecto-invernadero | 1859 | D | Absorción infrarroja de los gases | radiacion-infrarroja | Vapor de agua y CO2 retienen calor. | John Tyndall
+calentamiento-co2 | 1896 | C | Calentamiento por dióxido de carbono | efecto-invernadero, ley-stefan | Duplicar el CO2 eleva la temperatura varios grados. | Svante Arrhenius
+frentes | 1919 | C | Teoría de los frentes | mapa-tiempo, hidrodinamica | Escuela de Bergen. | Vilhelm Bjerknes
+radiosonda | 1930 | I | Radiosonda | globo-hidrogeno, triodo | Datos de altura por radio. | Pável Molchánov
+prediccion-numerica | 1950 | T | Predicción numérica del tiempo | eniac, navier-stokes | Primera previsión calculada por ordenador. | Jule Charney, John von Neumann
+curva-keeling | 1958 | D | Curva de Keeling | espectroscopia | El CO2 atmosférico sube año tras año. | Charles Keeling
+radar-meteorologico | 1953 | I | Radar meteorológico | radar | Detecta precipitación y tornados. |
+testigos-hielo | 1966 | T | Testigos de hielo | isotopos, datacion-radiocarbono | Clima de cientos de miles de años. | Willi Dansgaard
+modelo-climatico | 1967 | C | Modelo climático global | prediccion-numerica, calentamiento-co2 | Simulación de la atmósfera con CO2 duplicado. | Syukuro Manabe
+@ cartografia | Cartografía y exploración | #c2a878
+@@ mapas | Mapas y geodesia
+mapa-babilonico | ~-600 | I | Mapa del mundo babilónico | escritura-cuneiforme | Tablilla con el mundo rodeado por un océano. |
+medida-tierra | ~-240 | D | Medida de la circunferencia terrestre | tierra-esferica, geometria-egipcia | Sombras en Siena y Alejandría. | Eratóstenes
+latitud-longitud | ~-150 | C | Red de latitud y longitud | medida-tierra, trigonometria | Coordenadas sobre la esfera. | Hiparco
+geografia-ptolomeo | ~150 | C | Geografía de Ptolomeo | latitud-longitud | Ocho mil lugares con coordenadas y proyecciones. | Claudio Ptolomeo
+mapa-cuadricula-chino | 267 | T | Cartografía con cuadrícula | papel, nueve-capitulos | Seis principios de Pei Xiu. | Pei Xiu
+tabula-rogeriana | 1154 | I | Tabula Rogeriana | geografia-ptolomeo | Mapamundi más exacto de su tiempo. | al-Idrisi
+atlas-catalan | 1375 | I | Atlas catalán | portulano | Mapamundi de la escuela mallorquina. | Abraham Cresques
+globo-terraqueo | 1492 | I | Globo terráqueo | geografia-ptolomeo | Erdapfel. | Martin Behaim
+mapa-waldseemuller | 1507 | I | Mapa con el nombre de América | geografia-ptolomeo, imprenta | Universalis Cosmographia. | Martin Waldseemüller
+triangulacion | 1533 | T | Triangulación | de-triangulis | Medir un país con triángulos encadenados. | Gemma Frisius
+atlas-moderno | 1570 | I | Atlas moderno | proyeccion-mercator, imprenta | Theatrum Orbis Terrarum. | Abraham Ortelius
+forma-tierra | 1737 | D | Achatamiento de la Tierra | triangulacion, principia | Expediciones a Laponia y al Perú. | Pierre de Maupertuis, Jorge Juan
+mapa-cassini | 1789 | I | Mapa topográfico nacional | triangulacion | Carta de Cassini de Francia. |
+curvas-nivel | 1791 | T | Curvas de nivel | mapa-cassini | Relieve representado por líneas de igual altitud. |
+meridiano-greenwich | 1884-10 | S | Meridiano de Greenwich y husos horarios | cronometro-marino, telegrafo-electrico | Conferencia de Washington. |
+fotogrametria | 1858 | T | Fotogrametría aérea | daguerrotipo, globo | Mapas a partir de fotografías. | Aimé Laussedat, Nadar
+teledeteccion | 1972-07 | I | Satélite de observación de la Tierra | tiros-1, ccd | Landsat 1. |
+sig | 1963 | I | Sistema de información geográfica | computador-transistores | Capas de datos sobre mapas digitales. | Roger Tomlinson
+mapas-web | 2005 | S | Mapas en línea | sig, web | Mapas navegables con imágenes de satélite. |
+@@ exploracion | Exploración
+poblamiento-america | ~-20000 | D | Poblamiento de América | ropa-cosida, lanza-madera | Huellas de White Sands (Nuevo México). |
+periplo-hannon | ~-500 | D | Periplo de Hannón | birreme | Navegación cartaginesa por la costa africana. |
+ruta-seda | -130 | S | Ruta de la Seda | dromedario, seda | Embajada de Zhang Qian. |
+vikingos-america | ~1000 | D | Europeos en América | drakkar | L'Anse aux Meadows. |
+viajes-zheng-he | 1405 | D | Flotas de Zheng He | junco, brujula | Siete expediciones hasta África oriental. | Zheng He
+cabo-buena-esperanza | 1488 | D | Paso del cabo de Buena Esperanza | carabela | Bartolomeu Dias. |
+viaje-colon | 1492-10 | D | Travesía del Atlántico | carabela, astrolabio-nautico | Llegada a las Antillas. | Cristóbal Colón
+ruta-india | 1498-05 | D | Ruta marítima a la India | cabo-buena-esperanza | Vasco da Gama. |
+polo-norte | 1909 | D | Llegada al Polo Norte | sextante | Reclamada por Peary; discutida. | Robert Peary
+polo-sur | 1911-12 | D | Llegada al Polo Sur | sextante | Expedición noruega. | Roald Amundsen
+everest | 1953-05 | D | Ascenso al Everest | nailon | Con oxígeno embotellado. | Edmund Hillary, Tenzing Norgay
+@ musica | Música y sonido | #d08fb0
+@@ instrumentos | Instrumentos
+tambor | ~-6000 | I | Tambor de membrana | ropa-cosida | Piel tensada sobre un marco. |
+arpa | ~-2600 | I | Arpa y lira | cuerda, sierra-metal | Liras y arpas de las tumbas reales de Ur.
+laud | ~-2000 | I | Laúd de mástil | arpa | Cuerdas pisadas sobre un mástil. |
+campana | ~-2000 | I | Campana de bronce | bronce, molde | Campanas afinadas de la China Shang. |
+trompeta | ~-1500 | I | Trompeta metálica | bronce, recocido | Trompetas de la tumba de Tutankamón. |
+escala-pitagorica | ~-530 | C | Afinación pitagórica | demostracion, arpa | Intervalos como razones de números enteros. | Pitágoras
+organo-hidraulico | ~-250 | I | Órgano hidráulico | bomba-impelente | Hydraulis. | Ctesibio
+notacion-neumas | ~850 | I | Notación de neumas | codice | Signos sobre el texto que indican el contorno melódico. |
+tetragrama | ~1025 | I | Pauta y solmisación | notacion-neumas | Líneas para las alturas y nombres de las notas. | Guido de Arezzo
+polifonia | ~1170 | C | Polifonía escrita | tetragrama | Escuela de Notre-Dame. | Léonin, Pérotin
+notacion-mensural | ~1280 | C | Notación mensural | polifonia | La forma de la nota indica su duración. | Franco de Colonia
+clavicordio | ~1400 | I | Clavicordio y clave | organo-hidraulico, trefilado-hidraulico | Cuerdas accionadas por teclado. |
+violin | ~1550 | I | Violín | laud | Forma definitiva del instrumento en los talleres de Cremona. | Andrea Amati
+imprenta-musical | 1501 | I | Imprenta musical | imprenta, notacion-mensural | Odhecaton. | Ottaviano Petrucci
+opera | 1607 | S | Ópera | polifonia | L’Orfeo de Monteverdi une drama, canto y orquesta. | Claudio Monteverdi
+temperamento-igual | 1584 | C | Temperamento igual | progresiones-stifel, escala-pitagorica | Doce semitonos idénticos. | Zhu Zaiyu, Simon Stevin
+progresiones-stifel | 1544 | C | Progresiones y exponentes | liber-abaci | Relación entre progresión aritmética y geométrica. | Michael Stifel
+piano | ~1700 | I | Pianoforte | clavicordio | Macillos que permiten matices. | Bartolomeo Cristofori
+diapason | 1711 | H | Diapasón | forja | Referencia de afinación. | John Shore
+metronomo | 1815 | H | Metrónomo | reloj-pendulo | Tempo medido. | Johann Maelzel
+saxofon | 1846 | I | Saxofón | laton | Viento de lengüeta y cuerpo metálico. | Adolphe Sax
+piano-marco-hierro | 1825 | I | Piano con bastidor de hierro | piano, coque | Soporta cuerdas mucho más tensas. | Alpheus Babcock
+@@ sonido | Grabación y sonido
+fonoautografo | 1857 | I | Fonoautógrafo | velocidad-sonido | Registra el sonido sin poder reproducirlo. | Édouard-Léon Scott de Martinville
+gramofono | 1887 | I | Gramófono de disco | fonografo | Discos planos duplicables. | Emile Berliner
+theremin | 1920 | I | Theremin | triodo | Instrumento electrónico que se toca sin contacto. | León Theremin
+grabacion-electrica | 1925 | T | Grabación eléctrica | triodo, microfono-carbon | Micrófono y amplificador. |
+guitarra-electrica | 1932 | I | Guitarra eléctrica | induccion, triodo | Pastilla electromagnética. | George Beauchamp
+magnetofono | 1935 | I | Magnetófono | cinta-magnetica | Magnetophon K1. |
+disco-vinilo | 1948 | I | Disco de larga duración | gramofono, pvc | Microsurco a 33⅓ rpm. | Peter Goldmark
+estereofonia | 1931 | I | Sonido estereofónico | grabacion-electrica | Dos canales. | Alan Blumlein
+sintetizador | 1964 | I | Sintetizador modular | transistor-silicio | Control por tensión. | Robert Moog
+casete | 1963 | I | Casete compacto | magnetofono | Cinta en cartucho. | Lou Ottens
+sintesis-fm | 1967 | C | Síntesis por modulación de frecuencia | sintetizador, computador-transistores | Base del DX7. | John Chowning
+reproductor-mp3 | 1998 | I | Reproductor digital portátil | mpeg, memoria-nand | Música en memoria flash. |
+musica-streaming | 2008 | S | Música en streaming | mpeg, telefonia-3g | Catálogo completo bajo demanda. |
+@ sociedad | Economía y organización | #a8a060
+@@ economia | Dinero y comercio
+pesas-patron | ~-2600 | S | Pesas normalizadas | balanza | Sistema uniforme del valle del Indo. |
+contabilidad-tablillas | ~-3300 | S | Contabilidad escrita | escritura-cuneiforme | Entradas y salidas de los templos de Uruk. |
+codigo-leyes | ~-2100 | S | Código legal escrito | escritura-cuneiforme | Código de Ur-Nammu; después Hammurabi. |
+prestamo-interes | ~-1750 | S | Préstamo con interés regulado | codigo-leyes, numeracion-sexagesimal | Tipos máximos en el Código de Hammurabi. |
+papel-moneda | ~1020 | I | Papel moneda | papel, xilografia | Jiaozi de Sichuan. |
+letra-cambio | ~1250 | I | Letra de cambio | liber-abaci | Pagos a distancia sin mover metal. |
+banca-deposito | 1407 | S | Banco público de depósito | letra-cambio | Banco di San Giorgio; Taula de Canvi de Barcelona (1401). |
+seguro-maritimo | ~1350 | S | Seguro marítimo | letra-cambio | Pólizas genovesas. |
+sociedad-acciones | 1602 | S | Sociedad anónima y bolsa | banca-deposito | Compañía Holandesa de las Indias Orientales y bolsa de Ámsterdam. |
+banco-central | 1668 | S | Banco central | sociedad-acciones | Riksbank; Banco de Inglaterra en 1694. |
+patentes | 1474 | S | Ley de patentes | imprenta | Estatuto de Venecia. |
+derechos-autor | 1710 | S | Derecho de autor | imprenta, patentes | Estatuto de la Reina Ana. |
+riqueza-naciones | 1776 | C | La riqueza de las naciones | sociedad-acciones | División del trabajo y mercado. | Adam Smith
+patron-oro | 1821 | S | Patrón oro | banco-central | Convertibilidad de la libra. |
+ventaja-comparativa | 1817 | C | Ventaja comparativa | riqueza-naciones | Por qué comerciar beneficia a ambos. | David Ricardo
+cooperativa | 1844 | S | Cooperativa de consumo | riqueza-naciones | Pioneros de Rochdale. |
+grandes-almacenes | 1852 | S | Grandes almacenes | ferrocarril-publico | Le Bon Marché: precio fijo y entrada libre. | Aristide Boucicaut
+caja-registradora | 1879 | I | Caja registradora | engranaje-reloj | Registra cada venta. | James Ritty
+organizacion-cientifica | 1911 | C | Organización científica del trabajo | piezas-intercambiables | Tiempos y movimientos. | Frederick Taylor
+tarjeta-credito | 1950 | I | Tarjeta de crédito | tabuladora | Diners Club. |
+cajero-automatico | 1967-06 | I | Cajero automático | tarjeta-credito, computador-transistores | Barclays de Enfield. | John Shepherd-Barron
+contabilidad-nacional | 1934 | C | Producto interior bruto | regresion | Medida de la economía de un país. | Simon Kuznets
+supermercado | 1930 | S | Supermercado | nevera-domestica, automovil | Autoservicio. | Michael Cullen
+black-scholes | 1973 | C | Valoración de opciones | movimiento-browniano, ecuaciones-diferenciales | Fórmula de Black-Scholes. | Fischer Black, Myron Scholes
+comercio-electronico | 1995 | S | Comercio electrónico | ssl, tarjeta-credito | Amazon y eBay. |
+@@ organizacion | Estado, educación y saber
+censo | ~-3000 | S | Censo | contabilidad-tablillas | Recuentos de población y ganado en Egipto. |
+escuela-escribas | ~-2500 | S | Escuela de escribas | escritura-cuneiforme | La edubba sumeria. |
+servicio-postal | ~-500 | S | Servicio postal estatal | montar, caminos-empedrados | Camino Real persa con relevos. |
+caminos-empedrados | ~-2000 | S | Caminos empedrados | rueda | Vías pavimentadas en Creta y Mesopotamia. |
+academia | -387 | S | Academia de Atenas | alfabeto-griego | Escuela filosófica permanente. | Platón
+examenes-imperiales | 605 | S | Exámenes imperiales | papel, escritura-china | Funcionarios elegidos por mérito. |
+casa-sabiduria | ~830 | S | Casa de la Sabiduría | papel, biblioteca | Traducción sistemática de la ciencia griega e india en Bagdad. |
+universidad | 1088 | S | Universidad | codice | Bolonia; después París y Oxford. |
+escuela-traductores | ~1130 | S | Escuela de traductores de Toledo | casa-sabiduria | La ciencia árabe y griega pasa al latín. |
+metodo-experimental | 1620 | C | Método experimental | optica-alhacen | Novum Organum. | Francis Bacon
+sociedades-cientificas | 1660 | S | Sociedades científicas | metodo-experimental | Royal Society; Académie des Sciences en 1666. |
+revista-cientifica | 1665 | S | Revista científica | sociedades-cientificas, imprenta | Philosophical Transactions. | Henry Oldenburg
+enciclopedia-diderot | 1751 | S | Encyclopédie | imprenta, sociedades-cientificas | Las artes y oficios descritos y grabados. | Denis Diderot, Jean d'Alembert
+escuela-politecnica | 1794 | S | Escuela de ingenieros | geometria-proyectiva, calculo | École Polytechnique. |
+sello-postal | 1840-05 | I | Sello postal | servicio-postal, prensa-vapor | Penny Black. | Rowland Hill
+laboratorio-industrial | 1876 | S | Laboratorio de investigación industrial | telegrafo-electrico | Menlo Park. | Thomas Edison
+premios-nobel | 1901 | S | Premios Nobel | dinamita | Legado de Alfred Nobel. |
+revision-pares | 1731 | S | Revisión por pares | revista-cientifica | Royal Society de Edimburgo. |

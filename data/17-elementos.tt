@@ -1,0 +1,125 @@
+@ quimica | Química | #58b7a8
+@@ elementos | Elementos químicos
+analisis-mineral | ~1730 | T | Análisis mineral por vía húmeda | balanza, acido-nitrico | Disolver, precipitar y pesar para averiguar de qué está hecho un mineral. | Torbern Bergman, Andreas Marggraf
+soplete-analitico | ~1750 | H | Soplete de análisis | analisis-mineral, tobera | Una llama dirigida sobre un grano de mineral revela sus metales por el color y el residuo. | Axel Cronstedt
+cristalizacion-fraccionada | 1839 | T | Cristalización fraccionada | analisis-mineral | Miles de recristalizaciones sucesivas separan las tierras raras, casi idénticas entre sí. | Carl Mosander
+ley-moseley | 1913 | C | Ley de Moseley | rayos-x, tabla-periodica, atomo-bohr | La frecuencia de los rayos X de un elemento da su número atómico y señala los huecos de la tabla. | Henry Moseley
+cromatografia-ionica | 1944 | T | Cromatografía de intercambio iónico | cromatografia, reactor-cp1 | Resinas que separan lantánidos y actínidos uno a uno. | Frank Spedding
+acelerador-iones-pesados | 1957 | H | Acelerador de iones pesados | ciclotron, magnetron | Acelera núcleos enteros para fusionarlos con un blanco: HILAC de Berkeley y U-300 de Dubná. |
+elemento-mercurio | ~-1500 | D | Mercurio (Hg) | cobre-reduccion | Elemento 80. Obtenido tostando cinabrio; hallado en tumbas egipcias. | 
+elemento-arsenico | ~1250 | D | Arsénico (As) | alambique | Elemento 33. Aislado calentando oropimente con jabón. | Alberto Magno
+elemento-antimonio | 1540 | D | Antimonio (Sb) | alto-horno | Elemento 51. Primera descripción de su obtención metálica; el mineral se usaba desde la Antigüedad. | Vannoccio Biringuccio
+elemento-cobalto | 1735 | D | Cobalto (Co) | analisis-mineral | Elemento 27. Primer metal descubierto en época histórica; daba el azul al vidrio. | Georg Brandt
+elemento-platino | 1748 | D | Platino (Pt) | analisis-mineral | Elemento 78. Descrito a partir de la «platina» de las minas del Chocó. | Antonio de Ulloa
+elemento-niquel | 1751 | D | Níquel (Ni) | analisis-mineral | Elemento 28. Aislado del «cobre del diablo» (kupfernickel). | Axel Cronstedt
+elemento-bismuto | 1753 | D | Bismuto (Bi) | analisis-mineral | Elemento 83. Distinguido definitivamente del plomo y el estaño. | Claude Geoffroy
+elemento-manganeso | 1774 | D | Manganeso (Mn) | analisis-mineral | Elemento 25. Reducido de la pirolusita con carbón. | Johan Gahn
+elemento-molibdeno | 1781 | D | Molibdeno (Mo) | analisis-mineral | Elemento 42. Aislado del óxido identificado por Scheele. | Peter Hjelm
+elemento-telurio | 1782 | D | Telurio (Te) | analisis-mineral | Elemento 52. Hallado en menas de oro de Transilvania. | Franz-Joseph Müller
+elemento-wolframio | 1783 | D | Wolframio (W) | analisis-mineral | Elemento 74. Aislado de la wolframita en Vergara. | Juan José y Fausto Elhuyar
+elemento-uranio | 1789 | D | Uranio (U) | analisis-mineral | Elemento 92. Identificado en la pechblenda; el metal se aisló en 1841. | Martin Klaproth
+elemento-circonio | 1789 | D | Circonio (Zr) | analisis-mineral | Elemento 40. Identificado en el circón. | Martin Klaproth
+elemento-estroncio | 1790 | D | Estroncio (Sr) | analisis-mineral | Elemento 38. Reconocido en un mineral de Strontian (Escocia). | Adair Crawford
+elemento-titanio | 1791 | D | Titanio (Ti) | analisis-mineral | Elemento 22. Hallado en la ilmenita de Cornualles. | William Gregor
+elemento-itrio | 1794 | D | Itrio (Y) | analisis-mineral | Elemento 39. Primera tierra rara, del mineral de Ytterby. | Johan Gadolin
+elemento-cromo | 1797 | D | Cromo (Cr) | analisis-mineral | Elemento 24. Aislado de la crocoíta; da color a rubí y esmeralda. | Louis Vauquelin
+elemento-berilio | 1798 | D | Berilio (Be) | analisis-mineral | Elemento 4. Identificado en el berilo y la esmeralda. | Louis Vauquelin
+elemento-vanadio | 1801 | D | Vanadio (V) | analisis-mineral | Elemento 23. Descubierto en plomo pardo de Zimapán; redescubierto en 1830. | Andrés Manuel del Río
+elemento-niobio | 1801 | D | Niobio (Nb) | analisis-mineral | Elemento 41. Hallado en la columbita. | Charles Hatchett
+elemento-tantalo | 1802 | D | Tántalo (Ta) | analisis-mineral | Elemento 73. Muy resistente a los ácidos. | Anders Ekeberg
+elemento-paladio | 1802 | D | Paladio (Pd) | platino-forjado | Elemento 46. Separado de los residuos del platino. | William Hyde Wollaston
+elemento-cerio | 1803 | D | Cerio (Ce) | analisis-mineral | Elemento 58. Tierra rara más abundante. | Jöns Berzelius, Wilhelm Hisinger, Martin Klaproth
+elemento-osmio-iridio | 1803 | D | Osmio e iridio (Os) | platino-forjado | Elemento 76. Hallados en el residuo negro del platino disuelto. | Smithson Tennant
+elemento-rodio | 1804 | D | Rodio (Rh) | platino-forjado | Elemento 45. Otro metal del grupo del platino. | William Hyde Wollaston
+elemento-potasio | 1807 | D | Potasio (K) | electroquimica-davy | Elemento 19. Primer metal aislado por electrólisis, de la potasa fundida. | Humphry Davy
+elemento-sodio | 1807 | D | Sodio (Na) | electroquimica-davy | Elemento 11. Aislado de la sosa cáustica fundida. | Humphry Davy
+elemento-calcio | 1808 | D | Calcio (Ca) | electroquimica-davy | Elemento 20. Electrólisis de cal con cátodo de mercurio. | Humphry Davy
+elemento-bario | 1808 | D | Bario (Ba) | electroquimica-davy | Elemento 56. Electrólisis de barita. | Humphry Davy
+elemento-magnesio | 1808 | D | Magnesio (Mg) | electroquimica-davy | Elemento 12. Aislado de la magnesia. | Humphry Davy
+elemento-boro | 1808 | D | Boro (B) | electroquimica-davy | Elemento 5. Reducción del ácido bórico con potasio. | Joseph Gay-Lussac, Louis Thénard, Humphry Davy
+elemento-yodo | 1811 | D | Yodo (I) | analisis-mineral | Elemento 53. Vapor violeta de cenizas de algas tratadas con ácido. | Bernard Courtois
+elemento-litio | 1817 | D | Litio (Li) | analisis-mineral | Elemento 3. Hallado en la petalita. | Johan Arfwedson
+elemento-cadmio | 1817 | D | Cadmio (Cd) | analisis-mineral | Elemento 48. Impureza del carbonato de zinc. | Friedrich Stromeyer
+elemento-selenio | 1817 | D | Selenio (Se) | analisis-mineral | Elemento 34. Residuo de las cámaras de plomo. | Jöns Berzelius
+elemento-silicio | 1824 | D | Silicio (Si) | electroquimica-davy | Elemento 14. Reducción del fluorosilicato con potasio. | Jöns Berzelius
+elemento-bromo | 1826 | D | Bromo (Br) | analisis-mineral | Elemento 35. Líquido rojo de las salmueras de Montpellier. | Antoine Balard
+elemento-torio | 1829 | D | Torio (Th) | electroquimica-davy | Elemento 90. Aislado de la torita. | Jöns Berzelius
+elemento-lantano | 1839 | D | Lantano (La) | cristalizacion-fraccionada | Elemento 57. Oculto en el cerio. | Carl Mosander
+elemento-erbio-terbio | 1843 | D | Erbio y terbio (Er) | cristalizacion-fraccionada | Elemento 68. Separados de la itria. | Carl Mosander
+elemento-rutenio | 1844 | D | Rutenio (Ru) | platino-forjado | Elemento 44. Último metal del grupo del platino. | Karl Claus
+elemento-cesio | 1860 | D | Cesio (Cs) | espectroscopia | Elemento 55. Primer elemento hallado por sus líneas espectrales. | Robert Bunsen, Gustav Kirchhoff
+elemento-rubidio | 1861 | D | Rubidio (Rb) | espectroscopia | Elemento 37. Líneas rojas en la lepidolita. | Robert Bunsen, Gustav Kirchhoff
+elemento-talio | 1861 | D | Talio (Tl) | espectroscopia | Elemento 81. Línea verde brillante. | William Crookes
+elemento-indio | 1863 | D | Indio (In) | espectroscopia | Elemento 49. Línea azul índigo. | Ferdinand Reich, Theodor Richter
+elemento-helio | 1868-08 | D | Helio (He) | espectroscopia | Elemento 2. Línea amarilla en el espectro solar; aislado en la Tierra en 1895. | Jules Janssen, Norman Lockyer
+elemento-galio | 1875 | D | Galio (Ga) | espectroscopia, tabla-periodica | Elemento 31. El eka-aluminio predicho por Mendeléyev. | Paul Lecoq de Boisbaudran
+elemento-iterbio | 1878 | D | Iterbio (Yb) | cristalizacion-fraccionada | Elemento 70. Separado de la erbia. | Jean de Marignac
+elemento-escandio | 1879 | D | Escandio (Sc) | cristalizacion-fraccionada, tabla-periodica | Elemento 21. El eka-boro predicho. | Lars Nilson
+elemento-samario | 1879 | D | Samario (Sm) | cristalizacion-fraccionada, espectroscopia | Elemento 62. Aislado de la samarskita. | Paul Lecoq de Boisbaudran
+elemento-holmio-tulio | 1879 | D | Holmio y tulio (Ho) | cristalizacion-fraccionada, espectroscopia | Elemento 67. Separados de la erbia. | Per Cleve
+elemento-gadolinio | 1880 | D | Gadolinio (Gd) | cristalizacion-fraccionada, espectroscopia | Elemento 64. Muy magnético. | Jean de Marignac
+elemento-praseodimio-neodimio | 1885 | D | Praseodimio y neodimio (Pr) | cristalizacion-fraccionada, espectroscopia | Elemento 59. El «didimio» resultó ser dos elementos. | Carl Auer von Welsbach
+elemento-germanio | 1886 | D | Germanio (Ge) | espectroscopia, tabla-periodica | Elemento 32. El eka-silicio predicho. | Clemens Winkler
+elemento-disprosio | 1886 | D | Disprosio (Dy) | cristalizacion-fraccionada, espectroscopia | Elemento 66. «Difícil de obtener». | Paul Lecoq de Boisbaudran
+elemento-fluor | 1886-06 | D | Flúor (F) | electroquimica-davy, platino-maleable | Elemento 9. Electrólisis de fluoruro en celda de platino. | Henri Moissan
+elemento-neon-kripton-xenon | 1898 | D | Neón, kriptón y xenón (Ne) | gases-nobles, licuefaccion-aire | Elemento 10. Destilación fraccionada del aire líquido. | William Ramsay, Morris Travers
+elemento-actinio | 1899 | D | Actinio (Ac) | polonio-radio | Elemento 89. Hallado en residuos de pechblenda. | André Debierne
+elemento-radon | 1900 | D | Radón (Rn) | polonio-radio | Elemento 86. Gas radiactivo emanado del radio. | Friedrich Dorn
+elemento-europio | 1901 | D | Europio (Eu) | cristalizacion-fraccionada, espectroscopia | Elemento 63. Luego, el rojo de las pantallas de color. | Eugène Demarçay
+elemento-lutecio | 1907 | D | Lutecio (Lu) | cristalizacion-fraccionada, espectroscopia | Elemento 71. Última tierra rara natural. | Georges Urbain
+elemento-protactinio | 1917 | D | Protactinio (Pa) | rayos-alfa-beta, polonio-radio | Elemento 91. Isótopo de vida larga; el brevio de Fajans es de 1913. | Otto Hahn, Lise Meitner
+elemento-hafnio | 1923 | D | Hafnio (Hf) | ley-moseley | Elemento 72. Identificado por rayos X en minerales de circonio. | Dirk Coster, George de Hevesy
+elemento-renio | 1925 | D | Renio (Re) | ley-moseley | Elemento 75. Último elemento estable descubierto. | Walter Noddack, Ida Tacke, Otto Berg
+elemento-tecnecio | 1937 | D | Tecnecio (Tc) | ciclotron | Elemento 43. Primer elemento producido artificialmente. | Carlo Perrier, Emilio Segrè
+elemento-francio | 1939 | D | Francio (Fr) | polonio-radio, radiactividad-artificial | Elemento 87. Último elemento hallado en la naturaleza. | Marguerite Perey
+elemento-astato | 1940 | D | Astato (At) | ciclotron | Elemento 85. Bismuto bombardeado con partículas alfa. | Dale Corson, Kenneth MacKenzie, Emilio Segrè
+elemento-neptunio | 1940 | D | Neptunio (Np) | ciclotron, fision | Elemento 93. Primer transuránido. | Edwin McMillan, Philip Abelson
+elemento-plutonio | 1940-12 | D | Plutonio (Pu) | elemento-neptunio | Elemento 94. Uranio bombardeado con deuterones. | Glenn Seaborg, Arthur Wahl, Joseph Kennedy
+elemento-americio-curio | 1944 | D | Americio y curio (Am) | elemento-plutonio, reactor-cp1 | Elemento 95. Obtenidos en el Proyecto Manhattan. | Glenn Seaborg, Albert Ghiorso
+elemento-prometio | 1945 | D | Prometio (Pm) | reactor-cp1, cromatografia-ionica | Elemento 61. Aislado de productos de fisión. | Jacob Marinsky, Lawrence Glendenin, Charles Coryell
+elemento-berkelio | 1949 | D | Berkelio (Bk) | elemento-americio-curio, ciclotron | Elemento 97. Americio bombardeado con alfa. | Glenn Seaborg, Stanley Thompson, Albert Ghiorso
+elemento-californio | 1950 | D | Californio (Cf) | elemento-americio-curio, ciclotron | Elemento 98. Luego, fuente de neutrones. | Glenn Seaborg, Stanley Thompson, Albert Ghiorso
+elemento-einstenio-fermio | 1952 | D | Einstenio y fermio (Es) | bomba-termonuclear, cromatografia-ionica | Elemento 99. Hallados en los restos del ensayo Ivy Mike. | Albert Ghiorso
+elemento-mendelevio | 1955 | D | Mendelevio (Md) | elemento-einstenio-fermio, ciclotron | Elemento 101. Producido átomo a átomo. | Albert Ghiorso, Glenn Seaborg
+elemento-nobelio | 1958 | D | Nobelio (No) | acelerador-iones-pesados | Elemento 102. Descubrimiento disputado entre Berkeley y Dubná. | Albert Ghiorso, Gueorgui Fliórov
+elemento-lawrencio | 1961 | D | Lawrencio (Lr) | acelerador-iones-pesados | Elemento 103. Californio bombardeado con boro. | Albert Ghiorso
+elemento-rutherfordio | 1964 | D | Rutherfordio (Rf) | acelerador-iones-pesados | Elemento 104. Prioridad compartida entre Dubná y Berkeley. | Gueorgui Fliórov, Albert Ghiorso
+elemento-dubnio | 1968 | D | Dubnio (Db) | acelerador-iones-pesados | Elemento 105. Reclamado por ambos laboratorios. | Gueorgui Fliórov, Albert Ghiorso
+elemento-seaborgio | 1974 | D | Seaborgio (Sg) | acelerador-iones-pesados | Elemento 106. Nombrado en vida de Seaborg. | Albert Ghiorso, Kenneth Hulet
+elemento-bohrio | 1981 | D | Bohrio (Bh) | acelerador-iones-pesados | Elemento 107. Fusión fría en el GSI de Darmstadt. | Peter Armbruster, Gottfried Münzenberg
+elemento-meitnerio | 1982 | D | Meitnerio (Mt) | elemento-bohrio | Elemento 109. Un solo átomo detectado. | Peter Armbruster, Gottfried Münzenberg
+elemento-hasio | 1984 | D | Hasio (Hs) | elemento-bohrio | Elemento 108. Plomo bombardeado con hierro. | Peter Armbruster, Gottfried Münzenberg
+elemento-darmstatio-roentgenio | 1994 | D | Darmstatio y roentgenio (Ds) | elemento-hasio | Elemento 110. Obtenidos en el GSI. | Sigurd Hofmann
+elemento-copernicio | 1996 | D | Copernicio (Cn) | elemento-darmstatio-roentgenio | Elemento 112. Zinc sobre plomo. | Sigurd Hofmann
+elemento-flerovio | 1998 | D | Flerovio (Fl) | acelerador-iones-pesados | Elemento 114. Calcio-48 sobre plutonio en Dubná. | Yuri Oganesián
+elemento-livermorio | 2000 | D | Livermorio (Lv) | elemento-flerovio | Elemento 116. Calcio-48 sobre curio. | Yuri Oganesián
+elemento-moscovio | 2003 | D | Moscovio (Mc) | elemento-flerovio | Elemento 115. Calcio-48 sobre americio. | Yuri Oganesián
+elemento-nihonio | 2004 | D | Nihonio (Nh) | elemento-copernicio | Elemento 113. Zinc sobre bismuto en RIKEN. | Kosuke Morita
+elemento-oganeson | 2006 | D | Oganesón (Og) | elemento-flerovio | Elemento 118. Elemento más pesado conocido. | Yuri Oganesián
+elemento-teneso | 2010 | D | Teneso (Ts) | elemento-flerovio | Elemento 117. Calcio-48 sobre berkelio. | Yuri Oganesián
+@@ isotopos | Isótopos y radioquímica
+vida-media | 1900 | C | Periodo de semidesintegración | radiactividad | Cada sustancia radiactiva decae a un ritmo fijo y propio. | Ernest Rutherford
+ley-desintegracion | 1903 | C | Teoría de la desintegración radiactiva | vida-media, rayos-alfa-beta | Los átomos radiactivos se transmutan en otros elementos al emitir radiación. | Ernest Rutherford, Frederick Soddy
+datacion-uranio-plomo | 1907 | T | Datación uranio-plomo | ley-desintegracion | La proporción de plomo en un mineral de uranio mide su edad en millones de años. | Bertram Boltwood
+isotopos | 1913 | C | Isótopos | ley-desintegracion, tabla-periodica | Átomos de un mismo elemento con distinta masa ocupan el mismo lugar de la tabla. | Frederick Soddy
+isotopos-neon | 1913 | D | Isótopos estables del neón | isotopos, rayos-catodicos | Los rayos positivos separan el neón-20 del neón-22. | J. J. Thomson, Francis Aston
+trazadores | 1913 | T | Trazadores radiactivos | isotopos | Seguir un elemento marcándolo con un isótopo radiactivo. | George de Hevesy
+deuterio | 1931 | D | Deuterio | espectroscopia, isotopos, licuefaccion-aire | Hidrógeno de masa 2 detectado en el espectro tras destilar hidrógeno líquido. | Harold Urey
+agua-pesada | 1933 | M | Agua pesada | deuterio, electrolisis-agua | Concentrada por electrólisis prolongada; después, moderador de reactores. | Gilbert Lewis
+tritio | 1934 | D | Tritio | deuterio, ciclotron | Hidrógeno de masa 3 producido al bombardear deuterio con deuterones. | Ernest Rutherford, Mark Oliphant, Paul Harteck
+uranio-235 | 1935 | D | Uranio-235 | espectrometro-masas, elemento-uranio | Isótopo escaso (0,7 %) que resultará ser el fisible. | Arthur Dempster
+fosforo-32 | 1936 | T | Radioisótopos en medicina | ciclotron, trazadores | Fósforo-32 de ciclotrón para tratar leucemias. | John Lawrence
+tecnecio-99m | 1938 | D | Tecnecio-99m | elemento-tecnecio, ciclotron | Emisor gamma de seis horas: el isótopo más usado en diagnóstico. | Emilio Segrè, Glenn Seaborg
+yodo-131 | 1938 | D | Yodo-131 | ciclotron | Isótopo que el tiroides concentra: diagnóstico y terapia. | Glenn Seaborg, John Livingood
+cobalto-60 | 1938 | D | Cobalto-60 | ciclotron, elemento-cobalto | Fuente gamma intensa. | Glenn Seaborg, John Livingood
+helio-3 | 1939 | D | Helio-3 | ciclotron, elemento-helio | Isótopo ligero y estable del helio. | Luis Álvarez, Robert Cornog
+carbono-14 | 1940-02 | D | Carbono-14 | ciclotron, trazadores | Isótopo de 5700 años de vida media. | Martin Kamen, Sam Ruben
+plutonio-239 | 1941 | D | Plutonio-239 | elemento-plutonio, fision | Isótopo fisible producible en reactores a partir de uranio-238. | Glenn Seaborg
+difusion-gaseosa | 1944 | T | Difusión gaseosa | uranio-235, elemento-fluor | El hexafluoruro de uranio atraviesa barreras porosas; el isótopo ligero pasa algo más deprisa. |
+datacion-radiocarbono | 1949 | T | Datación por radiocarbono | carbono-14, contador-geiger | Fecha restos orgánicos de hasta unos 50.000 años. | Willard Libby
+cobaltoterapia | 1951 | T | Cobaltoterapia | cobalto-60, reactor-cp1 | Bomba de cobalto para irradiar tumores profundos. | Harold Johns
+edad-tierra | 1956 | D | Edad de la Tierra | datacion-uranio-plomo, espectrometro-masas | 4550 millones de años medidos en meteoritos. | Clair Patterson
+centrifugadora-gas | 1957 | T | Centrifugadora de gas | difusion-gaseosa, rodamiento-bolas | Rotores ultrarrápidos que separan isótopos con mucha menos energía. | Gernot Zippe
+generador-tecnecio | 1958 | I | Generador de tecnecio-99m | tecnecio-99m, cromatografia-ionica | Columna de molibdeno-99 de la que el hospital extrae el isótopo a diario. | Walter Tucker, Powell Richards
+generador-radioisotopos | 1961 | I | Generador termoeléctrico de radioisótopos | termoelectricidad, plutonio-239 | El calor del plutonio-238 produce electricidad durante décadas. |
+tomografia-positrones | 1975 | I | Tomografía por emisión de positrones | positron, ciclotron, tomografia | Imagen del metabolismo con trazadores emisores de positrones. | Michael Phelps, Edward Hoffman

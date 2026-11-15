@@ -1,0 +1,115 @@
+@ subsistencia | Agricultura, ganadería y alimentación | #86a35a
+@@ agricultura | Agricultura
+azada | ~-8000 | H | Azada | palo-cavador, piedra-pulimentada | Hoja transversal enmangada para remover la tierra. |
+terrazas-cultivo | ~-4000 | S | Terrazas de cultivo | regadio | Bancales que retienen suelo y agua en laderas. |
+chinampas | ~-1000 | S | Chinampas | regadio | Huertos flotantes sobre lagos en Mesoamérica. |
+shaduf | ~-2000 | H | Cigoñal (shaduf) | palanca, regadio | Palanca con contrapeso para elevar agua. |
+trillo | ~-3000 | H | Trillo | hoz, traccion-bovina | Tabla con lascas de sílex arrastrada sobre la mies. |
+abono-verde | ~-500 | T | Abonado con estiércol y abono verde | legumbres, bovino | Devolver nutrientes al suelo. |
+injerto | ~-1800 | T | Injerto | olivo-vid | Unir una variedad a un pie resistente. |
+noria-sangre | ~-200 | H | Noria de sangre | engranaje, asno | Rueda de cangilones movida por un animal. |
+revolucion-agricola-arabe | ~900 | S | Revolución agrícola andalusí | qanat, noria-sangre | Arroz, cítricos, caña de azúcar y algodón con regadío intensivo. |
+guadana | ~1200 | H | Guadaña | forja, hoz | Siega de pie con hoja larga. |
+intercambio-colombino | 1493 | D | Intercambio colombino | viaje-colon, maiz, patata | Maíz, patata y tomate cruzan al Viejo Mundo; trigo, caballos y enfermedades, al Nuevo. |
+cria-selectiva | ~1760 | T | Cría selectiva del ganado | oveja-cabra, rotacion-norfolk | Razas mejoradas por selección sistemática. | Robert Bakewell
+arado-acero | 1837 | H | Arado de acero pulido | acero-crisol, arado-pesado | Corta el suelo pegajoso de la pradera. | John Deere
+trilladora | 1786 | H | Trilladora mecánica | molino-agua, sembradora-tull | Tambor batidor que separa el grano. | Andrew Meikle
+guano | 1840 | M | Guano como fertilizante | abono-verde | Importado masivamente desde el Perú. | Justus von Liebig
+quimica-agricola | 1840 | C | Química agrícola | teoria-atomica, abono-verde | Las plantas se nutren de minerales: ley del mínimo. | Justus von Liebig
+cosechadora | 1835 | H | Cosechadora | segadora, trilladora | Siega y trilla a la vez. | Hiram Moore
+caldo-bordeles | 1885 | M | Caldo bordelés | cal | Sulfato de cobre y cal contra el mildiu: primer fungicida. | Pierre Millardet
+maiz-hibrido | 1926 | D | Maíz híbrido comercial | leyes-mendel | Líneas puras cruzadas: vigor híbrido. | Henry Wallace
+herbicida-24d | 1945 | M | Herbicida selectivo 2,4-D | hormonas | Mata las malas hierbas de hoja ancha. |
+riego-goteo | 1965 | T | Riego por goteo | polietileno | Agua aplicada a la raíz. | Simcha Blass
+arroz-ir8 | 1966 | D | Arroz IR8 | trigo-enano | Variedad semienana de alto rendimiento. |
+agricultura-precision | 1996 | S | Agricultura de precisión | gps, tractor | Abonado y siembra guiados por satélite. |
+arroz-dorado | 2000 | D | Arroz dorado | planta-transgenica | Arroz con provitamina A. | Ingo Potrykus, Peter Beyer
+@@ conservacion | Conservación de alimentos
+secado-salazon | ~-12000 | T | Secado, salazón y ahumado | hogar | Conservar carne y pescado sin frío. |
+aceite-oliva | ~-4500 | M | Aceite de oliva prensado | molienda, cesteria | Prensas de viga. |
+levadura-pan | ~-3000 | T | Pan fermentado | pan, cerveza | Masa madre. |
+garum | ~-400 | M | Salsas de pescado fermentado | secado-salazon, extraccion-sal | Garum. |
+fideos | ~-2000 | I | Fideos | mijo, ceramica-vasijas | Fideos de mijo hallados en Lajia (China). |
+tofu | ~-150 | I | Tofu | molienda | Cuajada de soja. |
+te | ~-200 | I | Infusión de té | ceramica-vasijas | Hojas halladas en una tumba Han. |
+chocolate | ~-1900 | I | Bebida de cacao | ceramica-vasijas, molienda | Mokaya y olmecas. |
+cafe | ~1450 | I | Café tostado | horno-alfarero | Monasterios sufíes del Yemen. |
+tenedor | ~1000 | H | Tenedor de mesa | forja | Bizancio; se extiende por Italia. |
+champan | ~1690 | T | Vino espumoso en botella | vidrio-plomo | Botellas resistentes y tapón de corcho. |
+margarina | 1869 | M | Margarina | lacteos | Sustituto de la mantequilla. | Hippolyte Mège-Mouriès
+leche-condensada | 1856 | M | Leche condensada | lata, bomba-vacio | Evaporada al vacío con azúcar. | Gail Borden
+leche-en-polvo | 1802 | M | Leche en polvo | lacteos | Secado de la leche. |
+congelacion-rapida | 1924 | T | Congelación rápida | frigorifico-amoniaco | Cristales pequeños que no dañan el alimento. | Clarence Birdseye
+liofilizacion | 1906 | T | Liofilización | bomba-vacio, frigorifico-amoniaco | Secado por sublimación. | Arsène d'Arsonval
+tetrabrik | 1951 | I | Envase de cartón aséptico | pasteurizacion, polietileno | Tetra Pak. | Ruben Rausing
+uht | 1960 | T | Esterilización UHT | pasteurizacion | Leche que se conserva meses sin frío. |
+@ materiales | Materiales | #c9a25c
+@@ textil | Fibras y tejidos
+fieltro | ~-6000 | M | Fieltro | pelo-muda | Fibras de lana apelmazadas sin tejer. |
+pelo-muda | ~-8000 | M | Pelo y lana recogidos | oveja-cabra | Fibras de muda antes de la oveja lanar. |
+tejido-sarga | ~-1500 | T | Ligamento de sarga | telar-pesas | Diagonal que da tejidos más flexibles. |
+tijeras | ~-1500 | H | Tijeras de muelle | bronce | Dos hojas unidas por un fleje. |
+boton-ojal | ~1250 | I | Botón con ojal | aguja | Prendas ajustadas. |
+calceta | ~1100 | T | Punto de aguja | huso | Calcetines egipcios de algodón. |
+maquina-tricotar | 1589 | I | Telar de medias | calceta, forja | Primer intento de mecanizar el tejido. | William Lee
+indiana | ~1650 | M | Algodón estampado | algodon, tintes | Indianas: industria de la que nace la fábrica catalana. |
+carda-mecanica | 1748 | I | Carda mecánica | rueca | Cilindros con púas. | Lewis Paul
+cremallera | 1913 | I | Cremallera | piezas-intercambiables | Cierre de dientes entrelazados. | Gideon Sundback
+velcro | 1955 | I | Velcro | nailon | Ganchos y bucles. | George de Mestral
+lycra | 1958 | M | Elastano | poliuretano | Fibra muy elástica. | Joseph Shivers
+goretex | 1969 | M | Membrana impermeable transpirable | teflon | PTFE expandido. | Robert Gore
+@ construccion | Construcción e ingeniería civil | #a89b8c
+@@ arquitectura | Arquitectura y estructuras
+cabana-huesos | ~-25000 | S | Cabañas de huesos de mamut | ropa-cosida | Mezhyrich y Dolní Věstonice. |
+aldea-permanente | ~-12500 | S | Aldea sedentaria | cesteria, molienda | Casas circulares natufienses. |
+ciudad | ~-3500 | S | Ciudad | poblado-adobe, regadio | Uruk: decenas de miles de habitantes, templos y murallas. |
+poblado-adobe | ~-7500 | S | Poblado de adobe | adobe | Çatalhöyük. |
+columna-piedra | ~-2650 | S | Columna de piedra | piramide-escalonada | Complejo de Zoser. |
+piramide-lisa | ~-2600 | S | Pirámide de caras lisas | piramide-escalonada | Pirámide Roja de Seneferu. |
+gran-piramide | ~-2560 | S | Gran Pirámide de Guiza | piramide-lisa | 2,3 millones de bloques. |
+falsa-boveda | ~-3200 | S | Falsa bóveda | megalitos | Newgrange. |
+teja | ~-700 | M | Teja cerámica | horno-alfarero | Templos griegos arcaicos. |
+ordenes-clasicos | ~-600 | C | Órdenes arquitectónicos | columna-piedra | Dórico, jónico y corintio. |
+cercha | ~-500 | S | Cercha de madera | sierra-metal | Triángulos que cubren grandes luces. |
+hipocausto | ~-100 | S | Hipocausto | ladrillo-cocido, hormigon-romano | Calefacción bajo el suelo. |
+vidrio-ventana | ~100 | M | Vidrio de ventana | vidrio-soplado | Láminas coladas. |
+cupula-pechinas | 537 | S | Cúpula sobre pechinas | cupula-hormigon | Santa Sofía. | Antemio de Tralles, Isidoro de Mileto
+arco-herradura | ~700 | S | Arco de herradura y polilobulado | arco-dovelas | Mezquita de Córdoba. |
+chimenea | ~1150 | S | Chimenea de muro | ladrillo-cocido | Tiro por conducto. |
+vidriera | ~1140 | S | Vidriera emplomada | vidrio-soplado, plomo | Saint-Denis. |
+tratado-vitruvio | ~-25 | C | De architectura | ordenes-clasicos, hormigon-romano | Único tratado de arquitectura antiguo conservado. | Vitruvio
+tratado-alberti | 1452 | C | De re aedificatoria | tratado-vitruvio, perspectiva | Teoría renacentista. | Leon Battista Alberti
+palacio-cristal | 1851 | S | Edificio prefabricado de hierro y vidrio | coque, vidrio-plomo | Crystal Palace. | Joseph Paxton
+viga-doble-t | 1849 | M | Viga laminada en doble T | laminador, pudelado | Perfil normalizado. |
+torre-eiffel | 1889-03 | S | Torre Eiffel | pudelado, viga-doble-t | 300 m de hierro roblonado. | Gustave Eiffel
+hormigon-pretensado | 1928 | M | Hormigón pretensado | hormigon-armado, acero-aleado | Cables tensados que comprimen el hormigón. | Eugène Freyssinet
+muro-cortina | 1918 | S | Muro cortina | rascacielos, vidrio-plomo | Fachada de vidrio no portante. |
+cupula-geodesica | 1954 | S | Cúpula geodésica | hall-heroult | Triángulos sobre una esfera. | Buckminster Fuller
+rascacielos-tubular | 1965 | S | Estructura tubular | rascacielos, ibm-system-360 | Torres de más de cien pisos. | Fazlur Khan
+burj-khalifa | 2010-01 | S | Edificio de 828 m | rascacielos-tubular, hormigon-pretensado | Burj Khalifa. |
+@ comunicacion | Escritura, imprenta y medios | #c58bd0
+@@ imagen | Fotografía y cine
+linterna-magica | 1659 | I | Linterna mágica | tallado-lentes, lampara-aceite | Proyección de imágenes pintadas. | Christiaan Huygens
+tallado-lentes | ~1300 | T | Tallado de lentes | gafas | Oficio de los lentistas. |
+fotografia-color | 1861 | D | Fotografía en color por tres filtros | colodion | Demostración de la síntesis aditiva. | James Clerk Maxwell
+cronofotografia | 1878 | T | Cronofotografía | obturador-rapido | Caballo al galope en doce cámaras. | Eadweard Muybridge
+obturador-rapido | 1871 | T | Obturador rápido | colodion | Exposiciones de milésimas de segundo. |
+kinetoscopio | 1891 | I | Kinetoscopio | pelicula-rollo, cronofotografia | Visor individual de películas. | William Dickson
+autocromo | 1907 | I | Autocromo | fotografia-color | Primera fotografía en color comercial. | Auguste y Louis Lumière
+camara-35mm | 1925 | I | Cámara de 35 mm | pelicula-rollo | Leica I. | Oskar Barnack
+technicolor | 1932 | T | Technicolor de tres tiras | cinematografo | Cine en color. |
+kodachrome | 1935 | M | Película de color multicapa | technicolor | Kodachrome. |
+polaroid | 1948 | I | Fotografía instantánea | kodachrome | Revelado en un minuto. | Edwin Land
+animacion-ordenador | 1995-11 | I | Largometraje de animación por ordenador | trazado-rayos, sparc | Toy Story. |
+cine-digital | 2002 | S | Cine digital | ccd, mpeg | Rodaje y proyección sin película. |
+@@ escritura | Escritura
+escritura-indo | ~-2600 | I | Escritura del Indo | sello-cilindrico | Signos aún sin descifrar. |
+lineal-b | ~-1450 | I | Lineal B | jeroglificos | Silabario del griego micénico. |
+escritura-maya | ~-300 | I | Escritura maya | calendario-solar | Sistema logosilábico completo. |
+alfabeto-latino | ~-650 | I | Alfabeto latino | alfabeto-griego | A través del etrusco. |
+piedra-rosetta | 1822 | D | Desciframiento de los jeroglíficos | jeroglificos | Piedra de Rosetta. | Jean-François Champollion
+minuscula-carolina | ~780 | I | Minúscula carolina | codice | Letra clara con separación de palabras. | Alcuino de York
+hangul | 1443 | I | Hangul | xilografia | Alfabeto coreano diseñado. | Sejong el Grande
+taquigrafia | 1837 | I | Taquigrafía fonética | alfabeto-latino | Sistema Pitman. | Isaac Pitman
+pluma-estilografica | 1884 | I | Pluma estilográfica | vulcanizacion | Alimentador capilar. | Lewis Waterman
+boligrafo | 1938 | I | Bolígrafo | rodamiento-bolas | Bola que dosifica tinta viscosa. | László Bíró
