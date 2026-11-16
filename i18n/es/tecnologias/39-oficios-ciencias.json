@@ -1,0 +1,542 @@
+{
+ "carroneo-medula": {
+  "nombre": "Acceso a la médula ósea",
+  "resumen": "Huesos fracturados con percutores para extraer la médula."
+ },
+ "caza-cooperativa": {
+  "nombre": "Caza mayor cooperativa",
+  "resumen": "Caballos abatidos en Schöningen."
+ },
+ "trampas": {
+  "nombre": "Trampas y lazos",
+  "resumen": "Caza de animales pequeños en Sibudu."
+ },
+ "marisqueo": {
+  "nombre": "Marisqueo sistemático",
+  "resumen": "Pinnacle Point."
+ },
+ "pesca-red": {
+  "nombre": "Pesca con red",
+  "resumen": "Pesos de red en Corea; redes de Antrea."
+ },
+ "nasa-pesca": {
+  "nombre": "Nasas y encañizadas",
+  "resumen": "Trampas de mimbre para peces."
+ },
+ "horno-tierra": {
+  "nombre": "Horno de tierra",
+  "resumen": "Piedras calientes en un hoyo."
+ },
+ "hervido-piedras": {
+  "nombre": "Hervido con piedras calientes",
+  "resumen": "Antes de la cerámica."
+ },
+ "almacen-silos": {
+  "nombre": "Silos excavados",
+  "resumen": "Conservación subterránea del grano."
+ },
+ "malteado": {
+  "nombre": "Malteado y cerveza de cebada",
+  "resumen": "Germinar el grano libera azúcares."
+ },
+ "horno-pan": {
+  "nombre": "Horno de pan",
+  "resumen": "Hornos de cúpula; el tannur."
+ },
+ "cuajo": {
+  "nombre": "Cuajado con cuajo",
+  "resumen": "Enzimas del estómago de rumiantes."
+ },
+ "yogur": {
+  "nombre": "Leches fermentadas",
+  "resumen": "Yogur y kéfir."
+ },
+ "mantequilla": {
+  "nombre": "Mantequilla",
+  "resumen": "Batido de la nata."
+ },
+ "vinagre": {
+  "nombre": "Vinagre",
+  "resumen": "Conservante y condimento."
+ },
+ "encurtido": {
+  "nombre": "Encurtidos",
+  "resumen": "Pepinos en salmuera en Mesopotamia."
+ },
+ "salsa-soja": {
+  "nombre": "Salsa de soja",
+  "resumen": "Fermentación con koji."
+ },
+ "destilacion-licores": {
+  "nombre": "Aguardientes",
+  "resumen": "Aqua vitae como bebida."
+ },
+ "molino-harinero-cilindros": {
+  "nombre": "Molienda con cilindros",
+  "resumen": "Harina blanca."
+ },
+ "azucar-remolacha": {
+  "nombre": "Azúcar de remolacha",
+  "resumen": "Primera fábrica en Silesia."
+ },
+ "chocolate-solido": {
+  "nombre": "Tableta de chocolate",
+  "resumen": "Fry's; el cacao prensado es de 1828."
+ },
+ "cafe-instantaneo": {
+  "nombre": "Café soluble",
+  "resumen": "Nescafé."
+ },
+ "refresco-carbonatado": {
+  "nombre": "Agua carbonatada",
+  "resumen": "Disolver CO2 en agua."
+ },
+ "levadura-prensada": {
+  "nombre": "Levadura prensada",
+  "resumen": "Proceso vienés."
+ },
+ "cerveza-lager": {
+  "nombre": "Cerveza de baja fermentación",
+  "resumen": "Baviera."
+ },
+ "sacarina": {
+  "nombre": "Sacarina",
+  "resumen": "Primer edulcorante sintético."
+ },
+ "glutamato": {
+  "nombre": "Umami y glutamato",
+  "resumen": "Aislado del alga kombu."
+ },
+ "aditivos-conservantes": {
+  "nombre": "Conservantes químicos",
+  "resumen": "Ácido benzoico y salicílico."
+ },
+ "olla-presion": {
+  "nombre": "Olla a presión doméstica",
+  "resumen": "Válvula de seguridad fiable."
+ },
+ "comida-rapida": {
+  "nombre": "Comida rápida en cadena",
+  "resumen": "Sistema Speedee de McDonald's."
+ },
+ "gato": {
+  "nombre": "Domesticación del gato",
+  "resumen": "Entierro de Chipre."
+ },
+ "abeja-colmena-cilindro": {
+  "nombre": "Apicultura intensiva",
+  "resumen": "Colmenar de Tel Rehov."
+ },
+ "castracion-tiro": {
+  "nombre": "Castración de animales de tiro",
+  "resumen": "Bueyes dóciles y fuertes."
+ },
+ "esquileo": {
+  "nombre": "Esquileo con tijeras",
+  "resumen": "Sustituye al arrancado."
+ },
+ "trashumancia": {
+  "nombre": "Trashumancia",
+  "resumen": "Pastos de verano e invierno."
+ },
+ "piscicultura": {
+  "nombre": "Piscicultura de carpas",
+  "resumen": "China."
+ },
+ "llama-alpaca": {
+  "nombre": "Domesticación de llama y alpaca",
+  "resumen": "Andes centrales."
+ },
+ "pavo": {
+  "nombre": "Domesticación del pavo",
+  "resumen": "Mesoamérica."
+ },
+ "yak-bufalo": {
+  "nombre": "Búfalo de agua y yak",
+  "resumen": "Búfalo de agua en los arrozales y yak en la meseta tibetana."
+ },
+ "reno": {
+  "nombre": "Pastoreo de renos",
+  "resumen": "Eurasia septentrional."
+ },
+ "herraje-marcas": {
+  "nombre": "Marcado del ganado",
+  "resumen": "Hierros candentes."
+ },
+ "marcado-ganado": {
+  "nombre": "Marcas de propiedad en animales",
+  "resumen": "Pinturas egipcias de marcado."
+ },
+ "mesta": {
+  "nombre": "Concejo de la Mesta",
+  "resumen": "Organización de la trashumancia castellana."
+ },
+ "merino": {
+  "nombre": "Oveja merina",
+  "resumen": "Lana fina española."
+ },
+ "incubadora-huevos": {
+  "nombre": "Incubación artificial",
+  "resumen": "Hornos de pollos egipcios."
+ },
+ "inseminacion-artificial": {
+  "nombre": "Inseminación artificial",
+  "resumen": "En una perra."
+ },
+ "ordenadora": {
+  "nombre": "Ordeñadora mecánica",
+  "resumen": "Pulsaciones de vacío."
+ },
+ "veterinaria": {
+  "nombre": "Escuela de veterinaria",
+  "resumen": "Primera escuela de veterinaria, fundada en Lyon."
+ },
+ "esparto-trenzado": {
+  "nombre": "Cestería y calzado de esparto",
+  "resumen": "Cueva de los Murciélagos (Granada)."
+ },
+ "canamo": {
+  "nombre": "Cáñamo",
+  "resumen": "Cuerdas y telas en China."
+ },
+ "ramio-yute": {
+  "nombre": "Ramio y yute",
+  "resumen": "Fibras liberianas de Asia."
+ },
+ "enriado": {
+  "nombre": "Enriado del lino",
+  "resumen": "Maceración que suelta las fibras."
+ },
+ "espadado": {
+  "nombre": "Agramado y espadillado",
+  "resumen": "Separa la fibra de la caña."
+ },
+ "rueca-mano": {
+  "nombre": "Rueca de mano",
+  "resumen": "Sujeta el copo de fibra."
+ },
+ "telar-cintura": {
+  "nombre": "Telar de cintura",
+  "resumen": "Andes y Mesoamérica."
+ },
+ "telar-horizontal-suelo": {
+  "nombre": "Telar horizontal de suelo",
+  "resumen": "Egipto."
+ },
+ "tapiz": {
+  "nombre": "Tapicería",
+  "resumen": "Tejido de trama discontinua."
+ },
+ "alfombra-anudada": {
+  "nombre": "Alfombra de nudos",
+  "resumen": "Alfombra de Pazyryk."
+ },
+ "terciopelo": {
+  "nombre": "Terciopelo",
+  "resumen": "Urdimbre de pelo."
+ },
+ "damasco": {
+  "nombre": "Damasco y brocado",
+  "resumen": "Dibujo por ligamento."
+ },
+ "batan-jabon": {
+  "nombre": "Abatanado",
+  "resumen": "Enfurtido con pies y greda."
+ },
+ "cochinilla": {
+  "nombre": "Carmín de cochinilla",
+  "resumen": "Insecto del nopal."
+ },
+ "indigo": {
+  "nombre": "Índigo",
+  "resumen": "Huaca Prieta (Perú)."
+ },
+ "rubia": {
+  "nombre": "Rubia y rojo de Adrianópolis",
+  "resumen": "Rojo sólido."
+ },
+ "estampado-bloques": {
+  "nombre": "Estampado con bloques",
+  "resumen": "Tejidos impresos."
+ },
+ "sellos-madera": {
+  "nombre": "Sellos de madera tallada",
+  "resumen": "Estampación de seda Han."
+ },
+ "encaje": {
+  "nombre": "Encaje de bolillos y aguja",
+  "resumen": "Flandes y Venecia."
+ },
+ "estampado-cilindros": {
+  "nombre": "Estampado con cilindros",
+  "resumen": "Cilindros de cobre grabados."
+ },
+ "torno-vaucanson": {
+  "nombre": "Torno de precisión de Vaucanson",
+  "resumen": "Carro deslizante metálico."
+ },
+ "continua-anillos": {
+  "nombre": "Continua de anillos",
+  "resumen": "Hilado continuo."
+ },
+ "selfactina": {
+  "nombre": "Selfactina",
+  "resumen": "Mule automática."
+ },
+ "peinadora": {
+  "nombre": "Peinadora",
+  "resumen": "Lana peinada."
+ },
+ "telar-northrop": {
+  "nombre": "Telar automático",
+  "resumen": "Cambia la canilla sin parar."
+ },
+ "mercerizado": {
+  "nombre": "Mercerizado",
+  "resumen": "Brillo y resistencia."
+ },
+ "rayon-nitro": {
+  "nombre": "Seda artificial",
+  "resumen": "Seda de Chardonnet."
+ },
+ "acetato": {
+  "nombre": "Acetato de celulosa",
+  "resumen": "Celanese."
+ },
+ "acrilico": {
+  "nombre": "Fibra acrílica",
+  "resumen": "Orlón."
+ },
+ "microfibra": {
+  "nombre": "Microfibra",
+  "resumen": "Ultrasuede."
+ },
+ "telar-chorro-aire": {
+  "nombre": "Telar sin lanzadera",
+  "resumen": "Pinzas y chorros."
+ },
+ "tejido-no-tejido": {
+  "nombre": "Tela no tejida",
+  "resumen": "Fibras ligadas."
+ },
+ "paraviento": {
+  "nombre": "Refugio de piedras",
+  "resumen": "Círculo de Olduvai, de interpretación discutida."
+ },
+ "tienda-pieles": {
+  "nombre": "Tienda de pieles",
+  "resumen": "Campamentos magdalenienses de Pincevent."
+ },
+ "palafito": {
+  "nombre": "Palafito",
+  "resumen": "Poblados lacustres alpinos."
+ },
+ "casa-larga": {
+  "nombre": "Casa larga neolítica",
+  "resumen": "Cultura de la cerámica de bandas."
+ },
+ "nuraga-talayot": {
+  "nombre": "Torres ciclópeas",
+  "resumen": "Nuragas, talayots y navetas."
+ },
+ "tholos": {
+  "nombre": "Tholos micénico",
+  "resumen": "Tesoro de Atreo."
+ },
+ "zigurat": {
+  "nombre": "Zigurat",
+  "resumen": "Torre escalonada de ladrillo; el de Ur conserva su primer piso."
+ },
+ "templo-egipcio": {
+  "nombre": "Sala hipóstila",
+  "resumen": "Karnak."
+ },
+ "templo-griego": {
+  "nombre": "Templo períptero",
+  "resumen": "Hereo de Olimpia."
+ },
+ "partenon": {
+  "nombre": "Partenón",
+  "resumen": "Correcciones ópticas en mármol."
+ },
+ "teatro-griego": {
+  "nombre": "Teatro de acústica calculada",
+  "resumen": "Epidauro."
+ },
+ "basilica": {
+  "nombre": "Basílica",
+  "resumen": "Basílica Porcia."
+ },
+ "anfiteatro": {
+  "nombre": "Anfiteatro",
+  "resumen": "Coliseo."
+ },
+ "insula": {
+  "nombre": "Bloque de viviendas",
+  "resumen": "Ínsulas de varios pisos."
+ },
+ "estupa": {
+  "nombre": "Estupa",
+  "resumen": "Sanchi."
+ },
+ "templo-maya": {
+  "nombre": "Pirámide mesoamericana",
+  "resumen": "El Mirador."
+ },
+ "muqarnas": {
+  "nombre": "Mocárabes",
+  "resumen": "Bóvedas de estalactitas."
+ },
+ "arco-apuntado": {
+  "nombre": "Arco apuntado",
+  "resumen": "Cluny III."
+ },
+ "catedral-gotica": {
+  "nombre": "Estructura gótica",
+  "resumen": "Saint-Denis."
+ },
+ "cuaderno-villard": {
+  "nombre": "Cuaderno de Villard de Honnecourt",
+  "resumen": "Dibujos de obra y máquinas."
+ },
+ "alhambra": {
+  "nombre": "Palacios nazaríes",
+  "resumen": "Alhambra."
+ },
+ "machu-picchu": {
+  "nombre": "Sillería inca",
+  "resumen": "Bloques ajustados sin mortero."
+ },
+ "canteria-andina": {
+  "nombre": "Cantería andina",
+  "resumen": "Labra con percutores de piedra."
+ },
+ "san-pedro": {
+  "nombre": "Cúpula de San Pedro",
+  "resumen": "Cadenas de hierro."
+ },
+ "taj-mahal": {
+  "nombre": "Taj Mahal",
+  "resumen": "Mármol incrustado."
+ },
+ "versalles": {
+  "nombre": "Palacio y jardines de Versalles",
+  "resumen": "Máquina de Marly."
+ },
+ "estatica-grafica": {
+  "nombre": "Estática gráfica",
+  "resumen": "Cálculo de estructuras dibujando."
+ },
+ "resistencia-materiales": {
+  "nombre": "Resistencia de materiales",
+  "resumen": "Teoría de la viga."
+ },
+ "ensayo-vigas": {
+  "nombre": "Vigas tubulares ensayadas",
+  "resumen": "Puente Britannia."
+ },
+ "ensayo-musschenbroek": {
+  "nombre": "Ensayos de resistencia de materiales",
+  "resumen": "Máquina de Musschenbroek."
+ },
+ "forth": {
+  "nombre": "Gran puente en ménsula de acero",
+  "resumen": "Firth of Forth."
+ },
+ "sagrada-familia": {
+  "nombre": "Estructuras de catenaria",
+  "resumen": "Maquetas funiculares."
+ },
+ "lamina-hormigon": {
+  "nombre": "Cáscaras de hormigón",
+  "resumen": "Zeiss-Dywidag."
+ },
+ "bauhaus": {
+  "nombre": "Bauhaus",
+  "resumen": "Diseño industrial."
+ },
+ "estructura-colgante": {
+  "nombre": "Cubiertas de malla de cables",
+  "resumen": "Estadio de Múnich."
+ },
+ "elementos-finitos": {
+  "nombre": "Método de los elementos finitos",
+  "resumen": "Estructuras calculadas por ordenador."
+ },
+ "aislamiento-sismico": {
+  "nombre": "Aislamiento sísmico de base",
+  "resumen": "Apoyos de caucho."
+ },
+ "bim": {
+  "nombre": "Modelado de información de edificios",
+  "resumen": "ArchiCAD."
+ },
+ "cisterna": {
+  "nombre": "Cisterna",
+  "resumen": "Aljibes impermeabilizados."
+ },
+ "nilometro": {
+  "nombre": "Nilómetro",
+  "resumen": "Mide la crecida."
+ },
+ "canal-navegable": {
+  "nombre": "Canal de navegación",
+  "resumen": "Canal de Darío al mar Rojo."
+ },
+ "gran-canal": {
+  "nombre": "Gran Canal de China",
+  "resumen": "1800 km."
+ },
+ "compuerta-canal": {
+  "nombre": "Compuerta de canal",
+  "resumen": "Canal Lingqu."
+ },
+ "sifon-invertido": {
+  "nombre": "Sifón invertido",
+  "resumen": "Pérgamo."
+ },
+ "presa-arco": {
+  "nombre": "Presa de arco",
+  "resumen": "Presa curva de Dara, descrita por Procopio: el arco lleva el empuje a las laderas."
+ },
+ "presa-contrafuertes": {
+  "nombre": "Presa de contrafuertes",
+  "resumen": "Proserpina y Cornalvo."
+ },
+ "acequias-andalusies": {
+  "nombre": "Acequias y tribunal de aguas",
+  "resumen": "Huerta de Valencia."
+ },
+ "canal-midi": {
+  "nombre": "Canal du Midi",
+  "resumen": "Une Atlántico y Mediterráneo."
+ },
+ "canal-castilla": {
+  "nombre": "Canal de Castilla",
+  "resumen": "207 km."
+ },
+ "dragado-vapor": {
+  "nombre": "Draga de vapor",
+  "resumen": "Sunderland."
+ },
+ "inodoro": {
+  "nombre": "Inodoro de cisterna",
+  "resumen": "El «Ajax»: taza con válvula y cisterna de descarga."
+ },
+ "sifon-s": {
+  "nombre": "Sifón sanitario",
+  "resumen": "Cierre hidráulico contra olores."
+ },
+ "depuradora": {
+  "nombre": "Depuración por fangos activados",
+  "resumen": "Mánchester."
+ },
+ "desalinizacion": {
+  "nombre": "Ósmosis inversa",
+  "resumen": "Membranas de acetato."
+ },
+ "tres-gargantas": {
+  "nombre": "Mayor central hidroeléctrica",
+  "resumen": "Tres Gargantas."
+ }
+}

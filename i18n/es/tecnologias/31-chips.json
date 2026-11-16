@@ -1,0 +1,402 @@
+{
+ "selenio-rectificador": {
+  "nombre": "Rectificador de selenio",
+  "resumen": "Placas apiladas que convierten alterna en continua sin válvulas."
+ },
+ "oxido-cuproso": {
+  "nombre": "Rectificador de óxido de cobre",
+  "resumen": "Primer rectificador de estado sólido comercial."
+ },
+ "germanio-ultrapuro": {
+  "nombre": "Germanio de alta pureza",
+  "resumen": "Cristales purificados para los detectores de radar de la guerra."
+ },
+ "union-pn": {
+  "nombre": "Unión p-n",
+  "resumen": "Una frontera entre silicio de dos tipos genera tensión con la luz."
+ },
+ "dopado": {
+  "nombre": "Dopado controlado",
+  "resumen": "Impurezas del grupo III o V fijan el tipo de conducción."
+ },
+ "diodo-punta-contacto": {
+  "nombre": "Diodo de punta de contacto para microondas",
+  "resumen": "Detector 1N21 de los radares centimétricos."
+ },
+ "teoria-union": {
+  "nombre": "Teoría de la unión p-n",
+  "resumen": "Ecuación del diodo y transistor bipolar de unión."
+ },
+ "silicio-monocristalino": {
+  "nombre": "Monocristal de silicio",
+  "resumen": "Lingotes de silicio sin fronteras de grano."
+ },
+ "proceso-siemens": {
+  "nombre": "Silicio de grado electrónico",
+  "resumen": "Triclorosilano depositado sobre varillas calientes: pureza de nueve nueves."
+ },
+ "difusion-gaseosa-dopantes": {
+  "nombre": "Dopado por difusión",
+  "resumen": "Los dopantes penetran desde un gas a alta temperatura."
+ },
+ "zona-flotante": {
+  "nombre": "Fusión por zona flotante",
+  "resumen": "Purifica el silicio sin crisol que lo contamine."
+ },
+ "transistor-mesa": {
+  "nombre": "Transistor mesa de difusión",
+  "resumen": "Primer producto de Fairchild."
+ },
+ "diodo-tunel": {
+  "nombre": "Diodo túnel",
+  "resumen": "Resistencia negativa por efecto túnel."
+ },
+ "diodo-zener": {
+  "nombre": "Diodo Zener",
+  "resumen": "Tensión de ruptura estable como referencia."
+ },
+ "arseniuro-galio": {
+  "nombre": "Semiconductores III-V",
+  "resumen": "Arseniuro de galio y compuestos afines."
+ },
+ "diodo-schottky": {
+  "nombre": "Barrera Schottky",
+  "resumen": "Teoría del contacto metal-semiconductor."
+ },
+ "fototransistor": {
+  "nombre": "Fototransistor",
+  "resumen": "Transistor gobernado por la luz."
+ },
+ "jfet": {
+  "nombre": "Transistor de efecto de campo de unión",
+  "resumen": "Realizado según la teoría de Shockley."
+ },
+ "oblea": {
+  "nombre": "Oblea pulida",
+  "resumen": "Discos de silicio de una pulgada cortados y pulidos a espejo."
+ },
+ "puerta-polisilicio": {
+  "nombre": "Puerta de polisilicio autoalineada",
+  "resumen": "Hace posibles las memorias y microprocesadores MOS."
+ },
+ "sala-blanca": {
+  "nombre": "Sala blanca de flujo laminar",
+  "resumen": "Aire filtrado que barre las partículas."
+ },
+ "deposicion-quimica-vapor": {
+  "nombre": "Deposición química en fase vapor",
+  "resumen": "Películas de óxido, nitruro y polisilicio."
+ },
+ "grabado-plasma": {
+  "nombre": "Grabado por plasma",
+  "resumen": "Ataque seco anisótropo en lugar de baños ácidos."
+ },
+ "oblea-200": {
+  "nombre": "Obleas de 200 mm",
+  "resumen": "Diámetro estándar de los años noventa."
+ },
+ "oblea-300": {
+  "nombre": "Obleas de 300 mm",
+  "resumen": "Más del doble de chips por oblea."
+ },
+ "carburo-silicio": {
+  "nombre": "Carburo de silicio para potencia",
+  "resumen": "Obleas comerciales de SiC para alta tensión y temperatura."
+ },
+ "nitruro-galio-potencia": {
+  "nombre": "Nitruro de galio para potencia",
+  "resumen": "Transistores GaN en cargadores y radares."
+ },
+ "igbt": {
+  "nombre": "Transistor IGBT",
+  "resumen": "Interruptor de potencia de los trenes y coches eléctricos."
+ },
+ "mems": {
+  "nombre": "Micromecanizado del silicio",
+  "resumen": "El silicio como material mecánico."
+ },
+ "sensor-cmos": {
+  "nombre": "Sensor de imagen CMOS",
+  "resumen": "Un amplificador en cada píxel: la cámara en un chip."
+ },
+ "logica-rtl": {
+  "nombre": "Lógica integrada Micrologic",
+  "resumen": "Primera familia de circuitos integrados lógicos comerciales."
+ },
+ "ua702": {
+  "nombre": "Amplificador operacional integrado",
+  "resumen": "Fairchild µA702."
+ },
+ "serie-7400": {
+  "nombre": "Serie lógica 7400 TTL",
+  "resumen": "Puertas estándar que dominaron dos décadas."
+ },
+ "ua741": {
+  "nombre": "Amplificador operacional µA741",
+  "resumen": "El operacional más copiado de la historia."
+ },
+ "serie-4000": {
+  "nombre": "Serie CMOS 4000",
+  "resumen": "Lógica de consumo mínimo de RCA."
+ },
+ "intel-3101-1101": {
+  "nombre": "Intel 1101",
+  "resumen": "Primera memoria MOS de puerta de silicio."
+ },
+ "ne555": {
+  "nombre": "Temporizador 555",
+  "resumen": "Más de mil millones de unidades al año durante décadas."
+ },
+ "tms1000": {
+  "nombre": "Microcontrolador TMS1000",
+  "resumen": "CPU, memoria y entradas en un chip."
+ },
+ "intel-2708": {
+  "nombre": "EPROM 2708",
+  "resumen": "Un kilobyte programable por el usuario."
+ },
+ "rca-1802": {
+  "nombre": "RCA 1802",
+  "resumen": "CPU CMOS resistente a la radiación, usada en sondas."
+ },
+ "intel-8048": {
+  "nombre": "Intel 8048",
+  "resumen": "Microcontrolador de los teclados de PC."
+ },
+ "tms9900": {
+  "nombre": "TMS9900",
+  "resumen": "Primer microprocesador de 16 bits en un chip."
+ },
+ "intel-8085": {
+  "nombre": "Intel 8085",
+  "resumen": "8080 con una sola tensión de 5 V."
+ },
+ "motorola-6809": {
+  "nombre": "Motorola 6809",
+  "resumen": "El 8 bits más avanzado."
+ },
+ "sid-6581": {
+  "nombre": "Chip de sonido SID",
+  "resumen": "Sintetizador de tres voces del Commodore 64."
+ },
+ "intel-8051": {
+  "nombre": "Intel 8051",
+  "resumen": "Microcontrolador más fabricado del siglo XX."
+ },
+ "intel-80186": {
+  "nombre": "Intel 80186",
+  "resumen": "8086 con periféricos integrados para sistemas empotrados."
+ },
+ "motorola-68020": {
+  "nombre": "Motorola 68020",
+  "resumen": "32 bits completos."
+ },
+ "inmos-transputer": {
+  "nombre": "Transputer",
+  "resumen": "Procesador pensado para conectarse en paralelo."
+ },
+ "intel-80387": {
+  "nombre": "Coprocesador 80387",
+  "resumen": "Coma flotante para el 386."
+ },
+ "intel-i860": {
+  "nombre": "Intel i860",
+  "resumen": "RISC de 64 bits con un millón de transistores."
+ },
+ "pic16": {
+  "nombre": "Microcontroladores PIC",
+  "resumen": "Baratos y sencillos; después con flash."
+ },
+ "motorola-68040": {
+  "nombre": "Motorola 68040",
+  "resumen": "Coma flotante integrada."
+ },
+ "intel-386sx": {
+  "nombre": "Intel 386SX",
+  "resumen": "386 con bus de 16 bits para PC económicos."
+ },
+ "amd-am386": {
+  "nombre": "AMD Am386",
+  "resumen": "Clónico que rompe el monopolio de Intel."
+ },
+ "cyrix-486": {
+  "nombre": "Cyrix 486",
+  "resumen": "Compatibles de terceros."
+ },
+ "intel-486dx2": {
+  "nombre": "Intel 486DX2",
+  "resumen": "Reloj interno al doble del bus."
+ },
+ "arm6": {
+  "nombre": "ARM6",
+  "resumen": "Primer ARM de la empresa conjunta con Apple; Newton."
+ },
+ "arm7tdmi": {
+  "nombre": "ARM7TDMI",
+  "resumen": "Núcleo licenciado de los móviles GSM y la Game Boy Advance."
+ },
+ "avr": {
+  "nombre": "Microcontroladores AVR",
+  "resumen": "Flash reprogramable en el circuito; base de Arduino."
+ },
+ "amd-k5": {
+  "nombre": "AMD K5",
+  "resumen": "Primer x86 diseñado por AMD."
+ },
+ "amd-k6": {
+  "nombre": "AMD K6",
+  "resumen": "Rival económico del Pentium II."
+ },
+ "pentium-ii": {
+  "nombre": "Pentium II",
+  "resumen": "P6 en cartucho con caché externa."
+ },
+ "celeron": {
+  "nombre": "Celeron",
+  "resumen": "Gama económica; el 300A se hizo célebre por su sobreaceleración."
+ },
+ "pentium-iii": {
+  "nombre": "Pentium III",
+  "resumen": "Instrucciones SSE."
+ },
+ "xeon": {
+  "nombre": "Xeon",
+  "resumen": "Línea para servidores."
+ },
+ "strongarm": {
+  "nombre": "StrongARM",
+  "resumen": "ARM rápido de DEC para agendas electrónicas."
+ },
+ "transmeta-crusoe": {
+  "nombre": "Transmeta Crusoe",
+  "resumen": "x86 emulado por traducción de código para ahorrar energía."
+ },
+ "itanium": {
+  "nombre": "Itanium",
+  "resumen": "Arquitectura IA-64 de Intel y HP; fracaso comercial."
+ },
+ "pentium-m": {
+  "nombre": "Pentium M",
+  "resumen": "Eficiencia para portátiles; base del Core."
+ },
+ "power-g5": {
+  "nombre": "PowerPC 970",
+  "resumen": "64 bits en los Mac G5."
+ },
+ "cell": {
+  "nombre": "Procesador Cell",
+  "resumen": "Un núcleo y ocho coprocesadores vectoriales; PlayStation 3."
+ },
+ "atom": {
+  "nombre": "Intel Atom",
+  "resumen": "x86 de muy bajo consumo."
+ },
+ "snapdragon": {
+  "nombre": "Qualcomm Snapdragon",
+  "resumen": "Procesador y módem en un chip."
+ },
+ "arduino": {
+  "nombre": "Arduino",
+  "resumen": "Placa abierta que populariza la electrónica."
+ },
+ "raspberry-pi": {
+  "nombre": "Raspberry Pi",
+  "resumen": "Ordenador de 35 dólares."
+ },
+ "sandy-bridge": {
+  "nombre": "Sandy Bridge",
+  "resumen": "Gráficos integrados en el mismo silicio."
+ },
+ "xeon-phi": {
+  "nombre": "Xeon Phi",
+  "resumen": "Decenas de núcleos x86 para cálculo."
+ },
+ "apple-a7": {
+  "nombre": "Apple A7",
+  "resumen": "Primer ARM de 64 bits en un teléfono."
+ },
+ "epyc": {
+  "nombre": "AMD EPYC",
+  "resumen": "32 núcleos por zócalo."
+ },
+ "graviton": {
+  "nombre": "Procesadores ARM para servidores",
+  "resumen": "AWS Graviton."
+ },
+ "fugaku": {
+  "nombre": "Superordenador ARM",
+  "resumen": "Fugaku con procesadores A64FX."
+ },
+ "tms34010": {
+  "nombre": "Procesador gráfico programable",
+  "resumen": "TMS34010."
+ },
+ "ibm-8514": {
+  "nombre": "Aceleradora 2D",
+  "resumen": "Dibuja líneas y rellena áreas por hardware."
+ },
+ "s3-86c911": {
+  "nombre": "Aceleradora de Windows",
+  "resumen": "S3 86C911."
+ },
+ "nv1": {
+  "nombre": "NVIDIA NV1",
+  "resumen": "Primera tarjeta de NVIDIA, con superficies cuadráticas."
+ },
+ "riva-128": {
+  "nombre": "RIVA 128",
+  "resumen": "2D y 3D en un chip."
+ },
+ "ati-rage": {
+  "nombre": "ATI Rage",
+  "resumen": "Aceleración 3D integrada de ATI."
+ },
+ "riva-tnt": {
+  "nombre": "RIVA TNT",
+  "resumen": "Dos texturas por pasada."
+ },
+ "voodoo2": {
+  "nombre": "Voodoo2 y SLI",
+  "resumen": "Dos tarjetas trabajando en paralelo."
+ },
+ "geforce2": {
+  "nombre": "GeForce 2",
+  "resumen": "Sombreado por píxel fijo."
+ },
+ "radeon": {
+  "nombre": "ATI Radeon",
+  "resumen": "Transformación e iluminación por hardware."
+ },
+ "radeon-9700": {
+  "nombre": "Radeon 9700",
+  "resumen": "Primera tarjeta DirectX 9."
+ },
+ "geforce-6": {
+  "nombre": "GeForce 6",
+  "resumen": "Shader Model 3 y vuelta del SLI."
+ },
+ "geforce-8": {
+  "nombre": "GeForce 8800",
+  "resumen": "Sombreadores unificados: la arquitectura que hace posible CUDA."
+ },
+ "tesla-gpu": {
+  "nombre": "GPU para cálculo científico",
+  "resumen": "NVIDIA Tesla sin salida de vídeo."
+ },
+ "titan-supercomputador": {
+  "nombre": "Superordenador con GPU",
+  "resumen": "Titan, de Oak Ridge."
+ },
+ "vulkan": {
+  "nombre": "Vulkan",
+  "resumen": "API gráfica de bajo nivel."
+ },
+ "geforce-rtx": {
+  "nombre": "GeForce RTX 20",
+  "resumen": "Núcleos de trazado de rayos y DLSS."
+ },
+ "gpu-centro-datos": {
+  "nombre": "GPU de centro de datos para IA",
+  "resumen": "A100 y sucesoras."
+ }
+}

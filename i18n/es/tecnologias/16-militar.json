@@ -1,0 +1,178 @@
+{
+ "honda": {
+  "nombre": "Honda",
+  "resumen": "Proyectil lanzado por fuerza centrífuga."
+ },
+ "espada-bronce": {
+  "nombre": "Espada",
+  "resumen": "Hojas largas de cobre arsenical halladas en Arslantepe (Anatolia)."
+ },
+ "arco-compuesto": {
+  "nombre": "Arco compuesto",
+  "resumen": "Asta, madera y tendón encolados: más potencia en un arco corto."
+ },
+ "armadura-escamas": {
+  "nombre": "Armadura de escamas",
+  "resumen": "Placas de bronce cosidas."
+ },
+ "ballesta": {
+  "nombre": "Ballesta",
+  "resumen": "Gatillo de bronce; China."
+ },
+ "gastrafetes": {
+  "nombre": "Gastrafetes",
+  "resumen": "Ballesta de gran tamaño tensada con el abdomen; Siracusa."
+ },
+ "catapulta-torsion": {
+  "nombre": "Catapulta de torsión",
+  "resumen": "Madejas de tendón retorcidas que almacenan la energía."
+ },
+ "trabuquete-traccion": {
+  "nombre": "Trabuquete de tracción",
+  "resumen": "Viga pivotante de la que tira un equipo de hombres; China."
+ },
+ "cota-malla": {
+  "nombre": "Cota de malla",
+  "resumen": "Miles de anillas de hierro entrelazadas y remachadas; celtas."
+ },
+ "alambre-forjado": {
+  "nombre": "Alambre de hierro forjado",
+  "resumen": "Alambre obtenido martillando y retorciendo tiras."
+ },
+ "fuego-griego": {
+  "nombre": "Fuego griego",
+  "resumen": "Mezcla incendiaria proyectada con sifón."
+ },
+ "trabuquete-contrapeso": {
+  "nombre": "Trabuquete de contrapeso",
+  "resumen": "La gravedad sustituye a los tiradores."
+ },
+ "lanza-fuego": {
+  "nombre": "Lanza de fuego",
+  "resumen": "Tubo de bambú con pólvora."
+ },
+ "bomba-polvora": {
+  "nombre": "Bombas de pólvora",
+  "resumen": "Granadas y bombas incendiarias Song."
+ },
+ "canon-mano": {
+  "nombre": "Cañón de mano",
+  "resumen": "Tubo de bronce con oído que dispara un proyectil; ejemplar de Heilongjiang."
+ },
+ "bombarda": {
+  "nombre": "Bombarda",
+  "resumen": "Primera imagen europea de un cañón (Milemete)."
+ },
+ "arcabuz": {
+  "nombre": "Arcabuz de mecha",
+  "resumen": "Serpentín con mecha y gatillo."
+ },
+ "llave-rueda": {
+  "nombre": "Llave de rueda",
+  "resumen": "Rueda de acero contra pirita."
+ },
+ "anima-rayada": {
+  "nombre": "Ánima rayada",
+  "resumen": "Estrías que hacen girar la bala."
+ },
+ "llave-chispa": {
+  "nombre": "Llave de chispa",
+  "resumen": "Pedernal contra rastrillo."
+ },
+ "bayoneta": {
+  "nombre": "Bayoneta",
+  "resumen": "Bayoneta de cubo: el mosquete sustituye a la pica."
+ },
+ "fulminante": {
+  "nombre": "Cebo fulminante",
+  "resumen": "Fulminato que detona por percusión."
+ },
+ "revolver": {
+  "nombre": "Revólver",
+  "resumen": "Tambor giratorio con varias recámaras tras un solo cañón."
+ },
+ "fusil-aguja": {
+  "nombre": "Fusil de retrocarga de aguja",
+  "resumen": "Cartucho de papel y cerrojo."
+ },
+ "bala-minie": {
+  "nombre": "Bala Minié",
+  "resumen": "Bala expansiva de carga rápida."
+ },
+ "cartucho-metalico": {
+  "nombre": "Cartucho metálico",
+  "resumen": "Vaina, cebo y bala en una pieza."
+ },
+ "ametralladora-gatling": {
+  "nombre": "Ametralladora Gatling",
+  "resumen": "Cañones rotativos a manivela."
+ },
+ "ametralladora": {
+  "nombre": "Ametralladora automática",
+  "resumen": "El retroceso recarga el arma."
+ },
+ "polvora-nitrada": {
+  "nombre": "Pólvoras nitradas de caza",
+  "resumen": "Madera nitrada: pólvora de poco humo para caza."
+ },
+ "torpedo": {
+  "nombre": "Torpedo autopropulsado",
+  "resumen": "Propulsado por aire comprimido."
+ },
+ "motor-neumatico": {
+  "nombre": "Motor de aire comprimido",
+  "resumen": "Motores neumáticos para minería."
+ },
+ "acorazado": {
+  "nombre": "Buque acorazado",
+  "resumen": "La Gloire: casco de madera forrado con planchas de hierro."
+ },
+ "dreadnought": {
+  "nombre": "Acorazado monocalibre",
+  "resumen": "HMS Dreadnought: artillería de un solo calibre grueso y turbinas de vapor."
+ },
+ "gas-cloro": {
+  "nombre": "Arma química",
+  "resumen": "Nube de cloro liberada desde bombonas en Ypres."
+ },
+ "tanque": {
+  "nombre": "Carro de combate",
+  "resumen": "Mark I: vehículo blindado de orugas que cruza trincheras."
+ },
+ "caza": {
+  "nombre": "Avión de caza con sincronizador",
+  "resumen": "Dispara a través de la hélice."
+ },
+ "portaaviones": {
+  "nombre": "Portaaviones",
+  "resumen": "HMS Argus: cubierta corrida para despegar y aterrizar."
+ },
+ "misil-crucero": {
+  "nombre": "Misil de crucero",
+  "resumen": "V-1: bomba volante con pulsorreactor y piloto automático."
+ },
+ "pulsorreactor": {
+  "nombre": "Pulsorreactor",
+  "resumen": "Combustión intermitente en un tubo."
+ },
+ "misil-intercontinental": {
+  "nombre": "Misil balístico intercontinental",
+  "resumen": "R-7: cohete de dos etapas capaz de llevar una carga nuclear a otro continente."
+ },
+ "submarino-nuclear": {
+  "nombre": "Submarino nuclear",
+  "resumen": "USS Nautilus: un reactor permite navegar sumergido durante semanas."
+ },
+ "satelite-espia": {
+  "nombre": "Satélite de reconocimiento",
+  "resumen": "Programa Corona: cápsulas de película fotográfica recuperadas tras la reentrada."
+ },
+ "avion-furtivo": {
+  "nombre": "Avión furtivo",
+  "resumen": "F-117: superficies facetadas que dispersan las ondas de radar."
+ },
+ "dron-armado": {
+  "nombre": "Dron armado",
+  "resumen": "Predator: avión pilotado a distancia por satélite y armado con misiles."
+ }
+}

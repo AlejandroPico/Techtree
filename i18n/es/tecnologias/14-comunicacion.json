@@ -1,0 +1,154 @@
+{
+ "sello-cilindrico": {
+  "nombre": "Sello cilíndrico",
+  "resumen": "Impresión rodada sobre arcilla para autenticar."
+ },
+ "escritura-cuneiforme": {
+  "nombre": "Escritura protocuneiforme",
+  "resumen": "Tablillas contables de Uruk."
+ },
+ "jeroglificos": {
+  "nombre": "Jeroglíficos egipcios",
+  "resumen": "Etiquetas de la tumba U-j de Abidos."
+ },
+ "tinta": {
+  "nombre": "Tinta de negro de humo",
+  "resumen": "Hollín con goma arábiga."
+ },
+ "alfabeto-protosinaitico": {
+  "nombre": "Alfabeto protosinaítico",
+  "resumen": "Unas decenas de signos consonánticos."
+ },
+ "escritura-china": {
+  "nombre": "Escritura china",
+  "resumen": "Huesos oraculares de Anyang."
+ },
+ "alfabeto-fenicio": {
+  "nombre": "Alfabeto fenicio",
+  "resumen": "Veintidós signos consonánticos difundidos por el comercio mediterráneo."
+ },
+ "alfabeto-griego": {
+  "nombre": "Alfabeto con vocales",
+  "resumen": "Los griegos reutilizan signos fenicios para anotar las vocales."
+ },
+ "biblioteca": {
+  "nombre": "Biblioteca",
+  "resumen": "Asurbanipal; después, Alejandría."
+ },
+ "codice": {
+  "nombre": "Códice",
+  "resumen": "Hojas cosidas en vez de rollo."
+ },
+ "braille": {
+  "nombre": "Braille",
+  "resumen": "Celdas de seis puntos en relieve."
+ },
+ "xilografia": {
+  "nombre": "Impresión xilográfica",
+  "resumen": "Planchas talladas; China Tang."
+ },
+ "tipos-moviles": {
+  "nombre": "Tipos móviles",
+  "resumen": "Caracteres sueltos de cerámica cocida que se componen y reutilizan."
+ },
+ "tipos-metalicos": {
+  "nombre": "Tipos móviles de metal",
+  "resumen": "Tipos de bronce fundidos en moldes de arena; Corea de Goryeo."
+ },
+ "aleacion-tipografica": {
+  "nombre": "Aleación tipográfica",
+  "resumen": "Plomo, estaño y antimonio: funde bajo y no se contrae."
+ },
+ "tinta-oleosa": {
+  "nombre": "Tinta al aceite",
+  "resumen": "Barniz de linaza con negro de humo que se adhiere al metal."
+ },
+ "pintura-oleo": {
+  "nombre": "Pintura al óleo",
+  "resumen": "Pigmentos en aceite secante; técnica antigua perfeccionada por los primitivos flamencos."
+ },
+ "imprenta": {
+  "nombre": "Imprenta de tipos móviles",
+  "resumen": "Molde manual, prensa y tinta: sistema completo."
+ },
+ "molde-ajustable": {
+  "nombre": "Molde manual ajustable",
+  "resumen": "Punzón de acero, matriz de cobre y molde para fundir tipos idénticos."
+ },
+ "periodico": {
+  "nombre": "Periódico impreso",
+  "resumen": "Relation, de Estrasburgo: noticias impresas con periodicidad semanal."
+ },
+ "litografia": {
+  "nombre": "Litografía",
+  "resumen": "Impresión plana sobre piedra caliza."
+ },
+ "prensa-vapor": {
+  "nombre": "Prensa de cilindro a vapor",
+  "resumen": "Cilindro movido por vapor: 1100 pliegos por hora en The Times."
+ },
+ "rotativa": {
+  "nombre": "Rotativa",
+  "resumen": "Tipos sobre un cilindro giratorio."
+ },
+ "maquina-escribir": {
+  "nombre": "Máquina de escribir",
+  "resumen": "Tipos accionados por teclas, con el teclado QWERTY."
+ },
+ "linotipia": {
+  "nombre": "Linotipia",
+  "resumen": "El teclado compone matrices y funde la línea entera en plomo."
+ },
+ "xerografia": {
+  "nombre": "Xerografía",
+  "resumen": "Imagen electrostática revelada con polvo: fotocopia en seco."
+ },
+ "camara-oscura": {
+  "nombre": "Cámara oscura",
+  "resumen": "Imagen invertida por un orificio."
+ },
+ "heliografia": {
+  "nombre": "Heliografía",
+  "resumen": "Primera fotografía permanente."
+ },
+ "daguerrotipo": {
+  "nombre": "Daguerrotipo",
+  "resumen": "Placa plateada revelada con mercurio."
+ },
+ "calotipo": {
+  "nombre": "Calotipo",
+  "resumen": "Negativo en papel del que se sacan copias positivas."
+ },
+ "colodion": {
+  "nombre": "Colodión húmedo",
+  "resumen": "Emulsión húmeda sobre vidrio: negativo nítido y exposición de segundos."
+ },
+ "placa-seca": {
+  "nombre": "Placa seca de gelatina",
+  "resumen": "Emulsión de gelatina y bromuro de plata: sensible y almacenable."
+ },
+ "pelicula-rollo": {
+  "nombre": "Película en rollo",
+  "resumen": "Emulsión sobre soporte flexible enrollado; cámara Kodak."
+ },
+ "cinematografo": {
+  "nombre": "Cinematógrafo",
+  "resumen": "Cámara, copiadora y proyector con arrastre intermitente."
+ },
+ "cine-sonoro": {
+  "nombre": "Cine sonoro",
+  "resumen": "Sonido sincronizado amplificado con válvulas."
+ },
+ "cinta-magnetica": {
+  "nombre": "Cinta magnética",
+  "resumen": "Papel recubierto de óxido de hierro."
+ },
+ "disco-compacto": {
+  "nombre": "Disco compacto",
+  "resumen": "Audio digital leído por láser."
+ },
+ "camara-digital": {
+  "nombre": "Cámara digital",
+  "resumen": "Prototipo de Kodak con sensor CCD."
+ }
+}

@@ -1,0 +1,414 @@
+{
+ "flecha-emplumada": {
+  "nombre": "Flecha con astil y emplumado",
+  "resumen": "Flechas de pino de Stellmoor (Alemania), las más antiguas conservadas."
+ },
+ "arco-plano": {
+  "nombre": "Arco plano de olmo",
+  "resumen": "Arcos de Holmegaard (Dinamarca), los más antiguos conservados enteros."
+ },
+ "arco-tejo": {
+  "nombre": "Arco largo de tejo",
+  "resumen": "El hombre de Ötzi llevaba uno de 1,82 m sin terminar."
+ },
+ "anillo-arquero": {
+  "nombre": "Anillo de arquero",
+  "resumen": "Protege el pulgar en la suelta mongola; China Shang."
+ },
+ "arco-escita": {
+  "nombre": "Arco recurvo escita",
+  "resumen": "Arco corto de doble curva para disparar a caballo."
+ },
+ "ballesta-repeticion": {
+  "nombre": "Ballesta de repetición",
+  "resumen": "Cargador por gravedad y palanca; tumba de Chu."
+ },
+ "arco-huno": {
+  "nombre": "Arco compuesto con refuerzos de hueso",
+  "resumen": "Palas rígidas y asimétricas que aumentan la potencia."
+ },
+ "ballesta-europea": {
+  "nombre": "Ballesta medieval europea",
+  "resumen": "Nuez giratoria de hueso y llave larga."
+ },
+ "ballesta-estribo": {
+  "nombre": "Ballesta de estribo",
+  "resumen": "Se arma pisando el estribo y tirando con un gancho al cinto."
+ },
+ "punta-bodkin": {
+  "nombre": "Punta de flecha perforante",
+  "resumen": "Punta estrecha de sección cuadrada contra mallas y placas."
+ },
+ "arco-mongol": {
+  "nombre": "Arco compuesto mongol",
+  "resumen": "Alcance de más de 300 m desde la silla."
+ },
+ "arco-largo-ingles": {
+  "nombre": "Arco largo de guerra",
+  "resumen": "Tiro masivo de arqueros entrenados desde niños; Crécy y Agincourt."
+ },
+ "ballesta-torno": {
+  "nombre": "Ballesta de torno",
+  "resumen": "Cabrestante y poleas para armar arcos muy potentes."
+ },
+ "ballesta-acero": {
+  "nombre": "Ballesta de verga de acero",
+  "resumen": "El arco de acero templado sustituye al compuesto."
+ },
+ "cranequin": {
+  "nombre": "Cranequín",
+  "resumen": "Cremallera y manivela para armar a caballo."
+ },
+ "arco-poleas": {
+  "nombre": "Arco de poleas",
+  "resumen": "Levas excéntricas que reducen el esfuerzo al final del tensado."
+ },
+ "fibra-vidrio": {
+  "nombre": "Fibra de vidrio",
+  "resumen": "Filamentos de vidrio en resina."
+ },
+ "punal-silex": {
+  "nombre": "Puñal de sílex tallado",
+  "resumen": "Imitaciones nórdicas en piedra de los puñales de metal."
+ },
+ "casco-metal": {
+  "nombre": "Casco metálico",
+  "resumen": "Cascos de cobre y de oro en las tumbas reales de Ur."
+ },
+ "escudo-bronce": {
+  "nombre": "Escudo de bronce batido",
+  "resumen": "Escudos de chapa repujada de la Edad del Bronce europea."
+ },
+ "armadura-lamelar": {
+  "nombre": "Armadura lamelar",
+  "resumen": "Laminillas atadas entre sí; Asiria."
+ },
+ "panoplia-hoplita": {
+  "nombre": "Panoplia hoplita",
+  "resumen": "Escudo redondo, coraza, grebas y lanza: la falange."
+ },
+ "sarisa": {
+  "nombre": "Sarisa macedonia",
+  "resumen": "Pica de cinco a seis metros."
+ },
+ "pilum": {
+  "nombre": "Pilum",
+  "resumen": "Jabalina de hierro dulce que se dobla al impactar."
+ },
+ "gladius": {
+  "nombre": "Gladius hispaniensis",
+  "resumen": "Espada corta de origen ibérico adoptada por Roma."
+ },
+ "lorica-segmentata": {
+  "nombre": "Lorica segmentata",
+  "resumen": "Coraza de bandas de hierro articuladas."
+ },
+ "soldadura-patron": {
+  "nombre": "Forja con soldadura de patrón",
+  "resumen": "Barras de hierro y acero retorcidas y soldadas: hojas tenaces y veteadas."
+ },
+ "espada-ulfberht": {
+  "nombre": "Espadas Ulfberht",
+  "resumen": "Hojas francas de acero de crisol con marca de taller."
+ },
+ "acero-damasco": {
+  "nombre": "Acero de Damasco",
+  "resumen": "Hojas forjadas de lingotes wootz con dibujo de aguas."
+ },
+ "sable-japones": {
+  "nombre": "Sable japonés de temple diferencial",
+  "resumen": "Filo durísimo y lomo tenaz mediante arcilla en el temple."
+ },
+ "lanza-ristre": {
+  "nombre": "Carga con lanza en ristre",
+  "resumen": "La lanza sujeta bajo el brazo transmite el empuje del caballo."
+ },
+ "silla-arzon": {
+  "nombre": "Silla de arzones altos",
+  "resumen": "Sujeta al jinete en el choque."
+ },
+ "alabarda": {
+  "nombre": "Alabarda",
+  "resumen": "Hacha, punta y gancho en un asta; infantería suiza."
+ },
+ "brigantina": {
+  "nombre": "Brigantina",
+  "resumen": "Placas remachadas dentro de una prenda de tela."
+ },
+ "espada-larga": {
+  "nombre": "Espada larga a dos manos",
+  "resumen": "Arma del caballero a pie contra la armadura de placas."
+ },
+ "arnes-blanco": {
+  "nombre": "Armadura completa de placas",
+  "resumen": "Arnés articulado de acero templado; Milán y Augsburgo."
+ },
+ "pica-suiza": {
+  "nombre": "Cuadro de picas",
+  "resumen": "Infantería cerrada que detiene a la caballería pesada."
+ },
+ "ropera": {
+  "nombre": "Espada ropera",
+  "resumen": "Hoja larga y estrecha para la estocada civil."
+ },
+ "ariete": {
+  "nombre": "Ariete",
+  "resumen": "Arietes con cubierta y ruedas en los relieves asirios."
+ },
+ "torre-asedio": {
+  "nombre": "Torre de asedio",
+  "resumen": "Torres rodantes de varios pisos."
+ },
+ "helepolis": {
+  "nombre": "Helépolis",
+  "resumen": "Torre de 40 m en el asedio de Rodas."
+ },
+ "corvus": {
+  "nombre": "Corvus",
+  "resumen": "Pasarela de abordaje romana."
+ },
+ "onagro": {
+  "nombre": "Onagro",
+  "resumen": "Catapulta de un solo brazo."
+ },
+ "mota-castral": {
+  "nombre": "Castillo de mota y patio",
+  "resumen": "Torre de madera sobre montículo artificial."
+ },
+ "torre-homenaje": {
+  "nombre": "Torre del homenaje de piedra",
+  "resumen": "Donjon de mampostería."
+ },
+ "matacan": {
+  "nombre": "Matacán",
+  "resumen": "Galería en voladizo para batir el pie del muro."
+ },
+ "castillo-concentrico": {
+  "nombre": "Castillo concéntrico",
+  "resumen": "Recintos sucesivos que se cubren unos a otros."
+ },
+ "traza-italiana": {
+  "nombre": "Fortificación abaluartada",
+  "resumen": "Muros bajos y gruesos con baluartes en punta de flecha."
+ },
+ "mina-polvora": {
+  "nombre": "Mina explosiva de asedio",
+  "resumen": "Galería cargada de pólvora bajo la muralla; Castel dell'Ovo."
+ },
+ "paralelas-vauban": {
+  "nombre": "Asedio por paralelas",
+  "resumen": "Trincheras sucesivas que se acercan al muro."
+ },
+ "alambre-espino": {
+  "nombre": "Alambre de espino",
+  "resumen": "Cerca barata; después, obstáculo militar."
+ },
+ "polvora-granulada": {
+  "nombre": "Pólvora granulada",
+  "resumen": "Granos húmedos prensados: arde más rápido y no se separa."
+ },
+ "canon-duelas": {
+  "nombre": "Cañón de duelas de hierro forjado",
+  "resumen": "Barras soldadas y zunchadas como un tonel."
+ },
+ "bombarda-gigante": {
+  "nombre": "Grandes bombardas de bronce",
+  "resumen": "El cañón de Orbán en el asedio de Constantinopla."
+ },
+ "canon-bronce": {
+  "nombre": "Cañón de bronce fundido de una pieza",
+  "resumen": "La técnica de las campanas aplicada a la artillería."
+ },
+ "curena-munones": {
+  "nombre": "Cureña con muñones",
+  "resumen": "El cañón bascula sobre dos pivotes: artillería móvil."
+ },
+ "bala-hierro": {
+  "nombre": "Bala de hierro colado",
+  "resumen": "Más densa que la piedra: cañones menores con igual efecto."
+ },
+ "mosquete": {
+  "nombre": "Mosquete",
+  "resumen": "Arma pesada con horquilla que perfora armaduras."
+ },
+ "tercio": {
+  "nombre": "Tercio",
+  "resumen": "Picas y armas de fuego combinadas."
+ },
+ "contramarcha": {
+  "nombre": "Fuego por descargas",
+  "resumen": "Filas que disparan y se relevan."
+ },
+ "artilleria-regimental": {
+  "nombre": "Artillería ligera de campaña",
+  "resumen": "Piezas que acompañan a la infantería."
+ },
+ "sistema-gribeauval": {
+  "nombre": "Sistema Gribeauval",
+  "resumen": "Calibres y piezas normalizados."
+ },
+ "barrenado-canones": {
+  "nombre": "Barrenado de cañones en macizo",
+  "resumen": "El ánima se taladra en la pieza fundida maciza."
+ },
+ "carronada": {
+  "nombre": "Carronada",
+  "resumen": "Cañón naval corto de gran calibre."
+ },
+ "metralla-shrapnel": {
+  "nombre": "Granada de metralla",
+  "resumen": "Proyectil que estalla en el aire y dispersa balas."
+ },
+ "cohete-congreve": {
+  "nombre": "Cohete Congreve",
+  "resumen": "Cohetes de hierro inspirados en los de Mysore."
+ },
+ "canon-acero": {
+  "nombre": "Cañón de acero fundido",
+  "resumen": "Krupp funde cañones de acero al crisol de una sola pieza."
+ },
+ "canon-rayado": {
+  "nombre": "Cañón rayado de retrocarga",
+  "resumen": "Cañón Armstrong."
+ },
+ "fusil-repeticion": {
+  "nombre": "Fusil de repetición",
+  "resumen": "Spencer y Henry: varios disparos sin recargar."
+ },
+ "fusil-cerrojo": {
+  "nombre": "Fusil de cerrojo de cartucho metálico",
+  "resumen": "Mauser modelo 1871."
+ },
+ "fusil-lebel": {
+  "nombre": "Fusil de pólvora sin humo",
+  "resumen": "Calibre reducido, gran alcance y sin nube delatora."
+ },
+ "canon-75": {
+  "nombre": "Cañón de tiro rápido",
+  "resumen": "Freno hidroneumático: el cañón no se mueve al disparar."
+ },
+ "lanzallamas": {
+  "nombre": "Lanzallamas",
+  "resumen": "Usado en combate desde 1915."
+ },
+ "granada-mano": {
+  "nombre": "Granada de fragmentación",
+  "resumen": "Bomba Mills con espoleta de tiempo."
+ },
+ "mortero-stokes": {
+  "nombre": "Mortero de infantería",
+  "resumen": "Tubo liso con percutor fijo."
+ },
+ "carga-profundidad": {
+  "nombre": "Carga de profundidad",
+  "resumen": "Explosivo con espoleta hidrostática."
+ },
+ "iperita": {
+  "nombre": "Gas mostaza",
+  "resumen": "Agente vesicante persistente."
+ },
+ "sonar": {
+  "nombre": "Sonar activo",
+  "resumen": "Eco de ultrasonidos con cuarzo piezoeléctrico."
+ },
+ "subfusil": {
+  "nombre": "Subfusil",
+  "resumen": "MP 18: arma automática ligera de cartucho de pistola para el asalto de trincheras."
+ },
+ "maquina-enigma": {
+  "nombre": "Máquina Enigma",
+  "resumen": "Cifrado por rotores."
+ },
+ "fusil-semiautomatico": {
+  "nombre": "Fusil semiautomático reglamentario",
+  "resumen": "M1 Garand."
+ },
+ "agente-nervioso": {
+  "nombre": "Agentes nerviosos",
+  "resumen": "Tabún, hallado al buscar insecticidas."
+ },
+ "organofosforados": {
+  "nombre": "Insecticidas organofosforados",
+  "resumen": "Compuestos de fósforo que bloquean la colinesterasa."
+ },
+ "bombe": {
+  "nombre": "Bombe criptoanalítica",
+  "resumen": "Máquina que descarta configuraciones de Enigma."
+ },
+ "napalm": {
+  "nombre": "Napalm",
+  "resumen": "Gasolina gelificada."
+ },
+ "bazuca": {
+  "nombre": "Lanzacohetes anticarro",
+  "resumen": "Carga hueca propulsada por cohete."
+ },
+ "carga-hueca": {
+  "nombre": "Efecto de carga hueca",
+  "resumen": "Una cavidad en el explosivo concentra el chorro."
+ },
+ "espoleta-proximidad": {
+  "nombre": "Espoleta de proximidad",
+  "resumen": "Un radar diminuto en el proyectil lo detona cerca del blanco."
+ },
+ "bomba-guiada": {
+  "nombre": "Bomba guiada",
+  "resumen": "Fritz X dirigida por radio."
+ },
+ "fusil-asalto": {
+  "nombre": "Fusil de asalto",
+  "resumen": "Sturmgewehr 44: cartucho intermedio y fuego selectivo."
+ },
+ "ak-47": {
+  "nombre": "AK-47",
+  "resumen": "El arma más fabricada de la historia."
+ },
+ "misil-tierra-aire": {
+  "nombre": "Misil tierra-aire",
+  "resumen": "Nike Ajax; después S-75."
+ },
+ "misil-anticarro": {
+  "nombre": "Misil anticarro filoguiado",
+  "resumen": "SS.10: el tirador guía el misil por dos hilos que se desenrollan en vuelo."
+ },
+ "misil-aire-aire": {
+  "nombre": "Misil aire-aire infrarrojo",
+  "resumen": "AIM-9 Sidewinder."
+ },
+ "misil-submarino": {
+  "nombre": "Misil balístico de lanzamiento submarino",
+  "resumen": "Polaris."
+ },
+ "bomba-laser": {
+  "nombre": "Bomba guiada por láser",
+  "resumen": "Paveway."
+ },
+ "ojivas-multiples": {
+  "nombre": "Ojivas múltiples independientes",
+  "resumen": "Minuteman III."
+ },
+ "chaleco-antibalas": {
+  "nombre": "Chaleco de aramida",
+  "resumen": "Protección ligera contra bala de pistola."
+ },
+ "misil-crucero-moderno": {
+  "nombre": "Misil de crucero de guiado por terreno",
+  "resumen": "Tomahawk."
+ },
+ "bomba-gps": {
+  "nombre": "Bomba guiada por GPS",
+  "resumen": "JDAM: un kit de aletas y receptor GPS convierte bombas corrientes en guiadas."
+ },
+ "ciberarma": {
+  "nombre": "Ciberarma industrial",
+  "resumen": "Stuxnet sabotea centrifugadoras a través de sus autómatas."
+ },
+ "defensa-antimisiles": {
+  "nombre": "Defensa contra cohetes de corto alcance",
+  "resumen": "Cúpula de Hierro."
+ },
+ "misil-hipersonico": {
+  "nombre": "Planeador hipersónico",
+  "resumen": "Avangard."
+ }
+}

@@ -1,0 +1,522 @@
+{
+ "sutura": {
+  "nombre": "Sutura de heridas",
+  "resumen": "Puntos con hilo de lino descritos en Egipto."
+ },
+ "protesis-dedo": {
+  "nombre": "Prótesis funcional",
+  "resumen": "Dedo de madera y cuero en una momia de Tebas."
+ },
+ "cirugia-sushruta": {
+  "nombre": "Cirugía de Sushruta",
+  "resumen": "Rinoplastia, cataratas y más de cien instrumentos."
+ },
+ "ayurveda": {
+  "nombre": "Medicina ayurvédica",
+  "resumen": "Tradición médica védica de la India."
+ },
+ "acupuntura": {
+  "nombre": "Acupuntura",
+  "resumen": "Agujas metálicas y canales descritos en el Huangdi Neijing."
+ },
+ "materia-medica": {
+  "nombre": "De materia medica",
+  "resumen": "Seiscientas plantas y sus usos; referencia durante 1500 años."
+ },
+ "cesarea": {
+  "nombre": "Cesárea con supervivencia materna",
+  "resumen": "Caso atribuido a Jacob Nufer."
+ },
+ "cirugia-albucasis": {
+  "nombre": "Tratado quirúrgico de Albucasis",
+  "resumen": "Al-Tasrif: doscientos instrumentos ilustrados."
+ },
+ "circulacion-pulmonar": {
+  "nombre": "Circulación pulmonar",
+  "resumen": "La sangre pasa del corazón derecho al izquierdo por los pulmones."
+ },
+ "cuarentena": {
+  "nombre": "Cuarentena",
+  "resumen": "Ragusa aísla a los viajeros durante la peste."
+ },
+ "iatroquimica": {
+  "nombre": "Iatroquímica",
+  "resumen": "Remedios químicos y dosis: «la dosis hace el veneno»."
+ },
+ "forceps": {
+  "nombre": "Fórceps obstétrico",
+  "resumen": "Secreto de la familia Chamberlen durante un siglo."
+ },
+ "transfusion": {
+  "nombre": "Transfusión de sangre",
+  "resumen": "Primera transfusión a un humano, con sangre de cordero."
+ },
+ "termometro-clinico": {
+  "nombre": "Termómetro clínico",
+  "resumen": "Corto y rápido, para uso diario."
+ },
+ "jeringa-hipodermica": {
+  "nombre": "Jeringa hipodérmica",
+  "resumen": "Aguja hueca y émbolo."
+ },
+ "oftalmoscopio": {
+  "nombre": "Oftalmoscopio",
+  "resumen": "Ver la retina en vivo."
+ },
+ "anestesia-cloroformo": {
+  "nombre": "Anestesia con cloroformo",
+  "resumen": "Usado en partos desde ese año."
+ },
+ "anestesia-local": {
+  "nombre": "Anestesia local",
+  "resumen": "Cocaína en cirugía ocular."
+ },
+ "enfermeria-moderna": {
+  "nombre": "Enfermería profesional",
+  "resumen": "Escuela del hospital St Thomas."
+ },
+ "guantes-quirurgicos": {
+  "nombre": "Guantes quirúrgicos de goma",
+  "resumen": "Introducidos en el Johns Hopkins."
+ },
+ "asepsia": {
+  "nombre": "Asepsia y esterilización por vapor",
+  "resumen": "El autoclave esteriliza instrumental y ropa."
+ },
+ "esfigmomanometro": {
+  "nombre": "Esfigmomanómetro",
+  "resumen": "Presión arterial con manguito inflable."
+ },
+ "apendicectomia": {
+  "nombre": "Apendicectomía",
+  "resumen": "Cirugía abdominal programada."
+ },
+ "banco-sangre": {
+  "nombre": "Banco de sangre",
+  "resumen": "Sangre conservada con citrato."
+ },
+ "electroencefalograma": {
+  "nombre": "Electroencefalograma",
+  "resumen": "Ritmos eléctricos del cerebro."
+ },
+ "dialisis": {
+  "nombre": "Riñón artificial",
+  "resumen": "Diálisis con membrana de celofán."
+ },
+ "maquina-corazon-pulmon": {
+  "nombre": "Máquina corazón-pulmón",
+  "resumen": "Cirugía a corazón abierto."
+ },
+ "ecografia": {
+  "nombre": "Ecografía médica",
+  "resumen": "Imagen por ultrasonidos."
+ },
+ "endoscopio-fibra": {
+  "nombre": "Endoscopio de fibra óptica",
+  "resumen": "Haz flexible de fibras."
+ },
+ "desfibrilador": {
+  "nombre": "Desfibrilador",
+  "resumen": "Choque eléctrico que restablece el ritmo."
+ },
+ "protesis-cadera": {
+  "nombre": "Prótesis total de cadera",
+  "resumen": "Baja fricción."
+ },
+ "trasplante-corazon": {
+  "nombre": "Trasplante de corazón",
+  "resumen": "Hospital Groote Schuur."
+ },
+ "angioplastia": {
+  "nombre": "Angioplastia con balón",
+  "resumen": "Dilata arterias coronarias."
+ },
+ "ciclosporina": {
+  "nombre": "Ciclosporina",
+  "resumen": "Inmunosupresor que hace viables los trasplantes."
+ },
+ "laparoscopia": {
+  "nombre": "Cirugía laparoscópica",
+  "resumen": "Colecistectomía por pequeñas incisiones."
+ },
+ "cirugia-robotica": {
+  "nombre": "Cirugía robótica",
+  "resumen": "Sistema da Vinci."
+ },
+ "refutacion-redi": {
+  "nombre": "Experimento de Redi",
+  "resumen": "Las larvas no nacen de la carne si las moscas no llegan a ella."
+ },
+ "placa-petri": {
+  "nombre": "Placa de Petri y medios sólidos",
+  "resumen": "Cultivos puros sobre agar."
+ },
+ "tincion-gram": {
+  "nombre": "Tinción de Gram",
+  "resumen": "Clasifica las bacterias en dos grandes grupos."
+ },
+ "bacilo-tuberculosis": {
+  "nombre": "Bacilo de la tuberculosis",
+  "resumen": "Identificado en el esputo."
+ },
+ "suero-antidifterico": {
+  "nombre": "Sueroterapia",
+  "resumen": "Antitoxinas contra la difteria y el tétanos."
+ },
+ "fagocitosis": {
+  "nombre": "Fagocitosis",
+  "resumen": "Células que devoran microbios: inmunidad celular."
+ },
+ "mosquito-malaria": {
+  "nombre": "Transmisión de la malaria por mosquitos",
+  "resumen": "Parásito en el estómago del Anopheles."
+ },
+ "fiebre-amarilla": {
+  "nombre": "Transmisión de la fiebre amarilla",
+  "resumen": "Hipótesis de Finlay confirmada."
+ },
+ "vacuna-bcg": {
+  "nombre": "Vacuna BCG",
+  "resumen": "Bacilo bovino atenuado."
+ },
+ "vacuna-difteria": {
+  "nombre": "Toxoides",
+  "resumen": "Toxina inactivada con formol."
+ },
+ "cultivo-celular-virus": {
+  "nombre": "Cultivo de virus en tejidos",
+  "resumen": "Poliovirus en células no nerviosas."
+ },
+ "vacuna-polio-oral": {
+  "nombre": "Vacuna oral de la polio",
+  "resumen": "Virus atenuado."
+ },
+ "vacuna-sarampion": {
+  "nombre": "Vacuna del sarampión",
+  "resumen": "Cepa Edmonston."
+ },
+ "vacuna-hepatitis-b": {
+  "nombre": "Vacuna recombinante",
+  "resumen": "Antígeno de la hepatitis B producido en levadura."
+ },
+ "priones": {
+  "nombre": "Priones",
+  "resumen": "Proteínas infecciosas sin ácido nucleico."
+ },
+ "vih": {
+  "nombre": "Virus de la inmunodeficiencia humana",
+  "resumen": "Aislado en el Instituto Pasteur."
+ },
+ "helicobacter": {
+  "nombre": "Helicobacter pylori",
+  "resumen": "Una bacteria causa la úlcera gástrica."
+ },
+ "vacuna-vph": {
+  "nombre": "Vacuna del papiloma humano",
+  "resumen": "Previene el cáncer de cuello uterino."
+ },
+ "opio": {
+  "nombre": "Opio",
+  "resumen": "Adormidera cultivada en Mesopotamia."
+ },
+ "plantas-neandertales": {
+  "nombre": "Uso de plantas medicinales",
+  "resumen": "Indicios de consumo de plantas con principios activos entre neandertales."
+ },
+ "morfina": {
+  "nombre": "Morfina",
+  "resumen": "Primer alcaloide aislado."
+ },
+ "digital": {
+  "nombre": "Digital",
+  "resumen": "Dedalera contra la hidropesía, con dosis medidas."
+ },
+ "oxido-nitroso": {
+  "nombre": "Efecto anestésico del óxido nitroso",
+  "resumen": "El «gas de la risa»."
+ },
+ "barbituricos": {
+  "nombre": "Barbitúricos",
+  "resumen": "Veronal: primer sedante e hipnótico sintético de uso amplio."
+ },
+ "vitaminas": {
+  "nombre": "Vitaminas",
+  "resumen": "Sustancias esenciales cuya falta causa beriberi o escorbuto."
+ },
+ "heparina": {
+  "nombre": "Heparina",
+  "resumen": "Anticoagulante aislado del hígado; hace posibles la diálisis y la cirugía cardíaca."
+ },
+ "estreptomicina": {
+  "nombre": "Estreptomicina",
+  "resumen": "Primer antibiótico eficaz contra la tuberculosis."
+ },
+ "quimioterapia": {
+  "nombre": "Quimioterapia del cáncer",
+  "resumen": "Mostazas nitrogenadas contra linfomas."
+ },
+ "cortisona": {
+  "nombre": "Cortisona",
+  "resumen": "Antiinflamatorio esteroideo."
+ },
+ "clorpromazina": {
+  "nombre": "Clorpromazina",
+  "resumen": "Primer antipsicótico."
+ },
+ "ensayo-aleatorizado": {
+  "nombre": "Ensayo clínico aleatorizado",
+  "resumen": "Asignación al azar con grupo de control."
+ },
+ "talidomida": {
+  "nombre": "Tragedia de la talidomida",
+  "resumen": "Malformaciones que obligan a exigir pruebas de seguridad."
+ },
+ "benzodiacepinas": {
+  "nombre": "Benzodiacepinas",
+  "resumen": "Librium y Valium."
+ },
+ "betabloqueantes": {
+  "nombre": "Betabloqueantes",
+  "resumen": "Propranolol."
+ },
+ "levodopa": {
+  "nombre": "Levodopa",
+  "resumen": "Tratamiento del párkinson."
+ },
+ "estatinas": {
+  "nombre": "Estatinas",
+  "resumen": "Reducen el colesterol."
+ },
+ "insulina-recombinante": {
+  "nombre": "Insulina humana recombinante",
+  "resumen": "Primer fármaco biotecnológico."
+ },
+ "anticuerpos-monoclonales": {
+  "nombre": "Anticuerpos monoclonales",
+  "resumen": "Hibridomas que fabrican un solo anticuerpo."
+ },
+ "fluoxetina": {
+  "nombre": "Inhibidores de la recaptación de serotonina",
+  "resumen": "Prozac."
+ },
+ "imatinib": {
+  "nombre": "Terapia dirigida contra el cáncer",
+  "resumen": "Bloquea la proteína de la leucemia mieloide crónica."
+ },
+ "inmunoterapia-cancer": {
+  "nombre": "Inmunoterapia de puntos de control",
+  "resumen": "Libera a los linfocitos para atacar tumores."
+ },
+ "terapia-car-t": {
+  "nombre": "Terapia CAR-T",
+  "resumen": "Linfocitos del paciente reprogramados."
+ },
+ "agonistas-glp1": {
+  "nombre": "Agonistas de GLP-1",
+  "resumen": "Semaglutida para diabetes y obesidad."
+ },
+ "historia-animales": {
+  "nombre": "Zoología de Aristóteles",
+  "resumen": "Clasificación y anatomía de quinientas especies."
+ },
+ "botanica-teofrasto": {
+  "nombre": "Botánica de Teofrasto",
+  "resumen": "Historia de las plantas."
+ },
+ "jardin-botanico": {
+  "nombre": "Jardín botánico universitario",
+  "resumen": "Padua y Pisa."
+ },
+ "herbario-impreso": {
+  "nombre": "Herbarios ilustrados",
+  "resumen": "De historia stirpium."
+ },
+ "fosiles-organicos": {
+  "nombre": "Origen orgánico de los fósiles",
+  "resumen": "Los estratos se depositan en orden."
+ },
+ "espermatozoides": {
+  "nombre": "Espermatozoides",
+  "resumen": "«Animálculos» en el semen."
+ },
+ "sexualidad-plantas": {
+  "nombre": "Sexualidad de las plantas",
+  "resumen": "Estambres y pistilos."
+ },
+ "fotosintesis": {
+  "nombre": "Fotosíntesis",
+  "resumen": "Las plantas producen oxígeno con luz."
+ },
+ "extincion": {
+  "nombre": "Realidad de la extinción",
+  "resumen": "Mamuts y mastodontes son especies desaparecidas."
+ },
+ "dinosaurios": {
+  "nombre": "Primeros dinosaurios descritos",
+  "resumen": "Megalosaurus e Iguanodon."
+ },
+ "viaje-beagle": {
+  "nombre": "Viaje del Beagle",
+  "resumen": "Observaciones de las Galápagos."
+ },
+ "nucleo-celular": {
+  "nombre": "Núcleo celular",
+  "resumen": "Presente en todas las células vegetales."
+ },
+ "omnis-cellula": {
+  "nombre": "Toda célula procede de otra célula",
+  "resumen": "Patología celular."
+ },
+ "neandertal": {
+  "nombre": "Hombre de Neandertal",
+  "resumen": "Primer humano fósil reconocido."
+ },
+ "archaeopteryx": {
+  "nombre": "Archaeopteryx",
+  "resumen": "Eslabón entre reptiles y aves."
+ },
+ "ecologia": {
+  "nombre": "Ecología",
+  "resumen": "Estudio de los organismos en su ambiente."
+ },
+ "mitosis": {
+  "nombre": "Mitosis",
+  "resumen": "Los cromosomas se dividen longitudinalmente."
+ },
+ "neurona": {
+  "nombre": "Doctrina de la neurona",
+  "resumen": "El sistema nervioso está hecho de células individuales."
+ },
+ "tincion-golgi": {
+  "nombre": "Tinción de Golgi",
+  "resumen": "Nitrato de plata que tiñe neuronas enteras."
+ },
+ "reflejos-condicionados": {
+  "nombre": "Reflejos condicionados",
+  "resumen": "Aprendizaje asociativo."
+ },
+ "etologia": {
+  "nombre": "Etología",
+  "resumen": "Impronta y conducta innata."
+ },
+ "sintesis-evolutiva": {
+  "nombre": "Síntesis evolutiva moderna",
+  "resumen": "Genética de poblaciones y selección natural."
+ },
+ "potencial-accion": {
+  "nombre": "Potencial de acción",
+  "resumen": "Mecanismo iónico del impulso nervioso."
+ },
+ "lucy": {
+  "nombre": "Australopithecus afarensis",
+  "resumen": "«Lucy», bípeda de 3,2 millones de años."
+ },
+ "endosimbiosis": {
+  "nombre": "Teoría endosimbiótica",
+  "resumen": "Mitocondrias y cloroplastos fueron bacterias."
+ },
+ "arqueas": {
+  "nombre": "Arqueas",
+  "resumen": "Tercer dominio de la vida."
+ },
+ "impacto-chicxulub": {
+  "nombre": "Extinción por impacto",
+  "resumen": "Capa de iridio de hace 66 millones de años."
+ },
+ "adn-antiguo": {
+  "nombre": "Genoma neandertal",
+  "resumen": "Prueba el cruce con humanos modernos."
+ },
+ "enzimas": {
+  "nombre": "Enzimas",
+  "resumen": "La diastasa convierte almidón en azúcar."
+ },
+ "nucleina": {
+  "nombre": "Nucleína (ADN)",
+  "resumen": "Sustancia rica en fósforo aislada del pus."
+ },
+ "fermentacion-sin-celulas": {
+  "nombre": "Fermentación sin células",
+  "resumen": "Nace la bioquímica."
+ },
+ "ciclo-krebs": {
+  "nombre": "Ciclo de Krebs",
+  "resumen": "Ruta central del metabolismo."
+ },
+ "un-gen-una-enzima": {
+  "nombre": "Un gen, una enzima",
+  "resumen": "Los genes dirigen reacciones químicas."
+ },
+ "estructura-proteinas": {
+  "nombre": "Hélice alfa",
+  "resumen": "Estructura secundaria de las proteínas."
+ },
+ "secuencia-insulina": {
+  "nombre": "Secuencia de una proteína",
+  "resumen": "Las proteínas tienen una secuencia definida."
+ },
+ "replicacion-semiconservativa": {
+  "nombre": "Replicación semiconservativa",
+  "resumen": "Experimento de Meselson y Stahl."
+ },
+ "ultracentrifuga": {
+  "nombre": "Ultracentrífuga",
+  "resumen": "Separa macromoléculas por su masa."
+ },
+ "estructura-mioglobina": {
+  "nombre": "Estructura tridimensional de una proteína",
+  "resumen": "Mioglobina."
+ },
+ "arn-mensajero": {
+  "nombre": "ARN mensajero",
+  "resumen": "Intermediario entre el gen y la proteína."
+ },
+ "operon": {
+  "nombre": "Regulación génica",
+  "resumen": "Los genes se encienden y se apagan."
+ },
+ "enzimas-restriccion": {
+  "nombre": "Enzimas de restricción",
+  "resumen": "Tijeras que cortan el ADN en secuencias concretas."
+ },
+ "transcriptasa-inversa": {
+  "nombre": "Transcriptasa inversa",
+  "resumen": "De ARN a ADN."
+ },
+ "oncogenes": {
+  "nombre": "Oncogenes celulares",
+  "resumen": "Los genes del cáncer son genes propios alterados."
+ },
+ "raton-transgenico": {
+  "nombre": "Ratón transgénico",
+  "resumen": "Un gen ajeno heredable en un mamífero."
+ },
+ "huella-genetica": {
+  "nombre": "Huella genética",
+  "resumen": "Identificación por ADN."
+ },
+ "celulas-madre-embrionarias": {
+  "nombre": "Células madre embrionarias humanas",
+  "resumen": "Cultivadas en laboratorio."
+ },
+ "interferencia-arn": {
+  "nombre": "Interferencia por ARN",
+  "resumen": "ARN de doble cadena silencia genes."
+ },
+ "celulas-ips": {
+  "nombre": "Células pluripotentes inducidas",
+  "resumen": "Células adultas reprogramadas con cuatro genes."
+ },
+ "secuenciacion-masiva": {
+  "nombre": "Secuenciación masiva en paralelo",
+  "resumen": "Millones de fragmentos leídos a la vez."
+ },
+ "criomicroscopia": {
+  "nombre": "Criomicroscopía electrónica de alta resolución",
+  "resumen": "Estructuras atómicas sin cristalizar."
+ },
+ "celula-sintetica": {
+  "nombre": "Célula con genoma sintético",
+  "resumen": "Mycoplasma con un cromosoma fabricado."
+ }
+}

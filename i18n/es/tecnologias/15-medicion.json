@@ -1,0 +1,102 @@
+{
+ "calendario-lunar": {
+  "nombre": "Calendario lunar",
+  "resumen": "Alineación de fosos de Warren Field (Escocia)."
+ },
+ "calendario-solar": {
+  "nombre": "Calendario civil de 365 días",
+  "resumen": "Doce meses de treinta días más cinco añadidos; Egipto."
+ },
+ "reloj-sol": {
+  "nombre": "Reloj de sol",
+  "resumen": "Reloj de sombra egipcio."
+ },
+ "clepsidra": {
+  "nombre": "Clepsidra",
+  "resumen": "Reloj de agua de Karnak."
+ },
+ "calendario-juliano": {
+  "nombre": "Calendario juliano",
+  "resumen": "Año de 365 días con uno bisiesto cada cuatro."
+ },
+ "reloj-su-song": {
+  "nombre": "Torre de reloj astronómico",
+  "resumen": "Torre de Kaifeng con esfera armilar y escape hidromecánico."
+ },
+ "escape-mecanico": {
+  "nombre": "Reloj mecánico de escape",
+  "resumen": "Rueda catalina y foliot."
+ },
+ "reloj-muelle": {
+  "nombre": "Reloj de muelle",
+  "resumen": "Un resorte en espiral sustituye a las pesas: el reloj se vuelve portátil."
+ },
+ "calendario-gregoriano": {
+  "nombre": "Calendario gregoriano",
+  "resumen": "Corrige el desfase del juliano."
+ },
+ "reloj-pendulo": {
+  "nombre": "Reloj de péndulo",
+  "resumen": "Error de segundos al día."
+ },
+ "volante-espiral": {
+  "nombre": "Volante con espiral",
+  "resumen": "Oscilador para relojes portátiles."
+ },
+ "reloj-cuarzo": {
+  "nombre": "Reloj de cuarzo",
+  "resumen": "Oscilador piezoeléctrico."
+ },
+ "reloj-atomico": {
+  "nombre": "Reloj atómico de cesio",
+  "resumen": "Transición hiperfina del cesio; define el segundo desde 1967."
+ },
+ "balanza": {
+  "nombre": "Balanza de brazos iguales",
+  "resumen": "Cruz suspendida con dos platillos y juegos de pesas patrón."
+ },
+ "nonio": {
+  "nombre": "Nonio",
+  "resumen": "Escala auxiliar que subdivide la principal."
+ },
+ "micrometro": {
+  "nombre": "Micrómetro de tornillo",
+  "resumen": "Tornillo fino para medir ángulos en el telescopio."
+ },
+ "sismoscopio": {
+  "nombre": "Sismoscopio",
+  "resumen": "Indica la dirección de un terremoto lejano."
+ },
+ "sistema-metrico": {
+  "nombre": "Sistema métrico decimal",
+  "resumen": "Metro y kilogramo de platino."
+ },
+ "platino-forjado": {
+  "nombre": "Platino forjado con arsénico",
+  "resumen": "Método de Chabaneau y Janety."
+ },
+ "camara-niebla": {
+  "nombre": "Cámara de niebla",
+  "resumen": "Hace visibles las trayectorias de partículas."
+ },
+ "contador-geiger": {
+  "nombre": "Contador Geiger",
+  "resumen": "Cuenta partículas ionizantes."
+ },
+ "rayos-alfa-beta": {
+  "nombre": "Radiaciones alfa y beta",
+  "resumen": "Dos tipos de radiación con distinta penetración."
+ },
+ "espectrometro-masas": {
+  "nombre": "Espectrógrafo de masas",
+  "resumen": "Campos eléctrico y magnético separan iones por su masa: se descubren los isótopos."
+ },
+ "microscopio-electronico": {
+  "nombre": "Microscopio electrónico",
+  "resumen": "Lentes magnéticas y haz de electrones."
+ },
+ "microscopio-efecto-tunel": {
+  "nombre": "Microscopio de efecto túnel",
+  "resumen": "Imagen de átomos individuales."
+ }
+}

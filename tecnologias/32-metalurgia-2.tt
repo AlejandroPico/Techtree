@@ -1,0 +1,119 @@
+@ metalurgia | Minería y metalurgia | #c77b4a
+@@ mineria | Minería
+lavado-batea | ~-4000 | T | Lavado de arenas con batea | ceramica-vasijas | El oro y la casiterita, más densos, quedan en el fondo. |
+mineria-turquesa | ~-3000 | S | Minas de turquesa del Sinaí | herramientas-cobre | Expediciones egipcias a Wadi Maghara. |
+mazas-mineras | ~-4500 | H | Mazas de piedra con surco | percusion-dura, cuerda | Martillos enmangados para triturar mena. |
+entibacion | ~-2000 | T | Entibación de galerías | sierra-metal, mineria-cobre | Marcos de madera que sostienen el techo. |
+mineria-sal-gema | ~-1500 | S | Minería de sal gema | entibacion, bronce | Hallstatt y Dürrnberg. |
+lampara-minera | ~-1000 | H | Lámpara minera de aceite | lampara-aceite | Candiles en nichos de las galerías. |
+ruina-montium | ~70 | T | Minería hidráulica romana | acueducto, mineria-hierro-herramientas | Las Médulas: el agua derrumba la montaña. |
+tornillo-desague | ~-100 | H | Desagüe con tornillos y norias | tornillo-arquimedes, rueda-hidraulica | Cadenas de norias en Riotinto. |
+malacate | ~1250 | H | Malacate de caballerías | cabrestante, collera | Torno vertical movido por animales. |
+bomba-cadena | ~1450 | H | Bomba de rosario | malacate | Bolas en cadena dentro de un tubo. |
+de-re-metallica | 1556 | C | De re metallica | imprenta, mineria-plata-sajona | Tratado ilustrado de minería y metalurgia. | Georgius Agricola
+arte-metales | 1640 | C | Arte de los metales | proceso-patio | Tratado de la metalurgia de la plata en Potosí. | Álvaro Alonso Barba
+ventilacion-forzada | ~1550 | T | Ventilación forzada | fuelle, molino-agua | Fuelles y ventiladores que mueven aire por conductos. |
+academia-minas | 1765 | S | Academia de minas | de-re-metallica | Freiberg; Almadén en 1777. |
+cable-acero-minero | 1834 | H | Cable de alambre de acero | trefilado-hidraulico, acero-crisol | Sustituye a las cadenas en los pozos. | Wilhelm Albert
+perforadora-neumatica | 1871 | H | Perforadora neumática | motor-neumatico | Barrenos mucho más rápidos. | Simon Ingersoll
+detonador | 1865 | I | Detonador de fulminato | fulminante, nitroglicerina | Cápsula que inicia el explosivo con seguridad. | Alfred Nobel
+mecha-seguridad | 1831 | I | Mecha de seguridad | polvora, cuerda | Pólvora dentro de un cordón que arde a ritmo fijo. | William Bickford
+mineria-cielo-abierto | 1906 | S | Gran minería a cielo abierto | pala-vapor, flotacion | Bingham Canyon: menas de cobre del 2 %. | Daniel Jackling
+pala-vapor | 1839 | H | Pala de vapor | vapor-alta-presion | Excavadora mecánica. | William Otis
+lixiviacion-pilas | 1969 | T | Lixiviación en pilas | cianuracion | Soluciones que percolan por montones de mena pobre. |
+extraccion-solventes | 1968 | T | Extracción por solventes y electroobtención | refinado-electrolitico | Cobre catódico directo de disoluciones. |
+@@ cobre | Cobre, bronce y aleaciones
+malaquita-pigmento | ~-7000 | M | Malaquita y azurita como pigmento | ocre | Minerales verdes y azules de cobre molidos. |
+tostacion | ~-3000 | T | Tostación de sulfuros | cobre-reduccion | Quemar el azufre de la calcopirita antes de reducirla. |
+mata-cobre | ~-2500 | T | Fusión a mata | tostacion, tobera | Sulfuro intermedio de cobre y hierro. |
+lingote-piel-buey | ~-1500 | M | Lingotes de piel de buey | molde, cobre-reduccion | Formato normalizado del comercio de cobre en el Mediterráneo. |
+bronce-plomado | ~-1200 | M | Bronce plomado | bronce, plomo | El plomo mejora la colabilidad. |
+molde-piezas-chino | ~-1500 | T | Fundición en moldes de piezas | molde, torno-alfarero | Bronces rituales Shang. |
+martillado-chapa | ~-2500 | T | Batido de chapa y repujado | recocido, cobre-reduccion | Vasos de una sola pieza. |
+remache | ~-3000 | H | Remache | herramientas-cobre | Une chapas y fija empuñaduras. |
+soldadura-blanda | ~-3000 | T | Soldadura con aleaciones de estaño y plomo | plomo, mineria-estano | Une piezas a baja temperatura. |
+soldadura-fuerte | ~-3000 | T | Soldadura fuerte | oro, tobera | Aleaciones de oro y cobre que unen orfebrería. |
+bronce-campana | ~1000 | M | Bronce de campanas | bronce | Un 20 % de estaño: sonoro y frágil. |
+bronce-canon | ~1450 | M | Bronce de cañones | bronce-campana | Un 10 % de estaño: tenaz. |
+laton-zinc-metalico | 1781 | M | Latón por aleación directa | zinc, laton | Zinc metálico fundido con cobre. | James Emerson
+metal-muntz | 1832 | M | Metal Muntz | laton-zinc-metalico | Latón 60/40 laminable en caliente. | George Muntz
+alpaca | ~1770 | M | Alpaca | elemento-niquel, laton | Cobre, níquel y zinc: el paktong chino imitado en Europa. |
+bronce-fosforoso | 1871 | M | Bronce fosforoso | bronce, fosforo | Muelles y cojinetes. |
+bronce-aluminio | 1856 | M | Bronce de aluminio | aluminio-deville | Dorado y resistente a la corrosión. |
+cuproniquel | 1860 | M | Cuproníquel | elemento-niquel | Monedas y tubos de condensador. |
+cobre-blister | ~1725 | M | Cobre blíster | proceso-gales | Cobre del 98 % con ampollas de gas. |
+afino-fuego | ~1750 | T | Afino al fuego con pértiga | cobre-blister | Troncos verdes que reducen el óxido disuelto. |
+anodos-cobre | 1869 | T | Colada de ánodos | afino-fuego, refinado-electrolitico | Placas que se disolverán en la celda. |
+lodos-anodicos | 1880 | T | Recuperación de lodos anódicos | anodos-cobre | Oro, plata y selenio caen al fondo de la celda. |
+horno-flash | 1949 | T | Fusión instantánea | convertidor-cobre, licuefaccion-aire | Outokumpu: el concentrado arde en suspensión. |
+colada-continua-cobre | 1963 | T | Colada continua de alambrón | alambron | Southwire: rueda de colada y laminación en línea. |
+cobre-libre-oxigeno | 1932 | M | Cobre libre de oxígeno | refinado-electrolitico | Máxima conductividad para electrónica. |
+cobre-berilio | 1926 | M | Cobre-berilio | elemento-berilio | Aleación de muelles que no produce chispa. |
+@@ hierro | Hierro y acero
+hematites-pigmento | ~-300000 | M | Óxidos de hierro como pigmento | percusion-dura | Uso de ocre rojo por humanos arcaicos. |
+horno-sangrado | ~-700 | H | Horno bajo con sangrado de escoria | reduccion-hierro | La escoria se evacua líquida. |
+forja-catalana | ~1100 | H | Farga catalana | reduccion-hierro, molino-agua | Horno bajo con trompa de agua en los Pirineos. |
+trompa-agua | ~1600 | H | Trompa de agua | molino-agua | El agua que cae arrastra aire: viento continuo sin fuelles. |
+hierro-forjado-pilares | ~400 | M | Grandes piezas de hierro soldado | forja | Pilar de Delhi, de seis toneladas. |
+acero-chino-cofusion | ~500 | M | Acero por cofusión | hierro-colado, acero-cementado | Arrabio y hierro dulce fundidos juntos. |
+arrabio-afino | ~-100 | T | Afino del arrabio | hierro-colado | Descarburación removiendo el baño: «cien refinados». |
+osmund | ~1250 | T | Afino en forja baja | alto-horno | Convierte arrabio en hierro maleable. |
+forja-valona | ~1500 | T | Método valón | osmund, martinete | Dos hogares: afino y calda. |
+horno-stuckofen | ~1300 | H | Stückofen | reduccion-hierro, molino-agua | Horno alto de masa: antecesor del alto horno. |
+fundicion-canones-hierro | 1543 | T | Cañones de hierro colado | alto-horno, canon-bronce | Weald de Sussex. |
+acero-cementacion-horno | ~1610 | T | Horno de cementación | acero-cementado | Barras de hierro en cajas de carbón durante días: acero ampolla. |
+hojalata-laminada | 1728 | T | Hojalata laminada | hojalata, laminador | Pontypool. | John Hanbury
+cubilote | 1794 | H | Cubilote | coque | Horno de refundición de fundiciones. | John Wilkinson
+viento-caliente | 1828 | T | Viento caliente | alto-horno, coque | Precalentar el aire reduce el combustible a un tercio. | James Neilson
+estufas-cowper | 1857 | H | Estufas Cowper | viento-caliente | Regeneradores de ladrillo para el viento. | Edward Cowper
+laminador-reversible | 1866 | H | Tren reversible | laminador, movimiento-rotativo | Lamina grandes perfiles. | John Ramsbottom
+laminador-universal | 1848 | H | Laminador universal | laminador | Cilindros horizontales y verticales. |
+ferromanganeso | 1856 | M | Spiegeleisen | convertidor-bessemer, elemento-manganeso | Desoxida el acero Bessemer. | Robert Mushet
+acero-mushet | 1868 | M | Acero autotemplante | acero-crisol, elemento-wolframio | Primer acero de herramientas aleado. | Robert Mushet
+acero-niquel | 1889 | M | Acero al níquel | siemens-martin, elemento-niquel | Blindajes. |
+acero-cromo-niquel | 1912 | M | Acero inoxidable austenítico | acero-niquel, elemento-cromo | 18/8 de Krupp. | Benno Strauss, Eduard Maurer
+grano-orientado | 1934 | M | Chapa de grano orientado | acero-silicio | Laminación que alinea los cristales. | Norman Goss
+templabilidad | 1938 | C | Ensayo de templabilidad | diagrama-hierro-carbono | Ensayo Jominy. |
+martensita | 1890 | D | Martensita | metalografia | Estructura del acero templado. | Adolf Martens
+ensayo-traccion | 1856 | T | Ensayos mecánicos normalizados | rail-laminado | Resistencia y alargamiento medidos. | David Kirkaldy
+dureza-brinell | 1900 | T | Ensayo de dureza | ensayo-traccion | Bola de acero presionada. | Johan Brinell
+fatiga-metales | 1860 | D | Fatiga de los metales | ensayo-traccion | Los ejes se rompen por cargas repetidas. | August Wöhler
+galvanizado | 1837 | T | Galvanizado en caliente | zinc | Hierro sumergido en zinc fundido. | Stanislas Sorel
+proteccion-catodica | 1824 | T | Protección catódica | pila-volta | Ánodos de sacrificio. | Humphry Davy
+niquelado | 1869 | T | Niquelado | galvanoplastia, elemento-niquel | Baño de sulfato de níquel. |
+cromado | 1924 | T | Cromado | galvanoplastia, elemento-cromo | Baño de ácido crómico. |
+colada-continua | 1952 | T | Colada continua del acero | siemens-martin | Molde oscilante. | Siegfried Junghans
+desgasificado-vacio | 1954 | T | Desgasificado al vacío | bomba-vacio, horno-arco | Elimina hidrógeno. |
+horno-induccion | 1900 | H | Horno de inducción | induccion | Funde sin electrodos. | Fredrik Kjellin
+reduccion-directa | 1957 | T | Reducción directa | gas-agua | Hierro esponja con gas natural: proceso HYL. |
+acero-microaleado | 1960 | M | Aceros microaleados | elemento-niobio, elemento-vanadio | Niobio y vanadio en centésimas. |
+pulvimetalurgia | 1920 | T | Pulvimetalurgia industrial | pulvimetalurgia-tungsteno | Piezas prensadas y sinterizadas. |
+acero-hidrogeno | 2021 | T | Acero con hidrógeno | reduccion-directa | HYBRIT: primera entrega sin carbón. |
+@@ nobles | Oro, plata y plomo
+electro | ~-3000 | M | Electro | oro | Aleación natural de oro y plata. |
+granulado | ~-2500 | T | Granulado y filigrana | soldadura-fuerte | Esferas diminutas soldadas. |
+pan-de-oro | ~-2500 | T | Pan de oro | oro, recocido | Batido hasta micras de espesor. |
+piedra-toque | ~-600 | H | Piedra de toque | oro | La raya revela la ley. |
+separacion-oro-plata | ~-550 | T | Separación de oro y plata por cementación | electro, extraccion-sal | Refinerías de Sardes. |
+plomo-tuberias | ~-200 | M | Tuberías de plomo | plomo, soldadura-blanda | Fístulas romanas. |
+acunacion-martillo | ~-600 | T | Acuñación a martillo | moneda, temple | Cuños de bronce y hierro. |
+prensa-volante | ~1550 | H | Prensa de volante para acuñar | tornillo-metalico | Monedas regulares. |
+apartado-acido | ~1450 | T | Apartado con ácido nítrico | acido-nitrico, oro | El ácido disuelve la plata y deja el oro. |
+proceso-pattinson | 1833 | T | Desplatado del plomo | plomo | Cristalización fraccionada. | Hugh Pattinson
+proceso-parkes | 1850 | T | Proceso Parkes | zinc, proceso-pattinson | El zinc arrastra la plata. | Alexander Parkes
+proceso-miller | 1867 | T | Refinado del oro con cloro | cloro, oro | Burbujear cloro por el oro fundido. | Francis Miller
+proceso-wohlwill | 1874 | T | Refinado electrolítico del oro | galvanoplastia | Oro de cuatro nueves. | Emil Wohlwill
+@@ ligeros | Aluminio y metales modernos
+magnesio-electrolitico | 1886 | T | Magnesio electrolítico | elemento-magnesio, dinamo-autoexcitada | Producción industrial. |
+aluminotermia | 1893 | T | Aluminotermia | hall-heroult | El aluminio reduce óxidos; suelda raíles. | Hans Goldschmidt
+proceso-mond | 1890 | T | Proceso Mond del níquel | elemento-niquel | Carbonilo volátil. | Ludwig Mond
+aleacion-7075 | 1943 | M | Aluminio-zinc de alta resistencia | duraluminio | Zero japonés y, después, 7075. |
+titanio-industrial | 1948 | M | Titanio industrial | kroll | Esponja de titanio a escala. |
+circonio-nuclear | 1949 | M | Circonio para reactores | kroll, elemento-hafnio | Zircaloy. |
+uranio-metalico | 1942 | M | Uranio metálico puro | elemento-uranio | Proceso Ames. | Frank Spedding
+tierras-raras-separacion | 1947 | T | Separación industrial de tierras raras | cromatografia-ionica | Intercambio iónico a gran escala. |
+litio-industrial | 1923 | M | Litio metálico industrial | elemento-litio | Electrólisis de cloruro fundido. |
+aluminio-litio | 1957 | M | Aleaciones aluminio-litio | litio-industrial, duraluminio | Más ligeras y rígidas. |
+espuma-metalica | 1948 | M | Espumas metálicas | hall-heroult | Aluminio celular. |
+alta-entropia | 2004 | M | Aleaciones de alta entropía | dislocaciones | Cinco o más elementos en partes iguales. | Jien-Wei Yeh, Brian Cantor
+fabricacion-aditiva-metal | 1995 | T | Fusión selectiva por láser | laser, pulvimetalurgia | Piezas metálicas impresas capa a capa. |

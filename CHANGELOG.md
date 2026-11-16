@@ -1,5 +1,14 @@
 # Historial
 
+## 0.3.0 · 16 de noviembre de 2026
+
+- De 2.351 a 3.779 avances y de 3.593 a 5.441 requisitos; 116 subámbitos.
+- Densificación: materiales naturales y prehistóricos, carpintería, cales y hormigones, cerámica y vidrio; óptica y acústica; componentes eléctricos y medida; energía nuclear y fusión; semiconductores y chips célebres; metalurgia paso a paso; mecanismos antiguos y medievales; relojería e instrumentos; química de laboratorio, orgánica e industrial; anatomía, diagnóstico, salud pública y especialidades médicas; telecomunicación, radio y televisión; software; transporte terrestre, naval, aéreo y espacial; combustibles, vapor y renovables; alimentación, ganadería, textil y arquitectura.
+- La carpeta `data/` pasa a llamarse `tecnologias/`.
+- Nueva carpeta `i18n/` con todo lo traducible por idioma: interfaz, periodos, ámbitos y tecnologías (en español; listo para copiar y traducir).
+- Carga progresiva (F4, primera parte): índice sin textos, nombres y resúmenes por ámbito bajo demanda; interruptor en «Capas».
+- Ficha flotante sin barra de desplazamiento visible y con texto seleccionable.
+
 ## 0.2.0 · 15 de noviembre de 2026
 
 - La base de datos pasa de 890 a 2.351 avances y de 1.466 a 3.593 requisitos; de 16 a 22 ámbitos y de 74 a 102 subámbitos.

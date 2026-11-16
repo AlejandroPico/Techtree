@@ -1,0 +1,466 @@
+{
+ "microprogramacion": {
+  "nombre": "Microprogramación",
+  "resumen": "La unidad de control se construye como un pequeño programa almacenado."
+ },
+ "ibm-system-360": {
+  "nombre": "IBM System/360",
+  "resumen": "Familia de máquinas compatibles con una misma arquitectura y el byte de 8 bits."
+ },
+ "cdc-6600": {
+  "nombre": "CDC 6600",
+  "resumen": "Primer superordenador: diez veces más rápido que sus rivales."
+ },
+ "ley-moore": {
+  "nombre": "Ley de Moore",
+  "resumen": "El número de componentes por chip se duplica a ritmo regular."
+ },
+ "memoria-cache": {
+  "nombre": "Memoria caché",
+  "resumen": "Una memoria pequeña y rápida guarda lo más usado; IBM System/360 modelo 85."
+ },
+ "intel-8008": {
+  "nombre": "Intel 8008",
+  "resumen": "Primer microprocesador de 8 bits."
+ },
+ "intel-8080": {
+  "nombre": "Intel 8080",
+  "resumen": "CPU de 8 bits del Altair 8800."
+ },
+ "escalado-dennard": {
+  "nombre": "Escalado de Dennard",
+  "resumen": "Al reducir el transistor, baja la tensión y la densidad de potencia se mantiene."
+ },
+ "motorola-6800": {
+  "nombre": "Motorola 6800",
+  "resumen": "CPU de 8 bits con una sola tensión de alimentación."
+ },
+ "mos-6502": {
+  "nombre": "MOS 6502",
+  "resumen": "CPU de 25 dólares del Apple II, el Commodore 64 y la NES."
+ },
+ "zilog-z80": {
+  "nombre": "Zilog Z80",
+  "resumen": "Compatible con el 8080 y más integrado; base de CP/M y del Spectrum."
+ },
+ "cray-1": {
+  "nombre": "Cray-1",
+  "resumen": "Superordenador vectorial refrigerado por freón."
+ },
+ "intel-8086": {
+  "nombre": "Intel 8086",
+  "resumen": "CPU de 16 bits que inaugura la arquitectura x86."
+ },
+ "motorola-68000": {
+  "nombre": "Motorola 68000",
+  "resumen": "CPU de 16/32 bits del Macintosh, el Amiga y el Atari ST."
+ },
+ "intel-8088": {
+  "nombre": "Intel 8088",
+  "resumen": "8086 con bus de 8 bits: el procesador del IBM PC."
+ },
+ "ibm-pc": {
+  "nombre": "IBM PC",
+  "resumen": "Arquitectura abierta que se convierte en estándar de la industria."
+ },
+ "intel-8087": {
+  "nombre": "Coprocesador matemático 8087",
+  "resumen": "Coma flotante por hardware; base de la norma IEEE 754."
+ },
+ "vlsi-mead-conway": {
+  "nombre": "Diseño VLSI de Mead y Conway",
+  "resumen": "Reglas de diseño simples que separan el diseño del chip de su fabricación."
+ },
+ "arquitectura-risc": {
+  "nombre": "Arquitectura RISC",
+  "resumen": "Pocas instrucciones simples y rápidas: IBM 801, Berkeley RISC y Stanford MIPS."
+ },
+ "intel-80286": {
+  "nombre": "Intel 80286",
+  "resumen": "Modo protegido y 16 MB de memoria."
+ },
+ "dsp": {
+  "nombre": "Procesador digital de señal",
+  "resumen": "TMS32010: multiplicador rápido para audio y telecomunicación."
+ },
+ "ieee-754": {
+  "nombre": "Norma IEEE 754 de coma flotante",
+  "resumen": "Mismo resultado aritmético en cualquier máquina."
+ },
+ "fpga": {
+  "nombre": "FPGA",
+  "resumen": "Xilinx XC2064: lógica reconfigurable por el usuario."
+ },
+ "intel-80386": {
+  "nombre": "Intel 80386",
+  "resumen": "x86 de 32 bits con memoria virtual paginada."
+ },
+ "arm1": {
+  "nombre": "ARM1",
+  "resumen": "Procesador RISC de Acorn, de bajísimo consumo."
+ },
+ "mips-r2000": {
+  "nombre": "MIPS R2000",
+  "resumen": "Primer RISC comercial de MIPS."
+ },
+ "sparc": {
+  "nombre": "SPARC",
+  "resumen": "RISC de Sun con ventanas de registros."
+ },
+ "intel-80486": {
+  "nombre": "Intel 80486",
+  "resumen": "Caché y coma flotante integradas; más de un millón de transistores."
+ },
+ "dec-alpha": {
+  "nombre": "DEC Alpha",
+  "resumen": "Primer microprocesador de 64 bits de alto rendimiento."
+ },
+ "powerpc": {
+  "nombre": "PowerPC",
+  "resumen": "RISC de IBM, Apple y Motorola."
+ },
+ "pentium": {
+  "nombre": "Intel Pentium",
+  "resumen": "Superescalar: dos instrucciones por ciclo."
+ },
+ "pentium-pro": {
+  "nombre": "Pentium Pro",
+  "resumen": "Ejecución fuera de orden y microoperaciones (núcleo P6)."
+ },
+ "mmx": {
+  "nombre": "Instrucciones MMX",
+  "resumen": "Instrucciones vectoriales para multimedia; después SSE y AVX."
+ },
+ "interconexion-cobre": {
+  "nombre": "Interconexiones de cobre",
+  "resumen": "El cobre sustituye al aluminio en el cableado del chip."
+ },
+ "athlon": {
+  "nombre": "AMD Athlon",
+  "resumen": "Primer x86 en alcanzar 1 GHz, en marzo de 2000."
+ },
+ "pentium-4": {
+  "nombre": "Pentium 4",
+  "resumen": "Canalización muy larga para subir la frecuencia; topa con el calor."
+ },
+ "hyper-threading": {
+  "nombre": "Multihilo simultáneo",
+  "resumen": "Un núcleo ejecuta dos hilos a la vez."
+ },
+ "x86-64": {
+  "nombre": "x86-64",
+  "resumen": "AMD extiende x86 a 64 bits en el Opteron y el Athlon 64."
+ },
+ "silicio-tensado": {
+  "nombre": "Silicio tensado",
+  "resumen": "Deformar la red cristalina acelera los portadores; nodo de 90 nm."
+ },
+ "doble-nucleo": {
+  "nombre": "Procesadores multinúcleo",
+  "resumen": "Agotado el aumento de frecuencia, se añaden núcleos."
+ },
+ "cortex-a8": {
+  "nombre": "ARM Cortex-A8",
+  "resumen": "Núcleo superescalar para teléfonos inteligentes."
+ },
+ "core-2": {
+  "nombre": "Intel Core 2",
+  "resumen": "Vuelta a un diseño eficiente tras el Pentium 4."
+ },
+ "puerta-metalica-alto-k": {
+  "nombre": "Dieléctrico de alto k y puerta metálica",
+  "resumen": "Óxido de hafnio en lugar de SiO2; nodo de 45 nm."
+ },
+ "nehalem": {
+  "nombre": "Intel Core i7 (Nehalem)",
+  "resumen": "Controlador de memoria integrado y turbo."
+ },
+ "risc-v": {
+  "nombre": "RISC-V",
+  "resumen": "Juego de instrucciones abierto y libre de licencias."
+ },
+ "apple-a4": {
+  "nombre": "Sistema en chip para móviles",
+  "resumen": "CPU, gráficos y memoria en un solo encapsulado."
+ },
+ "finfet-produccion": {
+  "nombre": "FinFET en producción",
+  "resumen": "Transistores tridimensionales en el nodo de 22 nm."
+ },
+ "armv8": {
+  "nombre": "ARM de 64 bits",
+  "resumen": "Arquitectura ARMv8; el A7 de Apple la estrena en un teléfono en 2013."
+ },
+ "ryzen": {
+  "nombre": "AMD Ryzen (Zen)",
+  "resumen": "Devuelve la competencia en x86 con muchos núcleos."
+ },
+ "apple-m1": {
+  "nombre": "Apple M1",
+  "resumen": "ARM de sobremesa a 5 nm con memoria unificada."
+ },
+ "transistor-gaa": {
+  "nombre": "Transistor de puerta envolvente",
+  "resumen": "Nanoláminas rodeadas por la puerta; nodo de 3 nm."
+ },
+ "epitaxia": {
+  "nombre": "Epitaxia en fase vapor",
+  "resumen": "Capas cristalinas crecidas sobre la oblea."
+ },
+ "implantacion-ionica": {
+  "nombre": "Implantación iónica",
+  "resumen": "Dopado disparando iones acelerados contra la oblea."
+ },
+ "spice": {
+  "nombre": "Simulador de circuitos SPICE",
+  "resumen": "Simula el circuito antes de fabricarlo."
+ },
+ "stepper": {
+  "nombre": "Fotorrepetidora (stepper)",
+  "resumen": "Proyecta y repite el patrón campo a campo sobre la oblea."
+ },
+ "laser-excimero-litografia": {
+  "nombre": "Litografía con láser de excímero",
+  "resumen": "Ultravioleta profundo de 248 y 193 nm."
+ },
+ "verilog": {
+  "nombre": "Lenguajes de descripción de hardware",
+  "resumen": "Verilog y VHDL: el chip se escribe como código."
+ },
+ "planarizacion-cmp": {
+  "nombre": "Pulido químico-mecánico",
+  "resumen": "Aplana cada capa para poder apilar muchas."
+ },
+ "litografia-inmersion": {
+  "nombre": "Litografía de inmersión",
+  "resumen": "Agua entre lente y oblea: más resolución con 193 nm."
+ },
+ "tambor-magnetico": {
+  "nombre": "Tambor magnético",
+  "resumen": "Cilindro giratorio recubierto de material magnético."
+ },
+ "linea-retardo": {
+  "nombre": "Línea de retardo de mercurio",
+  "resumen": "Los bits circulan como pulsos sonoros en un tubo de mercurio."
+ },
+ "tubo-williams": {
+  "nombre": "Tubo de Williams",
+  "resumen": "Bits como puntos de carga en una pantalla: primera memoria de acceso aleatorio."
+ },
+ "codigo-hamming": {
+  "nombre": "Códigos correctores de errores",
+  "resumen": "Bits redundantes que detectan y corrigen fallos."
+ },
+ "cinta-datos": {
+  "nombre": "Cinta magnética de datos",
+  "resumen": "UNISERVO del UNIVAC I."
+ },
+ "prom": {
+  "nombre": "Memoria PROM",
+  "resumen": "Se programa una sola vez fundiendo fusibles."
+ },
+ "memoria-virtual": {
+  "nombre": "Memoria virtual",
+  "resumen": "El computador Atlas pagina entre memoria principal y tambor."
+ },
+ "memoria-estatica": {
+  "nombre": "Memoria SRAM integrada",
+  "resumen": "Intel 3101: 64 bits."
+ },
+ "intel-1103": {
+  "nombre": "Intel 1103",
+  "resumen": "DRAM de 1 kilobit que desplaza a los núcleos magnéticos."
+ },
+ "disquete": {
+  "nombre": "Disquete de 8 pulgadas",
+  "resumen": "Disco flexible extraíble de IBM."
+ },
+ "eprom": {
+  "nombre": "Memoria EPROM",
+  "resumen": "Puerta flotante; se borra con luz ultravioleta."
+ },
+ "disco-winchester": {
+  "nombre": "Disco Winchester",
+  "resumen": "Cabezales y platos sellados (IBM 3340)."
+ },
+ "disquete-5": {
+  "nombre": "Disquete de 5¼ pulgadas",
+  "resumen": "Formato de los primeros ordenadores personales."
+ },
+ "eeprom": {
+  "nombre": "Memoria EEPROM",
+  "resumen": "Borrable eléctricamente."
+ },
+ "disco-5-pulgadas": {
+  "nombre": "Disco duro de 5¼ pulgadas",
+  "resumen": "Seagate ST-506 de 5 MB para microordenadores."
+ },
+ "disquete-3": {
+  "nombre": "Disquete de 3½ pulgadas",
+  "resumen": "Carcasa rígida de Sony."
+ },
+ "simm": {
+  "nombre": "Módulo de memoria SIMM",
+  "resumen": "Chips de memoria sobre una plaquita enchufable."
+ },
+ "cd-rom": {
+  "nombre": "CD-ROM",
+  "resumen": "650 MB de datos en un disco óptico."
+ },
+ "memoria-nand": {
+  "nombre": "Flash NAND",
+  "resumen": "Celdas en serie: máxima densidad para almacenamiento."
+ },
+ "raid": {
+  "nombre": "RAID",
+  "resumen": "Varios discos baratos funcionando como uno fiable."
+ },
+ "magnetorresistencia-gigante": {
+  "nombre": "Magnetorresistencia gigante",
+  "resumen": "Capas magnéticas nanométricas cuya resistencia cambia con el campo: cabezales mucho más sensibles."
+ },
+ "ssd": {
+  "nombre": "Unidad de estado sólido",
+  "resumen": "Módulo flash de 20 MB de SanDisk con interfaz de disco."
+ },
+ "sdram": {
+  "nombre": "SDRAM",
+  "resumen": "Memoria síncrona con el reloj del sistema."
+ },
+ "compactflash": {
+  "nombre": "Tarjetas de memoria flash",
+  "resumen": "CompactFlash; después SD (1999) y microSD."
+ },
+ "dvd": {
+  "nombre": "DVD",
+  "resumen": "4,7 GB con láser rojo de 650 nm."
+ },
+ "memoria-usb": {
+  "nombre": "Memoria USB",
+  "resumen": "Lápiz de memoria flash."
+ },
+ "ddr-sdram": {
+  "nombre": "DDR SDRAM",
+  "resumen": "Transfiere en ambos flancos del reloj."
+ },
+ "ddr2": {
+  "nombre": "DDR2",
+  "resumen": "1,8 V y hasta 800 MHz."
+ },
+ "grabacion-perpendicular": {
+  "nombre": "Grabación magnética perpendicular",
+  "resumen": "Bits de pie en lugar de tumbados."
+ },
+ "blu-ray": {
+  "nombre": "Blu-ray",
+  "resumen": "25 GB por capa con láser violeta de 405 nm."
+ },
+ "ddr3": {
+  "nombre": "DDR3",
+  "resumen": "Tensión de 1,5 V y el doble de velocidad que DDR2."
+ },
+ "nvme": {
+  "nombre": "NVMe",
+  "resumen": "Protocolo pensado para flash, sin la herencia del disco."
+ },
+ "nand-3d": {
+  "nombre": "NAND 3D",
+  "resumen": "Celdas apiladas en decenas de capas verticales."
+ },
+ "hbm": {
+  "nombre": "Memoria de gran ancho de banda (HBM)",
+  "resumen": "Chips DRAM apilados y unidos por vías a través del silicio."
+ },
+ "ddr4": {
+  "nombre": "DDR4",
+  "resumen": "1,2 V y módulos de mayor capacidad."
+ },
+ "ddr5": {
+  "nombre": "DDR5",
+  "resumen": "Regulación de tensión en el propio módulo."
+ },
+ "sketchpad": {
+  "nombre": "Sketchpad",
+  "resumen": "Dibujo interactivo con lápiz óptico: nace la infografía."
+ },
+ "transformada-rapida-fourier": {
+  "nombre": "Transformada rápida de Fourier",
+  "resumen": "Algoritmo que hace práctico el análisis espectral digital."
+ },
+ "framebuffer": {
+  "nombre": "Memoria de imagen (framebuffer)",
+  "resumen": "Cada píxel de la pantalla, un valor en memoria; SuperPaint."
+ },
+ "z-buffer": {
+  "nombre": "Z-buffer y mapeado de texturas",
+  "resumen": "Profundidad por píxel e imágenes pegadas sobre superficies."
+ },
+ "transformada-coseno": {
+  "nombre": "Transformada discreta del coseno",
+  "resumen": "Base de JPEG, MPEG y casi todo el vídeo digital."
+ },
+ "sombreado-phong": {
+  "nombre": "Sombreado de Phong",
+  "resumen": "Brillos especulares interpolando normales."
+ },
+ "trazado-rayos": {
+  "nombre": "Trazado de rayos recursivo",
+  "resumen": "Reflejos, refracciones y sombras siguiendo rayos de luz."
+ },
+ "motor-geometria": {
+  "nombre": "Geometry Engine",
+  "resumen": "Chip que transforma vértices; origen de Silicon Graphics."
+ },
+ "vga": {
+  "nombre": "VGA",
+  "resumen": "640 × 480 píxeles y 256 colores."
+ },
+ "jpeg": {
+  "nombre": "JPEG",
+  "resumen": "Compresión de fotografías con pérdida."
+ },
+ "opengl": {
+  "nombre": "OpenGL",
+  "resumen": "Interfaz de programación gráfica multiplataforma."
+ },
+ "mpeg": {
+  "nombre": "MPEG-1 y MP3",
+  "resumen": "Vídeo y audio comprimidos."
+ },
+ "directx": {
+  "nombre": "DirectX",
+  "resumen": "Acceso directo al hardware gráfico en Windows."
+ },
+ "voodoo": {
+  "nombre": "3dfx Voodoo",
+  "resumen": "Aceleradora 3D de consumo."
+ },
+ "sombreadores": {
+  "nombre": "Sombreadores programables",
+  "resumen": "GeForce 3: el programador escribe el cálculo de cada vértice y píxel."
+ },
+ "h264": {
+  "nombre": "H.264",
+  "resumen": "Códec de vídeo de la alta definición y el streaming."
+ },
+ "cuda": {
+  "nombre": "CUDA",
+  "resumen": "Programar la GPU para cálculo general."
+ },
+ "opencl": {
+  "nombre": "OpenCL",
+  "resumen": "Cálculo heterogéneo abierto."
+ },
+ "tpu": {
+  "nombre": "Tensor Processing Unit",
+  "resumen": "Chip de Google específico para redes neuronales."
+ },
+ "nucleos-tensor": {
+  "nombre": "Núcleos tensoriales",
+  "resumen": "GPU Volta: multiplicación de matrices en precisión mixta."
+ },
+ "trazado-rayos-tiempo-real": {
+  "nombre": "Trazado de rayos en tiempo real",
+  "resumen": "GeForce RTX: rayos acelerados por hardware y reducción de ruido por IA."
+ }
+}

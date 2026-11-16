@@ -1,0 +1,446 @@
+{
+ "senales-humo": {
+  "nombre": "Señales de humo y fuego",
+  "resumen": "Torres de almenara en la Gran Muralla."
+ },
+ "heliografo": {
+  "nombre": "Heliógrafo",
+  "resumen": "Destellos de sol codificados."
+ },
+ "telegrafo-agujas": {
+  "nombre": "Telégrafo de Gauss y Weber",
+  "resumen": "Un kilómetro de línea en Gotinga."
+ },
+ "poste-telegrafico": {
+  "nombre": "Tendido aéreo sobre postes",
+  "resumen": "Hilo desnudo de hierro."
+ },
+ "repetidor-telegrafico": {
+  "nombre": "Repetidor telegráfico",
+  "resumen": "Regenera la señal."
+ },
+ "pantelegrafo": {
+  "nombre": "Pantelégrafo",
+  "resumen": "Primer servicio de fax, París-Lyon."
+ },
+ "codigo-baudot": {
+  "nombre": "Código Baudot",
+  "resumen": "Cinco bits por carácter."
+ },
+ "teoria-linea-transmision": {
+  "nombre": "Teoría de la línea de transmisión",
+  "resumen": "Ecuación del telegrafista."
+ },
+ "teletrofono": {
+  "nombre": "Teletrófono",
+  "resumen": "Aparato de Meucci, reconocido tardíamente."
+ },
+ "auricular-electromagnetico": {
+  "nombre": "Receptor telefónico de diafragma",
+  "resumen": "Imán, bobina y lámina."
+ },
+ "cuadro-conmutacion": {
+  "nombre": "Cuadro de clavijas múltiple",
+  "resumen": "Miles de abonados."
+ },
+ "telefono-disco": {
+  "nombre": "Disco de marcar",
+  "resumen": "Impulsos por rotación."
+ },
+ "linea-larga-distancia": {
+  "nombre": "Telefonía de larga distancia",
+  "resumen": "Nueva York-Chicago."
+ },
+ "repetidor-valvulas": {
+  "nombre": "Línea transcontinental con repetidores",
+  "resumen": "Nueva York-San Francisco."
+ },
+ "multiplex-frecuencia": {
+  "nombre": "Multiplexación por frecuencia",
+  "resumen": "Varias llamadas por un par."
+ },
+ "filtro-electrico": {
+  "nombre": "Filtro de ondas",
+  "resumen": "Selecciona bandas."
+ },
+ "criterio-nyquist": {
+  "nombre": "Criterio de estabilidad",
+  "resumen": "Cuándo oscila un amplificador."
+ },
+ "telex": {
+  "nombre": "Red télex",
+  "resumen": "Teletipos conmutados."
+ },
+ "radioenlace-microondas": {
+  "nombre": "Radioenlace de microondas",
+  "resumen": "Torres repetidoras."
+ },
+ "cable-telefonico-transatlantico": {
+  "nombre": "Cable telefónico transatlántico",
+  "resumen": "TAT-1."
+ },
+ "conmutacion-electronica": {
+  "nombre": "Central de conmutación electrónica",
+  "resumen": "Central 1ESS: la conmutación telefónica gobernada por un programa almacenado."
+ },
+ "telefonia-digital": {
+  "nombre": "Portadora digital T1",
+  "resumen": "24 canales a 1,5 Mbit/s."
+ },
+ "buscapersonas": {
+  "nombre": "Buscapersonas",
+  "resumen": "Aviso por radio."
+ },
+ "telefono-coche": {
+  "nombre": "Telefonía móvil vehicular",
+  "resumen": "San Luis."
+ },
+ "concepto-celular": {
+  "nombre": "Concepto celular",
+  "resumen": "Reutilizar frecuencias en celdas."
+ },
+ "rdsi": {
+  "nombre": "RDSI",
+  "resumen": "Línea digital de abonado."
+ },
+ "cdma": {
+  "nombre": "CDMA",
+  "resumen": "Espectro ensanchado."
+ },
+ "ofdm": {
+  "nombre": "OFDM",
+  "resumen": "Muchas portadoras ortogonales."
+ },
+ "mimo": {
+  "nombre": "MIMO",
+  "resumen": "Varias antenas multiplican la capacidad."
+ },
+ "turbo-codigos": {
+  "nombre": "Turbocódigos",
+  "resumen": "Rozan el límite de Shannon."
+ },
+ "antena-dipolo": {
+  "nombre": "Antena dipolo",
+  "resumen": "Dos varillas resonantes."
+ },
+ "sintonia": {
+  "nombre": "Sintonía resonante",
+  "resumen": "Circuitos acordados."
+ },
+ "transmisor-chispa": {
+  "nombre": "Transmisor de chispa",
+  "resumen": "Ondas amortiguadas."
+ },
+ "detector-magnetico": {
+  "nombre": "Detector magnético",
+  "resumen": "«Maggie»."
+ },
+ "arco-poulsen": {
+  "nombre": "Transmisor de arco",
+  "resumen": "Onda continua."
+ },
+ "alternador-alexanderson": {
+  "nombre": "Alternador de alta frecuencia",
+  "resumen": "Voz por radio."
+ },
+ "sos": {
+  "nombre": "Señal de socorro SOS",
+  "resumen": "Convenio de Berlín."
+ },
+ "ionosfera": {
+  "nombre": "Ionosfera",
+  "resumen": "Capa que refleja las ondas."
+ },
+ "onda-corta": {
+  "nombre": "Onda corta intercontinental",
+  "resumen": "Aficionados cruzan el Atlántico."
+ },
+ "antena-yagi": {
+  "nombre": "Antena Yagi-Uda",
+  "resumen": "Directiva."
+ },
+ "tetrodo-pentodo": {
+  "nombre": "Tetrodo y pentodo",
+  "resumen": "Rejillas adicionales."
+ },
+ "disco-nipkow": {
+  "nombre": "Disco de Nipkow",
+  "resumen": "Exploración mecánica de imágenes."
+ },
+ "fotoconductividad-selenio": {
+  "nombre": "Fotoconductividad del selenio",
+  "resumen": "Su resistencia cae con la luz."
+ },
+ "iconoscopio": {
+  "nombre": "Iconoscopio",
+  "resumen": "Tubo de cámara con almacenamiento."
+ },
+ "bbc-television": {
+  "nombre": "Servicio regular de televisión",
+  "resumen": "BBC, 405 líneas."
+ },
+ "klistron": {
+  "nombre": "Klistrón",
+  "resumen": "Amplificador de microondas."
+ },
+ "guia-ondas": {
+  "nombre": "Guía de ondas",
+  "resumen": "Tubo metálico que conduce microondas."
+ },
+ "tubo-ondas-progresivas": {
+  "nombre": "Tubo de ondas progresivas",
+  "resumen": "Banda ancha para satélites."
+ },
+ "pal-secam": {
+  "nombre": "Televisión en color PAL y SECAM",
+  "resumen": "Sistemas europeos."
+ },
+ "television-cable": {
+  "nombre": "Televisión por cable",
+  "resumen": "Antena comunitaria."
+ },
+ "mando-distancia": {
+  "nombre": "Mando a distancia",
+  "resumen": "Ultrasonidos; después infrarrojo."
+ },
+ "magnetoscopio": {
+  "nombre": "Magnetoscopio",
+  "resumen": "Ampex VRX-1000."
+ },
+ "teletexto": {
+  "nombre": "Teletexto",
+  "resumen": "Ceefax."
+ },
+ "television-alta-definicion": {
+  "nombre": "Televisión de alta definición",
+  "resumen": "Hi-Vision japonés."
+ },
+ "pantalla-plana-television": {
+  "nombre": "Televisor de plasma",
+  "resumen": "42 pulgadas."
+ },
+ "television-led": {
+  "nombre": "Televisor LCD con retroiluminación LED",
+  "resumen": "Más fino y eficiente."
+ },
+ "radio-digital": {
+  "nombre": "Radio digital DAB",
+  "resumen": "Radio digital DAB emitida por la BBC con audio comprimido."
+ },
+ "radio-definida-software": {
+  "nombre": "Radio definida por software",
+  "resumen": "La radio como programa."
+ },
+ "subrutina": {
+  "nombre": "Subrutina",
+  "resumen": "Biblioteca de EDSAC."
+ },
+ "enlazador": {
+  "nombre": "Cargador y enlazador",
+  "resumen": "Une programas."
+ },
+ "recoleccion-basura": {
+  "nombre": "Recolección de basura",
+  "resumen": "Memoria gestionada."
+ },
+ "recursion": {
+  "nombre": "Recursión en lenguajes",
+  "resumen": "Pila de llamadas."
+ },
+ "multitarea": {
+  "nombre": "Multiprogramación",
+  "resumen": "Varios programas en memoria."
+ },
+ "semaforo": {
+  "nombre": "Semáforos",
+  "resumen": "Sincronización de procesos."
+ },
+ "sistema-archivos-jerarquico": {
+  "nombre": "Directorios jerárquicos",
+  "resumen": "Árbol de carpetas."
+ },
+ "ctss-archivos": {
+  "nombre": "CTSS con archivos por usuario",
+  "resumen": "Cada usuario, su espacio."
+ },
+ "hipertexto": {
+  "nombre": "Hipertexto",
+  "resumen": "Texto enlazado no lineal."
+ },
+ "madre-demos": {
+  "nombre": "La madre de todas las demos",
+  "resumen": "Ratón, ventanas y videoconferencia."
+ },
+ "tubos-unix": {
+  "nombre": "Tuberías de UNIX",
+  "resumen": "Programas pequeños encadenados."
+ },
+ "editor-pantalla": {
+  "nombre": "Editores de pantalla",
+  "resumen": "vi y Emacs."
+ },
+ "make": {
+  "nombre": "make",
+  "resumen": "Compilación por dependencias."
+ },
+ "shell-bourne": {
+  "nombre": "Shell de Bourne",
+  "resumen": "Lenguaje de órdenes."
+ },
+ "control-versiones": {
+  "nombre": "Control de versiones",
+  "resumen": "SCCS; después RCS, CVS."
+ },
+ "gcc": {
+  "nombre": "GCC",
+  "resumen": "Compilador libre."
+ },
+ "wysiwyg": {
+  "nombre": "Edición WYSIWYG",
+  "resumen": "Bravo en el Xerox Alto."
+ },
+ "autoedicion": {
+  "nombre": "Autoedición",
+  "resumen": "PageMaker."
+ },
+ "photoshop": {
+  "nombre": "Retoque fotográfico digital",
+  "resumen": "Photoshop 1.0."
+ },
+ "autocad": {
+  "nombre": "CAD en ordenador personal",
+  "resumen": "AutoCAD."
+ },
+ "lotus-123": {
+  "nombre": "Lotus 1-2-3",
+  "resumen": "Vende el PC a las empresas."
+ },
+ "excel": {
+  "nombre": "Excel",
+  "resumen": "Hoja de cálculo gráfica."
+ },
+ "word": {
+  "nombre": "Microsoft Word",
+  "resumen": "Procesador con ratón."
+ },
+ "powerpoint": {
+  "nombre": "Presentaciones",
+  "resumen": "PowerPoint."
+ },
+ "oracle": {
+  "nombre": "Base de datos relacional comercial",
+  "resumen": "Oracle V2."
+ },
+ "mysql": {
+  "nombre": "MySQL",
+  "resumen": "Base de datos libre de la web."
+ },
+ "postgresql": {
+  "nombre": "PostgreSQL",
+  "resumen": "Sucesor de Postgres."
+ },
+ "sqlite": {
+  "nombre": "SQLite",
+  "resumen": "Base de datos en un archivo."
+ },
+ "nosql": {
+  "nombre": "Bases de datos NoSQL",
+  "resumen": "Dynamo, Bigtable, MongoDB."
+ },
+ "apache": {
+  "nombre": "Servidor Apache",
+  "resumen": "Servidor web dominante."
+ },
+ "cgi": {
+  "nombre": "Páginas dinámicas CGI",
+  "resumen": "Programas tras el servidor."
+ },
+ "cookies": {
+  "nombre": "Cookies",
+  "resumen": "Estado en el navegador."
+ },
+ "ajax": {
+  "nombre": "AJAX",
+  "resumen": "Páginas que se actualizan sin recargar."
+ },
+ "node-js": {
+  "nombre": "Node.js",
+  "resumen": "JavaScript en el servidor."
+ },
+ "angular-react": {
+  "nombre": "Marcos de interfaz web",
+  "resumen": "AngularJS, React, Vue."
+ },
+ "webgl": {
+  "nombre": "WebGL",
+  "resumen": "Gráficos acelerados en el navegador."
+ },
+ "app-store": {
+  "nombre": "Tienda de aplicaciones",
+  "resumen": "Distribución directa."
+ },
+ "github": {
+  "nombre": "Alojamiento de código colaborativo",
+  "resumen": "GitHub."
+ },
+ "integracion-continua": {
+  "nombre": "Integración y despliegue continuos",
+  "resumen": "Pruebas automáticas en cada cambio."
+ },
+ "metodologias-agiles": {
+  "nombre": "Metodologías ágiles",
+  "resumen": "Manifiesto ágil."
+ },
+ "patrones-diseno": {
+  "nombre": "Patrones de diseño",
+  "resumen": "Catálogo de soluciones."
+ },
+ "uml": {
+  "nombre": "UML",
+  "resumen": "Notación de modelado."
+ },
+ "tdd": {
+  "nombre": "Programación extrema y pruebas primero",
+  "resumen": "JUnit."
+ },
+ "gwt": {
+  "nombre": "Google Web Toolkit",
+  "resumen": "Java compilado a JavaScript."
+ },
+ "jvm-jit": {
+  "nombre": "Compilación en tiempo de ejecución",
+  "resumen": "HotSpot."
+ },
+ "llvm": {
+  "nombre": "LLVM",
+  "resumen": "Infraestructura de compiladores."
+ },
+ "tensorflow": {
+  "nombre": "Bibliotecas de aprendizaje profundo",
+  "resumen": "TensorFlow y PyTorch."
+ },
+ "virus-informatico": {
+  "nombre": "Virus de PC",
+  "resumen": "Brain."
+ },
+ "antivirus": {
+  "nombre": "Antivirus",
+  "resumen": "Firmas de código."
+ },
+ "cortafuegos": {
+  "nombre": "Cortafuegos",
+  "resumen": "Filtro de paquetes."
+ },
+ "criptografia-eliptica": {
+  "nombre": "Criptografía de curva elíptica",
+  "resumen": "Claves más cortas."
+ },
+ "sha": {
+  "nombre": "Funciones resumen SHA",
+  "resumen": "Huella de un mensaje."
+ },
+ "https-generalizado": {
+  "nombre": "Cifrado web generalizado",
+  "resumen": "Let's Encrypt."
+ }
+}

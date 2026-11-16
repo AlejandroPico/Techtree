@@ -1,0 +1,144 @@
+@ electricidad | Electricidad y telecomunicación | #e3b23c
+@@ componentes | Componentes y medida
+electroscopio | 1600 | H | Versorium | de-magnete | Aguja pivotante que detecta cuerpos electrizados. | William Gilbert
+electroscopio-panes-oro | 1787 | H | Electroscopio de panes de oro | botella-leyden, oro | Dos láminas que se repelen al cargarse. | Abraham Bennet
+electroforo | 1775 | I | Electróforo | botella-leyden | Fuente inagotable de carga por influencia. | Alessandro Volta
+condensador-placas | 1782 | I | Condensador de placas | electroforo | Dos conductores separados por un aislante. | Alessandro Volta
+bateria-leyden | 1748 | I | Batería de botellas de Leyden | botella-leyden | Varias botellas conectadas: el origen de la palabra «batería». | Benjamin Franklin
+maquina-wimshurst | 1883 | I | Máquina de influencia | maquina-friccion | Discos contrarrotantes que generan alta tensión. | James Wimshurst
+interruptor-palanca | ~1830 | H | Interruptor de cuchilla | pila-volta | Lámina de cobre que cierra el circuito. |
+reostato | 1843 | H | Reóstato | ley-ohm | Resistencia variable de hilo. | Charles Wheatstone
+puente-wheatstone | 1843 | H | Puente de Wheatstone | ley-ohm, galvanometro | Mide resistencias por equilibrio. | Samuel Christie, Charles Wheatstone
+resistencia-patron | 1861 | S | Unidades eléctricas patrón | puente-wheatstone | Ohmio, voltio y amperio definidos por la Asociación Británica. | William Thomson
+galvanometro-espejo | 1858 | H | Galvanómetro de espejo | galvanometro | Un rayo de luz como aguja; lee señales del cable transatlántico. | William Thomson
+galvanometro-darsonval | 1882 | H | Galvanómetro de bobina móvil | galvanometro, hilo-cobre-aislado | Base de todos los instrumentos de aguja. | Jacques-Arsène d'Arsonval
+voltimetro-amperimetro | 1888 | H | Voltímetro y amperímetro portátiles | galvanometro-darsonval | Instrumentos de precisión de Weston. | Edward Weston
+pila-patron-weston | 1893 | H | Pila patrón | pila-daniell, elemento-cadmio | Tensión de referencia estable. | Edward Weston
+condensador-papel | 1876 | I | Condensador de papel parafinado | condensador-placas, papel-continuo | Rollos de papel y estaño. |
+condensador-mica | 1909 | I | Condensador de mica | condensador-placas | Estable a alta frecuencia. | William Dubilier
+condensador-electrolitico | 1896 | I | Condensador electrolítico | condensador-placas, hall-heroult | Óxido de aluminio como dieléctrico. | Karol Pollak
+condensador-ceramico | 1926 | I | Condensador cerámico | condensador-mica, porcelana-europea | Titanatos de alta permitividad. |
+condensador-tantalio | 1956 | I | Condensador de tantalio | condensador-electrolitico, elemento-tantalo | Gran capacidad en poco volumen. |
+supercondensador | 1957 | I | Supercondensador | condensador-electrolitico | Doble capa electroquímica. | Howard Becker
+resistencia-carbon | 1885 | H | Resistencia de composición de carbón | filamento-carbon | Carbón moldeado con aglutinante. |
+codigo-colores-resistencias | 1925 | S | Código de colores | resistencia-carbon | Bandas que indican el valor. |
+resistencia-pelicula | 1959 | H | Resistencia de película metálica | resistencia-carbon, bomba-difusion | Precisa y estable. |
+potenciometro | 1841 | H | Potenciómetro | ley-ohm, galvanometro | Divisor de tensión ajustable. | Johann Poggendorff
+termistor | 1930 | H | Termistor | rectificador-cristal | Resistencia que varía con la temperatura. | Samuel Ruben
+bobina-autoinduccion | 1832 | D | Autoinducción | induccion | Una bobina se opone a los cambios de su propia corriente. | Joseph Henry
+nucleo-laminado | 1885 | T | Núcleo de chapas laminadas | transformador | Reduce las corrientes parásitas. |
+acero-silicio | 1903 | M | Chapa de acero al silicio | nucleo-laminado, elemento-silicio | Menos pérdidas magnéticas. | Robert Hadfield
+nucleo-ferrita | 1945 | M | Núcleos de ferrita | ferritas | Inductores y transformadores de alta frecuencia. | Jacob Snoek
+fusible | 1864 | H | Fusible | interruptor-palanca | Hilo que se funde y protege el cable telegráfico. |
+interruptor-rotativo | 1884 | H | Interruptor de resorte | interruptor-palanca | Ruptura brusca que evita el arco. | John Holmes
+interruptor-basculante | 1916 | H | Interruptor basculante | interruptor-rotativo, baquelita | Palanca doméstica. | William Newton
+interruptor-diferencial | 1956 | I | Interruptor diferencial | interruptor-automatico, nucleo-ferrita | Corta ante una fuga a tierra. | Gottfried Biegelmeier
+rele-telefonico | 1878 | H | Relé telefónico | rele | Contactos múltiples para centrales. |
+contactor | 1924 | H | Contactor | rele | Relé de potencia para motores. |
+rele-reed | 1936 | H | Relé de láminas | rele, vidrio-borosilicato | Contactos sellados en vidrio. | Walter Elmen
+rele-estado-solido | 1971 | H | Relé de estado sólido | tiristor, led | Sin partes móviles. |
+conector-banana | 1924 | H | Clavija banana | enchufe | Conector de laboratorio. |
+conector-bnc | 1951 | H | Conector coaxial BNC | cable-coaxial | Bayoneta para radiofrecuencia. | Paul Neill, Carl Concelman
+cable-pvc | 1932 | M | Cable aislado con PVC | pvc, hilo-cobre-aislado | Sustituye al caucho y al algodón. |
+cable-caucho | 1880 | M | Cable aislado con caucho vulcanizado | vulcanizacion, cobre-estirado-duro | Instalaciones interiores. |
+cable-papel-impregnado | 1890 | M | Cable de papel impregnado y plomo | cable-caucho, plomo | Cables subterráneos de alta tensión. | Sebastian de Ferranti
+aislador-porcelana | 1850 | H | Aislador de porcelana | porcelana-europea, telegrafo-electrico | Campanas que soportan los hilos. | Werner von Siemens
+torre-alta-tension | 1907 | S | Línea de aisladores en cadena | aislador-porcelana, transmision-alterna | Discos suspendidos: 100 kV y más. | Edward Hewlett
+circuito-impreso | 1936 | I | Circuito impreso | baquelita, galvanoplastia | Pistas de cobre sobre una placa aislante. | Paul Eisler
+soldadura-estano | ~-3000 | T | Soldadura blanda | mineria-estano, plomo | Aleación de estaño y plomo que une metales a baja temperatura. |
+soldador-electrico | 1921 | H | Soldador eléctrico | nicrom | Punta calentada por resistencia. | Ernst Sachs
+soldadura-ola | 1956 | T | Soldadura por ola | circuito-impreso | Todas las uniones de una placa a la vez. |
+montaje-superficial | 1960 | T | Montaje superficial | circuito-impreso | Componentes sin patillas soldados sobre la placa. |
+placa-multicapa | 1961 | T | Circuito impreso multicapa | circuito-impreso | Agujeros metalizados entre capas. |
+osciloscopio | 1897 | H | Osciloscopio de rayos catódicos | tubo-rayos-catodicos | Dibuja la forma de una señal. | Ferdinand Braun
+osciloscopio-disparo | 1946 | H | Osciloscopio con barrido disparado | osciloscopio | Tektronix 511. | Howard Vollum
+multimetro | 1923 | H | Multímetro | voltimetro-amperimetro | Avómetro. | Donald Macadie
+multimetro-digital | 1955 | H | Voltímetro digital | computador-transistores | Lectura numérica. | Andrew Kay
+analizador-espectros | 1950 | H | Analizador de espectros | superheterodino | Representa la señal por frecuencias. |
+generador-van-de-graaff | 1929 | I | Generador de Van de Graaff | maquina-wimshurst | Correa que acumula millones de voltios. | Robert Van de Graaff
+bobina-tesla | 1891 | I | Bobina de Tesla | bobina-induccion, condensador-placas | Transformador resonante de alta frecuencia. | Nikola Tesla
+@@ electromagnetismo | Electromagnetismo y máquinas eléctricas
+rueda-barlow | 1822 | I | Rueda de Barlow | electromagnetismo-oersted | Primer giro continuo por corriente. | Peter Barlow
+rotacion-faraday | 1821 | D | Rotación electromagnética | electromagnetismo-oersted | Un hilo gira alrededor de un imán. | Michael Faraday
+ley-lenz | 1834 | C | Ley de Lenz | induccion | La corriente inducida se opone al cambio. | Heinrich Lenz
+conmutador-colector | 1832 | H | Colector de delgas | magneto-pixii | Rectifica mecánicamente la corriente. | André-Marie Ampère
+alternador-woolrich | 1844 | I | Generador industrial | magneto-pixii, galvanoplastia | Magneto para galvanoplastia en Birmingham. | John Woolrich
+motor-davenport | 1837 | I | Motor eléctrico patentado | motor-electrico | Mueve una prensa y un tren en miniatura. | Thomas Davenport
+dinamo-reversible | 1873 | D | Reversibilidad de la dinamo | dinamo-gramme | Una dinamo alimentada gira como motor. | Zénobe Gramme
+alternador-polifasico | 1887 | I | Alternador polifásico | dinamo-gramme, ecuaciones-maxwell | Varias corrientes desfasadas. | Charles Bradley, Friedrich Haselwander
+motor-jaula-ardilla | 1889 | I | Motor de jaula de ardilla | motor-induccion | Rotor sin escobillas ni bobinado. | Mijaíl Dolivo-Dobrovolski
+motor-sincrono | 1888 | I | Motor síncrono | alternador-polifasico | Gira al ritmo exacto de la red. |
+motor-universal | 1890 | I | Motor universal | motor-electrico | Funciona con continua y alterna; electrodomésticos. |
+motor-paso-a-paso | 1919 | I | Motor paso a paso | motor-sincrono | Gira en incrementos fijos. |
+motor-sin-escobillas | 1962 | I | Motor de continua sin escobillas | transistor-silicio, efecto-hall | Conmutación electrónica. |
+variador-frecuencia | 1968 | I | Variador de frecuencia | tiristor, motor-jaula-ardilla | Regula la velocidad del motor de alterna. |
+transformador-gaulard | 1882 | I | Generador secundario | induccion | Transformador de núcleo abierto. | Lucien Gaulard, John Gibbs
+transformador-trifasico | 1889 | I | Transformador trifásico | transformador, alternador-polifasico | Tres columnas en un núcleo. | Mijaíl Dolivo-Dobrovolski
+transformador-aceite | 1892 | T | Transformador en baño de aceite | transformador, pozo-petroleo | Aísla y refrigera. |
+turboalternador | 1901 | I | Turboalternador | turbina-vapor, alternador-polifasico | Turbina y generador en un eje. | Charles Brown
+frecuencia-red | 1891 | S | Frecuencia normalizada | transmision-alterna | 50 Hz en Europa y 60 Hz en América. |
+unidades-si-electricas | 1881 | S | Congreso internacional de electricidad | resistencia-patron | Adopta voltio, amperio, ohmio, culombio y faradio. |
+teoria-circuitos-alterna | 1893 | C | Cálculo de alterna con números complejos | complejos, leyes-kirchhoff | Fasores e impedancia. | Charles Steinmetz
+histeresis | 1890 | C | Ley de la histéresis | electroiman | Pérdidas magnéticas calculables. | Charles Steinmetz
+calculo-operacional | 1893 | C | Cálculo operacional | ecuaciones-maxwell | Método de Heaviside para circuitos. | Oliver Heaviside
+ecuaciones-telegrafista | 1876 | C | Ecuaciones del telegrafista | ecuaciones-maxwell, cable-transatlantico | Teoría de las líneas de transmisión. | Oliver Heaviside
+@ energia | Energía y máquinas | #d1663f
+@@ nuclear | Energía nuclear
+equivalencia-masa-energia | 1905-09 | C | Equivalencia entre masa y energía | relatividad-especial | E = mc². | Albert Einstein
+defecto-masa | 1920 | D | Defecto de masa | espectrometro-masas, equivalencia-masa-energia | El helio pesa menos que cuatro hidrógenos. | Francis Aston, Arthur Eddington
+modelo-gota-liquida | 1936 | C | Modelo de la gota líquida | neutron | El núcleo como gota cargada. | Niels Bohr, George Gamow
+neutrones-lentos | 1934-10 | D | Neutrones lentos | neutron, radiactividad-artificial | Frenados en parafina reaccionan mucho más. | Enrico Fermi
+reaccion-cadena-idea | 1933 | C | Idea de la reacción en cadena | neutron | Patentada en secreto. | Leó Szilárd
+explicacion-fision | 1939-01 | C | Interpretación de la fisión | fision, modelo-gota-liquida | El núcleo se parte y libera 200 MeV. | Lise Meitner, Otto Frisch
+neutrones-secundarios | 1939-03 | D | Neutrones liberados en la fisión | explicacion-fision | Más de dos por fisión: la cadena es posible. | Frédéric Joliot, Hans von Halban, Lew Kowarski
+memorandum-frisch-peierls | 1940-03 | C | Masa crítica | neutrones-secundarios, uranio-235 | Bastan kilos de uranio-235. | Otto Frisch, Rudolf Peierls
+moderador-grafito | 1940 | M | Grafito de pureza nuclear | neutrones-lentos | Sin boro, que absorbe neutrones. | Leó Szilárd, Enrico Fermi
+barras-control | 1942 | H | Barras de control | reactor-cp1, elemento-cadmio | Cadmio que absorbe neutrones. |
+separacion-electromagnetica | 1942 | T | Calutrón | ciclotron, uranio-235 | Espectrómetro de masas industrial en Oak Ridge. | Ernest Lawrence
+reactor-x10 | 1943-11 | I | Reactor de grafito refrigerado por aire | reactor-cp1 | Oak Ridge produce los primeros gramos de plutonio. |
+reactores-hanford | 1944-09 | S | Reactores de producción de plutonio | reactor-x10, plutonio-239 | Reactor B, refrigerado por agua. |
+reprocesamiento | 1944 | T | Separación química del plutonio | reactores-hanford, cromatografia-ionica | Proceso del fosfato de bismuto; después PUREX. | Glenn Seaborg
+lentes-explosivas | 1944 | T | Lentes explosivas de implosión | bomba-polvora, plutonio-239 | Explosivos de distinta velocidad comprimen una esfera. | George Kistiakowsky, John von Neumann
+iniciador-neutrones | 1945 | H | Iniciador de neutrones | polonio-radio, elemento-berilio | Polonio y berilio. |
+bomba-uranio-canon | 1945-08 | I | Bomba de uranio de tipo cañón | separacion-electromagnetica, memorandum-frisch-peierls | Little Boy. |
+bomba-sovietica | 1949-08 | D | Primera bomba soviética | bomba-fision | RDS-1. | Ígor Kurchátov
+diseno-teller-ulam | 1951 | C | Diseño Teller-Ulam | bomba-fision | Los rayos X de la fisión comprimen el combustible de fusión. | Edward Teller, Stanisław Ulam
+deuteruro-litio | 1953 | M | Deuteruro de litio | diseno-teller-ulam, elemento-litio | Combustible de fusión sólido. |
+bomba-zar | 1961-10 | D | Mayor explosión nuclear | deuteruro-litio | Bomba Zar de 50 megatones. |
+tratado-prohibicion-parcial | 1963-08 | S | Prohibición de ensayos atmosféricos | bomba-zar | Tratado de Moscú. |
+no-proliferacion | 1968-07 | S | Tratado de No Proliferación | tratado-prohibicion-parcial | Salvaguardias del OIEA. |
+reactor-agua-pesada | 1944-05 | I | Reactor de agua pesada | agua-pesada, reactor-cp1 | CP-3 en Argonne. |
+reactor-candu | 1962 | S | Reactor CANDU | reactor-agua-pesada | Uranio natural y recarga en marcha. |
+reactor-agua-ebullicion | 1957 | S | Reactor de agua en ebullición | central-nuclear | Vallecitos y Dresden. |
+reactor-magnox | 1956-10 | S | Reactor de gas y grafito | moderador-grafito | Calder Hall. |
+reactor-rbmk | 1973 | S | Reactor RBMK | moderador-grafito, central-nuclear | Canales de presión en grafito. |
+reactor-naval | 1953 | I | Reactor naval compacto | reactor-cp1, elemento-circonio | Prototipo S1W. | Hyman Rickover
+vainas-zircaloy | 1952 | M | Zircaloy | elemento-circonio, elemento-hafnio | Aleación de circonio transparente a los neutrones. |
+pastillas-oxido-uranio | 1955 | M | Combustible de óxido de uranio | vainas-zircaloy, ceramica-tecnica-alumina | Pastillas cerámicas sinterizadas. |
+combustible-mox | 1963 | M | Combustible MOX | reprocesamiento, pastillas-oxido-uranio | Óxidos de uranio y plutonio. |
+vasija-presion | 1957 | H | Vasija de presión del reactor | acero-aleado, soldadura-arco | Acero forjado de 20 cm con revestimiento inoxidable. |
+edificio-contencion | 1957 | S | Edificio de contención | hormigon-pretensado | Cúpula estanca alrededor del reactor. |
+torre-refrigeracion | 1918 | S | Torre de refrigeración hiperbólica | hormigon-armado | Tiro natural. | Frederik van Iterson
+refrigeracion-sodio | 1951 | T | Refrigeración por metal líquido | reactor-reproductor, elemento-sodio | Sodio y potasio fundidos. |
+superphenix | 1985 | S | Reactor rápido comercial | refrigeracion-sodio | Superphénix. |
+accidente-three-mile | 1979-03 | D | Accidente de Three Mile Island | reactor-agua-presion | Fusión parcial del núcleo. |
+accidente-fukushima | 2011-03 | D | Accidente de Fukushima | reactor-agua-ebullicion | Tsunami que anula la refrigeración. |
+almacen-geologico | 2004 | S | Almacén geológico profundo | reprocesamiento | Onkalo (Finlandia), en granito. |
+vitrificacion-residuos | 1978 | T | Vitrificación de residuos | vidrio-borosilicato, reprocesamiento | Residuos de alta actividad fundidos en vidrio. |
+reactor-epr | 2018 | S | Reactores de tercera generación | reactor-agua-presion | EPR y AP1000 con seguridad pasiva. |
+reactor-modular | 2020 | S | Reactores modulares pequeños | reactor-naval | Akademik Lomonósov, central flotante. |
+reactor-oklo | 1972 | D | Reactor natural de Oklo | uranio-235, espectrometro-masas | Fisión espontánea en Gabón hace 2000 millones de años. | Francis Perrin
+@@ fusion | Fusión nuclear
+fusion-laboratorio | 1934 | D | Fusión de deuterio | deuterio, cockcroft-walton | Deuterones acelerados producen helio-3 y tritio. | Mark Oliphant
+cockcroft-walton | 1932-04 | I | Acelerador Cockcroft-Walton | bobina-induccion, proton | Primera desintegración nuclear con partículas aceleradas. | John Cockcroft, Ernest Walton
+criterio-lawson | 1955 | C | Criterio de Lawson | fusion-estelar | Densidad, temperatura y tiempo necesarios. | John Lawson
+estricion-plasma | 1951 | I | Confinamiento por estricción | fusion-laboratorio | Máquinas pinch; ZETA en 1957. |
+stellarator | 1951 | I | Stellarator | fusion-laboratorio | Bobinas retorcidas. | Lyman Spitzer
+tokamak-t3 | 1968 | D | Diez millones de grados en un tokamak | tokamak | Resultados del T-3 confirmados con láser. | Lev Artsimóvich
+fusion-inercial | 1972 | C | Fusión por confinamiento inercial | laser, diseno-teller-ulam | Implosión de una microesfera. | John Nuckolls
+jet | 1983 | S | Tokamak JET | tokamak-t3 | Culham. |
+modo-h | 1982 | D | Modo de alto confinamiento | tokamak-t3 | Descubierto en ASDEX. | Friedrich Wagner
+fusion-deuterio-tritio | 1991-11 | D | Fusión controlada de deuterio y tritio | jet, tritio | JET produce 1,7 MW. |
+record-jet | 1997 | D | Dieciséis megavatios de fusión | fusion-deuterio-tritio | Récord del JET. |
+imanes-superconductores-fusion | 1988 | H | Tokamak superconductor | tokamak-t3, superconductividad | Tore Supra. |
+wendelstein | 2015-12 | S | Stellarator optimizado | stellarator, imanes-superconductores-fusion | Wendelstein 7-X. |

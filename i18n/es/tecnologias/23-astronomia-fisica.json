@@ -1,0 +1,550 @@
+{
+ "alineaciones-solares": {
+  "nombre": "Monumentos alineados con el Sol",
+  "resumen": "Stonehenge marca los solsticios."
+ },
+ "disco-nebra": {
+  "nombre": "Disco celeste de Nebra",
+  "resumen": "Representación del cielo con Sol, Luna y Pléyades."
+ },
+ "mul-apin": {
+  "nombre": "Catálogo estelar babilonio",
+  "resumen": "Tablillas MUL.APIN: constelaciones, ortos y calendario."
+ },
+ "ciclo-saros": {
+  "nombre": "Ciclo de Saros",
+  "resumen": "Los eclipses se repiten cada 18 años y 11 días."
+ },
+ "ciclo-meton": {
+  "nombre": "Ciclo metónico",
+  "resumen": "Diecinueve años solares equivalen a 235 lunaciones."
+ },
+ "tierra-esferica": {
+  "nombre": "Esfericidad de la Tierra",
+  "resumen": "Probada por la sombra en los eclipses de Luna."
+ },
+ "epiciclos": {
+  "nombre": "Modelo de epiciclos y deferentes",
+  "resumen": "Círculos sobre círculos para explicar el movimiento retrógrado."
+ },
+ "catalogo-hiparco": {
+  "nombre": "Catálogo de estrellas y magnitudes",
+  "resumen": "Unas 850 estrellas clasificadas por brillo."
+ },
+ "precesion": {
+  "nombre": "Precesión de los equinoccios",
+  "resumen": "Los puntos equinocciales retroceden lentamente."
+ },
+ "supernova-1006": {
+  "nombre": "Supernova de 1006",
+  "resumen": "El astro más brillante registrado por la historia."
+ },
+ "azafea": {
+  "nombre": "Azafea",
+  "resumen": "Astrolabio universal válido para cualquier latitud."
+ },
+ "supernova-1054": {
+  "nombre": "Supernova del Cangrejo",
+  "resumen": "«Estrella invitada» anotada por astrónomos chinos."
+ },
+ "tablas-toledanas": {
+  "nombre": "Tablas toledanas",
+  "resumen": "Efemérides usadas en Europa durante dos siglos."
+ },
+ "par-tusi": {
+  "nombre": "Par de Tusi",
+  "resumen": "Dos círculos que producen movimiento rectilíneo; reaparece en Copérnico."
+ },
+ "observatorio-maraga": {
+  "nombre": "Observatorio de Maraga",
+  "resumen": "Gran centro de observación y cálculo con biblioteca propia."
+ },
+ "cuadrante-astronomico": {
+  "nombre": "Cuadrante astronómico",
+  "resumen": "Cuarto de círculo graduado para medir alturas."
+ },
+ "tablas-alfonsies": {
+  "nombre": "Tablas alfonsíes",
+  "resumen": "Compiladas en Toledo por orden de Alfonso X."
+ },
+ "modelos-shatir": {
+  "nombre": "Modelos planetarios sin ecuante",
+  "resumen": "Geométricamente idénticos a los que usará Copérnico."
+ },
+ "supernova-tycho": {
+  "nombre": "Supernova de Tycho",
+  "resumen": "Sin paralaje: los cielos también cambian."
+ },
+ "cometa-1577": {
+  "nombre": "Cometa más allá de la Luna",
+  "resumen": "Las esferas cristalinas no pueden existir."
+ },
+ "manchas-solares": {
+  "nombre": "Manchas solares",
+  "resumen": "El Sol gira y no es inmaculado."
+ },
+ "tercera-ley-kepler": {
+  "nombre": "Tercera ley de Kepler",
+  "resumen": "El cuadrado del periodo es proporcional al cubo de la distancia."
+ },
+ "anillos-saturno": {
+  "nombre": "Anillos de Saturno y Titán",
+  "resumen": "Un anillo delgado que no toca el planeta."
+ },
+ "unidad-astronomica": {
+  "nombre": "Distancia al Sol",
+  "resumen": "Paralaje de Marte medida desde París y Cayena."
+ },
+ "cometa-halley": {
+  "nombre": "Órbita periódica de un cometa",
+  "resumen": "Predicción del regreso de 1758."
+ },
+ "aberracion-luz": {
+  "nombre": "Aberración de la luz",
+  "resumen": "Primera prueba directa del movimiento de la Tierra."
+ },
+ "catalogo-messier": {
+  "nombre": "Catálogo de Messier",
+  "resumen": "Nebulosas y cúmulos que no deben confundirse con cometas."
+ },
+ "urano": {
+  "nombre": "Urano",
+  "resumen": "Primer planeta descubierto con telescopio."
+ },
+ "radiacion-infrarroja": {
+  "nombre": "Radiación infrarroja",
+  "resumen": "Calor más allá del rojo del espectro."
+ },
+ "radiacion-ultravioleta": {
+  "nombre": "Radiación ultravioleta",
+  "resumen": "Rayos que ennegrecen el cloruro de plata más allá del violeta."
+ },
+ "ceres": {
+  "nombre": "Ceres",
+  "resumen": "Primer asteroide; Gauss calcula su órbita."
+ },
+ "paralaje-estelar": {
+  "nombre": "Paralaje estelar",
+  "resumen": "Primera distancia a una estrella: 61 Cygni."
+ },
+ "efecto-doppler": {
+  "nombre": "Efecto Doppler",
+  "resumen": "La frecuencia cambia con el movimiento de la fuente."
+ },
+ "nebulosas-espirales": {
+  "nombre": "Estructura espiral de las nebulosas",
+  "resumen": "El Leviatán de 1,8 m revela la espiral de M51."
+ },
+ "neptuno": {
+  "nombre": "Neptuno",
+  "resumen": "Hallado por cálculo a partir de las perturbaciones de Urano."
+ },
+ "astrofotografia": {
+  "nombre": "Fotografía astronómica",
+  "resumen": "Primera imagen de una estrella, Vega."
+ },
+ "clasificacion-espectral": {
+  "nombre": "Clasificación espectral de las estrellas",
+  "resumen": "Tipos según sus líneas."
+ },
+ "canales-marte": {
+  "nombre": "Canales de Marte",
+  "resumen": "Líneas ilusorias atribuidas a una civilización; desmentidas por las sondas."
+ },
+ "gran-refractor": {
+  "nombre": "Gran refractor de Yerkes",
+  "resumen": "Lente de 102 cm, la mayor jamás usada."
+ },
+ "diagrama-hr": {
+  "nombre": "Diagrama de Hertzsprung-Russell",
+  "resumen": "Luminosidad frente a temperatura: las estrellas evolucionan."
+ },
+ "cefeidas": {
+  "nombre": "Relación periodo-luminosidad",
+  "resumen": "Las cefeidas sirven de patrón de distancia."
+ },
+ "rayos-cosmicos": {
+  "nombre": "Rayos cósmicos",
+  "resumen": "La radiación aumenta con la altura."
+ },
+ "corrimiento-rojo": {
+  "nombre": "Desplazamiento al rojo de las galaxias",
+  "resumen": "Casi todas las nebulosas espirales se alejan."
+ },
+ "agujero-negro-teoria": {
+  "nombre": "Solución de Schwarzschild",
+  "resumen": "Predice un radio del que la luz no escapa."
+ },
+ "telescopio-hooker": {
+  "nombre": "Telescopio de 2,5 m",
+  "resumen": "Monte Wilson."
+ },
+ "espejo-plateado": {
+  "nombre": "Espejos de vidrio plateado",
+  "resumen": "Plata depositada químicamente sobre vidrio en lugar de bronce pulido."
+ },
+ "desviacion-luz": {
+  "nombre": "Desviación de la luz por el Sol",
+  "resumen": "El eclipse confirma a Einstein."
+ },
+ "galaxias-externas": {
+  "nombre": "Galaxias más allá de la Vía Láctea",
+  "resumen": "Cefeidas en Andrómeda."
+ },
+ "composicion-estelar": {
+  "nombre": "Las estrellas son hidrógeno y helio",
+  "resumen": "Tesis doctoral de Cecilia Payne."
+ },
+ "pluton": {
+  "nombre": "Plutón",
+  "resumen": "Hallado comparando placas."
+ },
+ "limite-chandrasekhar": {
+  "nombre": "Límite de Chandrasekhar",
+  "resumen": "Masa máxima de una enana blanca."
+ },
+ "radioastronomia": {
+  "nombre": "Ondas de radio de la Vía Láctea",
+  "resumen": "Nace la radioastronomía."
+ },
+ "materia-oscura": {
+  "nombre": "Materia oscura",
+  "resumen": "Los cúmulos necesitan mucha más masa de la visible."
+ },
+ "fusion-estelar": {
+  "nombre": "Fusión nuclear en las estrellas",
+  "resumen": "Cadena protón-protón y ciclo CNO."
+ },
+ "nucleosintesis-primordial": {
+  "nombre": "Nucleosíntesis del Big Bang",
+  "resumen": "El universo caliente fabrica helio y predice un fondo de radiación."
+ },
+ "estado-estacionario": {
+  "nombre": "Teoría del estado estacionario",
+  "resumen": "Universo eterno con creación continua de materia; descartada por el fondo cósmico."
+ },
+ "telescopio-hale": {
+  "nombre": "Telescopio de 5 m",
+  "resumen": "Monte Palomar."
+ },
+ "linea-21cm": {
+  "nombre": "Línea de 21 cm del hidrógeno",
+  "resumen": "Traza los brazos espirales de la galaxia."
+ },
+ "nucleosintesis-estelar": {
+  "nombre": "Nucleosíntesis estelar",
+  "resumen": "Los elementos pesados se forjan en estrellas y supernovas."
+ },
+ "astronomia-rayos-x": {
+  "nombre": "Fuentes cósmicas de rayos X",
+  "resumen": "Scorpius X-1."
+ },
+ "cuasares": {
+  "nombre": "Cuásares",
+  "resumen": "Núcleos galácticos lejanísimos y muy luminosos."
+ },
+ "pulsares": {
+  "nombre": "Púlsares",
+  "resumen": "Estrellas de neutrones en rotación."
+ },
+ "neutrinos-solares": {
+  "nombre": "Neutrinos solares",
+  "resumen": "Se detectan menos de los previstos."
+ },
+ "curvas-rotacion": {
+  "nombre": "Curvas de rotación planas",
+  "resumen": "Las galaxias giran como si tuvieran halos invisibles."
+ },
+ "agujero-negro-observado": {
+  "nombre": "Primer candidato a agujero negro",
+  "resumen": "Cygnus X-1."
+ },
+ "radiacion-hawking": {
+  "nombre": "Radiación de Hawking",
+  "resumen": "Los agujeros negros emiten y se evaporan."
+ },
+ "lente-gravitacional": {
+  "nombre": "Lente gravitacional",
+  "resumen": "Un cuásar visto doble."
+ },
+ "inflacion-cosmica": {
+  "nombre": "Inflación cósmica",
+  "resumen": "Expansión exponencial inicial."
+ },
+ "supernova-1987a": {
+  "nombre": "Neutrinos de una supernova",
+  "resumen": "Supernova 1987A en la Gran Nube de Magallanes."
+ },
+ "optica-adaptativa": {
+  "nombre": "Óptica adaptativa",
+  "resumen": "Espejos deformables que corrigen la turbulencia del aire."
+ },
+ "anisotropias-fondo": {
+  "nombre": "Anisotropías del fondo cósmico",
+  "resumen": "Satélite COBE."
+ },
+ "espejo-segmentado": {
+  "nombre": "Telescopio de espejo segmentado",
+  "resumen": "Telescopios Keck de 10 m."
+ },
+ "exoplaneta": {
+  "nombre": "Planeta en torno a una estrella de tipo solar",
+  "resumen": "51 Pegasi b."
+ },
+ "expansion-acelerada": {
+  "nombre": "Expansión acelerada del universo",
+  "resumen": "Supernovas lejanas más débiles de lo esperado: energía oscura."
+ },
+ "oscilacion-neutrinos": {
+  "nombre": "Oscilación de neutrinos",
+  "resumen": "Los neutrinos tienen masa."
+ },
+ "telescopio-kepler": {
+  "nombre": "Telescopio espacial Kepler",
+  "resumen": "Miles de planetas detectados por tránsitos."
+ },
+ "kilonova": {
+  "nombre": "Fusión de estrellas de neutrones",
+  "resumen": "Ondas gravitacionales y luz de un mismo suceso."
+ },
+ "imagen-agujero-negro": {
+  "nombre": "Imagen de un agujero negro",
+  "resumen": "Sombra del agujero de M87 con el Event Horizon Telescope."
+ },
+ "plano-inclinado": {
+  "nombre": "Equilibrio en el plano inclinado",
+  "resumen": "También prueba que los cuerpos caen a la vez."
+ },
+ "isocronismo-pendulo": {
+  "nombre": "Isocronismo del péndulo",
+  "resumen": "El periodo no depende de la amplitud."
+ },
+ "velocidad-sonido": {
+  "nombre": "Velocidad del sonido",
+  "resumen": "Medida con ecos y péndulos."
+ },
+ "presion-atmosferica": {
+  "nombre": "La presión disminuye con la altura",
+  "resumen": "Experimento del Puy de Dôme."
+ },
+ "ley-hooke": {
+  "nombre": "Ley de Hooke",
+  "resumen": "La deformación es proporcional a la fuerza."
+ },
+ "fuerza-centrifuga": {
+  "nombre": "Fuerza centrífuga",
+  "resumen": "Horologium oscillatorium."
+ },
+ "hidrodinamica": {
+  "nombre": "Hidrodinámica",
+  "resumen": "Presión y velocidad de un fluido."
+ },
+ "constante-gravitacion": {
+  "nombre": "Densidad de la Tierra",
+  "resumen": "Balanza de torsión."
+ },
+ "efecto-coriolis": {
+  "nombre": "Fuerza de Coriolis",
+  "resumen": "Desviación aparente en sistemas en rotación."
+ },
+ "navier-stokes": {
+  "nombre": "Ecuaciones de Navier-Stokes",
+  "resumen": "Movimiento de los fluidos viscosos."
+ },
+ "pendulo-foucault": {
+  "nombre": "Péndulo de Foucault",
+  "resumen": "La Tierra gira bajo el péndulo."
+ },
+ "turbulencia-reynolds": {
+  "nombre": "Transición a la turbulencia",
+  "resumen": "El número de Reynolds."
+ },
+ "capa-limite": {
+  "nombre": "Capa límite",
+  "resumen": "Base de la aerodinámica moderna."
+ },
+ "polarizacion": {
+  "nombre": "Polarización por reflexión",
+  "resumen": "La luz reflejada vibra en un plano."
+ },
+ "ondas-transversales": {
+  "nombre": "Teoría ondulatoria de Fresnel",
+  "resumen": "Difracción explicada con ondas transversales."
+ },
+ "velocidad-luz-terrestre": {
+  "nombre": "Velocidad de la luz en tierra",
+  "resumen": "Rueda dentada giratoria."
+ },
+ "efecto-faraday": {
+  "nombre": "Efecto Faraday",
+  "resumen": "El magnetismo gira el plano de polarización."
+ },
+ "efecto-zeeman": {
+  "nombre": "Efecto Zeeman",
+  "resumen": "Las líneas espectrales se desdoblan en un campo magnético."
+ },
+ "efecto-raman": {
+  "nombre": "Efecto Raman",
+  "resumen": "Luz dispersada con cambio de frecuencia."
+ },
+ "holografia": {
+  "nombre": "Holografía",
+  "resumen": "Registro de la fase de la luz."
+ },
+ "ley-charles": {
+  "nombre": "Ley de los gases de Charles y Gay-Lussac",
+  "resumen": "El volumen crece con la temperatura."
+ },
+ "efecto-joule": {
+  "nombre": "Calentamiento por corriente",
+  "resumen": "El calor es proporcional al cuadrado de la intensidad."
+ },
+ "cero-absoluto": {
+  "nombre": "Escala absoluta de temperatura",
+  "resumen": "Cero a −273 °C."
+ },
+ "ley-stefan": {
+  "nombre": "Ley de Stefan-Boltzmann",
+  "resumen": "La radiación crece con la cuarta potencia de la temperatura."
+ },
+ "movimiento-browniano": {
+  "nombre": "Teoría del movimiento browniano",
+  "resumen": "Prueba de la existencia de los átomos; confirmada por Perrin."
+ },
+ "tercera-ley": {
+  "nombre": "Tercer principio de la termodinámica",
+  "resumen": "La entropía tiende a cero en el cero absoluto."
+ },
+ "helio-liquido": {
+  "nombre": "Licuefacción del helio",
+  "resumen": "Se alcanzan 4 K."
+ },
+ "superfluidez": {
+  "nombre": "Superfluidez",
+  "resumen": "Helio que fluye sin viscosidad."
+ },
+ "ley-faraday-electrolisis": {
+  "nombre": "Leyes de la electrólisis",
+  "resumen": "La masa depositada es proporcional a la carga."
+ },
+ "efecto-hall": {
+  "nombre": "Efecto Hall",
+  "resumen": "Tensión transversal en un conductor dentro de un campo magnético."
+ },
+ "piezoelectricidad": {
+  "nombre": "Piezoelectricidad",
+  "resumen": "Cristales que generan tensión al comprimirse."
+ },
+ "serie-balmer": {
+  "nombre": "Serie de Balmer",
+  "resumen": "Fórmula de las líneas del hidrógeno."
+ },
+ "carga-electron": {
+  "nombre": "Carga del electrón",
+  "resumen": "Experimento de la gota de aceite."
+ },
+ "difraccion-rayos-x": {
+  "nombre": "Difracción de rayos X",
+  "resumen": "Los cristales son redes de átomos; ley de Bragg."
+ },
+ "efecto-compton": {
+  "nombre": "Efecto Compton",
+  "resumen": "El fotón choca como una partícula."
+ },
+ "ondas-materia": {
+  "nombre": "Ondas de materia",
+  "resumen": "Toda partícula tiene una longitud de onda."
+ },
+ "principio-exclusion": {
+  "nombre": "Principio de exclusión y espín",
+  "resumen": "Dos electrones no comparten estado."
+ },
+ "difraccion-electrones": {
+  "nombre": "Difracción de electrones",
+  "resumen": "Los electrones se comportan como ondas."
+ },
+ "principio-incertidumbre": {
+  "nombre": "Principio de incertidumbre",
+  "resumen": "Posición y momento no pueden conocerse a la vez."
+ },
+ "efecto-tunel": {
+  "nombre": "Efecto túnel",
+  "resumen": "Explica la desintegración alfa."
+ },
+ "hipotesis-neutrino": {
+  "nombre": "Hipótesis del neutrino",
+  "resumen": "Partícula neutra que salva la conservación de la energía."
+ },
+ "teoria-mesones": {
+  "nombre": "Teoría del mesón",
+  "resumen": "La fuerza nuclear se transmite por una partícula masiva."
+ },
+ "muon": {
+  "nombre": "Muon",
+  "resumen": "Un electrón pesado inesperado."
+ },
+ "resonancia-magnetica-nuclear": {
+  "nombre": "Resonancia magnética nuclear",
+  "resumen": "Los núcleos absorben radio en un campo magnético."
+ },
+ "pion": {
+  "nombre": "Pion",
+  "resumen": "El mesón de Yukawa hallado en emulsiones fotográficas."
+ },
+ "deteccion-neutrino": {
+  "nombre": "Detección del neutrino",
+  "resumen": "Antineutrinos de un reactor."
+ },
+ "teoria-bcs": {
+  "nombre": "Teoría BCS",
+  "resumen": "Pares de electrones explican la superconductividad."
+ },
+ "violacion-paridad": {
+  "nombre": "Violación de la paridad",
+  "resumen": "La interacción débil distingue izquierda de derecha."
+ },
+ "efecto-josephson": {
+  "nombre": "Efecto Josephson",
+  "resumen": "Corriente entre dos superconductores a través de un aislante."
+ },
+ "teorema-bell": {
+  "nombre": "Teorema de Bell",
+  "resumen": "Ninguna teoría local de variables ocultas reproduce la cuántica."
+ },
+ "cromodinamica": {
+  "nombre": "Cromodinámica cuántica",
+  "resumen": "Libertad asintótica de la fuerza fuerte."
+ },
+ "quark-encanto": {
+  "nombre": "Quark encanto",
+  "resumen": "Partícula J/psi."
+ },
+ "bosones-w-z": {
+  "nombre": "Bosones W y Z",
+  "resumen": "Hallados en el CERN."
+ },
+ "desigualdades-bell-experimento": {
+  "nombre": "Entrelazamiento confirmado",
+  "resumen": "Fotones entrelazados violan las desigualdades de Bell."
+ },
+ "teoria-cuerdas": {
+  "nombre": "Teoría de supercuerdas",
+  "resumen": "Candidata a unificar las fuerzas; sin confirmación experimental."
+ },
+ "superconductores-alta-temperatura": {
+  "nombre": "Superconductores de alta temperatura",
+  "resumen": "Cerámicas de cobre superconductoras por encima de 30 K."
+ },
+ "quark-cima": {
+  "nombre": "Quark cima",
+  "resumen": "Último quark, hallado en el Tevatron."
+ },
+ "condensado-bose-einstein": {
+  "nombre": "Condensado de Bose-Einstein",
+  "resumen": "Átomos enfriados hasta formar un solo estado cuántico."
+ },
+ "gran-colisionador": {
+  "nombre": "Gran Colisionador de Hadrones",
+  "resumen": "Anillo de 27 km con imanes superconductores."
+ }
+}

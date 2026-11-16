@@ -1,0 +1,314 @@
+{
+ "narria": {
+  "nombre": "Narria y trineo",
+  "resumen": "Plataforma arrastrada sobre patines o rodillos para mover cargas pesadas."
+ },
+ "rueda": {
+  "nombre": "Rueda con eje",
+  "resumen": "Discos macizos y eje ajustado; Liubliana, Bronocice, Mesopotamia."
+ },
+ "carro-bueyes": {
+  "nombre": "Carro de cuatro ruedas",
+  "resumen": "Carros macizos tirados por bueyes en Mesopotamia, el Cáucaso y Europa central."
+ },
+ "rueda-radios": {
+  "nombre": "Rueda de radios",
+  "resumen": "Ligera; carros de Sintashta."
+ },
+ "carro-guerra": {
+  "nombre": "Carro ligero de dos ruedas",
+  "resumen": "Plataforma ligera tirada por caballos para arqueros; estepa euroasiática y Próximo Oriente."
+ },
+ "montar": {
+  "nombre": "Monta a caballo con bocado",
+  "resumen": "Caballería propiamente dicha."
+ },
+ "calzada": {
+  "nombre": "Calzada pavimentada",
+  "resumen": "Firme de varias capas con drenaje y trazado recto; la Vía Apia une Roma y Capua."
+ },
+ "groma": {
+  "nombre": "Groma y nivelación",
+  "resumen": "Instrumentos de agrimensor."
+ },
+ "carretilla": {
+  "nombre": "Carretilla",
+  "resumen": "Una sola rueda bajo la carga; representada en tumbas de la China Han."
+ },
+ "estribo": {
+  "nombre": "Estribo",
+  "resumen": "China de la dinastía Jin."
+ },
+ "herradura": {
+  "nombre": "Herradura clavada",
+  "resumen": "Protege el casco en suelos duros y húmedos; Europa altomedieval."
+ },
+ "draisiana": {
+  "nombre": "Draisiana",
+  "resumen": "Vehículo de dos ruedas en línea."
+ },
+ "velocipedo": {
+  "nombre": "Velocípedo de pedales",
+  "resumen": "Pedales acoplados directamente a la rueda delantera."
+ },
+ "bicicleta": {
+  "nombre": "Bicicleta de seguridad",
+  "resumen": "Ruedas iguales y transmisión por cadena."
+ },
+ "cadena-rodillos": {
+  "nombre": "Cadena de rodillos",
+  "resumen": "Eslabones con rodillos que reducen el desgaste de la transmisión."
+ },
+ "neumatico": {
+  "nombre": "Neumático",
+  "resumen": "Cámara de aire a presión dentro de una cubierta de caucho."
+ },
+ "rail-hierro": {
+  "nombre": "Raíl de hierro",
+  "resumen": "Carriles de hierro fundido sobre los de madera en Coalbrookdale."
+ },
+ "locomotora": {
+  "nombre": "Locomotora de vapor",
+  "resumen": "Máquina de alta presión sobre raíles que arrastra diez toneladas en Penydarren (Gales)."
+ },
+ "ferrocarril-publico": {
+  "nombre": "Ferrocarril público de vapor",
+  "resumen": "Línea Stockton-Darlington: mercancías y viajeros con locomotoras de vapor."
+ },
+ "rocket": {
+  "nombre": "Locomotora Rocket",
+  "resumen": "Caldera multitubular y tiro forzado."
+ },
+ "metro": {
+  "nombre": "Ferrocarril metropolitano",
+  "resumen": "Ferrocarril urbano en túnel; Metropolitan Railway de Londres."
+ },
+ "freno-aire": {
+  "nombre": "Freno de aire comprimido",
+  "resumen": "Frenado simultáneo y automático de todo el tren."
+ },
+ "ferrocarril-electrico": {
+  "nombre": "Ferrocarril eléctrico",
+  "resumen": "Locomotora eléctrica alimentada por un tercer carril en la Exposición de Berlín."
+ },
+ "alta-velocidad": {
+  "nombre": "Tren de alta velocidad",
+  "resumen": "Línea exclusiva electrificada a 210 km/h; Tōkaidō Shinkansen."
+ },
+ "maglev": {
+  "nombre": "Tren de levitación magnética comercial",
+  "resumen": "Tren sustentado y propulsado por campos magnéticos; línea de Shanghái a 430 km/h."
+ },
+ "fardier": {
+  "nombre": "Carro de vapor de Cugnot",
+  "resumen": "Tractor de artillería de tres ruedas movido por vapor."
+ },
+ "automovil": {
+  "nombre": "Automóvil de gasolina",
+  "resumen": "Triciclo con motor de cuatro tiempos, encendido eléctrico y diferencial: Patent-Motorwagen."
+ },
+ "coche-electrico": {
+  "nombre": "Automóvil eléctrico",
+  "resumen": "Vehículo de carretera con acumuladores recargables."
+ },
+ "cadena-montaje": {
+  "nombre": "Cadena de montaje móvil",
+  "resumen": "El chasis avanza por una cinta y cada obrero repite una operación; Highland Park."
+ },
+ "arranque-electrico": {
+  "nombre": "Motor de arranque eléctrico",
+  "resumen": "Elimina la manivela y hace el automóvil accesible a cualquiera."
+ },
+ "hibrido": {
+  "nombre": "Automóvil híbrido en serie",
+  "resumen": "Motor de gasolina y eléctrico combinados con frenada regenerativa; Toyota Prius."
+ },
+ "electrico-litio": {
+  "nombre": "Automóvil eléctrico de iones de litio",
+  "resumen": "Tesla Roadster: autonomía superior a 300 km con celdas de iones de litio."
+ },
+ "balsa": {
+  "nombre": "Embarcaciones para travesías marinas",
+  "resumen": "Necesarias para poblar Sahul."
+ },
+ "canoa-monoxila": {
+  "nombre": "Canoa monóxila",
+  "resumen": "Tronco vaciado con fuego y azuela; la canoa de Pesse (Países Bajos) es la más antigua conservada."
+ },
+ "vela": {
+  "nombre": "Vela",
+  "resumen": "Valle del Nilo y golfo Pérsico."
+ },
+ "barco-tablas": {
+  "nombre": "Casco de tablas cosidas",
+  "resumen": "Tablas unidas con cuerdas y espigas sin clavos; barca funeraria de Keops."
+ },
+ "trirreme": {
+  "nombre": "Trirreme",
+  "resumen": "Tres órdenes de remos y espolón."
+ },
+ "timon-codaste": {
+  "nombre": "Timón de codaste",
+  "resumen": "China Han; Europa hacia 1180."
+ },
+ "vela-latina": {
+  "nombre": "Vela latina",
+  "resumen": "Vela triangular sobre entena inclinada que permite navegar contra el viento."
+ },
+ "brujula": {
+  "nombre": "Brújula magnética",
+  "resumen": "Pez y aguja imantados; uso náutico hacia 1100."
+ },
+ "astrolabio": {
+  "nombre": "Astrolabio",
+  "resumen": "Proyección estereográfica del cielo."
+ },
+ "portulano": {
+  "nombre": "Carta portulana",
+  "resumen": "Carta náutica con rumbos y costas a escala; la Carta Pisana es la más antigua."
+ },
+ "carabela": {
+  "nombre": "Carabela",
+  "resumen": "Nave ligera de aparejo latino para la exploración atlántica portuguesa."
+ },
+ "astrolabio-nautico": {
+  "nombre": "Astrolabio náutico",
+  "resumen": "Latitud por la altura del Sol."
+ },
+ "proyeccion-mercator": {
+  "nombre": "Proyección de Mercator",
+  "resumen": "Mapa cilíndrico conforme donde un rumbo constante es una línea recta."
+ },
+ "octante": {
+  "nombre": "Octante",
+  "resumen": "Dos espejos superponen el astro y el horizonte: altura medida desde un barco en movimiento."
+ },
+ "cronometro-marino": {
+  "nombre": "Cronómetro marino",
+  "resumen": "H4: la longitud en el mar."
+ },
+ "barco-vapor": {
+  "nombre": "Barco de vapor comercial",
+  "resumen": "Servicio regular del North River Steamboat en el Hudson."
+ },
+ "helice": {
+  "nombre": "Hélice naval",
+  "resumen": "Sustituye a las ruedas de paletas: más eficaz y menos vulnerable."
+ },
+ "casco-hierro": {
+  "nombre": "Transatlántico de hierro con hélice",
+  "resumen": "SS Great Britain: casco de hierro, hélice y máquina de vapor en un transatlántico."
+ },
+ "submarino-electrico": {
+  "nombre": "Submarino eléctrico",
+  "resumen": "Submarino de Isaac Peral: propulsión por acumuladores y tubo lanzatorpedos."
+ },
+ "contenedor": {
+  "nombre": "Contenedor intermodal",
+  "resumen": "Caja normalizada que pasa de camión a barco sin manipular la carga."
+ },
+ "cometa": {
+  "nombre": "Cometa",
+  "resumen": "Armazón ligero de bambú y seda sostenido por el viento; China."
+ },
+ "globo": {
+  "nombre": "Globo aerostático",
+  "resumen": "Aire caliente e hidrógeno."
+ },
+ "aeroplano-cayley": {
+  "nombre": "Concepto de aeroplano de ala fija",
+  "resumen": "Separa sustentación, propulsión y control."
+ },
+ "tunel-viento": {
+  "nombre": "Túnel de viento",
+  "resumen": "Permite medir sustentación y resistencia sobre modelos."
+ },
+ "planeador": {
+  "nombre": "Planeador controlado",
+  "resumen": "Más de dos mil vuelos planeados con control por desplazamiento del cuerpo."
+ },
+ "dirigible": {
+  "nombre": "Dirigible rígido",
+  "resumen": "Estructura rígida de aluminio con celdas de gas; LZ 1."
+ },
+ "avion": {
+  "nombre": "Avión con motor controlado",
+  "resumen": "Flyer de los Wright: vuelo propulsado, sostenido y controlado en los tres ejes."
+ },
+ "autogiro": {
+  "nombre": "Autogiro",
+  "resumen": "Rotor libre con palas articuladas que da sustentación sin entrar en pérdida."
+ },
+ "helicoptero": {
+  "nombre": "Helicóptero práctico",
+  "resumen": "VS-300: rotor principal único y rotor de cola antipar."
+ },
+ "cabina-presurizada": {
+  "nombre": "Cabina presurizada",
+  "resumen": "Fuselaje estanco que mantiene la presión para volar sobre el mal tiempo; Boeing 307."
+ },
+ "vuelo-supersonico": {
+  "nombre": "Vuelo supersónico",
+  "resumen": "El Bell X-1 con motor cohete supera la velocidad del sonido en vuelo nivelado."
+ },
+ "reactor-comercial": {
+  "nombre": "Avión comercial a reacción",
+  "resumen": "De Havilland Comet: primer servicio regular de pasajeros con turborreactores."
+ },
+ "cohete-polvora": {
+  "nombre": "Cohete de pólvora",
+  "resumen": "Tubos de pólvora que se impulsan por reacción; flechas de fuego en el asedio de Kaifeng."
+ },
+ "ecuacion-cohete": {
+  "nombre": "Ecuación del cohete",
+  "resumen": "Relaciona la velocidad final con la masa de propulsante y la velocidad de escape."
+ },
+ "motor-cohete-liquido": {
+  "nombre": "Cohete de combustible líquido",
+  "resumen": "Primer vuelo con oxígeno líquido y gasolina en Auburn (Massachusetts)."
+ },
+ "v2": {
+  "nombre": "Misil balístico V-2",
+  "resumen": "Primer objeto artificial en alcanzar el espacio; guiado inercial."
+ },
+ "giroscopo": {
+  "nombre": "Giróscopo",
+  "resumen": "Rotor que conserva su orientación; base del guiado inercial."
+ },
+ "sputnik": {
+  "nombre": "Satélite artificial",
+  "resumen": "Sputnik 1: una esfera con radiotransmisor puesta en órbita por un cohete R-7."
+ },
+ "vuelo-tripulado": {
+  "nombre": "Vuelo espacial tripulado",
+  "resumen": "Vostok 1: Yuri Gagarin completa una órbita y regresa con vida."
+ },
+ "alunizaje": {
+  "nombre": "Alunizaje tripulado",
+  "resumen": "Apolo 11: dos astronautas pisan la Luna y vuelven a la Tierra."
+ },
+ "pila-combustible": {
+  "nombre": "Pila de combustible",
+  "resumen": "Hidrógeno y oxígeno producen electricidad y agua sobre electrodos de platino."
+ },
+ "estacion-espacial": {
+  "nombre": "Estación espacial",
+  "resumen": "Saliut 1: laboratorio habitable en órbita."
+ },
+ "sonda-interestelar": {
+  "nombre": "Sondas Voyager",
+  "resumen": "Asistencias gravitatorias hacia los planetas exteriores; la Voyager 1 cruzó la heliopausa en 2012."
+ },
+ "transbordador": {
+  "nombre": "Transbordador espacial",
+  "resumen": "Orbitador reutilizable con escudo térmico de losetas cerámicas."
+ },
+ "telescopio-espacial": {
+  "nombre": "Telescopio espacial",
+  "resumen": "Hubble: espejo de 2,4 m fuera de la atmósfera, reparable en órbita."
+ },
+ "cohete-reutilizable": {
+  "nombre": "Cohete orbital reutilizable",
+  "resumen": "Aterrizaje de la primera etapa del Falcon 9."
+ }
+}

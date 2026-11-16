@@ -1,0 +1,358 @@
+{
+ "rayos-catodicos": {
+  "nombre": "Rayos catódicos",
+  "resumen": "Rayos que parten del cátodo en tubos muy evacuados."
+ },
+ "efecto-edison": {
+  "nombre": "Emisión termoiónica",
+  "resumen": "Corriente entre filamento caliente y una placa en el vacío."
+ },
+ "tubo-rayos-catodicos": {
+  "nombre": "Tubo de rayos catódicos",
+  "resumen": "Haz desviado sobre pantalla fluorescente: el osciloscopio."
+ },
+ "diodo-vacio": {
+  "nombre": "Diodo de vacío",
+  "resumen": "Válvula de dos electrodos que deja pasar la corriente en un solo sentido: detecta señales de radio."
+ },
+ "triodo": {
+  "nombre": "Triodo",
+  "resumen": "Una rejilla controla la corriente: amplificación."
+ },
+ "regeneracion": {
+  "nombre": "Circuito regenerativo y oscilador",
+  "resumen": "Realimentación positiva."
+ },
+ "rectificador-cristal": {
+  "nombre": "Rectificación en cristales",
+  "resumen": "Contacto de punta sobre galena."
+ },
+ "czochralski": {
+  "nombre": "Crecimiento de monocristales",
+  "resumen": "Tirar de un germen desde el fundido."
+ },
+ "teoria-bandas": {
+  "nombre": "Teoría de bandas de los semiconductores",
+  "resumen": "Explica conductores, aislantes y semiconductores."
+ },
+ "transistor": {
+  "nombre": "Transistor de contacto puntual",
+  "resumen": "Amplificación en germanio."
+ },
+ "transistor-union": {
+  "nombre": "Transistor de unión",
+  "resumen": "Uniones p-n crecidas en el cristal."
+ },
+ "fusion-zonas": {
+  "nombre": "Refinado por fusión de zonas",
+  "resumen": "Purezas de partes por mil millones."
+ },
+ "transistor-silicio": {
+  "nombre": "Transistor de silicio",
+  "resumen": "Soporta más temperatura que el germanio."
+ },
+ "oxido-pasivante": {
+  "nombre": "Pasivación y máscara de óxido",
+  "resumen": "El SiO2 protege la superficie y delimita la difusión."
+ },
+ "fotolitografia": {
+  "nombre": "Fotolitografía de semiconductores",
+  "resumen": "Resinas fotosensibles para definir patrones."
+ },
+ "circuito-integrado": {
+  "nombre": "Circuito integrado",
+  "resumen": "Varios componentes en un mismo cristal."
+ },
+ "proceso-planar": {
+  "nombre": "Proceso planar",
+  "resumen": "Dispositivos planos bajo óxido; base del chip monolítico de Noyce."
+ },
+ "mosfet": {
+  "nombre": "MOSFET",
+  "resumen": "Transistor de efecto de campo metal-óxido-semiconductor."
+ },
+ "cmos": {
+  "nombre": "Lógica CMOS",
+  "resumen": "Pares complementarios de consumo mínimo."
+ },
+ "dram": {
+  "nombre": "Memoria DRAM",
+  "resumen": "Un transistor y un condensador por bit."
+ },
+ "ccd": {
+  "nombre": "Sensor CCD",
+  "resumen": "Transferencia de carga: imagen digital."
+ },
+ "microprocesador": {
+  "nombre": "Microprocesador",
+  "resumen": "Intel 4004: una CPU en un chip."
+ },
+ "memoria-flash": {
+  "nombre": "Memoria flash",
+  "resumen": "No volátil y borrable por bloques."
+ },
+ "finfet": {
+  "nombre": "Transistor FinFET",
+  "resumen": "Canal en aleta rodeado por la puerta."
+ },
+ "litografia-euv": {
+  "nombre": "Litografía ultravioleta extrema",
+  "resumen": "Luz de 13,5 nm en producción en serie."
+ },
+ "emision-estimulada": {
+  "nombre": "Emisión estimulada",
+  "resumen": "Un fotón induce la emisión de otro idéntico."
+ },
+ "maser": {
+  "nombre": "Máser",
+  "resumen": "Amplificación de microondas."
+ },
+ "laser": {
+  "nombre": "Láser",
+  "resumen": "Rubí bombeado con lámpara de destello."
+ },
+ "laser-semiconductor": {
+  "nombre": "Láser de semiconductor",
+  "resumen": "Diodo de arseniuro de galio."
+ },
+ "abaco": {
+  "nombre": "Ábaco",
+  "resumen": "Tablero de cuentas sumerio; después, griego, romano y chino."
+ },
+ "anticitera": {
+  "nombre": "Mecanismo de Anticitera",
+  "resumen": "Calculadora astronómica de engranajes de bronce."
+ },
+ "regla-calculo": {
+  "nombre": "Regla de cálculo",
+  "resumen": "Escalas logarítmicas deslizantes."
+ },
+ "pascalina": {
+  "nombre": "Pascalina",
+  "resumen": "Suma con acarreo automático."
+ },
+ "calculadora-leibniz": {
+  "nombre": "Calculadora de Leibniz",
+  "resumen": "Cilindro escalonado: multiplica y divide."
+ },
+ "maquina-diferencias": {
+  "nombre": "Máquina de diferencias",
+  "resumen": "Calculadora mecánica que tabula polinomios por el método de las diferencias finitas."
+ },
+ "maquina-analitica": {
+  "nombre": "Máquina analítica",
+  "resumen": "Diseño de computador programable con tarjetas."
+ },
+ "programa-lovelace": {
+  "nombre": "Primer programa publicado",
+  "resumen": "Algoritmo para los números de Bernoulli."
+ },
+ "tabuladora": {
+  "nombre": "Tabuladora de tarjetas perforadas",
+  "resumen": "Lectura eléctrica de tarjetas perforadas que cuenta y clasifica el censo de EE. UU."
+ },
+ "maquina-turing": {
+  "nombre": "Máquina de Turing",
+  "resumen": "Máquina abstracta de cinta y estados que define con precisión qué es computable."
+ },
+ "logica-conmutacion": {
+  "nombre": "Álgebra de circuitos de conmutación",
+  "resumen": "Los relés implementan lógica booleana."
+ },
+ "z3": {
+  "nombre": "Computador Z3",
+  "resumen": "Programable, binario, de relés."
+ },
+ "colossus": {
+  "nombre": "Colossus",
+  "resumen": "Electrónico, para criptoanálisis."
+ },
+ "eniac": {
+  "nombre": "ENIAC",
+  "resumen": "Electrónico de propósito general."
+ },
+ "arquitectura-von-neumann": {
+  "nombre": "Programa almacenado",
+  "resumen": "Instrucciones y datos en la misma memoria."
+ },
+ "manchester-baby": {
+  "nombre": "Primer computador de programa almacenado",
+  "resumen": "Memoria de tubos Williams."
+ },
+ "teoria-informacion": {
+  "nombre": "Teoría de la información",
+  "resumen": "El bit y la capacidad de canal."
+ },
+ "memoria-nucleos": {
+  "nombre": "Memoria de núcleos magnéticos",
+  "resumen": "Anillos de ferrita magnetizados en uno u otro sentido: memoria fiable de acceso aleatorio."
+ },
+ "disco-duro": {
+  "nombre": "Disco duro",
+  "resumen": "IBM 350 RAMAC: cincuenta discos magnéticos giratorios con cabezal móvil."
+ },
+ "computador-transistores": {
+  "nombre": "Computador transistorizado",
+  "resumen": "El transistor sustituye a la válvula: máquinas más pequeñas, frías y fiables (TRADIC, Harwell CADET)."
+ },
+ "miniordenador": {
+  "nombre": "Miniordenador",
+  "resumen": "PDP-8: un computador del tamaño de un armario al alcance de un laboratorio."
+ },
+ "ordenador-personal": {
+  "nombre": "Ordenador personal",
+  "resumen": "Apple II, TRS-80, PET; antes, el Altair 8800."
+ },
+ "interfaz-grafica": {
+  "nombre": "Interfaz gráfica de usuario",
+  "resumen": "Xerox Alto: ventanas, iconos, mapa de bits."
+ },
+ "raton": {
+  "nombre": "Ratón",
+  "resumen": "Dispositivo de mano con ruedas que mueve un puntero en la pantalla."
+ },
+ "tiempo-compartido": {
+  "nombre": "Tiempo compartido",
+  "resumen": "Varios usuarios interactivos en una máquina: CTSS."
+ },
+ "telefono-inteligente": {
+  "nombre": "Teléfono inteligente táctil",
+  "resumen": "Pantalla capacitiva multitáctil."
+ },
+ "gps": {
+  "nombre": "GPS operativo",
+  "resumen": "Constelación completa de 24 satélites."
+ },
+ "computacion-cuantica": {
+  "nombre": "Algoritmo de Shor",
+  "resumen": "Factorización eficiente en un computador cuántico."
+ },
+ "ventaja-cuantica": {
+  "nombre": "Ventaja cuántica experimental",
+  "resumen": "Procesador Sycamore de 53 cúbits."
+ },
+ "compilador": {
+  "nombre": "Compilador",
+  "resumen": "Sistema A-0: un programa que traduce instrucciones simbólicas a código de máquina."
+ },
+ "fortran": {
+  "nombre": "FORTRAN",
+  "resumen": "Primer lenguaje de alto nivel de uso amplio."
+ },
+ "lisp": {
+  "nombre": "LISP",
+  "resumen": "Procesamiento simbólico y recolección de basura."
+ },
+ "calculo-lambda": {
+  "nombre": "Cálculo lambda",
+  "resumen": "Modelo de computación por funciones."
+ },
+ "unix": {
+  "nombre": "UNIX",
+  "resumen": "Sistema operativo portable."
+ },
+ "lenguaje-c": {
+  "nombre": "Lenguaje C",
+  "resumen": "Lenguaje estructurado cercano a la máquina, creado para reescribir UNIX."
+ },
+ "base-relacional": {
+  "nombre": "Modelo relacional",
+  "resumen": "Datos en tablas y álgebra relacional; origen de SQL."
+ },
+ "clave-publica": {
+  "nombre": "Criptografía de clave pública",
+  "resumen": "Intercambio de claves sin secreto previo."
+ },
+ "rsa": {
+  "nombre": "RSA",
+  "resumen": "Cifrado basado en la factorización."
+ },
+ "linux": {
+  "nombre": "Linux",
+  "resumen": "Núcleo de sistema operativo libre desarrollado en colaboración a través de internet."
+ },
+ "conmutacion-paquetes": {
+  "nombre": "Conmutación de paquetes",
+  "resumen": "Mensajes troceados y encaminados por separado."
+ },
+ "arpanet": {
+  "nombre": "ARPANET",
+  "resumen": "Red de conmutación de paquetes que une cuatro universidades de EE. UU."
+ },
+ "correo-electronico": {
+  "nombre": "Correo electrónico en red",
+  "resumen": "Mensajes entre usuarios de distintas máquinas, con la dirección usuario@máquina."
+ },
+ "ethernet": {
+  "nombre": "Ethernet",
+  "resumen": "Red local por cable compartido con detección de colisiones; Xerox PARC."
+ },
+ "internet": {
+  "nombre": "TCP/IP",
+  "resumen": "Protocolo de interconexión de redes; adoptado en 1983."
+ },
+ "web": {
+  "nombre": "World Wide Web",
+  "resumen": "Documentos enlazados por hipertexto sobre internet: HTTP, HTML y URL; CERN."
+ },
+ "navegador-grafico": {
+  "nombre": "Navegador gráfico",
+  "resumen": "Mosaic muestra texto e imágenes en la misma página y populariza la web."
+ },
+ "wifi": {
+  "nombre": "Wi-Fi",
+  "resumen": "Red local inalámbrica por radio según la norma IEEE 802.11."
+ },
+ "buscador": {
+  "nombre": "Buscador por enlaces",
+  "resumen": "PageRank ordena las páginas según los enlaces que reciben."
+ },
+ "neurona-artificial": {
+  "nombre": "Neurona artificial",
+  "resumen": "Modelo lógico de la neurona."
+ },
+ "perceptron": {
+  "nombre": "Perceptrón",
+  "resumen": "Clasificador que aprende."
+ },
+ "retropropagacion": {
+  "nombre": "Retropropagación",
+  "resumen": "Gradientes en redes multicapa."
+ },
+ "red-convolucional": {
+  "nombre": "Red convolucional",
+  "resumen": "Reconocimiento de dígitos."
+ },
+ "lstm": {
+  "nombre": "LSTM",
+  "resumen": "Memoria a largo plazo en redes recurrentes."
+ },
+ "gpu": {
+  "nombre": "Procesador gráfico (GPU)",
+  "resumen": "Cálculo paralelo masivo."
+ },
+ "alexnet": {
+  "nombre": "Aprendizaje profundo en GPU",
+  "resumen": "Una red convolucional profunda entrenada en GPU gana ImageNet con gran ventaja."
+ },
+ "alphago": {
+  "nombre": "AlphaGo",
+  "resumen": "Vence a Lee Sedol al go."
+ },
+ "transformer": {
+  "nombre": "Transformer",
+  "resumen": "Atención sin recurrencia."
+ },
+ "alphafold": {
+  "nombre": "AlphaFold 2",
+  "resumen": "Predice la estructura de las proteínas."
+ },
+ "modelo-lenguaje": {
+  "nombre": "Grandes modelos de lenguaje",
+  "resumen": "Redes transformer entrenadas con enormes corpus de texto; GPT-3 y sucesores."
+ },
+ "asistente-conversacional": {
+  "nombre": "Asistentes conversacionales generativos",
+  "resumen": "Uso masivo de modelos de lenguaje."
+ }
+}

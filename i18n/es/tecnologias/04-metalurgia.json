@@ -1,0 +1,298 @@
+{
+ "mineria-ocre": {
+  "nombre": "Minería de ocre",
+  "resumen": "Extracción de hematites en Ngwenya (Esuatini)."
+ },
+ "mineria-cobre": {
+  "nombre": "Minería de cobre",
+  "resumen": "Pozos sobre vetas de malaquita en Rudna Glava (Serbia)."
+ },
+ "fuego-quebranto": {
+  "nombre": "Arranque de roca por fuego",
+  "resumen": "Calentar el frente y enfriarlo bruscamente agrieta la roca."
+ },
+ "mineria-estano": {
+  "nombre": "Minería de casiterita",
+  "resumen": "El estaño es escaso: su comercio enlaza Asia central, Anatolia y el Atlántico."
+ },
+ "mineria-hierro-herramientas": {
+  "nombre": "Minería con herramientas de hierro",
+  "resumen": "Picos, cuñas y martillos de hierro; galerías profundas en Laurion."
+ },
+ "mineria-plata-sajona": {
+  "nombre": "Minería profunda centroeuropea",
+  "resumen": "Freiberg y los Montes Metálicos: desagüe y ventilación mecanizados."
+ },
+ "vagoneta-rail": {
+  "nombre": "Vagoneta sobre raíles de madera",
+  "resumen": "El «Hund» minero descrito por Agricola."
+ },
+ "voladura-polvora": {
+  "nombre": "Voladura con pólvora",
+  "resumen": "Primera voladura minera documentada, en Schemnitz."
+ },
+ "lampara-davy": {
+  "nombre": "Lámpara de seguridad",
+  "resumen": "Una malla metálica impide que la llama inflame el grisú."
+ },
+ "cianuracion": {
+  "nombre": "Cianuración del oro",
+  "resumen": "Disuelve el oro de menas pobres."
+ },
+ "flotacion": {
+  "nombre": "Flotación por espuma",
+  "resumen": "Separa sulfuros finos; hace rentables las menas de baja ley."
+ },
+ "cobre-nativo": {
+  "nombre": "Cobre nativo martillado",
+  "resumen": "Cuentas y punzones batidos en frío; Çayönü (Anatolia)."
+ },
+ "recocido": {
+  "nombre": "Recocido",
+  "resumen": "Calentar el metal endurecido por el martillado le devuelve la ductilidad."
+ },
+ "cobre-reduccion": {
+  "nombre": "Reducción del cobre",
+  "resumen": "Malaquita y carbón vegetal en atmósfera reductora; Belovode (Serbia)."
+ },
+ "crisol": {
+  "nombre": "Crisol y fusión",
+  "resumen": "Recipiente refractario para fundir y verter el metal."
+ },
+ "carbon-vegetal": {
+  "nombre": "Carbón vegetal",
+  "resumen": "Madera carbonizada sin aire: combustible limpio que supera los 1100 °C con tiro forzado."
+ },
+ "tobera": {
+  "nombre": "Soplete y tobera",
+  "resumen": "Tubos de soplado con boquilla cerámica para avivar el fuego."
+ },
+ "molde": {
+  "nombre": "Molde de fundición",
+  "resumen": "Moldes abiertos y, después, bivalvos."
+ },
+ "cera-perdida": {
+  "nombre": "Fundición a la cera perdida",
+  "resumen": "El modelo de cera se sustituye por metal; Varna, Mehrgarh, Nahal Mishmar."
+ },
+ "apicultura-silvestre": {
+  "nombre": "Recolección de cera y miel",
+  "resumen": "Cera de abeja identificada en cerámicas neolíticas."
+ },
+ "herramientas-cobre": {
+  "nombre": "Hachas y cinceles de cobre",
+  "resumen": "Filos metálicos refundibles para carpintería fina."
+ },
+ "cobre-arsenical": {
+  "nombre": "Cobre arsenical",
+  "resumen": "Aleación más dura, primero accidental por la mena."
+ },
+ "bronce": {
+  "nombre": "Bronce de estaño",
+  "resumen": "Cobre con alrededor de un 10 % de estaño; hay piezas aisladas anteriores en los Balcanes."
+ },
+ "fuelle": {
+  "nombre": "Fuelle de olla",
+  "resumen": "Membranas de piel accionadas con los pies."
+ },
+ "sierra-metal": {
+  "nombre": "Sierra metálica",
+  "resumen": "Hojas de cobre con abrasivo de arena; después, bronce y hierro dentados."
+ },
+ "laton": {
+  "nombre": "Latón por cementación",
+  "resumen": "Cobre calentado con calamina; el oricalco romano."
+ },
+ "zinc": {
+  "nombre": "Zinc metálico destilado",
+  "resumen": "Retortas de Zawar (India) condensan el vapor de zinc."
+ },
+ "proceso-gales": {
+  "nombre": "Proceso galés del cobre",
+  "resumen": "Tostaciones y fusiones sucesivas con carbón mineral en Swansea."
+ },
+ "convertidor-cobre": {
+  "nombre": "Conversión del cobre",
+  "resumen": "Soplado de la mata de cobre en convertidor."
+ },
+ "oro": {
+  "nombre": "Orfebrería",
+  "resumen": "Necrópolis de Varna (Bulgaria)."
+ },
+ "plomo": {
+  "nombre": "Reducción del plomo",
+  "resumen": "La galena se reduce a baja temperatura."
+ },
+ "copelacion": {
+  "nombre": "Copelación de la plata",
+  "resumen": "Oxidar el plomo argentífero separa la plata."
+ },
+ "amalgama-dorado": {
+  "nombre": "Dorado al fuego con mercurio",
+  "resumen": "Amalgama de oro aplicada y calentada."
+ },
+ "moneda": {
+  "nombre": "Moneda acuñada",
+  "resumen": "Piezas de electro con peso garantizado; Lidia."
+ },
+ "proceso-patio": {
+  "nombre": "Beneficio de patio",
+  "resumen": "Amalgamación en frío de menas de plata; Pachuca."
+ },
+ "platino-maleable": {
+  "nombre": "Platino maleable",
+  "resumen": "Purificación química y compactación del polvo."
+ },
+ "hierro-meteorico": {
+  "nombre": "Hierro meteórico",
+  "resumen": "Cuentas de Gerzeh (Egipto) batidas a partir de un meteorito."
+ },
+ "reduccion-hierro": {
+  "nombre": "Horno bajo de hierro",
+  "resumen": "Reducción en estado sólido: una esponja que se compacta en la forja; Anatolia, y general hacia 1200 a. C."
+ },
+ "forja": {
+  "nombre": "Forja y soldadura a la calda",
+  "resumen": "Dar forma al hierro al rojo y unirlo por martillado."
+ },
+ "acero-cementado": {
+  "nombre": "Acero por cementación",
+  "resumen": "El hierro absorbe carbono en contacto prolongado con el carbón."
+ },
+ "temple": {
+  "nombre": "Temple y revenido",
+  "resumen": "Enfriamiento brusco que endurece el acero."
+ },
+ "hierro-colado": {
+  "nombre": "Hierro colado",
+  "resumen": "Altos hornos chinos que funden el hierro."
+ },
+ "fuelle-piston": {
+  "nombre": "Fuelle de pistón de doble efecto",
+  "resumen": "Sopla en ambos sentidos del recorrido; China."
+ },
+ "acero-crisol-wootz": {
+  "nombre": "Acero de crisol (wootz)",
+  "resumen": "Sur de la India; materia prima del acero «de Damasco»."
+ },
+ "fuelle-hidraulico": {
+  "nombre": "Fuelles movidos por agua",
+  "resumen": "Rueda hidráulica aplicada a los fuelles de fundición."
+ },
+ "hilera": {
+  "nombre": "Hilera de trefilar",
+  "resumen": "Placa de acero con orificios decrecientes por los que se estira el alambre."
+ },
+ "alto-horno": {
+  "nombre": "Alto horno europeo",
+  "resumen": "Lapphyttan (Suecia): produce arrabio líquido de forma continua."
+ },
+ "trefilado-hidraulico": {
+  "nombre": "Trefilería hidráulica",
+  "resumen": "Molinos de alambre de Núremberg."
+ },
+ "hojalata": {
+  "nombre": "Hojalata",
+  "resumen": "Chapa de hierro estañada; Bohemia y Sajonia."
+ },
+ "laminador": {
+  "nombre": "Laminador y cortadora",
+  "resumen": "Cilindros que aplanan y cortan el hierro en varillas."
+ },
+ "horno-reverbero": {
+  "nombre": "Horno de reverbero",
+  "resumen": "La llama se refleja en la bóveda: el combustible no toca el metal."
+ },
+ "coque": {
+  "nombre": "Fundición con coque",
+  "resumen": "El coque sustituye al carbón vegetal en Coalbrookdale."
+ },
+ "acero-crisol": {
+  "nombre": "Acero fundido al crisol",
+  "resumen": "Acero homogéneo para resortes y herramientas."
+ },
+ "pudelado": {
+  "nombre": "Pudelado y laminado",
+  "resumen": "Hierro maleable a gran escala."
+ },
+ "convertidor-bessemer": {
+  "nombre": "Convertidor Bessemer",
+  "resumen": "Aire soplado a través del arrabio quema el carbono."
+ },
+ "siemens-martin": {
+  "nombre": "Horno Siemens-Martin",
+  "resumen": "Horno regenerativo de solera abierta."
+ },
+ "proceso-thomas": {
+  "nombre": "Proceso básico Thomas",
+  "resumen": "Revestimiento básico que elimina el fósforo."
+ },
+ "horno-arco": {
+  "nombre": "Horno de arco eléctrico",
+  "resumen": "Funde chatarra y aceros especiales."
+ },
+ "acero-inoxidable": {
+  "nombre": "Acero inoxidable",
+  "resumen": "Acero con más de un 12 % de cromo."
+ },
+ "acero-oxigeno": {
+  "nombre": "Acería al oxígeno (LD)",
+  "resumen": "Oxígeno puro soplado desde arriba; Linz."
+ },
+ "aluminio": {
+  "nombre": "Aluminio aislado",
+  "resumen": "Reducción del cloruro con amalgama de potasio."
+ },
+ "aluminio-deville": {
+  "nombre": "Aluminio por reducción con sodio",
+  "resumen": "Primer proceso comercial; el metal vale como la plata."
+ },
+ "hall-heroult": {
+  "nombre": "Proceso Hall-Héroult",
+  "resumen": "Electrólisis de alúmina disuelta en criolita fundida."
+ },
+ "bayer": {
+  "nombre": "Proceso Bayer",
+  "resumen": "Extrae alúmina pura de la bauxita con sosa."
+ },
+ "tungsteno-ductil": {
+  "nombre": "Tungsteno dúctil",
+  "resumen": "Sinterizado y trabajado en caliente que permite trefilarlo."
+ },
+ "pulvimetalurgia-tungsteno": {
+  "nombre": "Filamento de tungsteno sinterizado",
+  "resumen": "Polvo de tungsteno prensado y sinterizado."
+ },
+ "kroll": {
+  "nombre": "Proceso Kroll del titanio",
+  "resumen": "Reducción del tetracloruro con magnesio."
+ },
+ "conductividad-cobre": {
+  "nombre": "Efecto de las impurezas en la conductividad del cobre",
+  "resumen": "Trazas de arsénico u oxígeno hunden la conductividad: hace falta cobre muy puro."
+ },
+ "refinado-electrolitico": {
+  "nombre": "Refinado electrolítico del cobre",
+  "resumen": "Ánodos impuros se disuelven y el cobre puro se deposita; Pembrey (Gales)."
+ },
+ "alambron": {
+  "nombre": "Laminado de alambrón de cobre",
+  "resumen": "Lingotes laminados en caliente hasta varilla."
+ },
+ "cobre-estirado-duro": {
+  "nombre": "Hilo de cobre estirado en duro",
+  "resumen": "Trefilado en frío que da resistencia mecánica para tendidos aéreos."
+ },
+ "cable-gutapercha": {
+  "nombre": "Cable aislado con gutapercha",
+  "resumen": "Prensa que recubre el hilo sin costura."
+ },
+ "hilo-esmaltado": {
+  "nombre": "Hilo esmaltado para bobinas",
+  "resumen": "Barniz aislante fino que permite bobinados compactos."
+ },
+ "barniz-aislante": {
+  "nombre": "Barnices aislantes de goma laca",
+  "resumen": "Goma laca y barnices al aceite como aislantes eléctricos."
+ }
+}

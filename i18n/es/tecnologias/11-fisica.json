@@ -1,0 +1,282 @@
+{
+ "ley-palanca": {
+  "nombre": "Ley de la palanca",
+  "resumen": "Equilibrio según distancias y pesos."
+ },
+ "hidrostatica": {
+  "nombre": "Principio de Arquímedes",
+  "resumen": "Empuje igual al peso del fluido desalojado."
+ },
+ "heliocentrismo-aristarco": {
+  "nombre": "Heliocentrismo de Aristarco",
+  "resumen": "Propuesta sin continuidad en la Antigüedad."
+ },
+ "geocentrismo": {
+  "nombre": "Sistema geocéntrico de Ptolomeo",
+  "resumen": "Epiciclos y ecuantes: predice bien, pero la Tierra no es el centro. Vigente catorce siglos."
+ },
+ "impetu": {
+  "nombre": "Teoría del ímpetu",
+  "resumen": "Antecedente de la inercia."
+ },
+ "heliocentrismo": {
+  "nombre": "Heliocentrismo copernicano",
+  "resumen": "De revolutionibus: la Tierra gira sobre sí misma y alrededor del Sol."
+ },
+ "observaciones-tycho": {
+  "nombre": "Observaciones de precisión",
+  "resumen": "Uraniborg: errores de un minuto de arco."
+ },
+ "cuadrante-mural": {
+  "nombre": "Grandes cuadrantes de observatorio",
+  "resumen": "Observatorio de Samarcanda."
+ },
+ "leyes-kepler": {
+  "nombre": "Leyes de Kepler",
+  "resumen": "Órbitas elípticas con el Sol en un foco y áreas iguales en tiempos iguales."
+ },
+ "observaciones-galileo": {
+  "nombre": "Descubrimientos telescópicos",
+  "resumen": "Lunas de Júpiter, fases de Venus."
+ },
+ "caida-libre": {
+  "nombre": "Cinemática de la caída",
+  "resumen": "Discorsi: la distancia recorrida al caer crece con el cuadrado del tiempo."
+ },
+ "principia": {
+  "nombre": "Mecánica y gravitación de Newton",
+  "resumen": "Philosophiae Naturalis Principia Mathematica."
+ },
+ "movil-perpetuo": {
+  "nombre": "Móvil perpetuo",
+  "resumen": "Ruedas sobrebalanceadas que girarían sin fin; imposible por la termodinámica."
+ },
+ "mecanica-analitica": {
+  "nombre": "Mecánica analítica",
+  "resumen": "La mecánica reformulada con el cálculo de variaciones, sin figuras."
+ },
+ "espejo": {
+  "nombre": "Espejo pulido",
+  "resumen": "Obsidiana pulida de Çatalhöyük."
+ },
+ "optica-alhacen": {
+  "nombre": "Óptica de Alhacén",
+  "resumen": "La visión se debe a la luz que entra en el ojo; método experimental."
+ },
+ "gafas": {
+  "nombre": "Gafas",
+  "resumen": "Lentes convexas para la presbicia; Pisa."
+ },
+ "vidrio-claro": {
+  "nombre": "Vidrio claro veneciano",
+  "resumen": "Vidrio suficientemente transparente para lentes."
+ },
+ "telescopio": {
+  "nombre": "Telescopio refractor",
+  "resumen": "Dos lentes en un tubo; solicitud de patente en Middelburg."
+ },
+ "microscopio": {
+  "nombre": "Microscopio compuesto",
+  "resumen": "Objetivo y ocular convergentes."
+ },
+ "ley-snell": {
+  "nombre": "Ley de la refracción",
+  "resumen": "Relación de senos entre los ángulos de incidencia y refracción."
+ },
+ "telescopio-reflector": {
+  "nombre": "Telescopio reflector",
+  "resumen": "Espejo de aleación de bronce que evita la aberración cromática."
+ },
+ "dispersion-luz": {
+  "nombre": "Descomposición de la luz blanca",
+  "resumen": "El prisma separa colores con distinta refrangibilidad."
+ },
+ "velocidad-luz": {
+  "nombre": "Velocidad finita de la luz",
+  "resumen": "Retrasos en los eclipses de Ío."
+ },
+ "doble-rendija": {
+  "nombre": "Interferencia de la luz",
+  "resumen": "Franjas que prueban el carácter ondulatorio."
+ },
+ "lineas-fraunhofer": {
+  "nombre": "Líneas espectrales del Sol",
+  "resumen": "Cientos de líneas oscuras medidas con su espectroscopio."
+ },
+ "eter": {
+  "nombre": "Éter luminífero",
+  "resumen": "Medio que transportaría la luz; descartado tras Michelson-Morley y la relatividad."
+ },
+ "espectroscopia": {
+  "nombre": "Análisis espectral",
+  "resumen": "Cada elemento emite líneas propias; se descubren cesio y rubidio."
+ },
+ "michelson-morley": {
+  "nombre": "Experimento de Michelson-Morley",
+  "resumen": "No se detecta el viento del éter."
+ },
+ "barometro": {
+  "nombre": "Barómetro de mercurio",
+  "resumen": "El peso del aire sostiene 76 cm de mercurio; deja un vacío encima."
+ },
+ "bomba-vacio": {
+  "nombre": "Bomba de vacío",
+  "resumen": "Hemisferios de Magdeburgo."
+ },
+ "ley-boyle": {
+  "nombre": "Ley de Boyle",
+  "resumen": "Presión y volumen de un gas son inversamente proporcionales."
+ },
+ "termometro": {
+  "nombre": "Termómetro de mercurio",
+  "resumen": "Escala reproducible con puntos fijos."
+ },
+ "calor-latente": {
+  "nombre": "Calor latente",
+  "resumen": "Calor absorbido en el cambio de estado sin variar la temperatura."
+ },
+ "calorico": {
+  "nombre": "Teoría del calórico",
+  "resumen": "El calor como fluido sin peso; sustituida por la equivalencia de calor y trabajo."
+ },
+ "ciclo-carnot": {
+  "nombre": "Ciclo de Carnot",
+  "resumen": "Rendimiento máximo de una máquina térmica entre dos temperaturas."
+ },
+ "equivalente-mecanico": {
+  "nombre": "Equivalente mecánico del calor",
+  "resumen": "Una cantidad fija de trabajo produce siempre el mismo calor."
+ },
+ "conservacion-energia": {
+  "nombre": "Conservación de la energía",
+  "resumen": "La energía se transforma, pero no se crea ni se destruye."
+ },
+ "segunda-ley": {
+  "nombre": "Segundo principio y entropía",
+  "resumen": "El calor no pasa espontáneamente de un cuerpo frío a uno caliente."
+ },
+ "teoria-cinetica": {
+  "nombre": "Teoría cinética de los gases",
+  "resumen": "Presión y temperatura como estadística del movimiento molecular."
+ },
+ "licuefaccion-aire": {
+  "nombre": "Licuefacción industrial del aire",
+  "resumen": "Expansión Joule-Thomson regenerativa; oxígeno y nitrógeno por destilación."
+ },
+ "superconductividad": {
+  "nombre": "Superconductividad",
+  "resumen": "La resistencia del mercurio desaparece a 4,2 K."
+ },
+ "rayos-x": {
+  "nombre": "Rayos X",
+  "resumen": "Radiación penetrante de un tubo de Crookes."
+ },
+ "radiactividad": {
+  "nombre": "Radiactividad",
+  "resumen": "Las sales de uranio velan placas sin luz."
+ },
+ "electron": {
+  "nombre": "Electrón",
+  "resumen": "Partícula de carga negativa mucho más ligera que el átomo."
+ },
+ "polonio-radio": {
+  "nombre": "Polonio y radio",
+  "resumen": "Elementos aislados de la pechblenda por su actividad."
+ },
+ "cuanto-planck": {
+  "nombre": "Cuantización de la energía",
+  "resumen": "La energía se intercambia en múltiplos de hν."
+ },
+ "rayos-n": {
+  "nombre": "Rayos N",
+  "resumen": "Radiación inexistente «observada» por decenas de laboratorios; caso clásico de autoengaño."
+ },
+ "efecto-fotoelectrico": {
+  "nombre": "Cuanto de luz",
+  "resumen": "La luz se absorbe en cuantos; explica el efecto fotoeléctrico."
+ },
+ "relatividad-especial": {
+  "nombre": "Relatividad especial",
+  "resumen": "Espacio y tiempo dependen del observador; E = mc²."
+ },
+ "nucleo-atomico": {
+  "nombre": "Núcleo atómico",
+  "resumen": "Casi toda la masa del átomo en un núcleo diminuto; lámina de oro."
+ },
+ "atomo-bohr": {
+  "nombre": "Átomo de Bohr",
+  "resumen": "Órbitas cuantizadas que explican el espectro del hidrógeno."
+ },
+ "relatividad-general": {
+  "nombre": "Relatividad general",
+  "resumen": "La gravedad como curvatura del espacio-tiempo."
+ },
+ "proton": {
+  "nombre": "Protón y transmutación artificial",
+  "resumen": "Nitrógeno bombardeado con partículas alfa emite núcleos de hidrógeno."
+ },
+ "mecanica-matricial": {
+  "nombre": "Mecánica cuántica matricial",
+  "resumen": "Primera formulación coherente de la mecánica cuántica."
+ },
+ "ecuacion-schrodinger": {
+  "nombre": "Mecánica ondulatoria",
+  "resumen": "Función de onda y su ecuación de evolución."
+ },
+ "ecuacion-dirac": {
+  "nombre": "Ecuación de Dirac",
+  "resumen": "Electrón relativista con espín; predice la antimateria."
+ },
+ "expansion-universo": {
+  "nombre": "Expansión del universo",
+  "resumen": "Las galaxias se alejan con velocidad proporcional a su distancia."
+ },
+ "ciclotron": {
+  "nombre": "Ciclotrón",
+  "resumen": "Acelerador circular de resonancia."
+ },
+ "neutron": {
+  "nombre": "Neutrón",
+  "resumen": "Partícula neutra del núcleo."
+ },
+ "positron": {
+  "nombre": "Positrón",
+  "resumen": "Antielectrón hallado en rayos cósmicos."
+ },
+ "radiactividad-artificial": {
+  "nombre": "Radiactividad artificial",
+  "resumen": "Isótopos radiactivos creados por bombardeo."
+ },
+ "fision": {
+  "nombre": "Fisión nuclear",
+  "resumen": "El uranio se parte al absorber un neutrón y libera energía."
+ },
+ "electrodinamica-cuantica": {
+  "nombre": "Electrodinámica cuántica",
+  "resumen": "Teoría cuántica de la luz y la materia con renormalización."
+ },
+ "quarks": {
+  "nombre": "Modelo de quarks",
+  "resumen": "Los hadrones están formados por constituyentes de carga fraccionaria."
+ },
+ "fondo-cosmico": {
+  "nombre": "Fondo cósmico de microondas",
+  "resumen": "Radiación residual a 2,7 K."
+ },
+ "modelo-estandar": {
+  "nombre": "Unificación electrodébil",
+  "resumen": "Electromagnetismo e interacción débil en una sola teoría."
+ },
+ "fusion-fria": {
+  "nombre": "Fusión fría",
+  "resumen": "Anuncio de fusión en una celda electrolítica que nadie logró reproducir."
+ },
+ "boson-higgs": {
+  "nombre": "Bosón de Higgs",
+  "resumen": "Detectado por ATLAS y CMS en el LHC del CERN."
+ },
+ "ondas-gravitacionales": {
+  "nombre": "Ondas gravitacionales",
+  "resumen": "LIGO registra la fusión de dos agujeros negros."
+ }
+}

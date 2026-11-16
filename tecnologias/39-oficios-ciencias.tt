@@ -1,0 +1,143 @@
+@ subsistencia | Agricultura, ganadería y alimentación | #86a35a
+@@ recoleccion | Recolección y primeros alimentos elaborados
+carroneo-medula | ~-2600000 | T | Acceso a la médula ósea | olduvayense | Huesos fracturados con percutores para extraer la médula. |
+caza-cooperativa | ~-400000 | T | Caza mayor cooperativa | lanza-madera | Caballos abatidos en Schöningen. |
+trampas | ~-70000 | T | Trampas y lazos | cuerda-primitiva | Caza de animales pequeños en Sibudu. |
+marisqueo | ~-164000 | T | Marisqueo sistemático | hogar | Pinnacle Point. |
+pesca-red | ~-27000 | T | Pesca con red | cuerda | Pesos de red en Corea; redes de Antrea. |
+nasa-pesca | ~-7000 | H | Nasas y encañizadas | cesteria | Trampas de mimbre para peces. |
+horno-tierra | ~-30000 | T | Horno de tierra | hogar | Piedras calientes en un hoyo. |
+hervido-piedras | ~-30000 | T | Hervido con piedras calientes | ropa-cosida | Antes de la cerámica. |
+almacen-silos | ~-9500 | S | Silos excavados | cultivo-predomestico | Conservación subterránea del grano. |
+malteado | ~-4000 | T | Malteado y cerveza de cebada | cerveza, trigo-cebada | Germinar el grano libera azúcares. |
+horno-pan | ~-3000 | H | Horno de pan | levadura-pan, adobe | Hornos de cúpula; el tannur. |
+cuajo | ~-5000 | T | Cuajado con cuajo | queso | Enzimas del estómago de rumiantes. |
+yogur | ~-5000 | I | Leches fermentadas | lacteos | Yogur y kéfir. |
+mantequilla | ~-3500 | I | Mantequilla | lacteos | Batido de la nata. |
+vinagre | ~-3000 | M | Vinagre | vino | Conservante y condimento. |
+encurtido | ~-2400 | T | Encurtidos | vinagre, extraccion-sal | Pepinos en salmuera en Mesopotamia. |
+salsa-soja | ~-200 | I | Salsa de soja | ceramica-vasijas, extraccion-sal | Fermentación con koji. |
+destilacion-licores | ~1300 | T | Aguardientes | destilacion-alcohol | Aqua vitae como bebida. | Arnau de Vilanova
+molino-harinero-cilindros | 1834 | H | Molienda con cilindros | molino-agua, acero-crisol | Harina blanca. | Jacob Sulzberger
+azucar-remolacha | 1801 | T | Azúcar de remolacha | analisis-mineral | Primera fábrica en Silesia. | Franz Achard
+chocolate-solido | 1847 | I | Tableta de chocolate | chocolate, prensa-hidraulica | Fry's; el cacao prensado es de 1828. | Joseph Fry
+cafe-instantaneo | 1938 | I | Café soluble | liofilizacion | Nescafé. |
+refresco-carbonatado | 1767 | I | Agua carbonatada | aire-fijo | Disolver CO2 en agua. | Joseph Priestley
+levadura-prensada | 1846 | M | Levadura prensada | teoria-celular | Proceso vienés. |
+cerveza-lager | ~1420 | I | Cerveza de baja fermentación | malteado | Baviera. |
+sacarina | 1879 | M | Sacarina | estructura-benceno | Primer edulcorante sintético. | Constantin Fahlberg
+glutamato | 1908 | D | Umami y glutamato | analisis-combustion | Aislado del alga kombu. | Kikunae Ikeda
+aditivos-conservantes | 1875 | M | Conservantes químicos | acidos-organicos-scheele | Ácido benzoico y salicílico. |
+olla-presion | 1938 | I | Olla a presión doméstica | digestor-papin, hall-heroult | Válvula de seguridad fiable. |
+comida-rapida | 1948 | S | Comida rápida en cadena | cadena-montaje | Sistema Speedee de McDonald's. |
+@@ ganaderia | Ganadería
+gato | ~-7500 | D | Domesticación del gato | granero | Entierro de Chipre. |
+abeja-colmena-cilindro | ~-900 | S | Apicultura intensiva | apicultura | Colmenar de Tel Rehov. |
+castracion-tiro | ~-4000 | T | Castración de animales de tiro | bovino | Bueyes dóciles y fuertes. |
+esquileo | ~-1000 | T | Esquileo con tijeras | tijeras, lana | Sustituye al arrancado. |
+trashumancia | ~-3000 | S | Trashumancia | oveja-cabra | Pastos de verano e invierno. |
+piscicultura | ~-1000 | S | Piscicultura de carpas | regadio | China. |
+llama-alpaca | ~-4000 | D | Domesticación de llama y alpaca | cuerda | Andes centrales. |
+pavo | ~-800 | D | Domesticación del pavo | maiz | Mesoamérica. |
+yak-bufalo | ~-3000 | D | Búfalo de agua y yak | bovino | Búfalo de agua en los arrozales y yak en la meseta tibetana.
+reno | ~-1000 | D | Pastoreo de renos | perro | Eurasia septentrional. |
+herraje-marcas | ~-2000 | T | Marcado del ganado | marcado-ganado | Hierros candentes. |
+marcado-ganado | ~-2700 | T | Marcas de propiedad en animales | cobre-reduccion | Pinturas egipcias de marcado. |
+mesta | 1273 | S | Concejo de la Mesta | trashumancia | Organización de la trashumancia castellana. |
+merino | ~1300 | D | Oveja merina | lana | Lana fina española. |
+incubadora-huevos | ~-400 | I | Incubación artificial | horno-alfarero | Hornos de pollos egipcios. |
+inseminacion-artificial | 1784 | T | Inseminación artificial | espermatozoides | En una perra. | Lazzaro Spallanzani
+ordenadora | 1895 | I | Ordeñadora mecánica | bomba-vacio | Pulsaciones de vacío. |
+veterinaria | 1761 | S | Escuela de veterinaria | anatomia-vesalio | Primera escuela de veterinaria, fundada en Lyon. | Claude Bourgelat
+@ materiales | Materiales | #c9a25c
+@@ textil | Fibras y tejidos
+esparto-trenzado | ~-5000 | M | Cestería y calzado de esparto | cesteria | Cueva de los Murciélagos (Granada). |
+canamo | ~-2800 | M | Cáñamo | huso | Cuerdas y telas en China. |
+ramio-yute | ~-3000 | M | Ramio y yute | huso | Fibras liberianas de Asia. |
+enriado | ~-5000 | T | Enriado del lino | lino-tejido | Maceración que suelta las fibras. |
+espadado | ~-3000 | T | Agramado y espadillado | enriado | Separa la fibra de la caña. |
+rueca-mano | ~-5000 | H | Rueca de mano | huso | Sujeta el copo de fibra. |
+telar-cintura | ~-3000 | H | Telar de cintura | lino-tejido | Andes y Mesoamérica. |
+telar-horizontal-suelo | ~-4000 | H | Telar horizontal de suelo | lino-tejido | Egipto. |
+tapiz | ~-1400 | T | Tapicería | telar-horizontal-suelo | Tejido de trama discontinua. |
+alfombra-anudada | ~-400 | I | Alfombra de nudos | lana | Alfombra de Pazyryk. |
+terciopelo | ~1250 | T | Terciopelo | telar-tiro, seda | Urdimbre de pelo. |
+damasco | ~300 | T | Damasco y brocado | telar-tiro | Dibujo por ligamento. |
+batan-jabon | ~-200 | T | Abatanado | lana, jabon | Enfurtido con pies y greda. |
+cochinilla | ~-700 | M | Carmín de cochinilla | tintes | Insecto del nopal. |
+indigo | ~-4000 | M | Índigo | algodon | Huaca Prieta (Perú). |
+rubia | ~-1500 | M | Rubia y rojo de Adrianópolis | tintes, alumbre | Rojo sólido. |
+estampado-bloques | ~200 | T | Estampado con bloques | sellos-madera | Tejidos impresos. |
+sellos-madera | ~-200 | T | Sellos de madera tallada | sello-cilindrico | Estampación de seda Han. |
+encaje | ~1500 | T | Encaje de bolillos y aguja | lino-tejido | Flandes y Venecia. |
+estampado-cilindros | 1783 | I | Estampado con cilindros | indiana, torno-vaucanson | Cilindros de cobre grabados. | Thomas Bell
+torno-vaucanson | 1751 | H | Torno de precisión de Vaucanson | engranaje-reloj | Carro deslizante metálico. | Jacques de Vaucanson
+continua-anillos | 1828 | I | Continua de anillos | mule | Hilado continuo. | John Thorp
+selfactina | 1825 | I | Selfactina | mule | Mule automática. | Richard Roberts
+peinadora | 1845 | I | Peinadora | carda-mecanica | Lana peinada. | Josué Heilmann
+telar-northrop | 1894 | I | Telar automático | telar-mecanico | Cambia la canilla sin parar. | James Northrop
+mercerizado | 1844 | T | Mercerizado | proceso-leblanc, algodon | Brillo y resistencia. | John Mercer
+rayon-nitro | 1884 | M | Seda artificial | algodon-polvora | Seda de Chardonnet. | Hilaire de Chardonnet
+acetato | 1921 | M | Acetato de celulosa | viscosa | Celanese. |
+acrilico | 1941 | M | Fibra acrílica | nailon | Orlón. |
+microfibra | 1970 | M | Microfibra | pet | Ultrasuede. | Miyoshi Okamoto
+telar-chorro-aire | 1950 | I | Telar sin lanzadera | telar-northrop | Pinzas y chorros. |
+tejido-no-tejido | 1942 | M | Tela no tejida | macromoleculas | Fibras ligadas. |
+@ construccion | Construcción e ingeniería civil | #a89b8c
+@@ arquitectura | Arquitectura y estructuras
+paraviento | ~-1800000 | S | Refugio de piedras | olduvayense | Círculo de Olduvai, de interpretación discutida. |
+tienda-pieles | ~-15000 | S | Tienda de pieles | ropa-cosida | Campamentos magdalenienses de Pincevent. |
+palafito | ~-5000 | S | Palafito | piedra-pulimentada | Poblados lacustres alpinos. |
+casa-larga | ~-5500 | S | Casa larga neolítica | piedra-pulimentada | Cultura de la cerámica de bandas. |
+nuraga-talayot | ~-1600 | S | Torres ciclópeas | megalitos | Nuragas, talayots y navetas. |
+tholos | ~-1300 | S | Tholos micénico | falsa-boveda | Tesoro de Atreo. |
+zigurat | ~-2100 | S | Zigurat | ladrillo-cocido | Torre escalonada de ladrillo; el de Ur conserva su primer piso.
+templo-egipcio | ~-1400 | S | Sala hipóstila | columna-piedra | Karnak. |
+templo-griego | ~-600 | S | Templo períptero | ordenes-clasicos | Hereo de Olimpia. |
+partenon | -438 | S | Partenón | templo-griego | Correcciones ópticas en mármol. | Ictino, Calícrates
+teatro-griego | ~-330 | S | Teatro de acústica calculada | templo-griego | Epidauro. |
+basilica | ~-184 | S | Basílica | cercha | Basílica Porcia. |
+anfiteatro | 80 | S | Anfiteatro | hormigon-romano, arco-dovelas | Coliseo. |
+insula | ~-100 | S | Bloque de viviendas | ladrillo-cocido | Ínsulas de varios pisos. |
+estupa | ~-250 | S | Estupa | ladrillo-cocido | Sanchi. |
+templo-maya | ~-300 | S | Pirámide mesoamericana | cal | El Mirador. |
+muqarnas | ~1000 | S | Mocárabes | arco-herradura | Bóvedas de estalactitas. |
+arco-apuntado | ~1090 | S | Arco apuntado | arco-herradura | Cluny III. |
+catedral-gotica | 1144 | S | Estructura gótica | boveda-cruceria, arco-apuntado, vidriera | Saint-Denis. | Suger
+cuaderno-villard | ~1230 | C | Cuaderno de Villard de Honnecourt | catedral-gotica | Dibujos de obra y máquinas. |
+alhambra | ~1350 | S | Palacios nazaríes | muqarnas | Alhambra. |
+machu-picchu | ~1450 | S | Sillería inca | canteria-andina | Bloques ajustados sin mortero. |
+canteria-andina | ~1200 | T | Cantería andina | percusion-dura | Labra con percutores de piedra. |
+san-pedro | 1590 | S | Cúpula de San Pedro | cupula-brunelleschi | Cadenas de hierro. | Miguel Ángel
+taj-mahal | 1648 | S | Taj Mahal | cupula-pechinas | Mármol incrustado. |
+versalles | 1682 | S | Palacio y jardines de Versalles | bomba-aspirante | Máquina de Marly. |
+estatica-grafica | 1866 | C | Estática gráfica | geometria-proyectiva | Cálculo de estructuras dibujando. | Karl Culmann
+resistencia-materiales | 1826 | C | Resistencia de materiales | calculo, ley-hooke | Teoría de la viga. | Claude Navier
+ensayo-vigas | 1847 | T | Vigas tubulares ensayadas | pudelado, ensayo-musschenbroek | Puente Britannia. | Robert Stephenson, William Fairbairn
+ensayo-musschenbroek | 1729 | T | Ensayos de resistencia de materiales | ley-hooke | Máquina de Musschenbroek. | Pieter van Musschenbroek
+forth | 1890 | S | Gran puente en ménsula de acero | siemens-martin | Firth of Forth. |
+sagrada-familia | 1883 | S | Estructuras de catenaria | estatica-grafica | Maquetas funiculares. | Antoni Gaudí
+lamina-hormigon | 1922 | S | Cáscaras de hormigón | hormigon-armado | Zeiss-Dywidag. | Franz Dischinger
+bauhaus | 1919 | S | Bauhaus | muro-cortina | Diseño industrial. | Walter Gropius
+estructura-colgante | 1972 | S | Cubiertas de malla de cables | fibra-vidrio | Estadio de Múnich. | Frei Otto
+elementos-finitos | 1956 | T | Método de los elementos finitos | computador-transistores, resistencia-materiales | Estructuras calculadas por ordenador. | Ray Clough
+aislamiento-sismico | 1969 | T | Aislamiento sísmico de base | vulcanizacion | Apoyos de caucho. |
+bim | 1987 | T | Modelado de información de edificios | cad | ArchiCAD. |
+@@ hidraulica | Ingeniería hidráulica
+cisterna | ~-3000 | S | Cisterna | cal | Aljibes impermeabilizados. |
+nilometro | ~-2600 | H | Nilómetro | geometria-egipcia | Mide la crecida. |
+canal-navegable | ~-510 | S | Canal de navegación | regadio | Canal de Darío al mar Rojo. |
+gran-canal | 609 | S | Gran Canal de China | compuerta-canal | 1800 km. |
+compuerta-canal | ~-250 | H | Compuerta de canal | presa | Canal Lingqu. |
+sifon-invertido | ~-180 | S | Sifón invertido | plomo-tuberias | Pérgamo. |
+presa-arco | ~550 | S | Presa de arco | arco-dovelas | Presa curva de Dara, descrita por Procopio: el arco lleva el empuje a las laderas.
+presa-contrafuertes | ~130 | S | Presa de contrafuertes | hormigon-romano | Proserpina y Cornalvo. |
+acequias-andalusies | ~900 | S | Acequias y tribunal de aguas | qanat | Huerta de Valencia. |
+canal-midi | 1681 | S | Canal du Midi | esclusa | Une Atlántico y Mediterráneo. | Pierre-Paul Riquet
+canal-castilla | 1849 | S | Canal de Castilla | esclusa | 207 km. |
+dragado-vapor | 1796 | H | Draga de vapor | movimiento-rotativo | Sunderland. |
+inodoro | 1596 | I | Inodoro de cisterna | plomo-tuberias | El «Ajax»: taza con válvula y cisterna de descarga. | John Harington
+sifon-s | 1775 | H | Sifón sanitario | inodoro | Cierre hidráulico contra olores. | Alexander Cumming
+depuradora | 1914 | S | Depuración por fangos activados | teoria-germinal | Mánchester. | Edward Ardern, William Lockett
+desalinizacion | 1965 | S | Ósmosis inversa | macromoleculas | Membranas de acetato. | Sidney Loeb, Srinivasa Sourirajan
+tres-gargantas | 2006 | S | Mayor central hidroeléctrica | presa-hoover | Tres Gargantas. |

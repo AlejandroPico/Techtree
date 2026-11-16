@@ -1,0 +1,646 @@
+{
+ "cremallera-blenkinsop": {
+  "nombre": "Locomotora de cremallera",
+  "resumen": "Primera locomotora rentable, en las minas de Middleton."
+ },
+ "puffing-billy": {
+  "nombre": "Locomotora de adherencia",
+  "resumen": "Prueba que las ruedas lisas bastan para arrastrar el tren."
+ },
+ "rail-laminado": {
+  "nombre": "Raíl de hierro laminado",
+  "resumen": "Carriles largos de hierro maleable que no se quiebran."
+ },
+ "caldera-multitubular": {
+  "nombre": "Caldera multitubular",
+  "resumen": "Decenas de tubos de fuego multiplican la superficie de caldeo."
+ },
+ "liverpool-manchester": {
+  "nombre": "Ferrocarril interurbano de viajeros",
+  "resumen": "Liverpool-Manchester: doble vía, horarios y solo locomotoras."
+ },
+ "distribucion-stephenson": {
+  "nombre": "Distribución de Stephenson",
+  "resumen": "Mecanismo que invierte la marcha y regula la admisión de vapor."
+ },
+ "telegrafo-ferroviario": {
+  "nombre": "Telégrafo ferroviario",
+  "resumen": "Great Western: los trenes se coordinan por telégrafo."
+ },
+ "ancho-internacional": {
+  "nombre": "Ancho de vía normalizado",
+  "resumen": "La ley británica fija 1435 mm."
+ },
+ "barcelona-mataro": {
+  "nombre": "Primer ferrocarril de la península ibérica",
+  "resumen": "Línea Barcelona-Mataró."
+ },
+ "rail-acero": {
+  "nombre": "Raíl de acero",
+  "resumen": "Dura diez veces más que el de hierro."
+ },
+ "coche-cama": {
+  "nombre": "Coche cama",
+  "resumen": "Viajes nocturnos de largo recorrido."
+ },
+ "transcontinental": {
+  "nombre": "Ferrocarril transcontinental",
+  "resumen": "Unión de las costas de Estados Unidos en Promontory."
+ },
+ "enganche-automatico": {
+  "nombre": "Enganche automático",
+  "resumen": "Acoplador de nudillo que evita miles de muertes de enganchadores."
+ },
+ "cremallera-riggenbach": {
+  "nombre": "Ferrocarril de cremallera de montaña",
+  "resumen": "Vitznau-Rigi."
+ },
+ "locomotora-compound": {
+  "nombre": "Locomotora compound",
+  "resumen": "El vapor se expande dos veces."
+ },
+ "tranvia-electrico": {
+  "nombre": "Tranvía eléctrico",
+  "resumen": "Línea de Lichterfelde, en Berlín."
+ },
+ "metro-electrico": {
+  "nombre": "Metro eléctrico de tubo profundo",
+  "resumen": "City and South London Railway."
+ },
+ "recalentador": {
+  "nombre": "Recalentador de vapor",
+  "resumen": "Vapor seco: una cuarta parte menos de carbón."
+ },
+ "traccion-trifasica": {
+  "nombre": "Tracción eléctrica en alterna",
+  "resumen": "Línea Burgdorf-Thun."
+ },
+ "locomotora-diesel": {
+  "nombre": "Locomotora diésel",
+  "resumen": "Prototipo Sulzer-Diesel-Klose."
+ },
+ "diesel-electrica": {
+  "nombre": "Locomotora diésel-eléctrica",
+  "resumen": "El motor mueve un generador y este los motores de tracción."
+ },
+ "tren-aerodinamico": {
+  "nombre": "Tren diésel aerodinámico",
+  "resumen": "Fliegender Hamburger a 160 km/h."
+ },
+ "record-mallard": {
+  "nombre": "Récord de velocidad a vapor",
+  "resumen": "La Mallard alcanza 203 km/h."
+ },
+ "talgo": {
+  "nombre": "Tren articulado ligero",
+  "resumen": "Ruedas independientes y rodadura guiada."
+ },
+ "electrificacion-25kv": {
+  "nombre": "Electrificación a 25 kV y 50 Hz",
+  "resumen": "La frecuencia industrial llega a la catenaria."
+ },
+ "barra-larga-soldada": {
+  "nombre": "Carril continuo soldado",
+  "resumen": "Vía sin juntas."
+ },
+ "tgv": {
+  "nombre": "TGV",
+  "resumen": "París-Lyon a 260 km/h con trenes articulados."
+ },
+ "tren-pendular": {
+  "nombre": "Tren pendular activo",
+  "resumen": "La caja se inclina en las curvas: Pendolino."
+ },
+ "eurotunel": {
+  "nombre": "Túnel del Canal de la Mancha",
+  "resumen": "Cincuenta kilómetros bajo el mar."
+ },
+ "ave": {
+  "nombre": "Alta velocidad española",
+  "resumen": "Línea Madrid-Sevilla."
+ },
+ "maglev-superconductor": {
+  "nombre": "Récord de velocidad ferroviaria",
+  "resumen": "El maglev japonés L0 alcanza 603 km/h."
+ },
+ "tren-hidrogeno": {
+  "nombre": "Tren de pila de combustible",
+  "resumen": "Coradia iLint en servicio regular."
+ },
+ "omnibus-vapor": {
+  "nombre": "Ómnibus de vapor",
+  "resumen": "Servicios regulares por carretera en Inglaterra."
+ },
+ "diferencial": {
+  "nombre": "Diferencial",
+  "resumen": "Deja girar a distinta velocidad las ruedas de un mismo eje en curva."
+ },
+ "macadan": {
+  "nombre": "Firme de macadán",
+  "resumen": "Capas de piedra machacada compactada."
+ },
+ "motocicleta": {
+  "nombre": "Motocicleta",
+  "resumen": "Reitwagen: bastidor de madera con un motor de gasolina de un cilindro."
+ },
+ "asfalto": {
+  "nombre": "Pavimento asfáltico",
+  "resumen": "Betún y áridos en caliente."
+ },
+ "cambio-marchas": {
+  "nombre": "Caja de cambios de engranajes desplazables",
+  "resumen": "Sistema Panhard: motor delante y tracción trasera."
+ },
+ "radiador-panal": {
+  "nombre": "Radiador de panal",
+  "resumen": "Mercedes 35 HP: el primer automóvil moderno."
+ },
+ "freno-tambor": {
+  "nombre": "Freno de tambor",
+  "resumen": "Zapatas interiores expansivas."
+ },
+ "camion": {
+  "nombre": "Camión",
+  "resumen": "Primer camión con motor de combustión."
+ },
+ "ford-t": {
+  "nombre": "Ford T",
+  "resumen": "Coche sencillo y robusto para las masas."
+ },
+ "gasolina-etilada": {
+  "nombre": "Gasolina con plomo",
+  "resumen": "El tetraetilo de plomo evita el picado; prohibido décadas después por tóxico."
+ },
+ "autopista": {
+  "nombre": "Autopista",
+  "resumen": "Autostrada Milán-Lagos."
+ },
+ "carroceria-autoportante": {
+  "nombre": "Carrocería autoportante",
+  "resumen": "Lancia Lambda."
+ },
+ "traccion-delantera": {
+  "nombre": "Tracción delantera en serie",
+  "resumen": "Citroën Traction Avant."
+ },
+ "cambio-automatico": {
+  "nombre": "Cambio automático",
+  "resumen": "Hydra-Matic."
+ },
+ "motor-wankel": {
+  "nombre": "Motor rotativo",
+  "resumen": "Un rotor triangular en lugar de pistones."
+ },
+ "cinturon-tres-puntos": {
+  "nombre": "Cinturón de tres puntos",
+  "resumen": "Patente cedida libremente por Volvo."
+ },
+ "inyeccion-electronica": {
+  "nombre": "Inyección electrónica",
+  "resumen": "Bosch D-Jetronic."
+ },
+ "catalizador": {
+  "nombre": "Catalizador de tres vías",
+  "resumen": "Elimina CO, hidrocarburos y óxidos de nitrógeno."
+ },
+ "abs": {
+  "nombre": "Frenos antibloqueo",
+  "resumen": "ABS electrónico de Bosch."
+ },
+ "airbag": {
+  "nombre": "Airbag",
+  "resumen": "Bolsa inflada por un generador pirotécnico."
+ },
+ "navegador-coche": {
+  "nombre": "Navegador para automóvil",
+  "resumen": "Mapas digitales a bordo."
+ },
+ "control-estabilidad": {
+  "nombre": "Control de estabilidad",
+  "resumen": "Frena cada rueda por separado para corregir el derrape."
+ },
+ "conduccion-autonoma": {
+  "nombre": "Vehículo autónomo en campo abierto",
+  "resumen": "Stanley completa el DARPA Grand Challenge."
+ },
+ "robotaxi": {
+  "nombre": "Taxi sin conductor",
+  "resumen": "Servicio público sin persona al volante en Phoenix."
+ },
+ "remo": {
+  "nombre": "Remo y canalete",
+  "resumen": "Canaletes de madera neolíticos."
+ },
+ "ancla-piedra": {
+  "nombre": "Ancla de piedra",
+  "resumen": "Piedras perforadas con estacas."
+ },
+ "barca-juncos": {
+  "nombre": "Barcas de juncos",
+  "resumen": "Haces de papiro atados; Nilo y Mesopotamia."
+ },
+ "canoa-balancin": {
+  "nombre": "Canoa con balancín",
+  "resumen": "Flotador lateral que da estabilidad en alta mar; expansión austronesia."
+ },
+ "navegacion-estelar": {
+  "nombre": "Navegación polinesia",
+  "resumen": "Rumbo por estrellas, oleaje y aves, sin instrumentos."
+ },
+ "quilla": {
+  "nombre": "Quilla y cuadernas",
+  "resumen": "Pecio de Uluburun."
+ },
+ "birreme": {
+  "nombre": "Birreme",
+  "resumen": "Dos órdenes de remos; fenicios."
+ },
+ "faro": {
+  "nombre": "Faro",
+  "resumen": "Torre de más de cien metros con fuego y espejo en Alejandría."
+ },
+ "ancla-hierro": {
+  "nombre": "Ancla de hierro con cepo",
+  "resumen": "Brazos y cepo que hacen presa en el fondo."
+ },
+ "drakkar": {
+  "nombre": "Barco vikingo",
+  "resumen": "Tingladillo flexible y poco calado."
+ },
+ "junco": {
+  "nombre": "Junco con mamparos estancos",
+  "resumen": "Casco compartimentado y velas de sables."
+ },
+ "coca": {
+  "nombre": "Coca hanseática",
+  "resumen": "Carguero de un mástil y timón de codaste."
+ },
+ "carraca": {
+  "nombre": "Carraca",
+  "resumen": "Tres o cuatro mástiles con aparejo mixto."
+ },
+ "corredera": {
+  "nombre": "Corredera",
+  "resumen": "Cordel con nudos para medir la velocidad."
+ },
+ "galeon": {
+  "nombre": "Galeón",
+  "resumen": "Nave de guerra y carga de las flotas de Indias."
+ },
+ "tornaviaje": {
+  "nombre": "Tornaviaje del Pacífico",
+  "resumen": "Ruta de vuelta de Filipinas a México."
+ },
+ "circunnavegacion": {
+  "nombre": "Primera circunnavegación",
+  "resumen": "La nao Victoria regresa a Sanlúcar."
+ },
+ "campana-buceo": {
+  "nombre": "Campana de buceo con suministro de aire",
+  "resumen": "Barriles lastrados renuevan el aire."
+ },
+ "sextante": {
+  "nombre": "Sextante",
+  "resumen": "Arco de 60° para medir distancias lunares."
+ },
+ "forro-cobre": {
+  "nombre": "Forro de cobre del casco",
+  "resumen": "Protege la madera de la broma."
+ },
+ "submarino-turtle": {
+  "nombre": "Submarino de combate",
+  "resumen": "Turtle: casco de madera para un hombre, con hélices a mano."
+ },
+ "bote-salvavidas": {
+  "nombre": "Bote salvavidas insumergible",
+  "resumen": "El Original, con corcho en la borda, rescata náufragos en la desembocadura del Tyne."
+ },
+ "clipper": {
+  "nombre": "Clíper",
+  "resumen": "Veleros de carga muy finos y rápidos."
+ },
+ "ictineo": {
+  "nombre": "Submarino Ictíneo",
+  "resumen": "Doble casco; el Ictíneo II lleva motor anaeróbico."
+ },
+ "canal-suez": {
+  "nombre": "Canal de Suez",
+  "resumen": "Une el Mediterráneo y el mar Rojo sin esclusas."
+ },
+ "petrolero": {
+  "nombre": "Buque petrolero",
+  "resumen": "Glückauf: el casco es el tanque."
+ },
+ "turbinia": {
+  "nombre": "Buque de turbinas",
+  "resumen": "Turbinia alcanza 34 nudos."
+ },
+ "girocompas": {
+  "nombre": "Girocompás",
+  "resumen": "Señala el norte verdadero."
+ },
+ "buque-diesel": {
+  "nombre": "Motonave oceánica",
+  "resumen": "Selandia: primer gran buque oceánico de motores diésel."
+ },
+ "canal-panama": {
+  "nombre": "Canal de Panamá",
+  "resumen": "Esclusas que salvan 26 m de desnivel."
+ },
+ "escafandra-autonoma": {
+  "nombre": "Escafandra autónoma",
+  "resumen": "Regulador a demanda Aqua-Lung."
+ },
+ "aerodeslizador": {
+  "nombre": "Aerodeslizador",
+  "resumen": "SR.N1 cruza el canal de la Mancha."
+ },
+ "batiscafo-fosa": {
+  "nombre": "Descenso a la fosa de las Marianas",
+  "resumen": "El batiscafo Trieste llega a 10.900 m."
+ },
+ "linterna-celeste": {
+  "nombre": "Farolillo de aire caliente",
+  "resumen": "Globos de papel usados como señal militar en China."
+ },
+ "globo-hidrogeno": {
+  "nombre": "Globo de hidrógeno",
+  "resumen": "Vuelo tripulado de Charles y Robert."
+ },
+ "paracaidas": {
+  "nombre": "Paracaídas",
+  "resumen": "Salto desde un globo sobre París."
+ },
+ "dirigible-vapor": {
+  "nombre": "Dirigible con motor",
+  "resumen": "Giffard recorre 27 km."
+ },
+ "cometa-celular": {
+  "nombre": "Cometa celular",
+  "resumen": "Estructura de caja estable."
+ },
+ "aleron": {
+  "nombre": "Alerón",
+  "resumen": "Superficie articulada de control lateral."
+ },
+ "motor-rotativo": {
+  "nombre": "Motor rotativo Gnome",
+  "resumen": "Los cilindros giran con la hélice."
+ },
+ "travesia-canal": {
+  "nombre": "Travesía aérea del canal de la Mancha",
+  "resumen": "Blériot XI."
+ },
+ "hidroavion": {
+  "nombre": "Hidroavión",
+  "resumen": "Despegue desde el agua."
+ },
+ "avion-metalico": {
+  "nombre": "Avión enteramente metálico",
+  "resumen": "Junkers J 1."
+ },
+ "duraluminio": {
+  "nombre": "Duraluminio",
+  "resumen": "Aleación de aluminio que endurece por envejecimiento."
+ },
+ "piloto-automatico": {
+  "nombre": "Piloto automático",
+  "resumen": "Estabilizador giroscópico."
+ },
+ "linea-aerea": {
+  "nombre": "Líneas aéreas regulares",
+  "resumen": "KLM, Aeropostale."
+ },
+ "atlantico-sin-escalas": {
+  "nombre": "Travesía atlántica sin escalas",
+  "resumen": "Alcock y Brown en un Vickers Vimy."
+ },
+ "vuelo-instrumental": {
+  "nombre": "Vuelo sin visibilidad",
+  "resumen": "Despegue y aterrizaje solo con instrumentos."
+ },
+ "helice-paso-variable": {
+  "nombre": "Hélice de paso variable",
+  "resumen": "Palas que cambian de ángulo en vuelo."
+ },
+ "dc-3": {
+  "nombre": "Douglas DC-3",
+  "resumen": "Primer avión comercial rentable solo con pasajeros."
+ },
+ "primer-reactor": {
+  "nombre": "Primer vuelo a reacción",
+  "resumen": "Heinkel He 178."
+ },
+ "asiento-eyectable": {
+  "nombre": "Asiento eyectable",
+  "resumen": "Martin-Baker."
+ },
+ "ala-flecha": {
+  "nombre": "Ala en flecha",
+  "resumen": "Retrasa la onda de choque."
+ },
+ "turbohelice": {
+  "nombre": "Turbohélice",
+  "resumen": "Vickers Viscount."
+ },
+ "turbofan": {
+  "nombre": "Turbofán",
+  "resumen": "Flujo secundario frío: más empuje y menos ruido."
+ },
+ "boeing-707": {
+  "nombre": "Boeing 707",
+  "resumen": "El reactor transoceánico se generaliza."
+ },
+ "despegue-vertical": {
+  "nombre": "Avión de despegue vertical",
+  "resumen": "Hawker P.1127, origen del Harrier."
+ },
+ "boeing-747": {
+  "nombre": "Avión de fuselaje ancho",
+  "resumen": "Boeing 747."
+ },
+ "turbofan-alto-indice": {
+  "nombre": "Turbofán de alto índice de derivación",
+  "resumen": "General Electric TF39 y Pratt & Whitney JT9D."
+ },
+ "concorde": {
+  "nombre": "Avión comercial supersónico",
+  "resumen": "Concorde en servicio a Mach 2."
+ },
+ "mandos-electricos": {
+  "nombre": "Mandos de vuelo electrónicos",
+  "resumen": "Un computador interpreta las órdenes del piloto."
+ },
+ "computador-apolo": {
+  "nombre": "Computador de guiado del Apolo",
+  "resumen": "Primer computador de vuelo con circuitos integrados."
+ },
+ "a320": {
+  "nombre": "Avión comercial de mandos electrónicos",
+  "resumen": "Airbus A320."
+ },
+ "materiales-compuestos-avion": {
+  "nombre": "Avión comercial de materiales compuestos",
+  "resumen": "Boeing 787."
+ },
+ "dron-cuadricoptero": {
+  "nombre": "Dron cuadricóptero de consumo",
+  "resumen": "Estabilizado por sensores y un microcontrolador."
+ },
+ "giroscopo-mems": {
+  "nombre": "Sensores inerciales microelectromecánicos",
+  "resumen": "Acelerómetros y giróscopos tallados en silicio."
+ },
+ "cohete-etapas": {
+  "nombre": "Cohete de varias etapas",
+  "resumen": "Soltar masa muerta para alcanzar la órbita."
+ },
+ "r7": {
+  "nombre": "Cohete R-7",
+  "resumen": "Primer misil intercontinental y lanzador del Sputnik."
+ },
+ "laika": {
+  "nombre": "Primer animal en órbita",
+  "resumen": "La perra Laika en el Sputnik 2."
+ },
+ "explorer-1": {
+  "nombre": "Cinturones de Van Allen",
+  "resumen": "Descubiertos por el Explorer 1."
+ },
+ "luna-2": {
+  "nombre": "Primer impacto en la Luna",
+  "resumen": "La sonda soviética Luna 2 se estrella junto al Mare Imbrium."
+ },
+ "luna-3": {
+  "nombre": "Cara oculta de la Luna",
+  "resumen": "Fotografiada por Luna 3."
+ },
+ "tiros-1": {
+  "nombre": "Satélite meteorológico",
+  "resumen": "TIROS-1 envía imágenes de televisión de las nubes."
+ },
+ "mariner-2": {
+  "nombre": "Primer sobrevuelo de otro planeta",
+  "resumen": "Mariner 2 en Venus."
+ },
+ "tereshkova": {
+  "nombre": "Primera mujer en el espacio",
+  "resumen": "Valentina Tereshkova en la Vostok 6."
+ },
+ "syncom": {
+  "nombre": "Satélite geoestacionario",
+  "resumen": "Syncom 3 retransmite los Juegos de Tokio."
+ },
+ "paseo-espacial": {
+  "nombre": "Primer paseo espacial",
+  "resumen": "Alekséi Leónov sale de la Vosjod 2."
+ },
+ "mariner-4": {
+  "nombre": "Primeras imágenes cercanas de Marte",
+  "resumen": "Mariner 4."
+ },
+ "acoplamiento-orbital": {
+  "nombre": "Acoplamiento en órbita",
+  "resumen": "Gemini 8 y un vehículo Agena."
+ },
+ "luna-9": {
+  "nombre": "Primer alunizaje suave",
+  "resumen": "Luna 9 se posa y envía las primeras fotos desde la superficie."
+ },
+ "saturno-v": {
+  "nombre": "Saturno V",
+  "resumen": "El mayor cohete del siglo XX."
+ },
+ "motor-hidrogeno": {
+  "nombre": "Motor cohete de hidrógeno líquido",
+  "resumen": "RL10 de la etapa Centaur."
+ },
+ "apolo-8": {
+  "nombre": "Primera órbita lunar tripulada",
+  "resumen": "Tres astronautas del Apolo 8 orbitan la Luna diez veces en Nochebuena."
+ },
+ "venera-7": {
+  "nombre": "Primer aterrizaje en otro planeta",
+  "resumen": "Venera 7 transmite desde la superficie de Venus."
+ },
+ "lunojod": {
+  "nombre": "Vehículo robótico lunar",
+  "resumen": "Lunojod 1 recorre 10 km dirigido por radio desde la Tierra."
+ },
+ "mariner-9": {
+  "nombre": "Primera sonda en órbita de otro planeta",
+  "resumen": "Mariner 9 en Marte."
+ },
+ "pioneer-10": {
+  "nombre": "Primer sobrevuelo de Júpiter",
+  "resumen": "Pioneer 10."
+ },
+ "skylab": {
+  "nombre": "Skylab",
+  "resumen": "Estación estadounidense."
+ },
+ "viking": {
+  "nombre": "Primer laboratorio en Marte",
+  "resumen": "Viking 1 aterriza, fotografía y busca vida en el suelo marciano."
+ },
+ "ariane": {
+  "nombre": "Lanzador europeo Ariane",
+  "resumen": "Primer vuelo desde Kurú."
+ },
+ "mir": {
+  "nombre": "Estación modular Mir",
+  "resumen": "Ocupada casi sin interrupción durante diez años."
+ },
+ "giotto": {
+  "nombre": "Sobrevuelo del cometa Halley",
+  "resumen": "Sonda Giotto."
+ },
+ "galileo-sonda": {
+  "nombre": "Sonda en órbita de Júpiter",
+  "resumen": "Galileo estudia ocho años el planeta y suelta una sonda en su atmósfera."
+ },
+ "sojourner": {
+  "nombre": "Vehículo robótico en Marte",
+  "resumen": "Sojourner, de 10 kg, recorre el entorno de la Mars Pathfinder."
+ },
+ "estacion-internacional": {
+  "nombre": "Estación Espacial Internacional",
+  "resumen": "Primer módulo, Zaryá."
+ },
+ "cassini": {
+  "nombre": "Sonda en órbita de Saturno",
+  "resumen": "Cassini; la sonda Huygens desciende a Titán en 2005."
+ },
+ "turismo-suborbital": {
+  "nombre": "Primer vuelo espacial privado tripulado",
+  "resumen": "SpaceShipOne."
+ },
+ "curiosity": {
+  "nombre": "Laboratorio móvil en Marte",
+  "resumen": "Curiosity, depositado con grúa aérea."
+ },
+ "rosetta": {
+  "nombre": "Aterrizaje en un cometa",
+  "resumen": "El módulo Philae de Rosetta."
+ },
+ "new-horizons": {
+  "nombre": "Sobrevuelo de Plutón",
+  "resumen": "New Horizons."
+ },
+ "megaconstelacion": {
+  "nombre": "Megaconstelación de satélites",
+  "resumen": "Starlink: miles de satélites en órbita baja."
+ },
+ "capsula-comercial": {
+  "nombre": "Cápsula tripulada comercial",
+  "resumen": "Crew Dragon lleva astronautas a la estación."
+ },
+ "ingenuity": {
+  "nombre": "Primer vuelo con motor en otro planeta",
+  "resumen": "Helicóptero Ingenuity en Marte."
+ },
+ "telescopio-webb": {
+  "nombre": "Telescopio espacial James Webb",
+  "resumen": "Espejo segmentado de 6,5 m para el infrarrojo."
+ }
+}

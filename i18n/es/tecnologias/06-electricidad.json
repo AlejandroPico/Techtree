@@ -1,0 +1,318 @@
+{
+ "ambar": {
+  "nombre": "Atracción del ámbar frotado",
+  "resumen": "Atribuida a Tales de Mileto."
+ },
+ "magnetita": {
+  "nombre": "Atracción de la magnetita",
+  "resumen": "La piedra imán atrae el hierro."
+ },
+ "de-magnete": {
+  "nombre": "De Magnete",
+  "resumen": "Distingue electricidad y magnetismo; la Tierra es un imán."
+ },
+ "maquina-friccion": {
+  "nombre": "Máquina electrostática de fricción",
+  "resumen": "Globo de azufre que se frota al girar."
+ },
+ "conduccion-electrica": {
+  "nombre": "Conducción eléctrica",
+  "resumen": "Conductores y aislantes."
+ },
+ "dos-electricidades": {
+  "nombre": "Dos clases de electricidad",
+  "resumen": "Vítrea y resinosa: las iguales se repelen."
+ },
+ "botella-leyden": {
+  "nombre": "Botella de Leyden",
+  "resumen": "Frasco de vidrio con armaduras metálicas que almacena carga: el primer condensador."
+ },
+ "pararrayos": {
+  "nombre": "Pararrayos",
+  "resumen": "Una varilla puntiaguda conectada a tierra descarga la nube; demuestra que el rayo es electricidad."
+ },
+ "ley-coulomb": {
+  "nombre": "Ley de Coulomb",
+  "resumen": "Balanza de torsión: la fuerza decae con el cuadrado de la distancia."
+ },
+ "electricidad-animal": {
+  "nombre": "Electricidad animal",
+  "resumen": "Contracción de ancas de rana; su interpretación fue rebatida por Volta."
+ },
+ "pila-volta": {
+  "nombre": "Pila voltaica",
+  "resumen": "Discos de zinc y cobre con salmuera: corriente continua."
+ },
+ "electrolisis-agua": {
+  "nombre": "Electrólisis del agua",
+  "resumen": "El agua se descompone en hidrógeno y oxígeno."
+ },
+ "arco-electrico": {
+  "nombre": "Arco eléctrico",
+  "resumen": "Descarga luminosa entre carbones."
+ },
+ "ley-ohm": {
+  "nombre": "Ley de Ohm",
+  "resumen": "Relación entre tensión, corriente y resistencia."
+ },
+ "pila-daniell": {
+  "nombre": "Pila Daniell",
+  "resumen": "Dos electrolitos: tensión estable."
+ },
+ "galvanoplastia": {
+  "nombre": "Galvanoplastia",
+  "resumen": "Depósito de metal por corriente."
+ },
+ "leyes-kirchhoff": {
+  "nombre": "Leyes de Kirchhoff",
+  "resumen": "Conservación de carga y energía en redes."
+ },
+ "acumulador-plomo": {
+  "nombre": "Acumulador de plomo",
+  "resumen": "Primera batería recargable."
+ },
+ "pila-leclanche": {
+  "nombre": "Pila Leclanché",
+  "resumen": "Zinc, dióxido de manganeso y cloruro amónico."
+ },
+ "electromagnetismo-oersted": {
+  "nombre": "Efecto magnético de la corriente",
+  "resumen": "Una corriente desvía la aguja imantada."
+ },
+ "ley-ampere": {
+  "nombre": "Electrodinámica de Ampère",
+  "resumen": "Fuerzas entre corrientes."
+ },
+ "galvanometro": {
+  "nombre": "Galvanómetro multiplicador",
+  "resumen": "Una bobina amplifica el efecto sobre la aguja."
+ },
+ "termoelectricidad": {
+  "nombre": "Termoelectricidad",
+  "resumen": "Una diferencia de temperatura entre uniones produce corriente."
+ },
+ "electroiman": {
+  "nombre": "Electroimán",
+  "resumen": "Hierro dulce con bobinado."
+ },
+ "induccion": {
+  "nombre": "Inducción electromagnética",
+  "resumen": "Un flujo magnético variable induce corriente."
+ },
+ "magneto-pixii": {
+  "nombre": "Generador con conmutador",
+  "resumen": "Imán giratorio y conmutador."
+ },
+ "motor-electrico": {
+  "nombre": "Motor eléctrico rotativo",
+  "resumen": "Primer motor con potencia útil."
+ },
+ "pila-artesa": {
+  "nombre": "Pila de artesa",
+  "resumen": "Placas en una cubeta con ácido: más corriente y manejo sencillo."
+ },
+ "rele": {
+  "nombre": "Relé",
+  "resumen": "Un circuito débil gobierna otro."
+ },
+ "bobina-induccion": {
+  "nombre": "Bobina de inducción",
+  "resumen": "Alta tensión con un interruptor; perfeccionada por Ruhmkorff."
+ },
+ "ecuaciones-maxwell": {
+  "nombre": "Ecuaciones de Maxwell",
+  "resumen": "La luz es una onda electromagnética."
+ },
+ "dinamo-autoexcitada": {
+  "nombre": "Dinamo autoexcitada",
+  "resumen": "Electroimanes alimentados por la propia máquina."
+ },
+ "dinamo-gramme": {
+  "nombre": "Dinamo de anillo",
+  "resumen": "Corriente continua uniforme."
+ },
+ "transformador": {
+  "nombre": "Transformador de núcleo cerrado",
+  "resumen": "Eleva y reduce la tensión alterna."
+ },
+ "hilo-cobre-aislado": {
+  "nombre": "Hilo de cobre aislado con seda",
+  "resumen": "Aislar el hilo permite bobinas de muchas espiras."
+ },
+ "motor-induccion": {
+  "nombre": "Motor de inducción polifásico",
+  "resumen": "Campo magnético giratorio."
+ },
+ "central-electrica": {
+  "nombre": "Central eléctrica urbana",
+  "resumen": "Dinamos de vapor que reparten corriente continua por cables a un barrio: Holborn (Londres) y Pearl Street (Nueva York)."
+ },
+ "transmision-alterna": {
+  "nombre": "Transmisión trifásica a distancia",
+  "resumen": "175 km de Lauffen a Fráncfort."
+ },
+ "central-niagara": {
+  "nombre": "Gran central de corriente alterna",
+  "resumen": "Central Adams del Niágara."
+ },
+ "lampara-aceite": {
+  "nombre": "Lámpara de aceite con mecha",
+  "resumen": "Recipiente de cerámica con pico para la mecha y depósito de aceite vegetal."
+ },
+ "vela-cera": {
+  "nombre": "Vela",
+  "resumen": "Mecha embebida en cera o sebo."
+ },
+ "lampara-argand": {
+  "nombre": "Lámpara de Argand",
+  "resumen": "Mecha hueca y tubo de vidrio."
+ },
+ "luz-calcio": {
+  "nombre": "Luz de calcio",
+  "resumen": "Cal incandescente bajo llama oxhídrica."
+ },
+ "bomba-geissler": {
+  "nombre": "Bomba de vacío de mercurio",
+  "resumen": "El vacío de Torricelli repetido con una columna de mercurio móvil: sin pistón ni fugas."
+ },
+ "tubo-geissler": {
+  "nombre": "Tubo de descarga",
+  "resumen": "Electrodos de platino sellados en vidrio."
+ },
+ "bomba-sprengel": {
+  "nombre": "Bomba de Sprengel",
+  "resumen": "Gotas de mercurio arrastran el aire: alto vacío."
+ },
+ "vela-jablochkov": {
+  "nombre": "Lámpara de arco comercial",
+  "resumen": "Dos carbones paralelos separados por yeso que se consumen a la par; ilumina avenidas de París."
+ },
+ "filamento-carbon": {
+  "nombre": "Filamento de carbón",
+  "resumen": "Fibra vegetal carbonizada sin aire."
+ },
+ "bombilla": {
+  "nombre": "Lámpara incandescente práctica",
+  "resumen": "Filamento de alta resistencia en alto vacío."
+ },
+ "bombilla-tungsteno": {
+  "nombre": "Lámpara de tungsteno",
+  "resumen": "Triplica el rendimiento."
+ },
+ "hilo-dumet": {
+  "nombre": "Hilo Dumet",
+  "resumen": "Ferroníquel cobreado que sustituye al platino en el sellado."
+ },
+ "bombilla-gas": {
+  "nombre": "Lámpara con gas inerte",
+  "resumen": "Argón y filamento en espiral."
+ },
+ "lampara-neon": {
+  "nombre": "Lámpara de neón",
+  "resumen": "Descarga eléctrica en neón a baja presión que da luz roja anaranjada."
+ },
+ "fluorescente": {
+  "nombre": "Lámpara fluorescente",
+  "resumen": "Vapor de mercurio y fósforos."
+ },
+ "led": {
+  "nombre": "LED visible",
+  "resumen": "Diodo de GaAsP que emite luz roja."
+ },
+ "electroluminiscencia-gaas": {
+  "nombre": "Electroluminiscencia infrarroja del GaAs",
+  "resumen": "Uniones p-n de arseniuro de galio que emiten infrarrojo al pasar corriente."
+ },
+ "led-azul": {
+  "nombre": "LED azul",
+  "resumen": "Nitruro de galio de alta luminosidad; permite la luz blanca."
+ },
+ "telegrafo-optico": {
+  "nombre": "Telégrafo óptico",
+  "resumen": "Semáforos en torres observados con catalejo."
+ },
+ "telegrafo-electrico": {
+  "nombre": "Telégrafo eléctrico",
+  "resumen": "Agujas de Cooke y Wheatstone; registrador de Morse."
+ },
+ "codigo-morse": {
+  "nombre": "Línea Morse y su código",
+  "resumen": "Puntos y rayas registrados por un electroimán; primera línea entre Washington y Baltimore."
+ },
+ "cable-submarino": {
+  "nombre": "Cable telegráfico submarino",
+  "resumen": "Conductor de cobre aislado con gutapercha y armado con hierro entre Dover y Calais."
+ },
+ "cable-transatlantico": {
+  "nombre": "Cable transatlántico duradero",
+  "resumen": "Tendido por el Great Eastern."
+ },
+ "telefono": {
+  "nombre": "Teléfono",
+  "resumen": "Transmisión eléctrica de la voz."
+ },
+ "microfono-carbon": {
+  "nombre": "Micrófono de carbón",
+  "resumen": "Resistencia variable con la presión sonora."
+ },
+ "central-telefonica": {
+  "nombre": "Central telefónica",
+  "resumen": "Conmutación manual; New Haven."
+ },
+ "fonografo": {
+  "nombre": "Fonógrafo",
+  "resumen": "Graba y reproduce sonido en un cilindro."
+ },
+ "ondas-hertz": {
+  "nombre": "Ondas electromagnéticas",
+  "resumen": "Generación y detección de ondas de radio."
+ },
+ "cohesor": {
+  "nombre": "Cohesor",
+  "resumen": "Limaduras metálicas que conducen al recibir ondas."
+ },
+ "radiotelegrafia": {
+  "nombre": "Telegrafía sin hilos",
+  "resumen": "Antena y toma de tierra."
+ },
+ "radio-voz": {
+  "nombre": "Radiotelefonía",
+  "resumen": "Una onda continua modulada en amplitud transmite voz y música."
+ },
+ "radiodifusion": {
+  "nombre": "Radiodifusión regular",
+  "resumen": "Emisoras con programación."
+ },
+ "television-mecanica": {
+  "nombre": "Televisión electromecánica",
+  "resumen": "Imagen explorada por un disco de Nipkow perforado y una célula fotoeléctrica."
+ },
+ "television-electronica": {
+  "nombre": "Televisión electrónica",
+  "resumen": "Exploración de la imagen por haz de electrones, sin piezas móviles."
+ },
+ "radar": {
+  "nombre": "Radar",
+  "resumen": "Detección por eco de radio."
+ },
+ "magnetron": {
+  "nombre": "Magnetrón de cavidades",
+  "resumen": "Microondas de alta potencia."
+ },
+ "telefono-movil": {
+  "nombre": "Teléfono móvil de mano",
+  "resumen": "Primera llamada con un prototipo de Motorola."
+ },
+ "gsm": {
+  "nombre": "Telefonía móvil digital GSM",
+  "resumen": "Norma europea de red celular digital con cifrado, itinerancia y mensajes cortos."
+ },
+ "satelite-comunicaciones": {
+  "nombre": "Satélite de comunicaciones",
+  "resumen": "Telstar 1 retransmite televisión y telefonía entre continentes."
+ },
+ "fibra-optica": {
+  "nombre": "Fibra óptica de baja atenuación",
+  "resumen": "Sílice de menos de 20 dB/km."
+ }
+}

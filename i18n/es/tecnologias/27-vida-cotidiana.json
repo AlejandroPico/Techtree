@@ -1,0 +1,422 @@
+{
+ "azada": {
+  "nombre": "Azada",
+  "resumen": "Hoja transversal enmangada para remover la tierra."
+ },
+ "terrazas-cultivo": {
+  "nombre": "Terrazas de cultivo",
+  "resumen": "Bancales que retienen suelo y agua en laderas."
+ },
+ "chinampas": {
+  "nombre": "Chinampas",
+  "resumen": "Huertos flotantes sobre lagos en Mesoamérica."
+ },
+ "shaduf": {
+  "nombre": "Cigoñal (shaduf)",
+  "resumen": "Palanca con contrapeso para elevar agua."
+ },
+ "trillo": {
+  "nombre": "Trillo",
+  "resumen": "Tabla con lascas de sílex arrastrada sobre la mies."
+ },
+ "abono-verde": {
+  "nombre": "Abonado con estiércol y abono verde",
+  "resumen": "Devolver nutrientes al suelo."
+ },
+ "injerto": {
+  "nombre": "Injerto",
+  "resumen": "Unir una variedad a un pie resistente."
+ },
+ "noria-sangre": {
+  "nombre": "Noria de sangre",
+  "resumen": "Rueda de cangilones movida por un animal."
+ },
+ "revolucion-agricola-arabe": {
+  "nombre": "Revolución agrícola andalusí",
+  "resumen": "Arroz, cítricos, caña de azúcar y algodón con regadío intensivo."
+ },
+ "guadana": {
+  "nombre": "Guadaña",
+  "resumen": "Siega de pie con hoja larga."
+ },
+ "intercambio-colombino": {
+  "nombre": "Intercambio colombino",
+  "resumen": "Maíz, patata y tomate cruzan al Viejo Mundo; trigo, caballos y enfermedades, al Nuevo."
+ },
+ "cria-selectiva": {
+  "nombre": "Cría selectiva del ganado",
+  "resumen": "Razas mejoradas por selección sistemática."
+ },
+ "arado-acero": {
+  "nombre": "Arado de acero pulido",
+  "resumen": "Corta el suelo pegajoso de la pradera."
+ },
+ "trilladora": {
+  "nombre": "Trilladora mecánica",
+  "resumen": "Tambor batidor que separa el grano."
+ },
+ "guano": {
+  "nombre": "Guano como fertilizante",
+  "resumen": "Importado masivamente desde el Perú."
+ },
+ "quimica-agricola": {
+  "nombre": "Química agrícola",
+  "resumen": "Las plantas se nutren de minerales: ley del mínimo."
+ },
+ "cosechadora": {
+  "nombre": "Cosechadora",
+  "resumen": "Siega y trilla a la vez."
+ },
+ "caldo-bordeles": {
+  "nombre": "Caldo bordelés",
+  "resumen": "Sulfato de cobre y cal contra el mildiu: primer fungicida."
+ },
+ "maiz-hibrido": {
+  "nombre": "Maíz híbrido comercial",
+  "resumen": "Líneas puras cruzadas: vigor híbrido."
+ },
+ "herbicida-24d": {
+  "nombre": "Herbicida selectivo 2,4-D",
+  "resumen": "Mata las malas hierbas de hoja ancha."
+ },
+ "riego-goteo": {
+  "nombre": "Riego por goteo",
+  "resumen": "Agua aplicada a la raíz."
+ },
+ "arroz-ir8": {
+  "nombre": "Arroz IR8",
+  "resumen": "Variedad semienana de alto rendimiento."
+ },
+ "agricultura-precision": {
+  "nombre": "Agricultura de precisión",
+  "resumen": "Abonado y siembra guiados por satélite."
+ },
+ "arroz-dorado": {
+  "nombre": "Arroz dorado",
+  "resumen": "Arroz con provitamina A."
+ },
+ "secado-salazon": {
+  "nombre": "Secado, salazón y ahumado",
+  "resumen": "Conservar carne y pescado sin frío."
+ },
+ "aceite-oliva": {
+  "nombre": "Aceite de oliva prensado",
+  "resumen": "Prensas de viga."
+ },
+ "levadura-pan": {
+  "nombre": "Pan fermentado",
+  "resumen": "Masa madre."
+ },
+ "garum": {
+  "nombre": "Salsas de pescado fermentado",
+  "resumen": "Garum."
+ },
+ "fideos": {
+  "nombre": "Fideos",
+  "resumen": "Fideos de mijo hallados en Lajia (China)."
+ },
+ "tofu": {
+  "nombre": "Tofu",
+  "resumen": "Cuajada de soja."
+ },
+ "te": {
+  "nombre": "Infusión de té",
+  "resumen": "Hojas halladas en una tumba Han."
+ },
+ "chocolate": {
+  "nombre": "Bebida de cacao",
+  "resumen": "Mokaya y olmecas."
+ },
+ "cafe": {
+  "nombre": "Café tostado",
+  "resumen": "Monasterios sufíes del Yemen."
+ },
+ "tenedor": {
+  "nombre": "Tenedor de mesa",
+  "resumen": "Bizancio; se extiende por Italia."
+ },
+ "champan": {
+  "nombre": "Vino espumoso en botella",
+  "resumen": "Botellas resistentes y tapón de corcho."
+ },
+ "margarina": {
+  "nombre": "Margarina",
+  "resumen": "Sustituto de la mantequilla."
+ },
+ "leche-condensada": {
+  "nombre": "Leche condensada",
+  "resumen": "Evaporada al vacío con azúcar."
+ },
+ "leche-en-polvo": {
+  "nombre": "Leche en polvo",
+  "resumen": "Secado de la leche."
+ },
+ "congelacion-rapida": {
+  "nombre": "Congelación rápida",
+  "resumen": "Cristales pequeños que no dañan el alimento."
+ },
+ "liofilizacion": {
+  "nombre": "Liofilización",
+  "resumen": "Secado por sublimación."
+ },
+ "tetrabrik": {
+  "nombre": "Envase de cartón aséptico",
+  "resumen": "Tetra Pak."
+ },
+ "uht": {
+  "nombre": "Esterilización UHT",
+  "resumen": "Leche que se conserva meses sin frío."
+ },
+ "fieltro": {
+  "nombre": "Fieltro",
+  "resumen": "Fibras de lana apelmazadas sin tejer."
+ },
+ "pelo-muda": {
+  "nombre": "Pelo y lana recogidos",
+  "resumen": "Fibras de muda antes de la oveja lanar."
+ },
+ "tejido-sarga": {
+  "nombre": "Ligamento de sarga",
+  "resumen": "Diagonal que da tejidos más flexibles."
+ },
+ "tijeras": {
+  "nombre": "Tijeras de muelle",
+  "resumen": "Dos hojas unidas por un fleje."
+ },
+ "boton-ojal": {
+  "nombre": "Botón con ojal",
+  "resumen": "Prendas ajustadas."
+ },
+ "calceta": {
+  "nombre": "Punto de aguja",
+  "resumen": "Calcetines egipcios de algodón."
+ },
+ "maquina-tricotar": {
+  "nombre": "Telar de medias",
+  "resumen": "Primer intento de mecanizar el tejido."
+ },
+ "indiana": {
+  "nombre": "Algodón estampado",
+  "resumen": "Indianas: industria de la que nace la fábrica catalana."
+ },
+ "carda-mecanica": {
+  "nombre": "Carda mecánica",
+  "resumen": "Cilindros con púas."
+ },
+ "cremallera": {
+  "nombre": "Cremallera",
+  "resumen": "Cierre de dientes entrelazados."
+ },
+ "velcro": {
+  "nombre": "Velcro",
+  "resumen": "Ganchos y bucles."
+ },
+ "lycra": {
+  "nombre": "Elastano",
+  "resumen": "Fibra muy elástica."
+ },
+ "goretex": {
+  "nombre": "Membrana impermeable transpirable",
+  "resumen": "PTFE expandido."
+ },
+ "cabana-huesos": {
+  "nombre": "Cabañas de huesos de mamut",
+  "resumen": "Mezhyrich y Dolní Věstonice."
+ },
+ "aldea-permanente": {
+  "nombre": "Aldea sedentaria",
+  "resumen": "Casas circulares natufienses."
+ },
+ "ciudad": {
+  "nombre": "Ciudad",
+  "resumen": "Uruk: decenas de miles de habitantes, templos y murallas."
+ },
+ "poblado-adobe": {
+  "nombre": "Poblado de adobe",
+  "resumen": "Çatalhöyük."
+ },
+ "columna-piedra": {
+  "nombre": "Columna de piedra",
+  "resumen": "Complejo de Zoser."
+ },
+ "piramide-lisa": {
+  "nombre": "Pirámide de caras lisas",
+  "resumen": "Pirámide Roja de Seneferu."
+ },
+ "gran-piramide": {
+  "nombre": "Gran Pirámide de Guiza",
+  "resumen": "2,3 millones de bloques."
+ },
+ "falsa-boveda": {
+  "nombre": "Falsa bóveda",
+  "resumen": "Newgrange."
+ },
+ "teja": {
+  "nombre": "Teja cerámica",
+  "resumen": "Templos griegos arcaicos."
+ },
+ "ordenes-clasicos": {
+  "nombre": "Órdenes arquitectónicos",
+  "resumen": "Dórico, jónico y corintio."
+ },
+ "cercha": {
+  "nombre": "Cercha de madera",
+  "resumen": "Triángulos que cubren grandes luces."
+ },
+ "hipocausto": {
+  "nombre": "Hipocausto",
+  "resumen": "Calefacción bajo el suelo."
+ },
+ "vidrio-ventana": {
+  "nombre": "Vidrio de ventana",
+  "resumen": "Láminas coladas."
+ },
+ "cupula-pechinas": {
+  "nombre": "Cúpula sobre pechinas",
+  "resumen": "Santa Sofía."
+ },
+ "arco-herradura": {
+  "nombre": "Arco de herradura y polilobulado",
+  "resumen": "Mezquita de Córdoba."
+ },
+ "chimenea": {
+  "nombre": "Chimenea de muro",
+  "resumen": "Tiro por conducto."
+ },
+ "vidriera": {
+  "nombre": "Vidriera emplomada",
+  "resumen": "Saint-Denis."
+ },
+ "tratado-vitruvio": {
+  "nombre": "De architectura",
+  "resumen": "Único tratado de arquitectura antiguo conservado."
+ },
+ "tratado-alberti": {
+  "nombre": "De re aedificatoria",
+  "resumen": "Teoría renacentista."
+ },
+ "palacio-cristal": {
+  "nombre": "Edificio prefabricado de hierro y vidrio",
+  "resumen": "Crystal Palace."
+ },
+ "viga-doble-t": {
+  "nombre": "Viga laminada en doble T",
+  "resumen": "Perfil normalizado."
+ },
+ "torre-eiffel": {
+  "nombre": "Torre Eiffel",
+  "resumen": "300 m de hierro roblonado."
+ },
+ "hormigon-pretensado": {
+  "nombre": "Hormigón pretensado",
+  "resumen": "Cables tensados que comprimen el hormigón."
+ },
+ "muro-cortina": {
+  "nombre": "Muro cortina",
+  "resumen": "Fachada de vidrio no portante."
+ },
+ "cupula-geodesica": {
+  "nombre": "Cúpula geodésica",
+  "resumen": "Triángulos sobre una esfera."
+ },
+ "rascacielos-tubular": {
+  "nombre": "Estructura tubular",
+  "resumen": "Torres de más de cien pisos."
+ },
+ "burj-khalifa": {
+  "nombre": "Edificio de 828 m",
+  "resumen": "Burj Khalifa."
+ },
+ "linterna-magica": {
+  "nombre": "Linterna mágica",
+  "resumen": "Proyección de imágenes pintadas."
+ },
+ "tallado-lentes": {
+  "nombre": "Tallado de lentes",
+  "resumen": "Oficio de los lentistas."
+ },
+ "fotografia-color": {
+  "nombre": "Fotografía en color por tres filtros",
+  "resumen": "Demostración de la síntesis aditiva."
+ },
+ "cronofotografia": {
+  "nombre": "Cronofotografía",
+  "resumen": "Caballo al galope en doce cámaras."
+ },
+ "obturador-rapido": {
+  "nombre": "Obturador rápido",
+  "resumen": "Exposiciones de milésimas de segundo."
+ },
+ "kinetoscopio": {
+  "nombre": "Kinetoscopio",
+  "resumen": "Visor individual de películas."
+ },
+ "autocromo": {
+  "nombre": "Autocromo",
+  "resumen": "Primera fotografía en color comercial."
+ },
+ "camara-35mm": {
+  "nombre": "Cámara de 35 mm",
+  "resumen": "Leica I."
+ },
+ "technicolor": {
+  "nombre": "Technicolor de tres tiras",
+  "resumen": "Cine en color."
+ },
+ "kodachrome": {
+  "nombre": "Película de color multicapa",
+  "resumen": "Kodachrome."
+ },
+ "polaroid": {
+  "nombre": "Fotografía instantánea",
+  "resumen": "Revelado en un minuto."
+ },
+ "animacion-ordenador": {
+  "nombre": "Largometraje de animación por ordenador",
+  "resumen": "Toy Story."
+ },
+ "cine-digital": {
+  "nombre": "Cine digital",
+  "resumen": "Rodaje y proyección sin película."
+ },
+ "escritura-indo": {
+  "nombre": "Escritura del Indo",
+  "resumen": "Signos aún sin descifrar."
+ },
+ "lineal-b": {
+  "nombre": "Lineal B",
+  "resumen": "Silabario del griego micénico."
+ },
+ "escritura-maya": {
+  "nombre": "Escritura maya",
+  "resumen": "Sistema logosilábico completo."
+ },
+ "alfabeto-latino": {
+  "nombre": "Alfabeto latino",
+  "resumen": "A través del etrusco."
+ },
+ "piedra-rosetta": {
+  "nombre": "Desciframiento de los jeroglíficos",
+  "resumen": "Piedra de Rosetta."
+ },
+ "minuscula-carolina": {
+  "nombre": "Minúscula carolina",
+  "resumen": "Letra clara con separación de palabras."
+ },
+ "hangul": {
+  "nombre": "Hangul",
+  "resumen": "Alfabeto coreano diseñado."
+ },
+ "taquigrafia": {
+  "nombre": "Taquigrafía fonética",
+  "resumen": "Sistema Pitman."
+ },
+ "pluma-estilografica": {
+  "nombre": "Pluma estilográfica",
+  "resumen": "Alimentador capilar."
+ },
+ "boligrafo": {
+  "nombre": "Bolígrafo",
+  "resumen": "Bola que dosifica tinta viscosa."
+ }
+}

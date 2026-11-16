@@ -1,0 +1,546 @@
+{
+ "tornillo-aereo": {
+  "nombre": "Tornillo aéreo y ornitóptero",
+  "resumen": "Estudios de vuelo de Leonardo."
+ },
+ "bambu-libelula": {
+  "nombre": "Juguete de hélice",
+  "resumen": "Rotor que asciende al girarlo; China."
+ },
+ "vuelo-ibn-firnas": {
+  "nombre": "Intento de planeo de Ibn Firnás",
+  "resumen": "Córdoba."
+ },
+ "globo-gas-alumbrado": {
+  "nombre": "Globos de gas de alumbrado",
+  "resumen": "Más barato que el hidrógeno."
+ },
+ "planeador-cayley-nino": {
+  "nombre": "Planeador tripulado de Cayley",
+  "resumen": "Un niño se eleva unos metros."
+ },
+ "sustentacion-perfil": {
+  "nombre": "Perfil alar curvado",
+  "resumen": "Patente de perfiles con curvatura."
+ },
+ "motor-langley": {
+  "nombre": "Aeródromo de Langley",
+  "resumen": "Modelo a vapor que vuela un kilómetro."
+ },
+ "alabeo": {
+  "nombre": "Control por torsión del ala",
+  "resumen": "Clave del vuelo controlado."
+ },
+ "helice-aerea": {
+  "nombre": "Hélice aérea eficiente",
+  "resumen": "Tratada como un ala giratoria."
+ },
+ "santos-dumont": {
+  "nombre": "Primer vuelo público en Europa",
+  "resumen": "14-bis."
+ },
+ "monoplano": {
+  "nombre": "Monoplano de tractor",
+  "resumen": "Configuración moderna."
+ },
+ "fuselaje-monocasco": {
+  "nombre": "Fuselaje monocasco",
+  "resumen": "Deperdussin."
+ },
+ "tren-retractil": {
+  "nombre": "Tren de aterrizaje retráctil",
+  "resumen": "Boeing 247."
+ },
+ "flaps": {
+  "nombre": "Flaps y ranuras",
+  "resumen": "Más sustentación a baja velocidad."
+ },
+ "sobrealimentador": {
+  "nombre": "Sobrealimentador de motor de aviación",
+  "resumen": "Potencia en altura."
+ },
+ "gasolina-100-octanos": {
+  "nombre": "Gasolina de 100 octanos",
+  "resumen": "Alquilación."
+ },
+ "radioayuda": {
+  "nombre": "Radiofaros de navegación",
+  "resumen": "Radiorrango de cuatro cursos."
+ },
+ "ils": {
+  "nombre": "Aterrizaje por instrumentos",
+  "resumen": "Dos haces de radio guían el descenso en rumbo y pendiente."
+ },
+ "torre-control": {
+  "nombre": "Control del tráfico aéreo",
+  "resumen": "Cleveland."
+ },
+ "radar-control-aereo": {
+  "nombre": "Radar de control aéreo",
+  "resumen": "Aproximación controlada desde tierra."
+ },
+ "vor": {
+  "nombre": "VOR",
+  "resumen": "Radiales omnidireccionales."
+ },
+ "caja-negra": {
+  "nombre": "Registrador de vuelo",
+  "resumen": "Voces y datos."
+ },
+ "navegacion-inercial": {
+  "nombre": "Navegación inercial",
+  "resumen": "Vuelo transcontinental sin referencias."
+ },
+ "spitfire-merlin": {
+  "nombre": "Caza monoplano de altas prestaciones",
+  "resumen": "Spitfire y Bf 109."
+ },
+ "b-29": {
+  "nombre": "Bombardero presurizado",
+  "resumen": "B-29 Superfortress: cabina presurizada y torretas a control remoto."
+ },
+ "me-262": {
+  "nombre": "Caza a reacción operativo",
+  "resumen": "Me 262."
+ },
+ "motor-reaccion-axial": {
+  "nombre": "Compresor axial",
+  "resumen": "Jumo 004."
+ },
+ "regla-area": {
+  "nombre": "Regla del área",
+  "resumen": "Fuselaje en «botella de Coca-Cola»."
+ },
+ "ala-delta": {
+  "nombre": "Ala en delta",
+  "resumen": "Convair XF-92."
+ },
+ "x-15": {
+  "nombre": "Avión cohete hipersónico",
+  "resumen": "X-15: Mach 6,7."
+ },
+ "sr-71": {
+  "nombre": "Avión de Mach 3",
+  "resumen": "SR-71."
+ },
+ "caravelle": {
+  "nombre": "Reactor de corto radio",
+  "resumen": "Motores en la cola."
+ },
+ "boeing-737": {
+  "nombre": "Reactor de pasillo único",
+  "resumen": "El avión comercial más vendido."
+ },
+ "airbus-a300": {
+  "nombre": "Bimotor de fuselaje ancho",
+  "resumen": "Airbus A300: primer bimotor de dos pasillos."
+ },
+ "winglets": {
+  "nombre": "Aletas de punta de ala",
+  "resumen": "Reducen la resistencia inducida."
+ },
+ "cabina-cristal": {
+  "nombre": "Cabina de pantallas",
+  "resumen": "Boeing 767."
+ },
+ "etops": {
+  "nombre": "Vuelos bimotores transoceánicos",
+  "resumen": "ETOPS."
+ },
+ "a380": {
+  "nombre": "Avión de dos pisos",
+  "resumen": "Airbus A380."
+ },
+ "ala-rotatoria-chinook": {
+  "nombre": "Helicóptero de turbina",
+  "resumen": "Motores turboeje."
+ },
+ "convertiplano": {
+  "nombre": "Convertiplano",
+  "resumen": "V-22 Osprey: rotores basculantes para despegar como helicóptero y volar como avión."
+ },
+ "avion-solar": {
+  "nombre": "Avión solar",
+  "resumen": "Solar Challenger."
+ },
+ "vuelo-humano": {
+  "nombre": "Vuelo de propulsión humana",
+  "resumen": "Gossamer Condor."
+ },
+ "vuelta-mundo-sin-escalas": {
+  "nombre": "Vuelta al mundo sin repostar",
+  "resumen": "Voyager."
+ },
+ "cohete-kibalchich": {
+  "nombre": "Proyecto de nave a reacción",
+  "resumen": "Esbozado en prisión."
+ },
+ "tobera-laval-cohete": {
+  "nombre": "Tobera de Laval en cohetes",
+  "resumen": "Patentes de Goddard."
+ },
+ "libro-oberth": {
+  "nombre": "El cohete hacia el espacio interplanetario",
+  "resumen": "Inspira a los pioneros alemanes."
+ },
+ "giroestabilizacion": {
+  "nombre": "Cohete guiado por giróscopos",
+  "resumen": "Goddard."
+ },
+ "turbobomba": {
+  "nombre": "Turbobomba",
+  "resumen": "Alimenta la cámara a alta presión."
+ },
+ "refrigeracion-regenerativa": {
+  "nombre": "Refrigeración regenerativa",
+  "resumen": "El combustible enfría la tobera."
+ },
+ "jato": {
+  "nombre": "Cohetes de combustible sólido compuesto",
+  "resumen": "Cohetes de asfalto y perclorato para ayudar al despegue de aviones."
+ },
+ "wac-corporal": {
+  "nombre": "Cohete sonda",
+  "resumen": "70 km de altitud."
+ },
+ "foto-tierra-espacio": {
+  "nombre": "Primera foto de la Tierra desde el espacio",
+  "resumen": "V-2 en White Sands."
+ },
+ "bumper": {
+  "nombre": "Cohete de dos etapas",
+  "resumen": "393 km."
+ },
+ "redstone": {
+  "nombre": "Misil Redstone",
+  "resumen": "Lanzador del primer astronauta estadounidense."
+ },
+ "vanguard": {
+  "nombre": "Satélite con células solares",
+  "resumen": "Vanguard 1, aún en órbita."
+ },
+ "nasa": {
+  "nombre": "NASA",
+  "resumen": "Agencia espacial civil."
+ },
+ "corona-recuperacion": {
+  "nombre": "Recuperación de una cápsula desde órbita",
+  "resumen": "Discoverer 13."
+ },
+ "ham": {
+  "nombre": "Chimpancé en vuelo suborbital",
+  "resumen": "El chimpancé Ham acciona palancas durante un vuelo suborbital y regresa ileso."
+ },
+ "shepard": {
+  "nombre": "Primer estadounidense en el espacio",
+  "resumen": "Mercury-Redstone 3."
+ },
+ "glenn": {
+  "nombre": "Órbita tripulada estadounidense",
+  "resumen": "Friendship 7."
+ },
+ "r7-atlas": {
+  "nombre": "Misil Atlas",
+  "resumen": "Tanques-globo presurizados."
+ },
+ "vosjod": {
+  "nombre": "Nave de varios tripulantes",
+  "resumen": "Vosjod 1."
+ },
+ "gemini": {
+  "nombre": "Nave Gemini",
+  "resumen": "Maniobras orbitales."
+ },
+ "soyuz": {
+  "nombre": "Nave Soyuz",
+  "resumen": "En servicio desde entonces."
+ },
+ "cohete-proton": {
+  "nombre": "Cohete Protón",
+  "resumen": "Lanzador pesado soviético."
+ },
+ "modulo-lunar": {
+  "nombre": "Módulo lunar",
+  "resumen": "Probado en el Apolo 9."
+ },
+ "traje-espacial": {
+  "nombre": "Traje para actividad extravehicular",
+  "resumen": "Sistema vital autónomo."
+ },
+ "rover-lunar": {
+  "nombre": "Vehículo lunar tripulado",
+  "resumen": "Apolo 15."
+ },
+ "bateria-plata-zinc": {
+  "nombre": "Batería de plata-zinc",
+  "resumen": "Alta densidad de energía."
+ },
+ "apolo-soyuz": {
+  "nombre": "Acoplamiento internacional",
+  "resumen": "Apolo-Soyuz."
+ },
+ "helios": {
+  "nombre": "Sonda solar",
+  "resumen": "Helios 2."
+ },
+ "venera-13": {
+  "nombre": "Imágenes en color de Venus",
+  "resumen": "Venera 13."
+ },
+ "vega-globos": {
+  "nombre": "Globos en otra atmósfera",
+  "resumen": "Sondas Vega."
+ },
+ "challenger-accidente": {
+  "nombre": "Accidente del Challenger",
+  "resumen": "Fallo de una junta tórica."
+ },
+ "buran": {
+  "nombre": "Transbordador Burán",
+  "resumen": "Vuelo automático."
+ },
+ "magallanes": {
+  "nombre": "Cartografía radar de Venus",
+  "resumen": "Sonda Magallanes."
+ },
+ "soho": {
+  "nombre": "Observatorio solar SOHO",
+  "resumen": "Punto de Lagrange L1."
+ },
+ "mars-global-surveyor": {
+  "nombre": "Cartografía global de Marte",
+  "resumen": "Altimetría láser."
+ },
+ "iss-ocupacion": {
+  "nombre": "Ocupación permanente del espacio",
+  "resumen": "Expedición 1."
+ },
+ "propulsion-ionica": {
+  "nombre": "Propulsión iónica interplanetaria",
+  "resumen": "Deep Space 1."
+ },
+ "vela-solar": {
+  "nombre": "Vela solar",
+  "resumen": "IKAROS."
+ },
+ "hayabusa": {
+  "nombre": "Muestras de un asteroide",
+  "resumen": "Hayabusa."
+ },
+ "shenzhou": {
+  "nombre": "Vuelo tripulado chino",
+  "resumen": "Shenzhou 5."
+ },
+ "chandrayaan": {
+  "nombre": "Agua en la Luna",
+  "resumen": "Chandrayaan-1."
+ },
+ "change-4": {
+  "nombre": "Alunizaje en la cara oculta",
+  "resumen": "Chang'e 4."
+ },
+ "falcon-heavy": {
+  "nombre": "Lanzador pesado reutilizable",
+  "resumen": "Falcon Heavy."
+ },
+ "dart": {
+  "nombre": "Desvío de un asteroide",
+  "resumen": "Misión DART."
+ },
+ "artemis-1": {
+  "nombre": "Vuelo lunar del SLS",
+  "resumen": "Artemis I."
+ },
+ "lena": {
+  "nombre": "Leña",
+  "resumen": "Combustible universal hasta el siglo XIX."
+ },
+ "turba": {
+  "nombre": "Turba",
+  "resumen": "Combustible de las tierras bajas."
+ },
+ "aceite-ballena": {
+  "nombre": "Aceite de ballena",
+  "resumen": "Alumbrado hasta el queroseno."
+ },
+ "carbon-domestico": {
+  "nombre": "Carbón mineral doméstico",
+  "resumen": "Newcastle abastece Londres."
+ },
+ "destilacion-petroleo-persa": {
+  "nombre": "Destilación de nafta",
+  "resumen": "Queroseno de al-Razi."
+ },
+ "pozos-baku": {
+  "nombre": "Pozos de petróleo excavados",
+  "resumen": "Pozos de 35 m excavados a mano en la península de Absherón."
+ },
+ "lampara-queroseno": {
+  "nombre": "Lámpara de queroseno",
+  "resumen": "Leópolis."
+ },
+ "oleoducto": {
+  "nombre": "Oleoducto",
+  "resumen": "Pithole."
+ },
+ "perforacion-rotatoria": {
+  "nombre": "Perforación rotatoria",
+  "resumen": "Spindletop."
+ },
+ "trepano-triconos": {
+  "nombre": "Trépano de conos",
+  "resumen": "Perfora roca dura."
+ },
+ "sismica-reflexion": {
+  "nombre": "Prospección sísmica",
+  "resumen": "Estructuras del subsuelo."
+ },
+ "plataforma-marina": {
+  "nombre": "Plataforma petrolífera en mar abierto",
+  "resumen": "Golfo de México."
+ },
+ "gasoducto": {
+  "nombre": "Gasoducto de larga distancia",
+  "resumen": "Indiana-Chicago."
+ },
+ "gas-licuado": {
+  "nombre": "Gases licuados del petróleo",
+  "resumen": "Butano y propano."
+ },
+ "gnl": {
+  "nombre": "Licuefacción de gas natural",
+  "resumen": "Planta de Cleveland."
+ },
+ "fracturacion-hidraulica": {
+  "nombre": "Fracturación hidráulica",
+  "resumen": "Estimula el pozo."
+ },
+ "perforacion-horizontal": {
+  "nombre": "Perforación horizontal con fracturación",
+  "resumen": "Gas de esquisto."
+ },
+ "hidrocraqueo": {
+  "nombre": "Hidrocraqueo",
+  "resumen": "Gasóleos limpios."
+ },
+ "craqueo-lecho-fluido": {
+  "nombre": "Craqueo en lecho fluidizado",
+  "resumen": "Catalizador en polvo circulante."
+ },
+ "gasificacion-carbon": {
+  "nombre": "Gasificador Winkler",
+  "resumen": "Lecho fluidizado."
+ },
+ "carbon-pulverizado": {
+  "nombre": "Carbón pulverizado",
+  "resumen": "Calderas de central."
+ },
+ "caldera-cornish": {
+  "nombre": "Caldera de Cornualles",
+  "resumen": "Tubo de humo interior."
+ },
+ "caldera-lancashire": {
+  "nombre": "Caldera Lancashire",
+  "resumen": "Dos hogares."
+ },
+ "caldera-acuotubular": {
+  "nombre": "Caldera acuotubular",
+  "resumen": "Babcock & Wilcox."
+ },
+ "inyector": {
+  "nombre": "Inyector de vapor",
+  "resumen": "Alimenta la caldera sin bomba."
+ },
+ "valvula-seguridad": {
+  "nombre": "Válvula de seguridad",
+  "resumen": "Contrapeso."
+ },
+ "ciclo-rankine": {
+  "nombre": "Ciclo de Rankine",
+  "resumen": "Teoría de la máquina de vapor."
+ },
+ "turbina-curtis": {
+  "nombre": "Turbina de escalones de velocidad",
+  "resumen": "Compacta."
+ },
+ "condensador-superficie": {
+  "nombre": "Condensador de superficie",
+  "resumen": "Agua dulce en circuito cerrado."
+ },
+ "vapor-supercritico": {
+  "nombre": "Central supercrítica",
+  "resumen": "Philo 6."
+ },
+ "ciclo-combinado": {
+  "nombre": "Ciclo combinado",
+  "resumen": "Gas y vapor en serie."
+ },
+ "cogeneracion": {
+  "nombre": "Cogeneración",
+  "resumen": "El calor residual calienta edificios."
+ },
+ "horno-solar": {
+  "nombre": "Horno solar",
+  "resumen": "Lentes que funden metales."
+ },
+ "colector-solar": {
+  "nombre": "Caja caliente solar",
+  "resumen": "110 °C."
+ },
+ "motor-solar": {
+  "nombre": "Motor solar",
+  "resumen": "Exposición de París."
+ },
+ "central-solar-maadi": {
+  "nombre": "Central solar de bombeo",
+  "resumen": "Maadi (Egipto)."
+ },
+ "calentador-solar": {
+  "nombre": "Calentador solar de agua",
+  "resumen": "Climax."
+ },
+ "celula-pasivada": {
+  "nombre": "Célula solar del 20 %",
+  "resumen": "Célula PERC: la cara posterior pasivada refleja la luz y reduce pérdidas."
+ },
+ "silicio-policristalino-solar": {
+  "nombre": "Silicio policristalino solar",
+  "resumen": "Lingotes fundidos."
+ },
+ "capa-fina": {
+  "nombre": "Célula de capa fina",
+  "resumen": "Silicio amorfo."
+ },
+ "inversor": {
+  "nombre": "Inversor fotovoltaico conectado a red",
+  "resumen": "Programa de mil tejados."
+ },
+ "bateria-niquel-hidruro": {
+  "nombre": "Batería de níquel-hidruro metálico",
+  "resumen": "Sin cadmio."
+ },
+ "catodo-litio-cobalto": {
+  "nombre": "Cátodo de óxido de litio y cobalto",
+  "resumen": "Cuatro voltios."
+ },
+ "anodo-grafito": {
+  "nombre": "Ánodo de carbono para litio",
+  "resumen": "Prototipo seguro."
+ },
+ "litio-ferrofosfato": {
+  "nombre": "Cátodo de ferrofosfato",
+  "resumen": "Estable y barato."
+ },
+ "bateria-red": {
+  "nombre": "Batería a escala de red",
+  "resumen": "Hornsdale (Australia)."
+ },
+ "electrolizador-pem": {
+  "nombre": "Electrolizador de membrana",
+  "resumen": "Membrana de polímero."
+ },
+ "bomba-calor": {
+  "nombre": "Bomba de calor",
+  "resumen": "Calefacción con ciclo frigorífico."
+ }
+}

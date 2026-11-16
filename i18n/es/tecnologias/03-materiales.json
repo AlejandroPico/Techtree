@@ -1,0 +1,278 @@
+{
+ "ceramica-figuras": {
+  "nombre": "Figurillas de arcilla cocida",
+  "resumen": "Venus de Dolní Věstonice: arcilla y loess cocidos a 500-800 °C."
+ },
+ "ceramica-vasijas": {
+  "nombre": "Vasijas de cerámica",
+  "resumen": "Recipientes de cazadores-recolectores en Xianrendong (China)."
+ },
+ "adobe": {
+  "nombre": "Adobe",
+  "resumen": "Ladrillos de barro y paja secados al sol; Jericó."
+ },
+ "cal": {
+  "nombre": "Cal y enlucidos",
+  "resumen": "Calcinar caliza a unos 850 °C y apagarla produce un aglomerante; suelos del Neolítico precerámico."
+ },
+ "horno-alfarero": {
+  "nombre": "Horno de tiro vertical",
+  "resumen": "Cámaras separadas para fuego y vasijas; se superan los 900 °C."
+ },
+ "torno-lento": {
+  "nombre": "Torneta (torno lento)",
+  "resumen": "Plataforma giratoria que ayuda a regularizar la vasija."
+ },
+ "fayenza": {
+  "nombre": "Fayenza egipcia",
+  "resumen": "Pasta de cuarzo con vidriado alcalino azul coloreado con cobre."
+ },
+ "torno-alfarero": {
+  "nombre": "Torno rápido de alfarero",
+  "resumen": "Aprovecha la inercia de la rueda para levantar la pieza; Mesopotamia."
+ },
+ "ladrillo-cocido": {
+  "nombre": "Ladrillo cocido",
+  "resumen": "Resistente al agua; usado en Mesopotamia y, a gran escala, en el Indo."
+ },
+ "vidriado": {
+  "nombre": "Vidriado cerámico",
+  "resumen": "Capa vítrea impermeable sobre la cerámica."
+ },
+ "hormigon-romano": {
+  "nombre": "Hormigón romano",
+  "resumen": "Cal, puzolana volcánica y áridos; fragua incluso bajo el agua."
+ },
+ "porcelana": {
+  "nombre": "Porcelana",
+  "resumen": "Caolín y feldespato cocidos por encima de 1250 °C; hornos de Xing y Ding."
+ },
+ "porcelana-europea": {
+  "nombre": "Porcelana dura europea",
+  "resumen": "Reinventada en Sajonia; manufactura de Meissen."
+ },
+ "cal-hidraulica": {
+  "nombre": "Cal hidráulica",
+  "resumen": "Calizas arcillosas que fraguan bajo el agua; faro de Eddystone."
+ },
+ "cemento-portland": {
+  "nombre": "Cemento Portland",
+  "resumen": "Caliza y arcilla calcinadas juntas y molidas."
+ },
+ "hormigon-armado": {
+  "nombre": "Hormigón armado",
+  "resumen": "El hierro embebido resiste la tracción que el hormigón no soporta."
+ },
+ "vidrio": {
+  "nombre": "Vidrio",
+  "resumen": "Cuentas de vidrio en Mesopotamia: sílice fundida con fundente alcalino."
+ },
+ "vidrio-nucleo": {
+  "nombre": "Vasos de vidrio sobre núcleo",
+  "resumen": "El vidrio caliente se enrolla sobre un núcleo de arcilla que luego se retira."
+ },
+ "vidrio-soplado": {
+  "nombre": "Vidrio soplado",
+  "resumen": "La caña de hierro permite inflar el vidrio fundido; costa sirio-palestina."
+ },
+ "cristallo": {
+  "nombre": "Cristallo veneciano",
+  "resumen": "Vidrio incoloro obtenido purificando las cenizas y decolorando con manganeso."
+ },
+ "vidrio-plomo": {
+  "nombre": "Vidrio de plomo",
+  "resumen": "Óxido de plomo: más brillo y un índice de refracción mayor."
+ },
+ "vidrio-optico": {
+  "nombre": "Vidrio óptico homogéneo",
+  "resumen": "Agitar el fundido elimina estrías; base de las lentes acromáticas de calidad."
+ },
+ "vidrio-flotado": {
+  "nombre": "Vidrio flotado",
+  "resumen": "La lámina se forma flotando sobre estaño fundido."
+ },
+ "huso": {
+  "nombre": "Huso con fusayola",
+  "resumen": "El volante de piedra o cerámica mantiene el giro y regulariza el hilo."
+ },
+ "lino-tejido": {
+  "nombre": "Tejido de lino",
+  "resumen": "Telas halladas en Çatalhöyük."
+ },
+ "telar-pesas": {
+  "nombre": "Telar vertical de pesas",
+  "resumen": "La urdimbre se tensa con pesas de arcilla."
+ },
+ "algodon": {
+  "nombre": "Hilado de algodón",
+  "resumen": "Mehrgarh (valle del Indo) y, de forma independiente, la costa peruana."
+ },
+ "seda": {
+  "nombre": "Tejido de seda",
+  "resumen": "Devanado del capullo en agua caliente."
+ },
+ "tintes": {
+  "nombre": "Tintes naturales con mordiente",
+  "resumen": "Índigo, rubia y, más tarde, púrpura de múrex fijados con alumbre."
+ },
+ "telar-tiro": {
+  "nombre": "Telar de tiro",
+  "resumen": "Telares de lizos múltiples para tejidos con dibujo; modelos de Laoguanshan (China)."
+ },
+ "rueca": {
+  "nombre": "Rueca (torno de hilar)",
+  "resumen": "Una rueda acciona el huso mediante una correa."
+ },
+ "telar-pedales": {
+  "nombre": "Telar horizontal de pedales",
+  "resumen": "Los pedales abren la calada y dejan las manos libres."
+ },
+ "lanzadera-volante": {
+  "nombre": "Lanzadera volante",
+  "resumen": "Duplica el ritmo del tejedor y permite paños más anchos."
+ },
+ "spinning-jenny": {
+  "nombre": "Spinning jenny",
+  "resumen": "Un operario hila varios husos a la vez."
+ },
+ "water-frame": {
+  "nombre": "Hiladora hidráulica",
+  "resumen": "Rodillos de estirado movidos por rueda hidráulica: nace la fábrica."
+ },
+ "mule": {
+  "nombre": "Mule de hilar",
+  "resumen": "Combina estirado y torsión para un hilo fino y resistente."
+ },
+ "telar-mecanico": {
+  "nombre": "Telar mecánico",
+  "resumen": "Telar accionado por energía mecánica."
+ },
+ "desmotadora": {
+  "nombre": "Desmotadora de algodón",
+  "resumen": "Separa mecánicamente la fibra de la semilla."
+ },
+ "telar-jacquard": {
+  "nombre": "Telar de Jacquard",
+  "resumen": "Tarjetas perforadas que gobiernan el dibujo."
+ },
+ "maquina-coser": {
+  "nombre": "Máquina de coser de doble pespunte",
+  "resumen": "Aguja con ojo en la punta y lanzadera."
+ },
+ "mauveina": {
+  "nombre": "Mauveína",
+  "resumen": "Primer colorante sintético, derivado de la anilina del alquitrán de hulla."
+ },
+ "viscosa": {
+  "nombre": "Viscosa",
+  "resumen": "Celulosa disuelta y regenerada en hilos."
+ },
+ "nailon": {
+  "nombre": "Nailon",
+  "resumen": "Primera fibra totalmente sintética."
+ },
+ "papiro": {
+  "nombre": "Papiro",
+  "resumen": "Láminas de tallo de Cyperus papyrus prensadas en capas cruzadas."
+ },
+ "pergamino": {
+  "nombre": "Pergamino",
+  "resumen": "Piel depilada con cal, tensada y raspada."
+ },
+ "papel": {
+  "nombre": "Papel",
+  "resumen": "Fibras vegetales maceradas y recogidas en un tamiz; fragmentos Han anteriores a Cai Lun (105)."
+ },
+ "molino-papelero": {
+  "nombre": "Molino papelero",
+  "resumen": "Mazos hidráulicos trituran los trapos; Xàtiva."
+ },
+ "papel-continuo": {
+  "nombre": "Máquina de papel continuo",
+  "resumen": "Tela metálica sin fin; desarrollada luego por los Fourdrinier."
+ },
+ "pasta-madera": {
+  "nombre": "Pasta mecánica de madera",
+  "resumen": "La madera desfibrada sustituye a los trapos."
+ },
+ "pasta-kraft": {
+  "nombre": "Proceso kraft",
+  "resumen": "Cocción alcalina con sulfuro que da una pasta muy resistente."
+ },
+ "caucho-mesoamericano": {
+  "nombre": "Caucho mesoamericano",
+  "resumen": "Látex de Castilla elastica mezclado con jugo de Ipomoea alba."
+ },
+ "goma-borrar": {
+  "nombre": "Goma de borrar",
+  "resumen": "El caucho natural borra el grafito mejor que la miga de pan."
+ },
+ "vulcanizacion": {
+  "nombre": "Vulcanización",
+  "resumen": "Calentar caucho con azufre lo vuelve estable y elástico."
+ },
+ "gutapercha": {
+  "nombre": "Gutapercha",
+  "resumen": "Látex termoplástico del sudeste asiático, aislante bajo el agua."
+ },
+ "parkesina": {
+  "nombre": "Parkesina",
+  "resumen": "Nitrocelulosa plastificada: primer plástico artificial."
+ },
+ "celuloide": {
+  "nombre": "Celuloide",
+  "resumen": "Nitrocelulosa con alcanfor, moldeable."
+ },
+ "baquelita": {
+  "nombre": "Baquelita",
+  "resumen": "Resina de fenol y formaldehído: primer plástico totalmente sintético."
+ },
+ "macromoleculas": {
+  "nombre": "Teoría macromolecular",
+  "resumen": "Los polímeros son cadenas larguísimas unidas por enlaces covalentes."
+ },
+ "polietileno": {
+  "nombre": "Polietileno",
+  "resumen": "Hallado al someter etileno a muy alta presión en ICI."
+ },
+ "teflon": {
+  "nombre": "Teflón (PTFE)",
+  "resumen": "Polímero fluorado casi inerte."
+ },
+ "ziegler-natta": {
+  "nombre": "Catalizadores Ziegler-Natta",
+  "resumen": "Polimerización a baja presión con control de la estructura."
+ },
+ "fibra-carbono": {
+  "nombre": "Fibra de carbono de alta resistencia",
+  "resumen": "Carbonización de poliacrilonitrilo."
+ },
+ "kevlar": {
+  "nombre": "Kevlar",
+  "resumen": "Poliaramida de altísima resistencia."
+ },
+ "fullerenos": {
+  "nombre": "Fullerenos",
+  "resumen": "Moléculas huecas de carbono C60."
+ },
+ "grafeno": {
+  "nombre": "Grafeno",
+  "resumen": "Capa monoatómica de carbono aislada por exfoliación."
+ },
+ "grafito-borrowdale": {
+  "nombre": "Grafito de Borrowdale",
+  "resumen": "Yacimiento de grafito macizo en Cumbria; se corta en barras para marcar."
+ },
+ "lapiz-madera": {
+  "nombre": "Lápiz con funda de madera",
+  "resumen": "Barra de mineral encajada entre dos listones encolados; descrito por Gessner en 1565."
+ },
+ "lapiz-conte": {
+  "nombre": "Mina de grafito y arcilla cocida",
+  "resumen": "Grafito en polvo y arcilla cocidos: la proporción fija la dureza."
+ },
+ "lapiz-goma": {
+  "nombre": "Lápiz con goma incorporada",
+  "resumen": "Goma sujeta al extremo; después, mediante virola metálica."
+ }
+}

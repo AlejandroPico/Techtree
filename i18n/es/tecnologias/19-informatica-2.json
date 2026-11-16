@@ -1,0 +1,698 @@
+{
+ "escaner": {
+  "nombre": "Escáner de imagen",
+  "resumen": "Primera imagen digitalizada, de 176 × 176 píxeles."
+ },
+ "rs-232": {
+  "nombre": "Puerto serie RS-232",
+  "resumen": "Norma para conectar terminales y módems."
+ },
+ "modem": {
+  "nombre": "Módem comercial",
+  "resumen": "Bell 103: datos a 300 bits por segundo por la línea telefónica."
+ },
+ "pantalla-plasma": {
+  "nombre": "Pantalla de plasma",
+  "resumen": "Celdas de gas que se iluminan una a una."
+ },
+ "pantalla-tactil": {
+  "nombre": "Pantalla táctil capacitiva",
+  "resumen": "El dedo altera la capacidad eléctrica de una lámina transparente."
+ },
+ "impresora-matricial": {
+  "nombre": "Impresora matricial",
+  "resumen": "Agujas que forman cada letra con puntos."
+ },
+ "pantalla-lcd": {
+  "nombre": "Pantalla de cristal líquido",
+  "resumen": "Efecto nemático torcido: el cristal gira la luz polarizada según la tensión."
+ },
+ "impresora-laser": {
+  "nombre": "Impresora láser",
+  "resumen": "Un láser dibuja la página sobre el tambor xerográfico."
+ },
+ "lcd-matriz-activa": {
+  "nombre": "LCD de matriz activa (TFT)",
+  "resumen": "Un transistor de película fina por píxel."
+ },
+ "codigo-barras": {
+  "nombre": "Código de barras UPC",
+  "resumen": "Primer producto escaneado en un supermercado de Ohio."
+ },
+ "bus-s100": {
+  "nombre": "Bus S-100",
+  "resumen": "Bus de expansión del Altair, adoptado por decenas de fabricantes."
+ },
+ "bus-isa": {
+  "nombre": "Bus ISA",
+  "resumen": "Ranuras de expansión del IBM PC."
+ },
+ "midi": {
+  "nombre": "MIDI",
+  "resumen": "Lenguaje común entre instrumentos electrónicos."
+ },
+ "impresora-tinta": {
+  "nombre": "Impresora de inyección térmica",
+  "resumen": "Burbujas de vapor que expulsan gotas de tinta."
+ },
+ "estereolitografia": {
+  "nombre": "Impresión 3D por estereolitografía",
+  "resumen": "Un láser solidifica resina capa a capa."
+ },
+ "scsi": {
+  "nombre": "SCSI e IDE",
+  "resumen": "Interfaces normalizadas para discos."
+ },
+ "oled": {
+  "nombre": "Diodo orgánico emisor de luz",
+  "resumen": "Capas orgánicas finas que emiten luz propia."
+ },
+ "impresion-fdm": {
+  "nombre": "Impresión 3D por deposición fundida",
+  "resumen": "Un hilo de plástico fundido dibuja cada capa."
+ },
+ "tarjeta-sonido": {
+  "nombre": "Tarjeta de sonido",
+  "resumen": "Sound Blaster: audio digital en el PC."
+ },
+ "bus-pci": {
+  "nombre": "Bus PCI",
+  "resumen": "Bus local rápido y autoconfigurable."
+ },
+ "codigo-qr": {
+  "nombre": "Código QR",
+  "resumen": "Matriz bidimensional de lectura rápida."
+ },
+ "firewire": {
+  "nombre": "FireWire",
+  "resumen": "Bus serie rápido para vídeo."
+ },
+ "usb": {
+  "nombre": "USB 1.0",
+  "resumen": "Un conector para todo, con alimentación y conexión en caliente."
+ },
+ "tinta-electronica": {
+  "nombre": "Tinta electrónica",
+  "resumen": "Microcápsulas con pigmento que solo gastan energía al cambiar."
+ },
+ "agp": {
+  "nombre": "Puerto AGP",
+  "resumen": "Bus dedicado a la tarjeta gráfica."
+ },
+ "bluetooth": {
+  "nombre": "Bluetooth",
+  "resumen": "Radio de corto alcance y bajo consumo."
+ },
+ "usb-2": {
+  "nombre": "USB 2.0",
+  "resumen": "Velocidad de 480 Mbit/s: discos y cámaras por USB."
+ },
+ "sata": {
+  "nombre": "Serial ATA",
+  "resumen": "Cable serie fino para discos."
+ },
+ "hdmi": {
+  "nombre": "HDMI",
+  "resumen": "Vídeo y audio digitales por un cable."
+ },
+ "pci-express": {
+  "nombre": "PCI Express",
+  "resumen": "Enlaces serie punto a punto escalables."
+ },
+ "multitactil": {
+  "nombre": "Pantalla multitáctil capacitiva proyectada",
+  "resumen": "Detecta varios dedos a la vez."
+ },
+ "usb-3": {
+  "nombre": "USB 3.0",
+  "resumen": "Velocidad de 5 Gbit/s con nuevos contactos."
+ },
+ "thunderbolt": {
+  "nombre": "Thunderbolt",
+  "resumen": "PCI Express y vídeo por un mismo cable."
+ },
+ "usb-c": {
+  "nombre": "USB-C",
+  "resumen": "Conector reversible con carga de alta potencia."
+ },
+ "monitor-lotes": {
+  "nombre": "Monitor de procesamiento por lotes",
+  "resumen": "GM-NAA I/O encadena trabajos sin intervención del operador."
+ },
+ "ensamblador": {
+  "nombre": "Lenguaje ensamblador",
+  "resumen": "Mnemónicos en lugar de números; EDSAC."
+ },
+ "os-360": {
+  "nombre": "OS/360",
+  "resumen": "Un sistema operativo para toda una familia de máquinas."
+ },
+ "multics": {
+  "nombre": "Multics",
+  "resumen": "Sistema de archivos jerárquico y anillos de protección."
+ },
+ "maquina-virtual": {
+  "nombre": "Máquinas virtuales",
+  "resumen": "VM/370: varios sistemas operativos en una misma máquina."
+ },
+ "cp-m": {
+  "nombre": "CP/M",
+  "resumen": "Sistema operativo de disco para microordenadores."
+ },
+ "sistema-fat": {
+  "nombre": "Sistema de archivos FAT",
+  "resumen": "Tabla de asignación de archivos."
+ },
+ "vms": {
+  "nombre": "VMS",
+  "resumen": "Sistema del VAX, de 32 bits."
+ },
+ "bsd": {
+  "nombre": "BSD",
+  "resumen": "Distribución de Berkeley: memoria virtual y pila TCP/IP."
+ },
+ "ms-dos": {
+  "nombre": "MS-DOS",
+  "resumen": "Sistema operativo del IBM PC."
+ },
+ "proyecto-gnu": {
+  "nombre": "Proyecto GNU y software libre",
+  "resumen": "Un sistema completo que cualquiera puede usar, estudiar y modificar."
+ },
+ "macintosh": {
+  "nombre": "Macintosh",
+  "resumen": "Interfaz gráfica y ratón para el gran público."
+ },
+ "windows-1": {
+  "nombre": "Windows 1.0",
+  "resumen": "Entorno gráfico sobre MS-DOS."
+ },
+ "micronucleo": {
+  "nombre": "Micronúcleo",
+  "resumen": "Mach: el núcleo solo gestiona mensajes, memoria e hilos."
+ },
+ "minix": {
+  "nombre": "MINIX",
+  "resumen": "UNIX didáctico con código abierto a los estudiantes."
+ },
+ "posix": {
+  "nombre": "POSIX",
+  "resumen": "Interfaz común que hace portables los programas."
+ },
+ "licencia-gpl": {
+  "nombre": "Licencia GPL",
+  "resumen": "Copyleft: las obras derivadas siguen siendo libres."
+ },
+ "nextstep": {
+  "nombre": "NeXTSTEP",
+  "resumen": "Sistema orientado a objetos; antepasado de macOS e iOS."
+ },
+ "windows-3": {
+  "nombre": "Windows 3.0",
+  "resumen": "Primer Windows de éxito masivo."
+ },
+ "windows-nt": {
+  "nombre": "Windows NT",
+  "resumen": "Núcleo de 32 bits portable y protegido."
+ },
+ "windows-95": {
+  "nombre": "Windows 95",
+  "resumen": "Menú Inicio, multitarea apropiativa y nombres largos."
+ },
+ "vmware": {
+  "nombre": "Virtualización de x86",
+  "resumen": "Traducción binaria para una arquitectura que no se dejaba virtualizar."
+ },
+ "mac-os-x": {
+  "nombre": "Mac OS X",
+  "resumen": "Núcleo Mach/BSD con interfaz Aqua."
+ },
+ "windows-xp": {
+  "nombre": "Windows XP",
+  "resumen": "El núcleo NT llega al hogar."
+ },
+ "git": {
+  "nombre": "Git",
+  "resumen": "Control de versiones distribuido."
+ },
+ "android": {
+  "nombre": "Android",
+  "resumen": "Sistema móvil de código abierto."
+ },
+ "contenedores": {
+  "nombre": "Contenedores de software",
+  "resumen": "Docker empaqueta una aplicación con todo lo que necesita."
+ },
+ "kubernetes": {
+  "nombre": "Orquestación de contenedores",
+  "resumen": "Kubernetes despliega y escala miles de contenedores."
+ },
+ "codigo-huffman": {
+  "nombre": "Código de Huffman",
+  "resumen": "Códigos más cortos para los símbolos más frecuentes."
+ },
+ "tabla-hash": {
+  "nombre": "Tabla hash",
+  "resumen": "Acceso casi directo a un dato por su clave."
+ },
+ "algoritmo-dijkstra": {
+  "nombre": "Algoritmo de Dijkstra",
+  "resumen": "Camino más corto en un grafo."
+ },
+ "cobol": {
+  "nombre": "COBOL",
+  "resumen": "Lenguaje de gestión cercano al inglés."
+ },
+ "algol": {
+  "nombre": "ALGOL 60",
+  "resumen": "Bloques, recursión y gramática formal: molde de casi todos los lenguajes posteriores."
+ },
+ "quicksort": {
+  "nombre": "Quicksort",
+  "resumen": "Ordenación rápida por partición."
+ },
+ "ascii": {
+  "nombre": "ASCII",
+  "resumen": "Siete bits por carácter."
+ },
+ "basic": {
+  "nombre": "BASIC",
+  "resumen": "Lenguaje sencillo para estudiantes."
+ },
+ "simula": {
+  "nombre": "Simula 67",
+  "resumen": "Clases, objetos y herencia."
+ },
+ "programacion-estructurada": {
+  "nombre": "Programación estructurada",
+  "resumen": "Secuencia, selección e iteración en lugar de saltos."
+ },
+ "expresiones-regulares": {
+  "nombre": "Expresiones regulares",
+  "resumen": "Búsqueda de patrones de texto compilados a un autómata."
+ },
+ "pascal-lenguaje": {
+  "nombre": "Pascal",
+  "resumen": "Lenguaje estructurado para enseñar."
+ },
+ "arbol-b": {
+  "nombre": "Árbol B",
+  "resumen": "Índice equilibrado para datos en disco."
+ },
+ "smalltalk": {
+  "nombre": "Smalltalk",
+  "resumen": "Todo es un objeto que recibe mensajes."
+ },
+ "prolog": {
+  "nombre": "Prolog",
+  "resumen": "Programación lógica: se declaran hechos y reglas y el sistema deduce."
+ },
+ "sql": {
+  "nombre": "SQL",
+  "resumen": "Lenguaje declarativo de consulta."
+ },
+ "lz77": {
+  "nombre": "Compresión Lempel-Ziv",
+  "resumen": "Sustituye repeticiones por referencias; base de ZIP, GIF y PNG."
+ },
+ "tex": {
+  "nombre": "TeX",
+  "resumen": "Composición tipográfica de textos científicos."
+ },
+ "procesador-textos": {
+  "nombre": "Procesador de textos",
+  "resumen": "WordStar."
+ },
+ "hoja-calculo": {
+  "nombre": "Hoja de cálculo",
+  "resumen": "VisiCalc: la aplicación que vende ordenadores."
+ },
+ "ada": {
+  "nombre": "Ada",
+  "resumen": "Lenguaje para sistemas críticos."
+ },
+ "postscript": {
+  "nombre": "PostScript",
+  "resumen": "Lenguaje de descripción de página: autoedición."
+ },
+ "c-mas-mas": {
+  "nombre": "C++",
+  "resumen": "Objetos sobre C sin perder rendimiento."
+ },
+ "erlang": {
+  "nombre": "Erlang",
+  "resumen": "Procesos ligeros y tolerancia a fallos para centralitas."
+ },
+ "perl": {
+  "nombre": "Perl",
+  "resumen": "Lenguaje de guiones para texto."
+ },
+ "haskell": {
+  "nombre": "Haskell",
+  "resumen": "Funcional puro con evaluación perezosa."
+ },
+ "unicode": {
+  "nombre": "Unicode",
+  "resumen": "Un código para todas las escrituras del mundo."
+ },
+ "python": {
+  "nombre": "Python",
+  "resumen": "Lenguaje interpretado que pone la legibilidad ante todo."
+ },
+ "utf-8": {
+  "nombre": "UTF-8",
+  "resumen": "Codificación variable compatible con ASCII."
+ },
+ "lenguaje-r": {
+  "nombre": "R",
+  "resumen": "Lenguaje libre de estadística."
+ },
+ "java": {
+  "nombre": "Java",
+  "resumen": "Código portable sobre una máquina virtual con recolección de basura."
+ },
+ "javascript": {
+  "nombre": "JavaScript",
+  "resumen": "Lenguaje del navegador, escrito en diez días."
+ },
+ "php": {
+  "nombre": "PHP",
+  "resumen": "Páginas web generadas en el servidor."
+ },
+ "ruby": {
+  "nombre": "Ruby",
+  "resumen": "Orientado a objetos y pensado para el programador."
+ },
+ "css": {
+  "nombre": "CSS",
+  "resumen": "Separa la presentación del contenido."
+ },
+ "xml": {
+  "nombre": "XML",
+  "resumen": "Marcado extensible para intercambio de datos."
+ },
+ "c-sharp": {
+  "nombre": "C#",
+  "resumen": "Lenguaje de la plataforma .NET."
+ },
+ "json": {
+  "nombre": "JSON",
+  "resumen": "Formato ligero de intercambio de datos."
+ },
+ "go": {
+  "nombre": "Go",
+  "resumen": "Concurrencia sencilla y compilación rápida."
+ },
+ "typescript": {
+  "nombre": "TypeScript",
+  "resumen": "Tipos estáticos sobre JavaScript."
+ },
+ "swift": {
+  "nombre": "Swift",
+  "resumen": "Lenguaje de Apple seguro por diseño."
+ },
+ "rust": {
+  "nombre": "Rust 1.0",
+  "resumen": "Seguridad de memoria sin recolector de basura."
+ },
+ "des": {
+  "nombre": "Cifrado DES",
+  "resumen": "Primer cifrado normalizado de uso civil."
+ },
+ "ftp": {
+  "nombre": "FTP",
+  "resumen": "Transferencia de archivos."
+ },
+ "aloha": {
+  "nombre": "ALOHAnet",
+  "resumen": "Red de paquetes por radio en Hawái; inspira Ethernet y el wifi."
+ },
+ "rfid": {
+  "nombre": "RFID",
+  "resumen": "Etiquetas que responden por radio sin batería."
+ },
+ "x25": {
+  "nombre": "X.25",
+  "resumen": "Redes públicas de paquetes."
+ },
+ "usenet": {
+  "nombre": "Usenet",
+  "resumen": "Grupos de discusión distribuidos."
+ },
+ "telefonia-1g": {
+  "nombre": "Telefonía celular analógica",
+  "resumen": "Red de NTT en Tokio; después NMT y AMPS."
+ },
+ "smtp": {
+  "nombre": "SMTP",
+  "resumen": "Protocolo de transporte del correo."
+ },
+ "dns": {
+  "nombre": "Sistema de nombres de dominio",
+  "resumen": "Base de datos distribuida que traduce nombres a direcciones."
+ },
+ "enrutador": {
+  "nombre": "Enrutador multiprotocolo",
+  "resumen": "Equipos dedicados que encaminan paquetes entre redes."
+ },
+ "nsfnet": {
+  "nombre": "NSFNET",
+  "resumen": "Red troncal académica que abre internet a las universidades."
+ },
+ "amplificador-fibra": {
+  "nombre": "Amplificador de fibra dopada con erbio",
+  "resumen": "Amplifica la luz sin convertirla en electricidad."
+ },
+ "tat-8": {
+  "nombre": "Cable transatlántico de fibra óptica",
+  "resumen": "TAT-8: 40.000 llamadas simultáneas."
+ },
+ "gusano-morris": {
+  "nombre": "Primer gusano de internet",
+  "resumen": "Un programa que se copia solo colapsa parte de la red."
+ },
+ "irc": {
+  "nombre": "IRC",
+  "resumen": "Conversación en tiempo real por canales."
+ },
+ "bgp": {
+  "nombre": "Protocolo BGP",
+  "resumen": "Encaminamiento entre redes autónomas."
+ },
+ "pgp": {
+  "nombre": "PGP",
+  "resumen": "Cifrado fuerte al alcance de cualquiera."
+ },
+ "sms": {
+  "nombre": "Mensaje corto SMS",
+  "resumen": "Primer mensaje de texto."
+ },
+ "dhcp": {
+  "nombre": "DHCP",
+  "resumen": "Configuración automática de direcciones."
+ },
+ "ssl": {
+  "nombre": "SSL/TLS",
+  "resumen": "Conexiones cifradas en la web."
+ },
+ "wiki": {
+  "nombre": "Wiki",
+  "resumen": "Páginas que cualquiera puede editar."
+ },
+ "voz-ip": {
+  "nombre": "Voz sobre IP",
+  "resumen": "Llamadas telefónicas por internet."
+ },
+ "multiplexacion-longitud-onda": {
+  "nombre": "Multiplexación densa por longitud de onda",
+  "resumen": "Decenas de colores de luz por una misma fibra."
+ },
+ "ipv6": {
+  "nombre": "IPv6",
+  "resumen": "Direcciones de 128 bits."
+ },
+ "adsl": {
+  "nombre": "ADSL",
+  "resumen": "Banda ancha por el par de cobre telefónico."
+ },
+ "redes-p2p": {
+  "nombre": "Redes entre pares",
+  "resumen": "Napster; después BitTorrent (2001)."
+ },
+ "wikipedia": {
+  "nombre": "Wikipedia",
+  "resumen": "Enciclopedia libre colaborativa."
+ },
+ "aes": {
+  "nombre": "Cifrado AES",
+  "resumen": "Algoritmo Rijndael elegido en concurso público como estándar."
+ },
+ "telefonia-3g": {
+  "nombre": "Telefonía 3G",
+  "resumen": "Datos de banda ancha; red FOMA de NTT DoCoMo."
+ },
+ "redes-sociales": {
+  "nombre": "Redes sociales masivas",
+  "resumen": "Facebook; antes Friendster y MySpace."
+ },
+ "mapreduce": {
+  "nombre": "MapReduce",
+  "resumen": "Cálculo distribuido sobre miles de máquinas baratas."
+ },
+ "video-en-linea": {
+  "nombre": "Vídeo en línea",
+  "resumen": "YouTube."
+ },
+ "computacion-nube": {
+  "nombre": "Computación en la nube",
+  "resumen": "Amazon alquila cómputo y almacenamiento por horas."
+ },
+ "bitcoin": {
+  "nombre": "Bitcoin",
+  "resumen": "Dinero digital sin autoridad central mediante prueba de trabajo."
+ },
+ "telefonia-4g": {
+  "nombre": "Telefonía 4G LTE",
+  "resumen": "Red solo de paquetes."
+ },
+ "telefonia-5g": {
+  "nombre": "Telefonía 5G",
+  "resumen": "Ondas milimétricas y antenas masivas."
+ },
+ "congreso-dartmouth": {
+  "nombre": "Conferencia de Dartmouth",
+  "resumen": "Nace el campo y el nombre de inteligencia artificial."
+ },
+ "logic-theorist": {
+  "nombre": "Logic Theorist",
+  "resumen": "Programa que demuestra teoremas de los Principia Mathematica."
+ },
+ "prueba-turing": {
+  "nombre": "Prueba de Turing",
+  "resumen": "¿Puede una máquina pasar por humana en una conversación?"
+ },
+ "eliza": {
+  "nombre": "ELIZA",
+  "resumen": "Programa de conversación por patrones."
+ },
+ "sistemas-expertos": {
+  "nombre": "Sistemas expertos",
+  "resumen": "DENDRAL y MYCIN: conocimiento de especialistas en reglas."
+ },
+ "robot-shakey": {
+  "nombre": "Robot Shakey",
+  "resumen": "Primer robot móvil que razona sobre sus acciones."
+ },
+ "modelos-markov": {
+  "nombre": "Modelos ocultos de Márkov en reconocimiento de voz",
+  "resumen": "Estadística en lugar de reglas fonéticas."
+ },
+ "redes-bayesianas": {
+  "nombre": "Redes bayesianas",
+  "resumen": "Razonamiento probabilístico sobre grafos."
+ },
+ "aprendizaje-q": {
+  "nombre": "Aprendizaje por refuerzo Q",
+  "resumen": "Aprender una política por ensayo y recompensa."
+ },
+ "maquinas-vectores-soporte": {
+  "nombre": "Máquinas de vectores de soporte",
+  "resumen": "Clasificador de margen máximo."
+ },
+ "deep-blue": {
+  "nombre": "Deep Blue",
+  "resumen": "Derrota al campeón mundial de ajedrez Kaspárov."
+ },
+ "algoritmo-minimax": {
+  "nombre": "Búsqueda minimax",
+  "resumen": "Programar un computador para jugar al ajedrez."
+ },
+ "teoria-juegos": {
+  "nombre": "Teoría de juegos",
+  "resumen": "Decisiones estratégicas formalizadas."
+ },
+ "imagenet": {
+  "nombre": "ImageNet",
+  "resumen": "Catorce millones de imágenes etiquetadas."
+ },
+ "watson": {
+  "nombre": "IBM Watson",
+  "resumen": "Gana a los campeones humanos de Jeopardy!"
+ },
+ "word2vec": {
+  "nombre": "Vectores de palabras",
+  "resumen": "Las palabras como puntos de un espacio semántico."
+ },
+ "redes-generativas": {
+  "nombre": "Redes generativas antagónicas",
+  "resumen": "Un generador y un discriminador compiten."
+ },
+ "mecanismo-atencion": {
+  "nombre": "Mecanismo de atención",
+  "resumen": "La red aprende a qué parte de la entrada mirar."
+ },
+ "resnet": {
+  "nombre": "Redes residuales",
+  "resumen": "Conexiones de atajo: redes de más de cien capas."
+ },
+ "alphazero": {
+  "nombre": "AlphaZero",
+  "resumen": "Aprende ajedrez, shogi y go jugando solo contra sí mismo."
+ },
+ "bert": {
+  "nombre": "BERT",
+  "resumen": "Preentrenamiento bidireccional del lenguaje."
+ },
+ "gpt-2": {
+  "nombre": "GPT-2",
+  "resumen": "Texto coherente generado palabra a palabra."
+ },
+ "modelos-difusion": {
+  "nombre": "Modelos de difusión",
+  "resumen": "Generar imágenes eliminando ruido paso a paso."
+ },
+ "imagen-desde-texto": {
+  "nombre": "Generación de imágenes desde texto",
+  "resumen": "DALL·E 2, Stable Diffusion y Midjourney."
+ },
+ "spacewar": {
+  "nombre": "Spacewar!",
+  "resumen": "Duelo espacial en un PDP-1."
+ },
+ "pong": {
+  "nombre": "Pong",
+  "resumen": "Primer videojuego de éxito comercial."
+ },
+ "consola-cartuchos": {
+  "nombre": "Consola de cartuchos",
+  "resumen": "Atari 2600."
+ },
+ "space-invaders": {
+  "nombre": "Space Invaders",
+  "resumen": "El arcade se vuelve fenómeno de masas."
+ },
+ "famicom": {
+  "nombre": "Nintendo Famicom/NES",
+  "resumen": "Recupera la industria tras la crisis de 1983."
+ },
+ "game-boy": {
+  "nombre": "Game Boy",
+  "resumen": "Consola portátil de cartuchos."
+ },
+ "doom": {
+  "nombre": "Doom",
+  "resumen": "Disparos en primera persona y partidas en red."
+ },
+ "playstation": {
+  "nombre": "PlayStation",
+  "resumen": "Gráficos 3D en CD-ROM."
+ },
+ "juego-masivo-en-linea": {
+  "nombre": "Juegos multijugador masivos",
+  "resumen": "Ultima Online; después World of Warcraft (2004)."
+ },
+ "motor-unreal": {
+  "nombre": "Motores de juego reutilizables",
+  "resumen": "Unreal Engine: la tecnología se licencia a otros estudios."
+ }
+}

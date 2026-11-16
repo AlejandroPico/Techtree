@@ -1,0 +1,278 @@
+{
+ "amputacion": {
+  "nombre": "Amputación quirúrgica",
+  "resumen": "Pierna amputada con supervivencia del paciente; Liang Tebo (Borneo)."
+ },
+ "trepanacion": {
+  "nombre": "Trepanación",
+  "resumen": "Cráneos perforados con cicatrización."
+ },
+ "papiro-medico": {
+  "nombre": "Tratados médicos egipcios",
+  "resumen": "Papiro Edwin Smith: casos, diagnóstico y pronóstico."
+ },
+ "medicina-hipocratica": {
+  "nombre": "Medicina hipocrática",
+  "resumen": "La enfermedad tiene causas naturales."
+ },
+ "teoria-humoral": {
+  "nombre": "Teoría de los cuatro humores",
+  "resumen": "Salud como equilibrio de sangre, flema y bilis; justificó la sangría durante dos milenios."
+ },
+ "miasmas": {
+  "nombre": "Teoría miasmática",
+  "resumen": "Las epidemias nacerían del aire corrupto; desplazada por la teoría germinal."
+ },
+ "generacion-espontanea": {
+  "nombre": "Generación espontánea",
+  "resumen": "La vida surgiría de materia inerte; refutada por Redi, Spallanzani y Pasteur."
+ },
+ "galeno": {
+  "nombre": "Medicina galénica",
+  "resumen": "Anatomía por disección animal."
+ },
+ "hospital": {
+  "nombre": "Hospital (bimaristán)",
+  "resumen": "Institución pública con salas, médicos y enseñanza; Bagdad."
+ },
+ "canon-avicena": {
+  "nombre": "Canon de medicina",
+  "resumen": "Síntesis médica usada en Europa hasta el siglo XVII."
+ },
+ "anatomia-vesalio": {
+  "nombre": "Anatomía humana por disección",
+  "resumen": "De humani corporis fabrica."
+ },
+ "ligadura-pare": {
+  "nombre": "Ligadura de arterias",
+  "resumen": "Atar los vasos tras la amputación en lugar de cauterizarlos."
+ },
+ "diseccion-academica": {
+  "nombre": "Disección humana académica",
+  "resumen": "Disecciones públicas de cadáveres humanos en la universidad de Bolonia."
+ },
+ "circulacion": {
+  "nombre": "Circulación de la sangre",
+  "resumen": "El corazón bombea la sangre en circuito cerrado."
+ },
+ "ensayo-clinico": {
+  "nombre": "Ensayo clínico controlado",
+  "resumen": "Cítricos contra el escorbuto."
+ },
+ "frenologia": {
+  "nombre": "Frenología",
+  "resumen": "El carácter se leería en la forma del cráneo; sin base."
+ },
+ "homeopatia": {
+  "nombre": "Homeopatía",
+  "resumen": "Diluciones extremas sin principio activo; sin eficacia más allá del placebo."
+ },
+ "estetoscopio": {
+  "nombre": "Estetoscopio",
+  "resumen": "Auscultación mediata con un tubo de madera."
+ },
+ "anestesia": {
+  "nombre": "Anestesia con éter",
+  "resumen": "Demostración pública en el Hospital General de Massachusetts."
+ },
+ "lavado-manos": {
+  "nombre": "Antisepsia de manos",
+  "resumen": "El lavado con cloruro de cal reduce la fiebre puerperal."
+ },
+ "antisepsia": {
+  "nombre": "Cirugía antiséptica",
+  "resumen": "Fenol sobre heridas, manos e instrumental: la mortalidad operatoria se desploma."
+ },
+ "grupos-sanguineos": {
+  "nombre": "Grupos sanguíneos",
+  "resumen": "Sistema ABO: transfusiones seguras."
+ },
+ "electrocardiograma": {
+  "nombre": "Electrocardiógrafo",
+  "resumen": "Galvanómetro de cuerda que registra el corazón."
+ },
+ "radiografia": {
+  "nombre": "Radiografía médica",
+  "resumen": "Uso clínico a las semanas del descubrimiento."
+ },
+ "trasplante-rinon": {
+  "nombre": "Trasplante renal",
+  "resumen": "Entre gemelos idénticos."
+ },
+ "marcapasos": {
+  "nombre": "Marcapasos implantable",
+  "resumen": "Estimulador implantado con transistores de silicio."
+ },
+ "tomografia": {
+  "nombre": "Tomografía computarizada",
+  "resumen": "Reconstrucción por ordenador de cortes de rayos X."
+ },
+ "resonancia": {
+  "nombre": "Imagen por resonancia magnética",
+  "resumen": "Gradientes de campo para localizar la señal."
+ },
+ "fecundacion-in-vitro": {
+  "nombre": "Fecundación in vitro",
+  "resumen": "Nacimiento de Louise Brown."
+ },
+ "hormonas": {
+  "nombre": "Hormonas",
+  "resumen": "La secretina prueba que hay mensajeros químicos en la sangre."
+ },
+ "celulas-hooke": {
+  "nombre": "Células",
+  "resumen": "Micrographia describe las celdillas del corcho y las llama células."
+ },
+ "microorganismos": {
+  "nombre": "Microorganismos",
+  "resumen": "Lentes simples de gran aumento."
+ },
+ "variolizacion": {
+  "nombre": "Variolización",
+  "resumen": "Inoculación con viruela leve; China."
+ },
+ "vacuna-viruela": {
+  "nombre": "Vacuna antivariólica",
+  "resumen": "La viruela vacuna protege de la humana."
+ },
+ "microscopio-acromatico": {
+  "nombre": "Microscopio acromático",
+  "resumen": "Corrige aberraciones cromática y esférica."
+ },
+ "teoria-celular": {
+  "nombre": "Teoría celular",
+  "resumen": "Todos los seres vivos están hechos de células."
+ },
+ "epidemiologia": {
+  "nombre": "Epidemiología cartográfica",
+  "resumen": "El mapa de casos de cólera de Broad Street señala una bomba de agua."
+ },
+ "teoria-germinal": {
+  "nombre": "Teoría germinal",
+  "resumen": "Los microbios causan fermentación y enfermedad."
+ },
+ "postulados-koch": {
+  "nombre": "Microbio específico para cada enfermedad",
+  "resumen": "Carbunco; después tuberculosis y cólera."
+ },
+ "vacuna-rabia": {
+  "nombre": "Vacunas atenuadas",
+  "resumen": "Patógenos debilitados en el laboratorio."
+ },
+ "virus": {
+  "nombre": "Virus",
+  "resumen": "Agente que atraviesa filtros de porcelana."
+ },
+ "vacuna-polio": {
+  "nombre": "Vacuna de la poliomielitis",
+  "resumen": "Virus inactivado cultivado en tejido."
+ },
+ "erradicacion-viruela": {
+  "nombre": "Erradicación de la viruela",
+  "resumen": "Primera enfermedad humana eliminada."
+ },
+ "vacuna-arnm": {
+  "nombre": "Vacunas de ARN mensajero",
+  "resumen": "ARN modificado en nanopartículas lipídicas; COVID-19."
+ },
+ "plantas-medicinales": {
+  "nombre": "Farmacopea de plantas",
+  "resumen": "Tablillas sumerias con recetas."
+ },
+ "quinina": {
+  "nombre": "Quinina aislada",
+  "resumen": "Alcaloide de la corteza de quina."
+ },
+ "aspirina": {
+  "nombre": "Ácido acetilsalicílico",
+  "resumen": "Derivado del ácido salicílico del sauce; Bayer."
+ },
+ "salvarsan": {
+  "nombre": "Salvarsán",
+  "resumen": "Primera quimioterapia dirigida."
+ },
+ "insulina": {
+  "nombre": "Insulina",
+  "resumen": "Extracto pancreático que trata la diabetes."
+ },
+ "penicilina": {
+  "nombre": "Penicilina",
+  "resumen": "Un moho inhibe el crecimiento bacteriano."
+ },
+ "sulfamidas": {
+  "nombre": "Sulfamidas",
+  "resumen": "Prontosil: primer antibacteriano sintético de uso general."
+ },
+ "penicilina-industrial": {
+  "nombre": "Producción masiva de penicilina",
+  "resumen": "Fermentación en tanque profundo."
+ },
+ "cultivo-puro-levadura": {
+  "nombre": "Cultivo puro de levaduras",
+  "resumen": "Aislar una sola célula de levadura da fermentaciones reproducibles; Carlsberg."
+ },
+ "pildora": {
+  "nombre": "Anticonceptivo oral",
+  "resumen": "Progestágeno y estrógeno sintéticos."
+ },
+ "antirretrovirales": {
+  "nombre": "Terapia antirretroviral combinada",
+  "resumen": "Combinación de fármacos que controla el VIH."
+ },
+ "lamarckismo": {
+  "nombre": "Herencia de los caracteres adquiridos",
+  "resumen": "Primera teoría evolutiva coherente, con un mecanismo descartado."
+ },
+ "clasificacion-linneo": {
+  "nombre": "Clasificación linneana",
+  "resumen": "Systema Naturae: jerarquía de clases, órdenes, géneros y especies con nombre doble."
+ },
+ "evolucion": {
+  "nombre": "Selección natural",
+  "resumen": "El origen de las especies."
+ },
+ "leyes-mendel": {
+  "nombre": "Leyes de la herencia",
+  "resumen": "Factores discretos que se segregan; guisantes."
+ },
+ "cromosomas": {
+  "nombre": "Teoría cromosómica",
+  "resumen": "Los genes residen en los cromosomas."
+ },
+ "adn-genetico": {
+  "nombre": "El ADN es el material genético",
+  "resumen": "Principio transformante de los neumococos."
+ },
+ "doble-helice": {
+  "nombre": "Doble hélice del ADN",
+  "resumen": "Dos hebras complementarias."
+ },
+ "codigo-genetico": {
+  "nombre": "Código genético",
+  "resumen": "Tripletes de bases codifican aminoácidos."
+ },
+ "adn-recombinante": {
+  "nombre": "ADN recombinante",
+  "resumen": "Genes cortados y pegados entre organismos."
+ },
+ "secuenciacion": {
+  "nombre": "Secuenciación del ADN",
+  "resumen": "Método de terminadores de cadena."
+ },
+ "pcr": {
+  "nombre": "PCR",
+  "resumen": "Amplificación exponencial de ADN."
+ },
+ "clonacion": {
+  "nombre": "Clonación de un mamífero adulto",
+  "resumen": "La oveja Dolly nace del núcleo de una célula adulta."
+ },
+ "genoma-humano": {
+  "nombre": "Genoma humano",
+  "resumen": "Secuencia de referencia completada por un consorcio internacional."
+ },
+ "crispr": {
+  "nombre": "Edición genética CRISPR-Cas9",
+  "resumen": "Corte programable del ADN guiado por ARN."
+ }
+}

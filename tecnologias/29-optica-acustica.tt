@@ -1,0 +1,137 @@
+@ fisica | Física y astronomía | #7c8fe0
+@@ optica | Óptica
+espejo-metal | ~-4000 | I | Espejo de metal pulido | cobre-reduccion, pulido-abrasivos | Discos de cobre y bronce bruñidos en Egipto y Mesopotamia. |
+lente-cristal-roca | ~-750 | I | Lente de cristal de roca | pulido-abrasivos | Lente de Nimrud, pulida en cuarzo; su uso como lupa es discutido. |
+catoptrica-euclides | ~-300 | C | Óptica geométrica de Euclides | elementos | Rayos rectilíneos y ley de la reflexión. | Euclides
+espejos-ustorios | ~-190 | C | Espejos ustorios | conicas, espejo-metal | Espejos cóncavos que concentran el Sol; estudiados por Diocles. | Diocles
+refraccion-ptolomeo | ~160 | D | Tablas de refracción | catoptrica-euclides | Primeras medidas de ángulos en aire, agua y vidrio. | Claudio Ptolomeo
+ley-refraccion-ibn-sahl | 984 | C | Ley de la refracción de Ibn Sahl | refraccion-ptolomeo, conicas | Lentes y espejos que enfocan sin aberración. | Ibn Sahl
+camara-oscura-alhacen | 1021 | D | Cámara oscura explicada | optica-alhacen | La imagen invertida prueba que la luz viaja en línea recta. | Ibn al-Haytham
+arcoiris-explicado | ~1307 | D | Explicación del arcoíris | optica-alhacen, vidrio-soplado | Esferas de vidrio llenas de agua como gotas gigantes. | Teodorico de Friburgo, Kamal al-Din al-Farisi
+piedra-lectura | ~1000 | I | Piedra de lectura | lente-cristal-roca | Casquete de vidrio o berilo posado sobre el texto. |
+lente-concava | ~1450 | I | Lentes cóncavas para miopes | gafas | Nicolás de Cusa las menciona en 1451. |
+torno-lentes | ~1570 | H | Torno de pulir lentes | tallado-lentes, torno-pedal | Moldes esféricos de metal y abrasivos graduados. |
+telescopio-kepleriano | 1611 | I | Telescopio astronómico de dos lentes convexas | telescopio | Mayor campo e imagen invertida; permite retículo. | Johannes Kepler
+dioptrica-kepler | 1611 | C | Dioptrice | telescopio, ley-refraccion-ibn-sahl | Teoría de las lentes y del telescopio. | Johannes Kepler
+imagen-retiniana | 1604 | D | Imagen invertida en la retina | optica-alhacen, anatomia-vesalio | El ojo funciona como una cámara oscura. | Johannes Kepler
+difraccion | 1665 | D | Difracción | camara-oscura-alhacen | La luz se curva al rozar un borde. | Francesco Grimaldi
+principio-fermat | 1662 | C | Principio del tiempo mínimo | ley-snell, tangentes-fermat | La luz sigue el camino más rápido. | Pierre de Fermat
+anillos-newton | 1675 | D | Anillos de Newton | dispersion-luz | Colores de interferencia en láminas delgadas. | Isaac Newton, Robert Hooke
+doble-refraccion | 1669 | D | Doble refracción | cristal-islandia | El espato de Islandia da dos imágenes. | Rasmus Bartholin
+cristal-islandia | ~1660 | M | Espato de Islandia | pulido-abrasivos | Calcita transparente de gran tamaño. |
+principio-huygens | 1678 | C | Principio de Huygens | doble-refraccion, velocidad-luz | Cada punto del frente de onda emite ondas secundarias. | Christiaan Huygens
+teoria-corpuscular | 1704 | X | Teoría corpuscular de la luz | dispersion-luz, principia | La luz como partículas; dominó un siglo hasta Young y Fresnel. | Isaac Newton
+microscopio-simple | 1674 | I | Microscopio simple de gran aumento | tallado-lentes | Lentes diminutas de hasta 270 aumentos. | Antonie van Leeuwenhoek
+ocular-huygens | 1662 | H | Ocular de dos lentes | telescopio-kepleriano | Reduce la aberración cromática lateral. | Christiaan Huygens
+telescopio-aereo | 1675 | I | Telescopios de gran focal | telescopio-kepleriano | Decenas de metros para atenuar la aberración cromática. | Christiaan Huygens, Johannes Hevelius
+telescopio-gregoriano | 1663 | C | Telescopio gregoriano | espejos-ustorios, telescopio | Diseño de dos espejos cóncavos. | James Gregory
+telescopio-cassegrain | 1672 | C | Telescopio Cassegrain | telescopio-gregoriano | Secundario convexo: tubo corto. | Laurent Cassegrain
+fotometria | 1729 | C | Fotometría | optica-alhacen | Medida de la intensidad luminosa. | Pierre Bouguer
+ley-lambert | 1760 | C | Ley de Lambert | fotometria | Absorción y reflexión difusa. | Johann Lambert
+aberracion-cromatica-corregida | 1733 | D | Lente acromática | vidrio-plomo, dispersion-luz | Dos vidrios de distinta dispersión se compensan. | Chester Moor Hall
+espejo-speculum | 1721 | H | Espejo parabólico de speculum | telescopio-reflector | Primer reflector realmente útil. | John Hadley
+telescopio-herschel | 1789 | H | Gran reflector de Herschel | espejo-speculum | Espejo de 1,2 m y 12 m de focal. | William Herschel
+goniometro-reflexion | 1809 | H | Goniómetro de reflexión | cristal-islandia | Mide ángulos de cristales. | William Hyde Wollaston
+ley-brewster | 1815 | C | Ángulo de Brewster | polarizacion | Reflexión totalmente polarizada. | David Brewster
+caleidoscopio | 1816 | I | Caleidoscopio | espejo-vidrio-azogue | Espejos en ángulo. | David Brewster
+red-difraccion | 1821 | H | Red de difracción | lineas-fraunhofer, maquina-dividir | Miles de rayas paralelas que separan la luz. | Joseph von Fraunhofer
+lente-fresnel | 1822 | I | Lente de Fresnel | ondas-transversales, vidrio-optico | Anillos prismáticos: faros visibles a 30 km. | Augustin Fresnel
+prisma-nicol | 1828 | H | Prisma de Nicol | doble-refraccion, cristal-islandia | Polarizador de calcita. | William Nicol
+microscopio-polarizacion | 1834 | H | Microscopio petrográfico | prisma-nicol, microscopio-acromatico | Minerales en lámina delgada con luz polarizada. | Henry Fox Talbot
+estereoscopio | 1838 | I | Estereoscopio | espejo-vidrio-azogue | Dos imágenes dan relieve. | Charles Wheatstone
+objetivo-petzval | 1840 | I | Objetivo de retrato calculado | daguerrotipo, vidrio-optico | Primer objetivo diseñado matemáticamente. | Joseph Petzval
+actividad-optica | 1848 | D | Quiralidad molecular | polarizacion, microscopio-acromatico | Cristales de tartrato especulares. | Louis Pasteur
+polarimetro | 1840 | H | Polarímetro | prisma-nicol | Mide azúcares por rotación óptica. | Jean-Baptiste Biot
+teoria-color-tricromatica | 1802 | C | Teoría tricromática del color | dispersion-luz | Tres receptores en el ojo. | Thomas Young, Hermann von Helmholtz
+espectro-electromagnetico | 1865 | C | Espectro electromagnético | ecuaciones-maxwell, radiacion-infrarroja, radiacion-ultravioleta | Luz, calor radiante y ondas eléctricas son lo mismo. | James Clerk Maxwell
+espectroscopio-bunsen | 1859 | H | Espectroscopio de prisma | mechero-bunsen, lineas-fraunhofer | Colimador, prisma y anteojo. | Robert Bunsen, Gustav Kirchhoff
+condicion-seno-abbe | 1873 | C | Teoría de la imagen microscópica | microscopio-acromatico, red-difraccion | Límite de resolución por difracción. | Ernst Abbe
+objetivo-inmersion | 1878 | H | Objetivo de inmersión homogénea | condicion-seno-abbe | Aceite de cedro entre lente y preparación. | Ernst Abbe
+objetivo-apocromatico | 1886 | H | Objetivo apocromático | vidrio-schott, objetivo-inmersion | Corrige tres colores. | Ernst Abbe
+red-rowland | 1882 | H | Red cóncava de Rowland | red-difraccion, maquina-dividir | Redes de 14.000 líneas por pulgada. | Henry Rowland
+interferometro-michelson | 1881 | H | Interferómetro de Michelson | doble-rendija, espejo-plateado | Mide longitudes con la onda de la luz. | Albert Michelson
+interferometro-fabry-perot | 1897 | H | Interferómetro Fabry-Pérot | interferometro-michelson | Dos espejos paralelos: resolución espectral extrema. | Charles Fabry, Alfred Pérot
+objetivo-anastigmatico | 1890 | I | Objetivo anastigmático | vidrio-schott, objetivo-petzval | Protar de Zeiss. | Paul Rudolph
+tessar | 1902 | I | Objetivo Tessar | objetivo-anastigmatico | Cuatro lentes de gran nitidez. | Paul Rudolph
+prismaticos | 1894 | I | Prismáticos de prismas de Porro | vidrio-schott | Binoculares compactos de Zeiss. | Ignazio Porro, Ernst Abbe
+ultramicroscopio | 1903 | H | Ultramicroscopio | condicion-seno-abbe | Coloides vistos por la luz que dispersan. | Richard Zsigmondy
+dispersion-rayleigh | 1871 | C | Dispersión de Rayleigh | espectro-electromagnetico | Por qué el cielo es azul. | Lord Rayleigh
+presion-radiacion | 1900 | D | Presión de la luz | espectro-electromagnetico, bomba-sprengel | Medida en el laboratorio. | Piotr Lébedev
+contraste-fases | 1934 | I | Microscopio de contraste de fases | condicion-seno-abbe | Células vivas visibles sin teñir. | Frits Zernike
+capa-antirreflejante | 1935 | T | Capa antirreflejante | anillos-newton, bomba-difusion | Película de fluoruro depositada al vacío. | Olexander Smakula
+bomba-difusion | 1915 | H | Bomba de difusión | bomba-sprengel | Chorro de vapor de mercurio: alto vacío. | Wolfgang Gaede, Irving Langmuir
+polaroid-lamina | 1929 | M | Lámina polarizadora | polarizacion, macromoleculas | Cristales alineados en plástico. | Edwin Land
+camara-schmidt | 1930 | I | Cámara Schmidt | telescopio-reflector, vidrio-schott | Gran campo sin aberración. | Bernhard Schmidt
+lentes-contacto | 1887 | I | Lente de contacto | vidrio-soplado | Lente escleral de vidrio. | Adolf Fick, August Müller
+lentes-contacto-blandas | 1961 | I | Lentes de contacto blandas | lentes-contacto, macromoleculas | Hidrogel. | Otto Wichterle
+lentes-progresivas | 1959 | I | Lentes progresivas | gafas | Varilux. | Bernard Maitenaz
+zoom | 1932 | I | Objetivo zum | tessar | Focal variable sin perder el foco. |
+optica-fibra-imagen | 1954 | I | Fibra óptica con revestimiento | vidrio-optico | Haces coherentes que transmiten imágenes. | Harold Hopkins, Narinder Kapany
+optica-no-lineal | 1961 | D | Óptica no lineal | laser | Duplicación de frecuencia en cuarzo. | Peter Franken
+laser-helio-neon | 1960-12 | I | Láser de helio-neón | laser, elemento-neon-kripton-xenon | Primer láser de gas y de onda continua. | Ali Javan
+laser-co2 | 1964 | I | Láser de CO2 | laser-helio-neon | Infrarrojo de gran potencia. | Kumar Patel
+laser-colorante | 1966 | I | Láser de colorante sintonizable | laser | Longitud de onda ajustable. | Peter Sorokin, Fritz Schäfer
+laser-excimero | 1970 | I | Láser de excímero | laser | Ultravioleta pulsado. | Nikolái Básov
+pinzas-opticas | 1986 | I | Pinzas ópticas | laser | Atrapar partículas con luz. | Arthur Ashkin
+pulsos-ultracortos | 1985 | T | Amplificación de pulso gorjeado | laser | Pulsos intensísimos de femtosegundos. | Donna Strickland, Gérard Mourou
+peine-frecuencias | 1999 | I | Peine de frecuencias ópticas | pulsos-ultracortos, reloj-atomico | Regla de luz para medir frecuencias. | Theodor Hänsch, John Hall
+microscopio-confocal | 1957 | I | Microscopio confocal | condicion-seno-abbe | Un diafragma elimina la luz fuera de foco. | Marvin Minsky
+microscopia-superresolucion | 1994 | I | Microscopía de superresolución | microscopio-confocal, laser | Supera el límite de difracción (STED, PALM). | Stefan Hell, Eric Betzig
+cristales-fotonicos | 1987 | C | Cristales fotónicos | teoria-bandas, espectro-electromagnetico | Estructuras periódicas con bandas prohibidas para la luz. | Eli Yablonovitch, Sajeev John
+metamateriales | 2000 | M | Metamateriales de índice negativo | cristales-fotonicos | Estructuras que refractan la luz al revés. | John Pendry, David Smith
+pulsos-attosegundos | 2001 | D | Pulsos de attosegundos | pulsos-ultracortos | Filmar el movimiento de los electrones. | Anne L'Huillier, Pierre Agostini, Ferenc Krausz
+@@ acustica | Acústica
+monocordio | ~-530 | H | Monocordio | escala-pitagorica | Cuerda con puente móvil para medir intervalos. |
+acustica-teatros | ~-350 | T | Acústica de teatros | geometria-egipcia | Gradas en abanico de Epidauro. |
+vasos-acusticos | ~-25 | T | Resonadores de teatro | tratado-vitruvio | Vasos de bronce afinados descritos por Vitruvio. |
+ley-cuerdas-mersenne | 1636 | C | Leyes de la cuerda vibrante | velocidad-sonido, monocordio | Frecuencia según longitud, tensión y masa. | Marin Mersenne
+sonido-vacio | 1660 | D | El sonido necesita un medio | bomba-vacio | Campana muda bajo la campana de vacío. | Robert Boyle
+armonicos | 1701 | D | Armónicos | ley-cuerdas-mersenne | Un sonido contiene múltiplos de su frecuencia fundamental. | Joseph Sauveur
+bocina-acustica | ~1650 | I | Trompetilla y megáfono | laton | Embudos que concentran o proyectan la voz. | Athanasius Kircher
+figuras-chladni | 1787 | D | Figuras de Chladni | armonicos | Arena sobre placas vibrantes dibuja los nodos. | Ernst Chladni
+velocidad-sonido-agua | 1826 | D | Velocidad del sonido en el agua | figuras-chladni | Medida en el lago Lemán. | Daniel Colladon
+sirena-acustica | 1819 | H | Sirena | figuras-chladni | Mide frecuencias contando impulsos. | Charles Cagniard de la Tour
+analisis-fourier-sonido | 1843 | C | Ley acústica de Ohm | series-fourier, armonicos | El oído descompone el sonido en tonos puros. | Georg Ohm
+resonador-helmholtz | 1863 | C | Sensaciones del tono | analisis-fourier-sonido | Resonadores y teoría del timbre. | Hermann von Helmholtz
+teoria-sonido-rayleigh | 1877 | C | Teoría del sonido | resonador-helmholtz, ecuacion-ondas | Tratado que funda la acústica moderna. | Lord Rayleigh
+efecto-magnetoestrictivo | 1842 | D | Magnetostricción | electroiman | El hierro cambia de longitud al imantarse. | James Joule
+acustica-salas | 1898 | C | Tiempo de reverberación | teoria-sonido-rayleigh | Fórmula de Sabine: acústica arquitectónica. | Wallace Sabine
+decibelio | 1928 | C | Decibelio | central-telefonica | Unidad logarítmica de nivel. |
+curvas-isofonicas | 1933 | D | Curvas de igual sonoridad | decibelio, triodo | El oído no oye igual todas las frecuencias. | Harvey Fletcher, Wilden Munson
+ultrasonidos | 1917 | I | Generador de ultrasonidos | piezoelectricidad, triodo | Cuarzo excitado eléctricamente. | Paul Langevin
+camara-anecoica | 1940 | H | Cámara anecoica | acustica-salas | Sala sin ecos para medir. | Leo Beranek
+cancelacion-ruido | 1934 | C | Cancelación activa de ruido | triodo, microfono-condensador | Onda invertida que anula el ruido. | Paul Lueg
+@ musica | Música y sonido | #d08fb0
+@@ sonido | Grabación y sonido
+telefono-reis | 1861 | I | Teléfono de Reis | electroiman | Transmite tonos musicales por un contacto intermitente. | Philipp Reis
+receptor-telefonico | 1876 | I | Auricular electromagnético | telefono | Diafragma de hierro ante un electroimán. | Alexander Graham Bell
+transductor-bobina-movil | 1877 | C | Patente del transductor de bobina móvil | receptor-telefonico | Bobina en un campo magnético radial. | Werner von Siemens
+microfono-condensador | 1916 | I | Micrófono de condensador | triodo, botella-leyden | Membrana que forma un condensador variable. | Edward Wente
+amplificador-valvulas | 1912 | I | Amplificador de audio de válvulas | triodo | El triodo como repetidor telefónico. | Harold Arnold
+megafonia | 1915 | S | Megafonía eléctrica | amplificador-valvulas, microfono-carbon | Magnavox: voz amplificada ante multitudes. | Peter Jensen, Edwin Pridham
+altavoz-dinamico | 1925 | I | Altavoz dinámico de cono | megafonia, transductor-bobina-movil | Bobina móvil pegada a un cono de papel. | Chester Rice, Edward Kellogg
+microfono-dinamico | 1931 | I | Micrófono dinámico | altavoz-dinamico | Bobina móvil que genera la señal. | Edward Wente, Albert Thuras
+microfono-cinta | 1924 | I | Micrófono de cinta | induccion | Cinta metálica en un campo magnético. | Walter Schottky, Erwin Gerlach
+realimentacion-negativa | 1927-08 | C | Amplificador de realimentación negativa | amplificador-valvulas | Sacrifica ganancia a cambio de linealidad. | Harold Black
+caja-acustica-bass-reflex | 1930 | I | Caja bass-reflex | altavoz-dinamico, resonador-helmholtz | Abertura sintonizada que refuerza los graves. | Albert Thuras
+filtro-cruce | 1931 | I | Altavoces de varias vías | altavoz-dinamico | Filtro que reparte graves y agudos. |
+altavoz-bocina-compresion | 1926 | I | Motor de compresión con bocina | altavoz-dinamico | Gran rendimiento para cines. | Edward Wente, Albert Thuras
+iman-alnico | 1931 | M | Imán de álnico | elemento-niquel, elemento-cobalto | Imán permanente potente: altavoces sin electroimán. | Tokushichi Mishima
+tocadiscos-electrico | 1925 | I | Tocadiscos eléctrico | grabacion-electrica, motor-induccion | Cápsula electromagnética y amplificador. |
+capsula-piezoelectrica | 1931 | I | Cápsula fonocaptora de cristal | piezoelectricidad, tocadiscos-electrico | Sal de Rochelle. |
+alta-fidelidad | 1947 | S | Alta fidelidad | realimentacion-negativa, disco-vinilita | Amplificador Williamson. | D. T. N. Williamson
+disco-vinilita | 1931 | M | Disco de vinilo | pvc, tocadiscos-electrico | Victrolac: menos ruido que la goma laca. |
+altavoz-electrostatico | 1957 | I | Altavoz electrostático | microfono-condensador | Membrana entre dos rejillas. | Peter Walker
+suspension-acustica | 1954 | I | Caja de suspensión acústica | altavoz-dinamico | Caja sellada: graves en poco volumen. | Edgar Villchur
+reduccion-ruido-dolby | 1966 | I | Reducción de ruido Dolby | magnetofono | Compansión por bandas. | Ray Dolby
+amplificador-transistores | 1960 | I | Amplificador de audio a transistores | transistor-silicio, realimentacion-negativa | Sin transformador de salida. |
+amplificador-operacional | 1941 | I | Amplificador operacional | realimentacion-negativa | Bloque universal de la electrónica analógica. | Karl Swartzel
+audio-digital | 1967 | I | Grabación digital de audio | modulacion-pulsos, cinta-magnetica | Grabador PCM de la NHK. |
+sonido-envolvente | 1976 | S | Sonido envolvente en cine | reduccion-ruido-dolby | Dolby Stereo. |
+amplificador-clase-d | 1958 | I | Amplificador conmutado | transistor-silicio | Modulación de ancho de pulso. |
+auriculares-estereo | 1958 | I | Auriculares estéreo de alta fidelidad | altavoz-dinamico, estereofonia | Koss SP-3. | John Koss
+imanes-neodimio-altavoz | 1985 | I | Altavoces de neodimio | imanes-neodimio, altavoz-dinamico | Transductores diminutos y potentes. |
+auriculares-cancelacion | 1989 | I | Auriculares con cancelación de ruido | cancelacion-ruido, amplificador-operacional | Para pilotos. | Amar Bose
+microfono-electret | 1962 | I | Micrófono electret | microfono-condensador, teflon | Carga permanente: micrófonos baratos. | Gerhard Sessler, James West
+microfono-mems | 1983 | I | Micrófono MEMS | microfono-electret, cmos | Membrana tallada en silicio. |
+audio-espacial | 2012 | S | Audio por objetos | sonido-envolvente, dsp | Dolby Atmos. |

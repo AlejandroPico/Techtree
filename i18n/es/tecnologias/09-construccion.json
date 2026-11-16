@@ -1,0 +1,114 @@
+{
+ "megalitos": {
+  "nombre": "Arquitectura monumental en piedra",
+  "resumen": "Recintos de pilares en T de Göbekli Tepe."
+ },
+ "palanca-primitiva": {
+  "nombre": "Arrastre y palanqueo de grandes bloques",
+  "resumen": "Rodillos, palancas de madera y sogas."
+ },
+ "muralla": {
+  "nombre": "Muralla y torre de piedra",
+  "resumen": "Muro de piedra de varios metros y torre con escalera interior en Jericó."
+ },
+ "piramide-escalonada": {
+  "nombre": "Construcción monumental en sillería",
+  "resumen": "Pirámide escalonada de Zoser."
+ },
+ "arco-dovelas": {
+  "nombre": "Arco y bóveda de dovelas",
+  "resumen": "Mesopotamia; generalizado por Roma."
+ },
+ "grua": {
+  "nombre": "Grúa",
+  "resumen": "Cabrestante y poleas en las obras griegas."
+ },
+ "cupula-hormigon": {
+  "nombre": "Cúpula de hormigón",
+  "resumen": "Panteón de Roma: 43 m de luz."
+ },
+ "boveda-cruceria": {
+  "nombre": "Bóveda de crucería",
+  "resumen": "Nervios que concentran el peso en puntos; catedral de Durham."
+ },
+ "arbotante": {
+  "nombre": "Arbotante",
+  "resumen": "Lleva el empuje al exterior y libera el muro para vidrieras."
+ },
+ "cupula-brunelleschi": {
+  "nombre": "Cúpula de doble casco sin cimbra",
+  "resumen": "Doble casco de ladrillo en espina de pez levantado sin cimbra; Santa Maria del Fiore."
+ },
+ "puente-hierro": {
+  "nombre": "Puente de hierro fundido",
+  "resumen": "Iron Bridge sobre el Severn."
+ },
+ "ascensor": {
+  "nombre": "Ascensor con freno de seguridad",
+  "resumen": "Trinquete que bloquea la cabina si se rompe el cable."
+ },
+ "rascacielos": {
+  "nombre": "Edificio de estructura metálica",
+  "resumen": "Home Insurance Building."
+ },
+ "puente-colgante-acero": {
+  "nombre": "Puente colgante de cables de acero",
+  "resumen": "Tablero suspendido de cables de alambre de acero; puente de Brooklyn."
+ },
+ "aire-acondicionado": {
+  "nombre": "Aire acondicionado",
+  "resumen": "Control de temperatura y humedad."
+ },
+ "pozo": {
+  "nombre": "Pozo excavado",
+  "resumen": "Pozos neolíticos de Chipre y el Levante."
+ },
+ "presa": {
+  "nombre": "Presa",
+  "resumen": "Sadd el-Kafara (Egipto)."
+ },
+ "alcantarillado": {
+  "nombre": "Alcantarillado urbano",
+  "resumen": "Desagües cubiertos de ladrillo bajo las calles de Mohenjo-Daro y Harappa."
+ },
+ "qanat": {
+  "nombre": "Qanat",
+  "resumen": "Galería que conduce agua subterránea por gravedad; Irán."
+ },
+ "nivel-plomada": {
+  "nombre": "Nivel y plomada",
+  "resumen": "Nivelación con escuadra, plomada y canal de agua."
+ },
+ "acueducto": {
+  "nombre": "Acueducto",
+  "resumen": "Canal de pendiente continua que lleva agua a la ciudad; Aqua Appia."
+ },
+ "mortero-hidraulico": {
+  "nombre": "Mortero hidráulico de cal",
+  "resumen": "Morteros impermeables para cisternas."
+ },
+ "tornillo-arquimedes": {
+  "nombre": "Tornillo de Arquímedes",
+  "resumen": "Eleva agua girando una hélice dentro de un tubo."
+ },
+ "bomba-impelente": {
+  "nombre": "Bomba de pistones",
+  "resumen": "Dos cilindros con pistones y válvulas que impulsan el agua a presión."
+ },
+ "esclusa": {
+  "nombre": "Esclusa de dos compuertas",
+  "resumen": "Cámara entre dos compuertas que sube o baja las barcas; Gran Canal de China."
+ },
+ "tuneladora": {
+  "nombre": "Escudo de excavación",
+  "resumen": "Escudo de hierro que protege a los mineros mientras avanza; túnel bajo el Támesis."
+ },
+ "potabilizacion": {
+  "nombre": "Filtración lenta de agua urbana",
+  "resumen": "Lechos de arena que retienen partículas y microbios; Chelsea Waterworks."
+ },
+ "cloracion": {
+  "nombre": "Cloración del agua potable",
+  "resumen": "Cloro añadido de forma continua al suministro; Jersey City."
+ }
+}

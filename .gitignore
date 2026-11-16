@@ -3,5 +3,5 @@ dist/
 .dev/
 *.log
 __pycache__/
-# Generado por tools/build_data.py a partir de data/*.tt
+# Generado por tools/build_data.py a partir de tecnologias/*.tt
 public/data/

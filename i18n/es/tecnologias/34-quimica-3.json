@@ -1,0 +1,382 @@
+{
+ "bano-maria": {
+  "nombre": "Baño maría",
+  "resumen": "Calentamiento suave y uniforme."
+ },
+ "kerotakis": {
+  "nombre": "Kerotakis",
+  "resumen": "Aparato de reflujo para atacar metales con vapores."
+ },
+ "retorta": {
+  "nombre": "Retorta de vidrio",
+  "resumen": "Recipiente de cuello curvo."
+ },
+ "crisol-hesse": {
+  "nombre": "Crisoles de Hesse",
+  "resumen": "Refractarios de mullita exportados a toda Europa."
+ },
+ "cuba-neumatica": {
+  "nombre": "Cuba neumática",
+  "resumen": "Recoge gases sobre agua."
+ },
+ "cuba-mercurio": {
+  "nombre": "Cuba de mercurio",
+  "resumen": "Recoge gases solubles."
+ },
+ "eudiometro": {
+  "nombre": "Eudiómetro",
+  "resumen": "Mide volúmenes de gas tras una chispa."
+ },
+ "bureta": {
+  "nombre": "Bureta y valoración",
+  "resumen": "Análisis por volumen."
+ },
+ "condensador-liebig": {
+  "nombre": "Refrigerante de Liebig",
+  "resumen": "Camisa de agua a contracorriente."
+ },
+ "analisis-combustion": {
+  "nombre": "Análisis elemental por combustión",
+  "resumen": "Carbono e hidrógeno de un compuesto orgánico."
+ },
+ "laboratorio-docente": {
+  "nombre": "Laboratorio de enseñanza",
+  "resumen": "Giessen: los alumnos investigan."
+ },
+ "analisis-oxido-cobre": {
+  "nombre": "Análisis orgánico con óxido de cobre",
+  "resumen": "Primer método cuantitativo."
+ },
+ "desecador": {
+  "nombre": "Desecador y bomba de trompa",
+  "resumen": "Filtración al vacío."
+ },
+ "matraz-erlenmeyer": {
+  "nombre": "Matraz Erlenmeyer",
+  "resumen": "Cónico, para valorar."
+ },
+ "extractor-soxhlet": {
+  "nombre": "Extractor Soxhlet",
+  "resumen": "Extracción continua."
+ },
+ "vaso-dewar": {
+  "nombre": "Vaso Dewar",
+  "resumen": "Doble pared al vacío."
+ },
+ "ultracentrifugacion-analitica": {
+  "nombre": "Peso molecular por sedimentación",
+  "resumen": "Las proteínas son moléculas definidas."
+ },
+ "electroforesis": {
+  "nombre": "Electroforesis",
+  "resumen": "Separa proteínas por carga."
+ },
+ "cromatografia-papel": {
+  "nombre": "Cromatografía en papel",
+  "resumen": "Separa aminoácidos."
+ },
+ "espectrofotometro": {
+  "nombre": "Espectrofotómetro ultravioleta",
+  "resumen": "Beckman DU."
+ },
+ "espectroscopia-infrarroja": {
+  "nombre": "Espectroscopia infrarroja",
+  "resumen": "Huella de los enlaces."
+ },
+ "espectrometria-masas-organica": {
+  "nombre": "Espectrometría de masas orgánica",
+  "resumen": "Estructura por fragmentación."
+ },
+ "hplc": {
+  "nombre": "Cromatografía líquida de alta eficacia",
+  "resumen": "Columnas a alta presión."
+ },
+ "rmn-transformada": {
+  "nombre": "RMN por transformada de Fourier",
+  "resumen": "Sensibilidad cien veces mayor."
+ },
+ "sintesis-fase-solida": {
+  "nombre": "Síntesis de péptidos en fase sólida",
+  "resumen": "Cadenas ancladas a una resina."
+ },
+ "quimica-combinatoria": {
+  "nombre": "Química combinatoria",
+  "resumen": "Miles de compuestos a la vez."
+ },
+ "ionizacion-electrospray": {
+  "nombre": "Ionización por electrospray",
+  "resumen": "Proteínas enteras al espectrómetro."
+ },
+ "alcohol-absoluto": {
+  "nombre": "Alcohol absoluto",
+  "resumen": "Deshidratado con potasa."
+ },
+ "eter-etilico": {
+  "nombre": "Éter etílico",
+  "resumen": "«Aceite dulce de vitriolo»."
+ },
+ "acido-acetico-glacial": {
+  "nombre": "Ácido acético concentrado",
+  "resumen": "Destilación de acetatos."
+ },
+ "acidos-organicos-scheele": {
+  "nombre": "Ácidos orgánicos aislados",
+  "resumen": "Cítrico, láctico, tartárico, úrico."
+ },
+ "glicerina": {
+  "nombre": "Glicerina",
+  "resumen": "Aislada al saponificar aceite."
+ },
+ "grasas-chevreul": {
+  "nombre": "Naturaleza de las grasas",
+  "resumen": "Ésteres de glicerina y ácidos grasos."
+ },
+ "alcaloides": {
+  "nombre": "Alcaloides",
+  "resumen": "Estricnina, cafeína, nicotina."
+ },
+ "radicales": {
+  "nombre": "Teoría de los radicales",
+  "resumen": "El grupo benzoílo pasa intacto de un compuesto a otro."
+ },
+ "fenol": {
+  "nombre": "Fenol",
+  "resumen": "Aislado del alquitrán de hulla."
+ },
+ "anilina": {
+  "nombre": "Anilina",
+  "resumen": "Obtenida del índigo."
+ },
+ "acido-acetico-sintesis": {
+  "nombre": "Síntesis total del ácido acético",
+  "resumen": "Desde los elementos."
+ },
+ "teoria-tipos": {
+  "nombre": "Teoría de los tipos",
+  "resumen": "Clasifica los compuestos orgánicos."
+ },
+ "tetravalencia-carbono": {
+  "nombre": "Tetravalencia del carbono",
+  "resumen": "El carbono forma cadenas."
+ },
+ "quiralidad": {
+  "nombre": "Quiralidad molecular",
+  "resumen": "Cristales izquierdos y derechos de tartrato."
+ },
+ "reaccion-friedel-crafts": {
+  "nombre": "Reacción de Friedel-Crafts",
+  "resumen": "Alquilación de anillos aromáticos."
+ },
+ "reactivo-grignard": {
+  "nombre": "Reactivos de Grignard",
+  "resumen": "Enlaces carbono-carbono."
+ },
+ "azucares-fischer": {
+  "nombre": "Estructura de los azúcares",
+  "resumen": "Configuración de la glucosa."
+ },
+ "peptidos": {
+  "nombre": "Enlace peptídico",
+  "resumen": "Las proteínas son cadenas de aminoácidos."
+ },
+ "reaccion-diels-alder": {
+  "nombre": "Reacción de Diels-Alder",
+  "resumen": "Forma anillos de seis miembros."
+ },
+ "mecanismos-reaccion": {
+  "nombre": "Mecanismos de reacción",
+  "resumen": "Flechas curvas y SN1/SN2."
+ },
+ "sintesis-quinina": {
+  "nombre": "Síntesis total de productos naturales",
+  "resumen": "Quinina; después vitamina B12."
+ },
+ "retrosintesis": {
+  "nombre": "Análisis retrosintético",
+  "resumen": "Planificar la síntesis hacia atrás."
+ },
+ "reaccion-wittig": {
+  "nombre": "Reacción de Wittig",
+  "resumen": "Alquenos con posición fija."
+ },
+ "acoplamiento-paladio": {
+  "nombre": "Acoplamientos cruzados con paladio",
+  "resumen": "Heck, Negishi y Suzuki."
+ },
+ "metatesis": {
+  "nombre": "Metátesis de olefinas",
+  "resumen": "Intercambio de dobles enlaces."
+ },
+ "catalisis-asimetrica": {
+  "nombre": "Catálisis asimétrica",
+  "resumen": "Fabrica una sola mano de la molécula."
+ },
+ "sal-amoniaco": {
+  "nombre": "Sal amoníaco",
+  "resumen": "Sublimada del hollín."
+ },
+ "vitriolos": {
+  "nombre": "Vitriolos",
+  "resumen": "Sulfatos de hierro y cobre para tintas y tintes."
+ },
+ "tinta-ferrogalica": {
+  "nombre": "Tinta ferrogálica",
+  "resumen": "Agallas de roble y vitriolo."
+ },
+ "albayalde": {
+  "nombre": "Albayalde",
+  "resumen": "Blanco de plomo por corrosión con vinagre."
+ },
+ "minio": {
+  "nombre": "Minio",
+  "resumen": "Rojo de plomo."
+ },
+ "bermellon": {
+  "nombre": "Bermellón",
+  "resumen": "Cinabrio molido; después sintético."
+ },
+ "azul-ultramar": {
+  "nombre": "Azul ultramar",
+  "resumen": "Lapislázuli purificado."
+ },
+ "amarillo-napoles": {
+  "nombre": "Amarillo de antimoniato de plomo",
+  "resumen": "En vidrios y esmaltes egipcios."
+ },
+ "cardenillo": {
+  "nombre": "Cardenillo",
+  "resumen": "Verde de acetato de cobre."
+ },
+ "acido-clorhidrico": {
+  "nombre": "Ácido clorhídrico",
+  "resumen": "Sal y ácido sulfúrico."
+ },
+ "sal-glauber": {
+  "nombre": "Sal de Glauber",
+  "resumen": "Sulfato sódico."
+ },
+ "hornos-glauber": {
+  "nombre": "Hornos de destilación de Glauber",
+  "resumen": "Hornos filosóficos de mayor escala."
+ },
+ "vitriolo-nordhausen": {
+  "nombre": "Ácido sulfúrico fumante",
+  "resumen": "Destilación seca de vitriolo verde."
+ },
+ "campana-azufre": {
+  "nombre": "Ácido sulfúrico «por la campana»",
+  "resumen": "Azufre y salitre en globos de vidrio."
+ },
+ "torre-gay-lussac": {
+  "nombre": "Torres de Gay-Lussac y Glover",
+  "resumen": "Recuperan los óxidos de nitrógeno."
+ },
+ "ultramar-sintetico": {
+  "nombre": "Ultramar sintético",
+  "resumen": "Caolín, sosa y azufre."
+ },
+ "verde-scheele": {
+  "nombre": "Verde de Scheele",
+  "resumen": "Pigmento de arsénico, tóxico."
+ },
+ "amarillo-cromo": {
+  "nombre": "Amarillo de cromo",
+  "resumen": "Cromato de plomo."
+ },
+ "blanco-zinc": {
+  "nombre": "Blanco de zinc",
+  "resumen": "Sustituto no tóxico del albayalde."
+ },
+ "blanco-titanio": {
+  "nombre": "Blanco de titanio",
+  "resumen": "El pigmento blanco moderno."
+ },
+ "tubo-pintura": {
+  "nombre": "Tubo de pintura",
+  "resumen": "Estaño plegable."
+ },
+ "parafina": {
+  "nombre": "Parafina",
+  "resumen": "Velas y aislantes."
+ },
+ "torre-destilacion": {
+  "nombre": "Columna de rectificación",
+  "resumen": "Destilación continua."
+ },
+ "refino-petroleo": {
+  "nombre": "Refinería de petróleo",
+  "resumen": "Destilación fraccionada del crudo."
+ },
+ "reformado-catalitico": {
+  "nombre": "Reformado catalítico",
+  "resumen": "Platforming."
+ },
+ "polimerizacion-etileno-oxido": {
+  "nombre": "Óxido de etileno",
+  "resumen": "Anticongelantes y detergentes."
+ },
+ "detergente-sintetico": {
+  "nombre": "Detergentes sintéticos",
+  "resumen": "Sulfatos de alcohol graso."
+ },
+ "metanol-sintetico": {
+  "nombre": "Metanol sintético",
+  "resumen": "Alta presión de BASF."
+ },
+ "urea-industrial": {
+  "nombre": "Urea industrial",
+  "resumen": "Fertilizante nitrogenado."
+ },
+ "nitrato-amonico": {
+  "nombre": "Nitrato amónico",
+  "resumen": "Fertilizante y explosivo."
+ },
+ "tnt": {
+  "nombre": "Trinitrotolueno",
+  "resumen": "Explosivo estable."
+ },
+ "rdx": {
+  "nombre": "Hexógeno",
+  "resumen": "Explosivo de alta potencia."
+ },
+ "proceso-deacon": {
+  "nombre": "Proceso Deacon",
+  "resumen": "Cloro a partir de ácido clorhídrico."
+ },
+ "polvos-blanqueo": {
+  "nombre": "Polvos de blanqueo",
+  "resumen": "Cloruro de cal transportable."
+ },
+ "fosforo-rojo": {
+  "nombre": "Fósforo rojo",
+  "resumen": "Forma estable."
+ },
+ "carburo-calcio": {
+  "nombre": "Carburo de calcio",
+  "resumen": "Acetileno."
+ },
+ "carborundo": {
+  "nombre": "Carburo de silicio",
+  "resumen": "Abrasivo."
+ },
+ "grafito-sintetico": {
+  "nombre": "Grafito sintético",
+  "resumen": "Electrodos."
+ },
+ "cianamida": {
+  "nombre": "Proceso de la cianamida",
+  "resumen": "Fija nitrógeno."
+ },
+ "arco-birkeland": {
+  "nombre": "Fijación de nitrógeno por arco",
+  "resumen": "Proceso noruego."
+ },
+ "zeolitas": {
+  "nombre": "Zeolitas sintéticas",
+  "resumen": "Tamices moleculares."
+ },
+ "biodiesel": {
+  "nombre": "Biodiésel",
+  "resumen": "Transesterificación."
+ }
+}

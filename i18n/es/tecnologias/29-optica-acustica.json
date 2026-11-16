@@ -1,0 +1,530 @@
+{
+ "espejo-metal": {
+  "nombre": "Espejo de metal pulido",
+  "resumen": "Discos de cobre y bronce bruñidos en Egipto y Mesopotamia."
+ },
+ "lente-cristal-roca": {
+  "nombre": "Lente de cristal de roca",
+  "resumen": "Lente de Nimrud, pulida en cuarzo; su uso como lupa es discutido."
+ },
+ "catoptrica-euclides": {
+  "nombre": "Óptica geométrica de Euclides",
+  "resumen": "Rayos rectilíneos y ley de la reflexión."
+ },
+ "espejos-ustorios": {
+  "nombre": "Espejos ustorios",
+  "resumen": "Espejos cóncavos que concentran el Sol; estudiados por Diocles."
+ },
+ "refraccion-ptolomeo": {
+  "nombre": "Tablas de refracción",
+  "resumen": "Primeras medidas de ángulos en aire, agua y vidrio."
+ },
+ "ley-refraccion-ibn-sahl": {
+  "nombre": "Ley de la refracción de Ibn Sahl",
+  "resumen": "Lentes y espejos que enfocan sin aberración."
+ },
+ "camara-oscura-alhacen": {
+  "nombre": "Cámara oscura explicada",
+  "resumen": "La imagen invertida prueba que la luz viaja en línea recta."
+ },
+ "arcoiris-explicado": {
+  "nombre": "Explicación del arcoíris",
+  "resumen": "Esferas de vidrio llenas de agua como gotas gigantes."
+ },
+ "piedra-lectura": {
+  "nombre": "Piedra de lectura",
+  "resumen": "Casquete de vidrio o berilo posado sobre el texto."
+ },
+ "lente-concava": {
+  "nombre": "Lentes cóncavas para miopes",
+  "resumen": "Nicolás de Cusa las menciona en 1451."
+ },
+ "torno-lentes": {
+  "nombre": "Torno de pulir lentes",
+  "resumen": "Moldes esféricos de metal y abrasivos graduados."
+ },
+ "telescopio-kepleriano": {
+  "nombre": "Telescopio astronómico de dos lentes convexas",
+  "resumen": "Mayor campo e imagen invertida; permite retículo."
+ },
+ "dioptrica-kepler": {
+  "nombre": "Dioptrice",
+  "resumen": "Teoría de las lentes y del telescopio."
+ },
+ "imagen-retiniana": {
+  "nombre": "Imagen invertida en la retina",
+  "resumen": "El ojo funciona como una cámara oscura."
+ },
+ "difraccion": {
+  "nombre": "Difracción",
+  "resumen": "La luz se curva al rozar un borde."
+ },
+ "principio-fermat": {
+  "nombre": "Principio del tiempo mínimo",
+  "resumen": "La luz sigue el camino más rápido."
+ },
+ "anillos-newton": {
+  "nombre": "Anillos de Newton",
+  "resumen": "Colores de interferencia en láminas delgadas."
+ },
+ "doble-refraccion": {
+  "nombre": "Doble refracción",
+  "resumen": "El espato de Islandia da dos imágenes."
+ },
+ "cristal-islandia": {
+  "nombre": "Espato de Islandia",
+  "resumen": "Calcita transparente de gran tamaño."
+ },
+ "principio-huygens": {
+  "nombre": "Principio de Huygens",
+  "resumen": "Cada punto del frente de onda emite ondas secundarias."
+ },
+ "teoria-corpuscular": {
+  "nombre": "Teoría corpuscular de la luz",
+  "resumen": "La luz como partículas; dominó un siglo hasta Young y Fresnel."
+ },
+ "microscopio-simple": {
+  "nombre": "Microscopio simple de gran aumento",
+  "resumen": "Lentes diminutas de hasta 270 aumentos."
+ },
+ "ocular-huygens": {
+  "nombre": "Ocular de dos lentes",
+  "resumen": "Reduce la aberración cromática lateral."
+ },
+ "telescopio-aereo": {
+  "nombre": "Telescopios de gran focal",
+  "resumen": "Decenas de metros para atenuar la aberración cromática."
+ },
+ "telescopio-gregoriano": {
+  "nombre": "Telescopio gregoriano",
+  "resumen": "Diseño de dos espejos cóncavos."
+ },
+ "telescopio-cassegrain": {
+  "nombre": "Telescopio Cassegrain",
+  "resumen": "Secundario convexo: tubo corto."
+ },
+ "fotometria": {
+  "nombre": "Fotometría",
+  "resumen": "Medida de la intensidad luminosa."
+ },
+ "ley-lambert": {
+  "nombre": "Ley de Lambert",
+  "resumen": "Absorción y reflexión difusa."
+ },
+ "aberracion-cromatica-corregida": {
+  "nombre": "Lente acromática",
+  "resumen": "Dos vidrios de distinta dispersión se compensan."
+ },
+ "espejo-speculum": {
+  "nombre": "Espejo parabólico de speculum",
+  "resumen": "Primer reflector realmente útil."
+ },
+ "telescopio-herschel": {
+  "nombre": "Gran reflector de Herschel",
+  "resumen": "Espejo de 1,2 m y 12 m de focal."
+ },
+ "goniometro-reflexion": {
+  "nombre": "Goniómetro de reflexión",
+  "resumen": "Mide ángulos de cristales."
+ },
+ "ley-brewster": {
+  "nombre": "Ángulo de Brewster",
+  "resumen": "Reflexión totalmente polarizada."
+ },
+ "caleidoscopio": {
+  "nombre": "Caleidoscopio",
+  "resumen": "Espejos en ángulo."
+ },
+ "red-difraccion": {
+  "nombre": "Red de difracción",
+  "resumen": "Miles de rayas paralelas que separan la luz."
+ },
+ "lente-fresnel": {
+  "nombre": "Lente de Fresnel",
+  "resumen": "Anillos prismáticos: faros visibles a 30 km."
+ },
+ "prisma-nicol": {
+  "nombre": "Prisma de Nicol",
+  "resumen": "Polarizador de calcita."
+ },
+ "microscopio-polarizacion": {
+  "nombre": "Microscopio petrográfico",
+  "resumen": "Minerales en lámina delgada con luz polarizada."
+ },
+ "estereoscopio": {
+  "nombre": "Estereoscopio",
+  "resumen": "Dos imágenes dan relieve."
+ },
+ "objetivo-petzval": {
+  "nombre": "Objetivo de retrato calculado",
+  "resumen": "Primer objetivo diseñado matemáticamente."
+ },
+ "actividad-optica": {
+  "nombre": "Quiralidad molecular",
+  "resumen": "Cristales de tartrato especulares."
+ },
+ "polarimetro": {
+  "nombre": "Polarímetro",
+  "resumen": "Mide azúcares por rotación óptica."
+ },
+ "teoria-color-tricromatica": {
+  "nombre": "Teoría tricromática del color",
+  "resumen": "Tres receptores en el ojo."
+ },
+ "espectro-electromagnetico": {
+  "nombre": "Espectro electromagnético",
+  "resumen": "Luz, calor radiante y ondas eléctricas son lo mismo."
+ },
+ "espectroscopio-bunsen": {
+  "nombre": "Espectroscopio de prisma",
+  "resumen": "Colimador, prisma y anteojo."
+ },
+ "condicion-seno-abbe": {
+  "nombre": "Teoría de la imagen microscópica",
+  "resumen": "Límite de resolución por difracción."
+ },
+ "objetivo-inmersion": {
+  "nombre": "Objetivo de inmersión homogénea",
+  "resumen": "Aceite de cedro entre lente y preparación."
+ },
+ "objetivo-apocromatico": {
+  "nombre": "Objetivo apocromático",
+  "resumen": "Corrige tres colores."
+ },
+ "red-rowland": {
+  "nombre": "Red cóncava de Rowland",
+  "resumen": "Redes de 14.000 líneas por pulgada."
+ },
+ "interferometro-michelson": {
+  "nombre": "Interferómetro de Michelson",
+  "resumen": "Mide longitudes con la onda de la luz."
+ },
+ "interferometro-fabry-perot": {
+  "nombre": "Interferómetro Fabry-Pérot",
+  "resumen": "Dos espejos paralelos: resolución espectral extrema."
+ },
+ "objetivo-anastigmatico": {
+  "nombre": "Objetivo anastigmático",
+  "resumen": "Protar de Zeiss."
+ },
+ "tessar": {
+  "nombre": "Objetivo Tessar",
+  "resumen": "Cuatro lentes de gran nitidez."
+ },
+ "prismaticos": {
+  "nombre": "Prismáticos de prismas de Porro",
+  "resumen": "Binoculares compactos de Zeiss."
+ },
+ "ultramicroscopio": {
+  "nombre": "Ultramicroscopio",
+  "resumen": "Coloides vistos por la luz que dispersan."
+ },
+ "dispersion-rayleigh": {
+  "nombre": "Dispersión de Rayleigh",
+  "resumen": "Por qué el cielo es azul."
+ },
+ "presion-radiacion": {
+  "nombre": "Presión de la luz",
+  "resumen": "Medida en el laboratorio."
+ },
+ "contraste-fases": {
+  "nombre": "Microscopio de contraste de fases",
+  "resumen": "Células vivas visibles sin teñir."
+ },
+ "capa-antirreflejante": {
+  "nombre": "Capa antirreflejante",
+  "resumen": "Película de fluoruro depositada al vacío."
+ },
+ "bomba-difusion": {
+  "nombre": "Bomba de difusión",
+  "resumen": "Chorro de vapor de mercurio: alto vacío."
+ },
+ "polaroid-lamina": {
+  "nombre": "Lámina polarizadora",
+  "resumen": "Cristales alineados en plástico."
+ },
+ "camara-schmidt": {
+  "nombre": "Cámara Schmidt",
+  "resumen": "Gran campo sin aberración."
+ },
+ "lentes-contacto": {
+  "nombre": "Lente de contacto",
+  "resumen": "Lente escleral de vidrio."
+ },
+ "lentes-contacto-blandas": {
+  "nombre": "Lentes de contacto blandas",
+  "resumen": "Hidrogel."
+ },
+ "lentes-progresivas": {
+  "nombre": "Lentes progresivas",
+  "resumen": "Varilux."
+ },
+ "zoom": {
+  "nombre": "Objetivo zum",
+  "resumen": "Focal variable sin perder el foco."
+ },
+ "optica-fibra-imagen": {
+  "nombre": "Fibra óptica con revestimiento",
+  "resumen": "Haces coherentes que transmiten imágenes."
+ },
+ "optica-no-lineal": {
+  "nombre": "Óptica no lineal",
+  "resumen": "Duplicación de frecuencia en cuarzo."
+ },
+ "laser-helio-neon": {
+  "nombre": "Láser de helio-neón",
+  "resumen": "Primer láser de gas y de onda continua."
+ },
+ "laser-co2": {
+  "nombre": "Láser de CO2",
+  "resumen": "Infrarrojo de gran potencia."
+ },
+ "laser-colorante": {
+  "nombre": "Láser de colorante sintonizable",
+  "resumen": "Longitud de onda ajustable."
+ },
+ "laser-excimero": {
+  "nombre": "Láser de excímero",
+  "resumen": "Ultravioleta pulsado."
+ },
+ "pinzas-opticas": {
+  "nombre": "Pinzas ópticas",
+  "resumen": "Atrapar partículas con luz."
+ },
+ "pulsos-ultracortos": {
+  "nombre": "Amplificación de pulso gorjeado",
+  "resumen": "Pulsos intensísimos de femtosegundos."
+ },
+ "peine-frecuencias": {
+  "nombre": "Peine de frecuencias ópticas",
+  "resumen": "Regla de luz para medir frecuencias."
+ },
+ "microscopio-confocal": {
+  "nombre": "Microscopio confocal",
+  "resumen": "Un diafragma elimina la luz fuera de foco."
+ },
+ "microscopia-superresolucion": {
+  "nombre": "Microscopía de superresolución",
+  "resumen": "Supera el límite de difracción (STED, PALM)."
+ },
+ "cristales-fotonicos": {
+  "nombre": "Cristales fotónicos",
+  "resumen": "Estructuras periódicas con bandas prohibidas para la luz."
+ },
+ "metamateriales": {
+  "nombre": "Metamateriales de índice negativo",
+  "resumen": "Estructuras que refractan la luz al revés."
+ },
+ "pulsos-attosegundos": {
+  "nombre": "Pulsos de attosegundos",
+  "resumen": "Filmar el movimiento de los electrones."
+ },
+ "monocordio": {
+  "nombre": "Monocordio",
+  "resumen": "Cuerda con puente móvil para medir intervalos."
+ },
+ "acustica-teatros": {
+  "nombre": "Acústica de teatros",
+  "resumen": "Gradas en abanico de Epidauro."
+ },
+ "vasos-acusticos": {
+  "nombre": "Resonadores de teatro",
+  "resumen": "Vasos de bronce afinados descritos por Vitruvio."
+ },
+ "ley-cuerdas-mersenne": {
+  "nombre": "Leyes de la cuerda vibrante",
+  "resumen": "Frecuencia según longitud, tensión y masa."
+ },
+ "sonido-vacio": {
+  "nombre": "El sonido necesita un medio",
+  "resumen": "Campana muda bajo la campana de vacío."
+ },
+ "armonicos": {
+  "nombre": "Armónicos",
+  "resumen": "Un sonido contiene múltiplos de su frecuencia fundamental."
+ },
+ "bocina-acustica": {
+  "nombre": "Trompetilla y megáfono",
+  "resumen": "Embudos que concentran o proyectan la voz."
+ },
+ "figuras-chladni": {
+  "nombre": "Figuras de Chladni",
+  "resumen": "Arena sobre placas vibrantes dibuja los nodos."
+ },
+ "velocidad-sonido-agua": {
+  "nombre": "Velocidad del sonido en el agua",
+  "resumen": "Medida en el lago Lemán."
+ },
+ "sirena-acustica": {
+  "nombre": "Sirena",
+  "resumen": "Mide frecuencias contando impulsos."
+ },
+ "analisis-fourier-sonido": {
+  "nombre": "Ley acústica de Ohm",
+  "resumen": "El oído descompone el sonido en tonos puros."
+ },
+ "resonador-helmholtz": {
+  "nombre": "Sensaciones del tono",
+  "resumen": "Resonadores y teoría del timbre."
+ },
+ "teoria-sonido-rayleigh": {
+  "nombre": "Teoría del sonido",
+  "resumen": "Tratado que funda la acústica moderna."
+ },
+ "efecto-magnetoestrictivo": {
+  "nombre": "Magnetostricción",
+  "resumen": "El hierro cambia de longitud al imantarse."
+ },
+ "acustica-salas": {
+  "nombre": "Tiempo de reverberación",
+  "resumen": "Fórmula de Sabine: acústica arquitectónica."
+ },
+ "decibelio": {
+  "nombre": "Decibelio",
+  "resumen": "Unidad logarítmica de nivel."
+ },
+ "curvas-isofonicas": {
+  "nombre": "Curvas de igual sonoridad",
+  "resumen": "El oído no oye igual todas las frecuencias."
+ },
+ "ultrasonidos": {
+  "nombre": "Generador de ultrasonidos",
+  "resumen": "Cuarzo excitado eléctricamente."
+ },
+ "camara-anecoica": {
+  "nombre": "Cámara anecoica",
+  "resumen": "Sala sin ecos para medir."
+ },
+ "cancelacion-ruido": {
+  "nombre": "Cancelación activa de ruido",
+  "resumen": "Onda invertida que anula el ruido."
+ },
+ "telefono-reis": {
+  "nombre": "Teléfono de Reis",
+  "resumen": "Transmite tonos musicales por un contacto intermitente."
+ },
+ "receptor-telefonico": {
+  "nombre": "Auricular electromagnético",
+  "resumen": "Diafragma de hierro ante un electroimán."
+ },
+ "transductor-bobina-movil": {
+  "nombre": "Patente del transductor de bobina móvil",
+  "resumen": "Bobina en un campo magnético radial."
+ },
+ "microfono-condensador": {
+  "nombre": "Micrófono de condensador",
+  "resumen": "Membrana que forma un condensador variable."
+ },
+ "amplificador-valvulas": {
+  "nombre": "Amplificador de audio de válvulas",
+  "resumen": "El triodo como repetidor telefónico."
+ },
+ "megafonia": {
+  "nombre": "Megafonía eléctrica",
+  "resumen": "Magnavox: voz amplificada ante multitudes."
+ },
+ "altavoz-dinamico": {
+  "nombre": "Altavoz dinámico de cono",
+  "resumen": "Bobina móvil pegada a un cono de papel."
+ },
+ "microfono-dinamico": {
+  "nombre": "Micrófono dinámico",
+  "resumen": "Bobina móvil que genera la señal."
+ },
+ "microfono-cinta": {
+  "nombre": "Micrófono de cinta",
+  "resumen": "Cinta metálica en un campo magnético."
+ },
+ "realimentacion-negativa": {
+  "nombre": "Amplificador de realimentación negativa",
+  "resumen": "Sacrifica ganancia a cambio de linealidad."
+ },
+ "caja-acustica-bass-reflex": {
+  "nombre": "Caja bass-reflex",
+  "resumen": "Abertura sintonizada que refuerza los graves."
+ },
+ "filtro-cruce": {
+  "nombre": "Altavoces de varias vías",
+  "resumen": "Filtro que reparte graves y agudos."
+ },
+ "altavoz-bocina-compresion": {
+  "nombre": "Motor de compresión con bocina",
+  "resumen": "Gran rendimiento para cines."
+ },
+ "iman-alnico": {
+  "nombre": "Imán de álnico",
+  "resumen": "Imán permanente potente: altavoces sin electroimán."
+ },
+ "tocadiscos-electrico": {
+  "nombre": "Tocadiscos eléctrico",
+  "resumen": "Cápsula electromagnética y amplificador."
+ },
+ "capsula-piezoelectrica": {
+  "nombre": "Cápsula fonocaptora de cristal",
+  "resumen": "Sal de Rochelle."
+ },
+ "alta-fidelidad": {
+  "nombre": "Alta fidelidad",
+  "resumen": "Amplificador Williamson."
+ },
+ "disco-vinilita": {
+  "nombre": "Disco de vinilo",
+  "resumen": "Victrolac: menos ruido que la goma laca."
+ },
+ "altavoz-electrostatico": {
+  "nombre": "Altavoz electrostático",
+  "resumen": "Membrana entre dos rejillas."
+ },
+ "suspension-acustica": {
+  "nombre": "Caja de suspensión acústica",
+  "resumen": "Caja sellada: graves en poco volumen."
+ },
+ "reduccion-ruido-dolby": {
+  "nombre": "Reducción de ruido Dolby",
+  "resumen": "Compansión por bandas."
+ },
+ "amplificador-transistores": {
+  "nombre": "Amplificador de audio a transistores",
+  "resumen": "Sin transformador de salida."
+ },
+ "amplificador-operacional": {
+  "nombre": "Amplificador operacional",
+  "resumen": "Bloque universal de la electrónica analógica."
+ },
+ "audio-digital": {
+  "nombre": "Grabación digital de audio",
+  "resumen": "Grabador PCM de la NHK."
+ },
+ "sonido-envolvente": {
+  "nombre": "Sonido envolvente en cine",
+  "resumen": "Dolby Stereo."
+ },
+ "amplificador-clase-d": {
+  "nombre": "Amplificador conmutado",
+  "resumen": "Modulación de ancho de pulso."
+ },
+ "auriculares-estereo": {
+  "nombre": "Auriculares estéreo de alta fidelidad",
+  "resumen": "Koss SP-3."
+ },
+ "imanes-neodimio-altavoz": {
+  "nombre": "Altavoces de neodimio",
+  "resumen": "Transductores diminutos y potentes."
+ },
+ "auriculares-cancelacion": {
+  "nombre": "Auriculares con cancelación de ruido",
+  "resumen": "Para pilotos."
+ },
+ "microfono-electret": {
+  "nombre": "Micrófono electret",
+  "resumen": "Carga permanente: micrófonos baratos."
+ },
+ "microfono-mems": {
+  "nombre": "Micrófono MEMS",
+  "resumen": "Membrana tallada en silicio."
+ },
+ "audio-espacial": {
+  "nombre": "Audio por objetos",
+  "resumen": "Dolby Atmos."
+ }
+}

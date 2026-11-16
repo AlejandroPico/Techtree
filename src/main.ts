@@ -29,6 +29,7 @@ function applyAppearance() {
   document.querySelector('meta[name=theme-color]')?.setAttribute('content', theme.background);
 }
 
+let progressive = (() => { try { return localStorage.getItem('techtree-progressive') !== 'off'; } catch { return true; } })();
 // ───────── Estructura ─────────
 const tool = (id: string, name: string, label: string, extra = '') => `<button id="${id}" class="icon-button" title="${label}" aria-label="${label}" ${extra}>${icon(name)}</button>`;
 const popover = (id: string, title: string, body: string) => `<section id="${id}" class="popover" role="dialog" aria-label="${title}" hidden><div class="popover-head"><h2>${title}</h2><button class="icon-button" data-close aria-label="${t('close')}">${icon('x')}</button></div><div class="popover-body">${body}</div></section>`;
@@ -43,7 +44,7 @@ $('#app').innerHTML = `
   </nav>
   ${popover('search-panel', t('search'), `<input id="search-input" type="search" placeholder="${t('searchPlaceholder')}" autocomplete="off"><div id="search-results" class="results"></div>`)}
   ${popover('filters-panel', t('kindsTitle'), KINDS.map(k => toggle('kind-' + k, `<span class="swatch" style="background:var(--muted);opacity:${k === 'via-muerta' ? .45 : .9}"></span>`, t('k.' + k), '')).join(''))}
-  ${popover('layers-panel', t('layers'), toggle('layer-links', icon('spline'), t('links'), t('linksHelp')) + toggle('layer-stages', icon('calendar-range'), t('stages'), t('stagesHelp')) + toggle('layer-stage-colors', icon('palette'), t('stageColors'), '') + toggle('layer-names', icon('tags'), t('laneNames'), t('laneNamesHelp')))}
+  ${popover('layers-panel', t('layers'), toggle('layer-links', icon('spline'), t('links'), t('linksHelp')) + toggle('layer-stages', icon('calendar-range'), t('stages'), t('stagesHelp')) + toggle('layer-stage-colors', icon('palette'), t('stageColors'), '') + toggle('layer-names', icon('tags'), t('laneNames'), t('laneNamesHelp')) + toggle('layer-progressive', icon('download'), t('progressive'), t('progressiveHelp'), progressive))}
   <section id="appearance-panel" class="popover appearance-popover" hidden>${appearances.map(a => `<button class="icon-button" data-appearance="${a}" title="${t(a)}" aria-label="${t(a)}">${icon(appearanceIcons[a])}</button>`).join('')}</section>
   <aside id="card" class="tech-card" hidden></aside>
   <section class="time-dock"><canvas id="ruler"></canvas><div class="fixed-cursor"><div class="cursor-line"></div></div><div id="year" class="time-focus"></div></section>
@@ -60,7 +61,7 @@ const renderer = new Renderer(glCanvas);
 const DOCK = 112;
 
 // ───────── Datos y disposición ─────────
-let tree: Tree = await loadTree(base);
+let tree: Tree = await loadTree(base, lang);
 const stress = Math.min(3_000_000, Number(params.get('stress')) || 0);
 if (stress > 0) tree = stressTree(tree, stress);
 const layout = computeLayout(tree), grid = new Grid(layout), N = tree.nodes.length;
@@ -153,7 +154,7 @@ function select(i: number, fly = false) {
     for (const d of n.enables) push(i, d, ink, 215);
     hiEdges = renderer.edges(new Float32Array(ends), new Uint8Array(cols), new Float32Array(modes), true, hiEdges);
     ring = renderer.rects(nodeRect.slice(i * 4, i * 4 + 4), new Uint8Array([...gold, 255]), new Float32Array([0]), ring);
-    openCard(n);
+    void openCard(n);
     if (fly) flyTo(targetFor(i, Math.max(view.scale, .9)));
     history.replaceState(null, '', '#t=' + n.id);
   } else { $('#card').hidden = true; history.replaceState(null, '', location.pathname + location.search); }
@@ -273,7 +274,8 @@ const techList = (ids: number[]) => ids.length ? `<div class="tech-list">${ids.m
 const eyebrow = (n: Tech) => `${t('k.' + n.kind)} · ${esc(tree.domains[n.domainIndex].name)} › ${esc(tree.subs[n.subIndex].name)}`;
 const dateLine = (n: Tech) => { const p = period(n.year, 1); return `${when(n)}${p ? ` <span>· ${p.name}</span>` : ''}`; };
 let cardPlaced = false;
-function openCard(n: Tech) {
+async function openCard(n: Tech) {
+  await tree.detail(n); if (selected !== n.i) return;
   const card = $('#card'), anc = ancestors(tree, n.i);
   card.innerHTML = `<header><div><span class="eyebrow">${eyebrow(n)}</span><h2>${esc(n.name)}</h2></div><button class="icon-button" data-close-card aria-label="${t('close')}">${icon('x')}</button></header>
   <div class="body"><p class="tech-date">${dateLine(n)}</p><p>${esc(n.summary)}</p>${n.people ? `<p class="tech-people">${esc(n.people)}</p>` : ''}
@@ -349,6 +351,8 @@ $('#search-input').addEventListener('input', e => {
 const press = (id: string, fn: (on: boolean) => void) => $(id).addEventListener('click', e => { const b = e.currentTarget as HTMLElement, on = b.getAttribute('aria-pressed') !== 'true'; b.setAttribute('aria-pressed', String(on)); fn(on); invalidate(); });
 for (const k of KINDS) press('#kind-' + k, on => { if (on) hiddenKinds.delete(k); else hiddenKinds.add(k); fillColors(); renderer.setColors(nodeSet, nodeColor); renderer.setColors(edgeSet, edgeColor); if (selected >= 0) select(visible(selected) ? selected : -1); });
 press('#layer-links', on => { showLinks = on; }); press('#layer-stages', on => { showStages = on; }); press('#layer-stage-colors', on => { stageColors = on; }); press('#layer-names', on => { showNames = on; });
+press('#layer-progressive', on => { progressive = on; try { localStorage.setItem('techtree-progressive', on ? 'on' : 'off'); } catch { /* sin almacenamiento */ } if (!on) void tree.detailAll(); });
+if (!progressive) void tree.detailAll();
 $('#fullscreen-button').addEventListener('click', () => { if (document.fullscreenElement) void document.exitFullscreen(); else void document.documentElement.requestFullscreen?.(); });
 function syncAppearance() {
   applyAppearance(); $('#appearance-button').innerHTML = icon(appearanceIcons[appearance]); $('#appearance-button').title = `${t('theme')}: ${t(appearance)}`;
@@ -381,11 +385,12 @@ function openEncyclopedia(i = selected) {
     $('#enc-index').addEventListener('click', e => { const b = (e.target as HTMLElement).closest<HTMLElement>('[data-article]'); if (b) showArticle(Number(b.dataset.article)); });
     $('#article').addEventListener('click', e => { const b = (e.target as HTMLElement).closest<HTMLElement>('[data-article]'); if (b) showArticle(Number(b.dataset.article)); });
   }
-  showArticle(i); if (!dialog.open) dialog.showModal();
+  void showArticle(i); if (!dialog.open) dialog.showModal();
 }
-function showArticle(i: number) {
+async function showArticle(i: number) {
   stopReading(); const article = $('#article');
   if (i < 0) { article.innerHTML = `<p class="lead">${t('encIntro')}</p>`; return; }
+  await tree.detail(tree.nodes[i]);
   const n = tree.nodes[i], anc = [...ancestors(tree, i)], link = (ids: number[]) => ids.length ? `<div class="tech-list">${ids.map(k => tree.nodes[k]).sort((a, b) => a.t - b.t).map(m => `<button class="tech-link" data-article="${m.i}"><i style="background:${tree.domains[m.domainIndex].color}"></i><strong>${esc(m.name)}</strong><span>${when(m)}</span></button>`).join('')}</div>` : `<p class="empty">${t('none')}</p>`;
   article.innerHTML = `<span class="eyebrow">${eyebrow(n)}</span><h1>${esc(n.name)}</h1><p class="meta tech-date">${dateLine(n)}${n.people ? ` <span>· ${esc(n.people)}</span>` : ''}</p>
   <button class="text-button" data-go="${n.i}">${icon('crosshair')}${t('showInTree')}</button><p class="lead">${esc(n.summary)}</p>

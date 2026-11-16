@@ -1,0 +1,120 @@
+@ medicina | Medicina y biología | #d97a8c
+@@ anatomia | Anatomía y fisiología
+momificacion | ~-2600 | T | Momificación con evisceración | natron, sierra-metal | Conocimiento práctico de los órganos. |
+diseccion-alejandria | ~-280 | D | Disección humana en Alejandría | medicina-hipocratica | Nervios, cerebro y válvulas del corazón. | Herófilo, Erasístrato
+pulso | ~-280 | T | Medida del pulso | clepsidra, diseccion-alejandria | Pulso cronometrado con clepsidra. | Herófilo
+anatomia-leonardo | ~1510 | D | Dibujos anatómicos de Leonardo | diseccion-academica, perspectiva | Cortes y vistas explosionadas, inéditos durante siglos. | Leonardo da Vinci
+valvulas-venosas | 1603 | D | Válvulas de las venas | anatomia-vesalio | Impiden el retroceso de la sangre. | Girolamo Fabrici
+vasos-quiliferos | 1622 | D | Vasos linfáticos | anatomia-vesalio | Quilíferos del intestino. | Gaspare Aselli
+capilares | 1661 | D | Capilares | circulacion, microscopio | Cierran el circuito de Harvey. | Marcello Malpighi
+globulos-rojos | 1658 | D | Glóbulos rojos | microscopio | Vistos en sangre de rana. | Jan Swammerdam
+presion-arterial | 1733 | D | Presión arterial | circulacion | Tubo de vidrio en la arteria de un caballo. | Stephen Hales
+digestion-quimica | 1780 | D | Digestión química | termometro | El jugo gástrico disuelve la carne. | Lazzaro Spallanzani
+respiracion-combustion | 1783 | D | La respiración es una combustión | combustion-lavoisier, calorimetro | Cobayas en el calorímetro. | Antoine Lavoisier
+electricidad-nerviosa | 1848 | D | Corrientes nerviosas | galvanometro, electricidad-animal | Potencial de acción medido. | Emil du Bois-Reymond
+velocidad-nerviosa | 1850 | D | Velocidad del impulso nervioso | electricidad-nerviosa | Unos 30 m/s en la rana. | Hermann von Helmholtz
+glucogeno | 1857 | D | Función glucogénica del hígado | analisis-combustion | Medio interno. | Claude Bernard
+medicina-experimental | 1865 | C | Medicina experimental | glucogeno | Método de la fisiología. | Claude Bernard
+localizacion-cerebral | 1861 | D | Área del lenguaje | anatomia-vesalio | Lesión frontal izquierda y afasia. | Paul Broca
+sinapsis | 1897 | C | Sinapsis | neurona | Unión entre neuronas. | Charles Sherrington
+neurotransmisores | 1921 | D | Transmisión química nerviosa | sinapsis | Acetilcolina en el corazón de rana. | Otto Loewi
+homeostasis | 1926 | C | Homeostasis | medicina-experimental | Regulación del medio interno. | Walter Cannon
+@@ diagnostico | Diagnóstico
+uroscopia | ~-400 | T | Examen de la orina | medicina-hipocratica | Color, olor y sedimento. |
+percusion | 1761 | T | Percusión del tórax | anatomia-vesalio | Golpear y escuchar. | Leopold Auenbrügger
+anatomia-patologica | 1761 | C | Anatomía patológica | anatomia-vesalio | La enfermedad tiene sede en los órganos. | Giovanni Morgagni
+histologia | 1801 | C | Tejidos | anatomia-patologica | Veintiún tejidos sin microscopio. | Xavier Bichat
+laringoscopio | 1854 | H | Laringoscopio | espejo | Espejos para ver las cuerdas vocales. | Manuel García
+hemograma | 1852 | T | Recuento de células sanguíneas | microscopio-acromatico | Cámara de recuento. | Karl Vierordt
+termometria-clinica | 1868 | C | Curvas de temperatura | termometro-clinico | Un millón de mediciones. | Carl Wunderlich
+bisturi-electrico | 1926 | H | Bisturí eléctrico | triodo | Corta y coagula. | William Bovie
+fluoroscopia | 1896 | T | Fluoroscopia | rayos-x | Imagen en movimiento. |
+contraste-bario | 1904 | T | Contrastes radiológicos | radiografia, elemento-bario | Tubo digestivo visible. |
+cateterismo | 1929 | T | Cateterismo cardíaco | radiografia | Un catéter hasta su propio corazón. | Werner Forssmann
+citologia-papanicolau | 1928 | T | Citología vaginal | microscopio-acromatico | Detección precoz del cáncer. | Georgios Papanicolaou
+mamografia | 1913 | T | Mamografía | radiografia | Radiografía de mama. | Albert Salomon
+gammagrafia | 1950 | T | Gammagrafía | yodo-131, detector-centelleo | Imagen con radioisótopos. | Benedict Cassen
+analizador-automatico | 1957 | I | Autoanalizador | espectrofotometro | Análisis de sangre en serie. | Leonard Skeggs
+elisa | 1971 | T | ELISA | anticuerpos | Enzimas que revelan anticuerpos. | Eva Engvall, Peter Perlmann
+anticuerpos | 1890 | C | Anticuerpos | suero-antidifterico | Sustancias específicas del suero. | Paul Ehrlich
+radioinmunoensayo | 1959 | T | Radioinmunoensayo | yodo-131, anticuerpos | Mide hormonas en picogramos. | Rosalyn Yalow, Solomon Berson
+pulsioximetro | 1974 | I | Pulsioxímetro | led | Oxígeno en sangre con luz. | Takuo Aoyagi
+glucometro | 1971 | I | Glucómetro | enzimas | Glucosa en una gota. | Anton Clemens
+test-embarazo | 1976 | I | Test de embarazo doméstico | ensayo-hcg | Detecta hCG. |
+ensayo-hcg | 1960 | D | Gonadotropina coriónica medible | radioinmunoensayo | Ensayo específico. |
+resonancia-funcional | 1990 | T | Resonancia funcional | resonancia | Actividad cerebral por oxigenación. | Seiji Ogawa
+pcr-diagnostica | 1987 | T | Diagnóstico por PCR | pcr | Detección de virus por su genoma. |
+secuenciacion-clinica | 2009 | T | Exoma clínico | secuenciacion-masiva | Diagnóstico de enfermedades raras. |
+@@ salud-publica | Salud pública e higiene
+banos-publicos | ~-2500 | S | Baños y letrinas urbanas | alcantarillado | Mohenjo-Daro. |
+termas | ~-100 | S | Termas | hipocausto, acueducto | Higiene pública romana. |
+lazareto | 1423 | S | Lazareto | cuarentena | Venecia. |
+registro-defunciones | 1532 | S | Boletines de mortalidad | imprenta | Londres. |
+inoculacion-europa | 1721 | T | Variolización en Europa | variolizacion | Traída de Constantinopla. | Mary Wortley Montagu
+expedicion-balmis | 1803-11 | S | Expedición de la Vacuna | vacuna-viruela | Campaña mundial de vacunación. | Francisco Javier Balmis, Isabel Zendal
+informe-chadwick | 1842 | C | Reforma sanitaria | tablas-mortalidad | Alcantarillado y agua limpia. | Edwin Chadwick
+alcantarillado-londres | 1865 | S | Alcantarillado moderno | cemento-portland, informe-chadwick | 1800 km de colectores. | Joseph Bazalgette
+cruz-roja | 1863 | S | Cruz Roja | enfermeria-moderna | Socorro neutral. | Henri Dunant
+pasteurizacion-leche | 1886 | T | Pasteurización de la leche | pasteurizacion | Reduce la mortalidad infantil. | Franz von Soxhlet
+fluoracion | 1945 | T | Fluoración del agua | elemento-fluor, potabilizacion | Grand Rapids. |
+oms | 1948-04 | S | Organización Mundial de la Salud | epidemiologia | Agencia sanitaria de la ONU. |
+tabaco-cancer | 1950 | D | Tabaco y cáncer de pulmón | ensayo-aleatorizado | Estudio de casos y controles. | Richard Doll, Austin Bradford Hill
+rehidratacion-oral | 1968 | T | Rehidratación oral | epidemiologia | Sal y glucosa contra el cólera. |
+sistema-nacional-salud | 1948-07 | S | Sanidad pública universal | enfermeria-moderna | NHS británico. |
+erradicacion-peste-bovina | 2011 | D | Erradicación de la peste bovina | vacuna-rabia | Segunda enfermedad eliminada. |
+@@ especialidades | Odontología, óptica y prótesis
+empaste-cera | ~-4500 | T | Empaste dental de cera | apicultura-silvestre | Diente de Lonche (Eslovenia). |
+puente-dental | ~-700 | I | Puentes dentales | oro | Etruscos. |
+dentadura-porcelana | 1774 | I | Dientes de porcelana | porcelana-europea | Prótesis duraderas. | Alexis Duchâteau
+amalgama-dental | 1826 | M | Amalgama dental | elemento-mercurio | Plata y mercurio. |
+torno-dental | 1871 | H | Torno dental de pedal | maquina-coser | 2000 rpm. | James Morrison
+anestesia-dental | 1844 | T | Óxido nitroso en odontología | oxido-nitroso | Extracción sin dolor. | Horace Wells
+ortodoncia | 1728 | C | Odontología científica | anatomia-vesalio | Le chirurgien dentiste. | Pierre Fauchard
+cepillo-dientes | 1498 | I | Cepillo de dientes de cerdas | cerdo | China. |
+pasta-fluor | 1955 | M | Dentífrico con flúor | fluoracion | Crest. |
+implante-dental | 1965 | I | Implante de titanio | titanio-industrial | Oseointegración. | Per-Ingvar Brånemark
+lentes-bifocales | 1784 | I | Lentes bifocales | gafas | Dos graduaciones. | Benjamin Franklin
+astigmatismo | 1825 | D | Corrección del astigmatismo | gafas | Lentes cilíndricas. | George Airy
+lentes-blandas | 1961 | I | Lentes de contacto blandas | macromoleculas | Hidrogel. | Otto Wichterle
+catarata-extraccion | 1747 | T | Extracción de la catarata | cirugia-sushruta | En lugar de abatirla. | Jacques Daviel
+lente-intraocular | 1949 | I | Lente intraocular | plexiglas | Sustituye al cristalino. | Harold Ridley
+lasik | 1990 | T | Cirugía refractiva con láser | laser | Excímero sobre la córnea. |
+audifono | 1898 | I | Audífono eléctrico | microfono-carbon | Akouphone. | Miller Hutchison
+implante-coclear | 1961 | I | Implante coclear | transistor-silicio | Estimula el nervio auditivo. | William House
+mano-protesica | 1504 | I | Mano de hierro articulada | forja, engranaje-reloj | Götz von Berlichingen. |
+protesis-mioelectrica | 1948 | I | Prótesis mioeléctrica | electroencefalograma | Controlada por señales musculares. | Reinhold Reiter
+silla-ruedas | 1595 | I | Silla de ruedas | rueda-radios | Para Felipe II. |
+incubadora | 1880 | I | Incubadora neonatal | termometro | Calor controlado. | Étienne Tarnier
+pulmon-acero | 1928 | I | Pulmón de acero | bomba-vacio | Respiración por presión negativa. | Philip Drinker
+respirador | 1952 | I | Ventilación con presión positiva | pulmon-acero | Copenhague, epidemia de polio. | Bjørn Ibsen
+uci | 1953 | S | Unidad de cuidados intensivos | respirador | Vigilancia continua. | Bjørn Ibsen
+rcp | 1960 | T | Reanimación cardiopulmonar | desfibrilador | Masaje externo y boca a boca. | Peter Safar
+bypass-coronario | 1967 | T | Bypass coronario | maquina-corazon-pulmon, cateterismo | Vena safena. | René Favaloro
+valvula-cardiaca | 1960 | I | Válvula cardíaca artificial | maquina-corazon-pulmon | De bola. | Albert Starr
+stent | 1986 | I | Stent coronario | angioplastia, acero-inoxidable | Malla que mantiene abierta la arteria. | Ulrich Sigwart
+corazon-artificial | 1982 | I | Corazón artificial | valvula-cardiaca | Jarvik-7. | Robert Jarvik
+trasplante-higado | 1963 | T | Trasplante de hígado | trasplante-rinon | Supervivencia larga desde 1967. | Thomas Starzl
+trasplante-medula | 1956 | T | Trasplante de médula ósea | grupos-sanguineos | Entre gemelos. | Edward Donnall Thomas
+hla | 1958 | D | Antígenos de histocompatibilidad | grupos-sanguineos | Compatibilidad de tejidos. | Jean Dausset
+@ biologia | Biología | #7cc47a
+@@ natural | Historia natural y evolución
+gabinete-curiosidades | ~1550 | S | Gabinetes de historia natural | imprenta | Colecciones que anteceden al museo. |
+nomenclatura-binomial | 1753 | C | Nomenclatura binomial | clasificacion-linneo | Species Plantarum. | Carlos Linneo
+historia-natural-buffon | 1749 | C | Historia natural de Buffon | clasificacion-linneo | La Tierra y la vida tienen historia. | Georges-Louis Leclerc de Buffon
+anatomia-comparada | 1800 | C | Anatomía comparada | extincion | Correlación de las partes. | Georges Cuvier
+biogeografia | 1807 | C | Geografía de las plantas | barometro | Vegetación según altitud y clima. | Alexander von Humboldt
+ley-poblacion | 1798 | C | Ensayo sobre la población | tablas-mortalidad | Crecimiento geométrico frente a recursos. | Thomas Malthus
+linea-wallace | 1859 | D | Línea de Wallace | viaje-beagle | Frontera faunística en Indonesia. | Alfred Russel Wallace
+origen-hombre | 1871 | C | El origen del hombre | evolucion, neandertal | Selección sexual y ascendencia africana. | Charles Darwin
+homo-erectus | 1891 | D | Hombre de Java | origen-hombre | Pithecanthropus erectus. | Eugène Dubois
+nino-taung | 1924 | D | Australopithecus africanus | homo-erectus | El niño de Taung. | Raymond Dart
+altamira | 1879 | D | Pinturas de Altamira | neandertal | Arte paleolítico. | Marcelino Sanz de Sautuola, María Sanz de Sautuola
+garganta-olduvai | 1959 | D | Homínidos de Olduvai | nino-taung | Zinjanthropus y Homo habilis. | Mary y Louis Leakey
+atapuerca | 1994 | D | Homo antecessor | garganta-olduvai | Gran Dolina. | Eudald Carbonell, Juan Luis Arsuaga, José María Bermúdez de Castro
+celacanto | 1938 | D | Celacanto vivo | anatomia-comparada | Un «fósil viviente». | Marjorie Courtenay-Latimer
+burgess-shale | 1909 | D | Fauna de Burgess Shale | escala-geologica | Explosión cámbrica. | Charles Walcott
+equilibrio-puntuado | 1972 | C | Equilibrio puntuado | sintesis-evolutiva | Cambios rápidos y largas estasis. | Niles Eldredge, Stephen Jay Gould
+gen-egoista | 1976 | C | Selección a nivel del gen | sintesis-evolutiva | El gen egoísta. | Richard Dawkins, William Hamilton
+reloj-molecular | 1962 | C | Reloj molecular | secuencia-insulina | Las diferencias de secuencia miden el tiempo. | Emile Zuckerkandl, Linus Pauling
+tiktaalik | 2004 | D | Tiktaalik | anatomia-comparada | Pez con muñecas. | Neil Shubin
+denisovanos | 2010 | D | Denisovanos | adn-antiguo | Grupo humano conocido por su genoma. |

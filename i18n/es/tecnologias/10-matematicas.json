@@ -1,0 +1,162 @@
+{
+ "fichas-contables": {
+  "nombre": "Fichas de arcilla para contar",
+  "resumen": "Una ficha por unidad de mercancía."
+ },
+ "numeracion-sexagesimal": {
+  "nombre": "Numeración posicional sexagesimal",
+  "resumen": "El valor de cada signo depende de su posición, en base 60; Babilonia."
+ },
+ "aritmetica-egipcia": {
+  "nombre": "Aritmética y fracciones egipcias",
+  "resumen": "Papiros de Moscú y Rhind."
+ },
+ "cero": {
+  "nombre": "Cero como número",
+  "resumen": "Reglas aritméticas del cero."
+ },
+ "numeracion-decimal": {
+  "nombre": "Numeración decimal posicional",
+  "resumen": "Nueve cifras cuyo valor depende de su posición; India."
+ },
+ "liber-abaci": {
+  "nombre": "Cifras indoarábigas en Europa",
+  "resumen": "El Liber Abaci difunde las cifras indoarábigas y su cálculo entre los mercaderes europeos."
+ },
+ "decimales": {
+  "nombre": "Fracciones decimales",
+  "resumen": "De Thiende: los decimales se operan como números enteros."
+ },
+ "logaritmos": {
+  "nombre": "Logaritmos",
+  "resumen": "Convierten productos en sumas; Mirifici logarithmorum canonis descriptio."
+ },
+ "sistema-binario": {
+  "nombre": "Aritmética binaria",
+  "resumen": "Toda cifra expresada con 0 y 1; Explication de l’arithmétique binaire."
+ },
+ "geometria-egipcia": {
+  "nombre": "Geometría práctica",
+  "resumen": "Agrimensura con cuerdas y áreas."
+ },
+ "terna-pitagorica": {
+  "nombre": "Relación pitagórica",
+  "resumen": "La tablilla Plimpton 322 lista ternas de lados de triángulos rectángulos."
+ },
+ "demostracion": {
+  "nombre": "Demostración deductiva",
+  "resumen": "Los enunciados se derivan de principios mediante razonamiento."
+ },
+ "irracionales": {
+  "nombre": "Inconmensurables",
+  "resumen": "La diagonal y el lado del cuadrado no tienen medida común."
+ },
+ "exhaucion": {
+  "nombre": "Método de exhaución",
+  "resumen": "Áreas y volúmenes por aproximaciones sucesivas; teoría de proporciones."
+ },
+ "elementos": {
+  "nombre": "Elementos",
+  "resumen": "Trece libros que deducen la geometría a partir de definiciones y postulados."
+ },
+ "conicas": {
+  "nombre": "Secciones cónicas",
+  "resumen": "Elipse, parábola e hipérbola estudiadas de forma sistemática."
+ },
+ "trigonometria": {
+  "nombre": "Trigonometría",
+  "resumen": "Tabla de cuerdas que relaciona ángulos y longitudes."
+ },
+ "perspectiva": {
+  "nombre": "Perspectiva lineal",
+  "resumen": "Construcción geométrica del espacio pictórico con punto de fuga."
+ },
+ "geometria-analitica": {
+  "nombre": "Geometría analítica",
+  "resumen": "Curvas descritas por ecuaciones en coordenadas."
+ },
+ "geometria-no-euclidea": {
+  "nombre": "Geometría no euclídea",
+  "resumen": "Geometrías coherentes que niegan el postulado de las paralelas."
+ },
+ "geometria-riemann": {
+  "nombre": "Geometría de Riemann",
+  "resumen": "Espacios curvos de cualquier dimensión definidos por una métrica."
+ },
+ "diofanto": {
+  "nombre": "Arithmetica",
+  "resumen": "Ecuaciones con notación abreviada."
+ },
+ "algebra": {
+  "nombre": "Álgebra",
+  "resumen": "Resolución sistemática de ecuaciones lineales y cuadráticas; al-Kitab al-mujtasar."
+ },
+ "cubica": {
+  "nombre": "Solución de cúbicas y cuárticas",
+  "resumen": "El Ars Magna publica la solución general de las ecuaciones de tercer y cuarto grado."
+ },
+ "complejos": {
+  "nombre": "Números complejos",
+  "resumen": "Reglas para operar con raíces de números negativos."
+ },
+ "notacion-simbolica": {
+  "nombre": "Álgebra simbólica",
+  "resumen": "Letras para incógnitas y parámetros."
+ },
+ "teoria-grupos": {
+  "nombre": "Teoría de grupos",
+  "resumen": "La resolubilidad de una ecuación depende de las simetrías de sus raíces."
+ },
+ "calculo": {
+  "nombre": "Cálculo infinitesimal",
+  "resumen": "Fluxiones de Newton; Leibniz publica en 1684."
+ },
+ "analisis-euler": {
+  "nombre": "Análisis de funciones",
+  "resumen": "Introductio in analysin infinitorum."
+ },
+ "series-fourier": {
+  "nombre": "Series de Fourier",
+  "resumen": "Toda función periódica se descompone en senos y cosenos; teoría del calor."
+ },
+ "teoria-conjuntos": {
+  "nombre": "Teoría de conjuntos",
+  "resumen": "Distintos tamaños de infinito."
+ },
+ "probabilidad": {
+  "nombre": "Teoría de la probabilidad",
+  "resumen": "Correspondencia sobre el reparto de apuestas."
+ },
+ "distribucion-normal": {
+  "nombre": "Distribución normal",
+  "resumen": "Aproximación de la binomial por la curva en campana."
+ },
+ "teorema-bayes": {
+  "nombre": "Teorema de Bayes",
+  "resumen": "Probabilidad de las causas a partir de los efectos; publicado póstumamente."
+ },
+ "minimos-cuadrados": {
+  "nombre": "Mínimos cuadrados",
+  "resumen": "Ajuste que minimiza la suma de errores al cuadrado."
+ },
+ "silogismo": {
+  "nombre": "Lógica silogística",
+  "resumen": "Inferencias válidas por su forma; Órganon."
+ },
+ "algebra-boole": {
+  "nombre": "Álgebra de Boole",
+  "resumen": "El razonamiento lógico como cálculo con dos valores."
+ },
+ "logica-predicados": {
+  "nombre": "Lógica de predicados",
+  "resumen": "Begriffsschrift: cuantificadores y variables formalizan el razonamiento matemático."
+ },
+ "incompletitud": {
+  "nombre": "Teoremas de incompletitud",
+  "resumen": "Todo sistema formal aritmético coherente contiene verdades indemostrables."
+ },
+ "teoria-grafos": {
+  "nombre": "Teoría de grafos",
+  "resumen": "El problema de los puentes de Königsberg, resuelto con vértices y aristas."
+ }
+}

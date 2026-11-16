@@ -1,0 +1,104 @@
+@ electronica | Electrónica e informática | #5fa8d3
+@@ semiconductores | Semiconductores
+selenio-rectificador | 1933 | H | Rectificador de selenio | elemento-selenio, rectificador-cristal | Placas apiladas que convierten alterna en continua sin válvulas. |
+oxido-cuproso | 1927 | H | Rectificador de óxido de cobre | rectificador-cristal | Primer rectificador de estado sólido comercial. | Lars Grondahl
+germanio-ultrapuro | 1942 | M | Germanio de alta pureza | elemento-germanio, radar | Cristales purificados para los detectores de radar de la guerra. | Karl Lark-Horovitz
+union-pn | 1940 | D | Unión p-n | rectificador-cristal | Una frontera entre silicio de dos tipos genera tensión con la luz. | Russell Ohl
+dopado | 1941 | T | Dopado controlado | union-pn | Impurezas del grupo III o V fijan el tipo de conducción. |
+diodo-punta-contacto | 1941 | H | Diodo de punta de contacto para microondas | rectificador-cristal, radar | Detector 1N21 de los radares centimétricos. |
+teoria-union | 1949 | C | Teoría de la unión p-n | transistor, teoria-bandas | Ecuación del diodo y transistor bipolar de unión. | William Shockley
+silicio-monocristalino | 1952 | M | Monocristal de silicio | czochralski, fusion-zonas | Lingotes de silicio sin fronteras de grano. | Gordon Teal, Ernest Buehler
+proceso-siemens | 1954 | T | Silicio de grado electrónico | silicio-monocristalino | Triclorosilano depositado sobre varillas calientes: pureza de nueve nueves. |
+difusion-gaseosa-dopantes | 1954 | T | Dopado por difusión | dopado, silicio-monocristalino | Los dopantes penetran desde un gas a alta temperatura. | Calvin Fuller
+zona-flotante | 1953 | T | Fusión por zona flotante | fusion-zonas | Purifica el silicio sin crisol que lo contamine. | Henry Theuerer
+transistor-mesa | 1958 | H | Transistor mesa de difusión | difusion-gaseosa-dopantes, transistor-silicio | Primer producto de Fairchild. |
+diodo-tunel | 1957 | D | Diodo túnel | efecto-tunel, union-pn | Resistencia negativa por efecto túnel. | Leo Esaki
+diodo-zener | 1950 | H | Diodo Zener | teoria-union | Tensión de ruptura estable como referencia. | Clarence Zener
+arseniuro-galio | 1952 | M | Semiconductores III-V | elemento-galio, teoria-bandas | Arseniuro de galio y compuestos afines. | Heinrich Welker
+diodo-schottky | 1938 | C | Barrera Schottky | rectificador-cristal, teoria-bandas | Teoría del contacto metal-semiconductor. | Walter Schottky
+fototransistor | 1950 | H | Fototransistor | transistor | Transistor gobernado por la luz. | John Shive
+jfet | 1953 | H | Transistor de efecto de campo de unión | teoria-union | Realizado según la teoría de Shockley. | George Dacey, Ian Ross
+oblea | 1960 | M | Oblea pulida | silicio-monocristalino | Discos de silicio de una pulgada cortados y pulidos a espejo. |
+puerta-polisilicio | 1968 | T | Puerta de polisilicio autoalineada | mosfet | Hace posibles las memorias y microprocesadores MOS. | Federico Faggin
+sala-blanca | 1962 | S | Sala blanca de flujo laminar | proceso-planar | Aire filtrado que barre las partículas. | Willis Whitfield
+deposicion-quimica-vapor | 1965 | T | Deposición química en fase vapor | epitaxia | Películas de óxido, nitruro y polisilicio. |
+grabado-plasma | 1973 | T | Grabado por plasma | fotolitografia | Ataque seco anisótropo en lugar de baños ácidos. |
+oblea-200 | 1990 | M | Obleas de 200 mm | oblea | Diámetro estándar de los años noventa. |
+oblea-300 | 2001 | M | Obleas de 300 mm | oblea-200 | Más del doble de chips por oblea. |
+carburo-silicio | 1991 | M | Carburo de silicio para potencia | arseniuro-galio | Obleas comerciales de SiC para alta tensión y temperatura. |
+nitruro-galio-potencia | 2010 | M | Nitruro de galio para potencia | led-azul | Transistores GaN en cargadores y radares. |
+igbt | 1982 | H | Transistor IGBT | mosfet, tiristor | Interruptor de potencia de los trenes y coches eléctricos. | Jayant Baliga
+mems | 1982 | T | Micromecanizado del silicio | grabado-plasma | El silicio como material mecánico. | Kurt Petersen
+sensor-cmos | 1993 | I | Sensor de imagen CMOS | cmos, ccd | Un amplificador en cada píxel: la cámara en un chip. | Eric Fossum
+@@ chips | Chips célebres
+logica-rtl | 1961 | I | Lógica integrada Micrologic | circuito-integrado, proceso-planar | Primera familia de circuitos integrados lógicos comerciales. |
+ua702 | 1964 | I | Amplificador operacional integrado | proceso-planar | Fairchild µA702. | Bob Widlar
+serie-7400 | 1964 | I | Serie lógica 7400 TTL | logica-rtl | Puertas estándar que dominaron dos décadas. |
+ua741 | 1968 | I | Amplificador operacional µA741 | ua702 | El operacional más copiado de la historia. | Dave Fullagar
+serie-4000 | 1968 | I | Serie CMOS 4000 | cmos | Lógica de consumo mínimo de RCA. |
+intel-3101-1101 | 1969 | I | Intel 1101 | puerta-polisilicio, memoria-estatica | Primera memoria MOS de puerta de silicio. |
+ne555 | 1972 | I | Temporizador 555 | ua741 | Más de mil millones de unidades al año durante décadas. | Hans Camenzind
+tms1000 | 1974 | I | Microcontrolador TMS1000 | microprocesador | CPU, memoria y entradas en un chip. | Gary Boone
+intel-2708 | 1975 | I | EPROM 2708 | eprom | Un kilobyte programable por el usuario. |
+rca-1802 | 1976 | I | RCA 1802 | serie-4000, microprocesador | CPU CMOS resistente a la radiación, usada en sondas. |
+intel-8048 | 1976 | I | Intel 8048 | intel-8080 | Microcontrolador de los teclados de PC. |
+tms9900 | 1976 | I | TMS9900 | microprocesador | Primer microprocesador de 16 bits en un chip. |
+intel-8085 | 1976 | I | Intel 8085 | intel-8080 | 8080 con una sola tensión de 5 V. |
+motorola-6809 | 1978 | I | Motorola 6809 | motorola-6800 | El 8 bits más avanzado. |
+sid-6581 | 1982 | I | Chip de sonido SID | mos-6502 | Sintetizador de tres voces del Commodore 64. | Robert Yannes
+intel-8051 | 1980 | I | Intel 8051 | intel-8048 | Microcontrolador más fabricado del siglo XX. |
+intel-80186 | 1982 | I | Intel 80186 | intel-8086 | 8086 con periféricos integrados para sistemas empotrados. |
+motorola-68020 | 1984 | I | Motorola 68020 | motorola-68000 | 32 bits completos. |
+inmos-transputer | 1985 | I | Transputer | arquitectura-risc | Procesador pensado para conectarse en paralelo. |
+intel-80387 | 1987 | I | Coprocesador 80387 | intel-8087, intel-80386 | Coma flotante para el 386. |
+intel-i860 | 1989 | I | Intel i860 | arquitectura-risc | RISC de 64 bits con un millón de transistores. |
+pic16 | 1985 | I | Microcontroladores PIC | eprom, tms1000 | Baratos y sencillos; después con flash. |
+motorola-68040 | 1990 | I | Motorola 68040 | motorola-68020, memoria-cache | Coma flotante integrada. |
+intel-386sx | 1988 | I | Intel 386SX | intel-80386 | 386 con bus de 16 bits para PC económicos. |
+amd-am386 | 1991 | I | AMD Am386 | intel-80386 | Clónico que rompe el monopolio de Intel. |
+cyrix-486 | 1992 | I | Cyrix 486 | intel-80486 | Compatibles de terceros. |
+intel-486dx2 | 1992 | I | Intel 486DX2 | intel-80486 | Reloj interno al doble del bus. |
+arm6 | 1991 | I | ARM6 | arm1 | Primer ARM de la empresa conjunta con Apple; Newton. |
+arm7tdmi | 1994 | I | ARM7TDMI | arm6 | Núcleo licenciado de los móviles GSM y la Game Boy Advance. |
+avr | 1996 | I | Microcontroladores AVR | memoria-flash, arquitectura-risc | Flash reprogramable en el circuito; base de Arduino. | Alf-Egil Bogen, Vegard Wollan
+amd-k5 | 1996 | I | AMD K5 | pentium | Primer x86 diseñado por AMD. |
+amd-k6 | 1997 | I | AMD K6 | amd-k5 | Rival económico del Pentium II. |
+pentium-ii | 1997-05 | I | Pentium II | pentium-pro, mmx | P6 en cartucho con caché externa. |
+celeron | 1998 | I | Celeron | pentium-ii | Gama económica; el 300A se hizo célebre por su sobreaceleración. |
+pentium-iii | 1999-02 | I | Pentium III | pentium-ii | Instrucciones SSE. |
+xeon | 1998 | I | Xeon | pentium-ii | Línea para servidores. |
+strongarm | 1996 | I | StrongARM | arm6, dec-alpha | ARM rápido de DEC para agendas electrónicas. |
+transmeta-crusoe | 2000 | I | Transmeta Crusoe | pentium-pro | x86 emulado por traducción de código para ahorrar energía. |
+itanium | 2001 | I | Itanium | pentium-pro | Arquitectura IA-64 de Intel y HP; fracaso comercial. |
+pentium-m | 2003 | I | Pentium M | pentium-iii | Eficiencia para portátiles; base del Core. |
+power-g5 | 2003 | I | PowerPC 970 | powerpc | 64 bits en los Mac G5. |
+cell | 2006 | I | Procesador Cell | powerpc | Un núcleo y ocho coprocesadores vectoriales; PlayStation 3. |
+atom | 2008 | I | Intel Atom | core-2 | x86 de muy bajo consumo. |
+snapdragon | 2008 | I | Qualcomm Snapdragon | cortex-a8, telefonia-3g | Procesador y módem en un chip. |
+arduino | 2005 | I | Arduino | avr | Placa abierta que populariza la electrónica. | Massimo Banzi
+raspberry-pi | 2012-02 | I | Raspberry Pi | arm7tdmi, linux | Ordenador de 35 dólares. | Eben Upton
+sandy-bridge | 2011 | I | Sandy Bridge | nehalem | Gráficos integrados en el mismo silicio. |
+xeon-phi | 2012 | I | Xeon Phi | pentium, cuda | Decenas de núcleos x86 para cálculo. |
+apple-a7 | 2013-09 | I | Apple A7 | armv8, apple-a4 | Primer ARM de 64 bits en un teléfono. |
+epyc | 2017 | I | AMD EPYC | ryzen | 32 núcleos por zócalo. |
+graviton | 2018 | I | Procesadores ARM para servidores | armv8, computacion-nube | AWS Graviton. |
+fugaku | 2020 | I | Superordenador ARM | armv8 | Fugaku con procesadores A64FX. |
+@@ graficos | Gráficos y aceleradores
+tms34010 | 1986 | I | Procesador gráfico programable | dsp, framebuffer | TMS34010. |
+ibm-8514 | 1987 | I | Aceleradora 2D | vga | Dibuja líneas y rellena áreas por hardware. |
+s3-86c911 | 1991 | I | Aceleradora de Windows | ibm-8514 | S3 86C911. |
+nv1 | 1995 | I | NVIDIA NV1 | bus-pci | Primera tarjeta de NVIDIA, con superficies cuadráticas. |
+riva-128 | 1997 | I | RIVA 128 | nv1, directx | 2D y 3D en un chip. |
+ati-rage | 1996 | I | ATI Rage | bus-pci | Aceleración 3D integrada de ATI. |
+riva-tnt | 1998 | I | RIVA TNT | riva-128 | Dos texturas por pasada. |
+voodoo2 | 1998 | I | Voodoo2 y SLI | voodoo | Dos tarjetas trabajando en paralelo. |
+geforce2 | 2000 | I | GeForce 2 | gpu | Sombreado por píxel fijo. |
+radeon | 2000 | I | ATI Radeon | ati-rage | Transformación e iluminación por hardware. |
+radeon-9700 | 2002 | I | Radeon 9700 | sombreadores, radeon | Primera tarjeta DirectX 9. |
+geforce-6 | 2004 | I | GeForce 6 | sombreadores | Shader Model 3 y vuelta del SLI. |
+geforce-8 | 2006-11 | I | GeForce 8800 | geforce-6 | Sombreadores unificados: la arquitectura que hace posible CUDA. |
+tesla-gpu | 2007 | I | GPU para cálculo científico | geforce-8, cuda | NVIDIA Tesla sin salida de vídeo. |
+titan-supercomputador | 2012 | S | Superordenador con GPU | tesla-gpu | Titan, de Oak Ridge. |
+vulkan | 2016 | S | Vulkan | opengl | API gráfica de bajo nivel. |
+geforce-rtx | 2018 | I | GeForce RTX 20 | trazado-rayos-tiempo-real | Núcleos de trazado de rayos y DLSS. |
+gpu-centro-datos | 2020 | I | GPU de centro de datos para IA | nucleos-tensor, hbm | A100 y sucesoras. |

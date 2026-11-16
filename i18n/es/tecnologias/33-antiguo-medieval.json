@@ -1,0 +1,370 @@
+{
+ "rodillos-troncos": {
+  "nombre": "Rodillos de troncos",
+  "resumen": "Troncos bajo la carga que se van adelantando."
+ },
+ "plano-inclinado-rampa": {
+  "nombre": "Rampas de construcción",
+  "resumen": "Planos inclinados de adobe para subir sillares."
+ },
+ "cuna-hendido": {
+  "nombre": "Hendido de piedra con cuñas",
+  "resumen": "Cuñas de madera mojada en ranuras."
+ },
+ "torno-elevacion": {
+  "nombre": "Torno de pozo",
+  "resumen": "Cilindro con manivela para subir cubos."
+ },
+ "odometro": {
+  "nombre": "Odómetro",
+  "resumen": "Cuenta las vueltas de la rueda y suelta una bola por milla."
+ },
+ "dioptra": {
+  "nombre": "Dioptra",
+  "resumen": "Instrumento de topografía con tornillos de ajuste."
+ },
+ "automatas-heron": {
+  "nombre": "Autómatas de Herón",
+  "resumen": "Teatros mecánicos, puertas automáticas y máquina de monedas."
+ },
+ "organo-neumatico": {
+  "nombre": "Fuelles de órgano",
+  "resumen": "El aire a presión sustituye al agua."
+ },
+ "carro-brujula": {
+  "nombre": "Carro que apunta al sur",
+  "resumen": "Tren diferencial que mantiene una figura orientada."
+ },
+ "cadena-transmision-china": {
+  "nombre": "Transmisión por cadena",
+  "resumen": "Cadena sin fin en la torre de Su Song."
+ },
+ "cardado-arco": {
+  "nombre": "Arco de cardar",
+  "resumen": "Vibración de la cuerda que ahueca la fibra."
+ },
+ "molino-rodezno": {
+  "nombre": "Molino de rodezno",
+  "resumen": "Rueda horizontal sin engranajes."
+ },
+ "molino-barcas": {
+  "nombre": "Molinos flotantes",
+  "resumen": "Montados sobre barcas en el Tíber durante el asedio de Roma."
+ },
+ "molino-papel-mazos": {
+  "nombre": "Molino de papel de Bagdad",
+  "resumen": "Fabricación en serie con energía hidráulica."
+ },
+ "ruedas-al-jazari": {
+  "nombre": "Libro de los ingenios mecánicos",
+  "resumen": "Cincuenta máquinas descritas con instrucciones de montaje."
+ },
+ "bomba-doble-efecto": {
+  "nombre": "Bomba de succión de doble efecto",
+  "resumen": "Cigüeñal, bielas y válvulas."
+ },
+ "ventilador-rotativo": {
+  "nombre": "Ventilador rotativo",
+  "resumen": "Siete ruedas movidas a mano."
+ },
+ "aventadora": {
+  "nombre": "Aventadora de manivela",
+  "resumen": "Corriente de aire que separa el grano de la paja."
+ },
+ "taladro-percusion-china": {
+  "nombre": "Perforación profunda a percusión",
+  "resumen": "Pozos de salmuera de cientos de metros en Sichuan."
+ },
+ "bambu-cables": {
+  "nombre": "Cables de bambú trenzado",
+  "resumen": "Sogas muy resistentes para puentes y sondeos."
+ },
+ "gas-natural-china": {
+  "nombre": "Uso del gas natural",
+  "resumen": "Conducido por cañas de bambú para evaporar salmuera."
+ },
+ "puente-colgante-cadenas": {
+  "nombre": "Puente colgante de cadenas de hierro",
+  "resumen": "Yunnan y Sichuan."
+ },
+ "puente-arco-rebajado": {
+  "nombre": "Puente de arco rebajado",
+  "resumen": "Puente de Anji."
+ },
+ "pagoda-madera": {
+  "nombre": "Gran estructura de madera ensamblada",
+  "resumen": "Pagoda de Yingxian, de 67 m."
+ },
+ "tratado-construccion-chino": {
+  "nombre": "Yingzao Fashi",
+  "resumen": "Normas modulares de construcción."
+ },
+ "rueda-pecho": {
+  "nombre": "Rueda hidráulica de costado",
+  "resumen": "El agua entra a media altura."
+ },
+ "rueda-arriba": {
+  "nombre": "Rueda de alimentación superior",
+  "resumen": "El peso del agua mueve la rueda."
+ },
+ "molino-torre": {
+  "nombre": "Molino de torre",
+  "resumen": "Solo gira el tejado."
+ },
+ "molino-desague": {
+  "nombre": "Molino de drenaje",
+  "resumen": "Pólders de Holanda."
+ },
+ "molino-aserrar-viento": {
+  "nombre": "Aserradero de viento",
+  "resumen": "Cigüeñal que mueve sierras."
+ },
+ "cola-orientacion": {
+  "nombre": "Orientación automática del molino",
+  "resumen": "Rueda de cola."
+ },
+ "rueda-poncelet": {
+  "nombre": "Rueda de álabes curvos",
+  "resumen": "Rendimiento del 60 %."
+ },
+ "turbina-francis": {
+  "nombre": "Turbina Francis",
+  "resumen": "Flujo radial hacia dentro."
+ },
+ "turbina-pelton": {
+  "nombre": "Turbina Pelton",
+  "resumen": "Cucharas dobles para grandes saltos."
+ },
+ "turbina-kaplan": {
+  "nombre": "Turbina Kaplan",
+  "resumen": "Palas orientables para saltos bajos."
+ },
+ "merkhet": {
+  "nombre": "Merkhet",
+  "resumen": "Plomada para marcar las horas por las estrellas."
+ },
+ "reloj-incienso": {
+  "nombre": "Reloj de incienso",
+  "resumen": "Barritas que arden a ritmo conocido."
+ },
+ "reloj-vela": {
+  "nombre": "Reloj de vela",
+  "resumen": "Velas graduadas."
+ },
+ "reloj-arena": {
+  "nombre": "Reloj de arena",
+  "resumen": "Ampolletas para las guardias de mar."
+ },
+ "clepsidra-ctesibio": {
+  "nombre": "Clepsidra de caudal constante",
+  "resumen": "Flotador con cremallera y aguja."
+ },
+ "torre-vientos": {
+  "nombre": "Torre de los Vientos",
+  "resumen": "Reloj público de Atenas."
+ },
+ "reloj-astronomico-yixing": {
+  "nombre": "Escape hidráulico",
+  "resumen": "Esfera armilar movida por agua."
+ },
+ "reloj-elefante": {
+  "nombre": "Reloj del elefante",
+  "resumen": "Autómata horario."
+ },
+ "reloj-torre": {
+  "nombre": "Reloj público de torre",
+  "resumen": "Campanas horarias en ciudades."
+ },
+ "astrario-dondi": {
+  "nombre": "Astrario",
+  "resumen": "Reloj planetario de siete caras."
+ },
+ "reloj-praga": {
+  "nombre": "Reloj astronómico de Praga",
+  "resumen": "Esfera astrolábica."
+ },
+ "caracol-fusee": {
+  "nombre": "Caracol",
+  "resumen": "Cono que iguala la fuerza del muelle."
+ },
+ "minutero": {
+  "nombre": "Aguja de minutos",
+  "resumen": "Para las observaciones de Tycho."
+ },
+ "escape-ancora": {
+  "nombre": "Escape de áncora",
+  "resumen": "Oscilaciones pequeñas: péndulos largos."
+ },
+ "escape-graham": {
+  "nombre": "Escape de reposo",
+  "resumen": "Sin retroceso."
+ },
+ "pendulo-compensado": {
+  "nombre": "Péndulo de parrilla",
+  "resumen": "Latón y acero compensan la dilatación."
+ },
+ "escape-cilindro": {
+  "nombre": "Escape de cilindro",
+  "resumen": "Relojes planos."
+ },
+ "escape-ancora-suiza": {
+  "nombre": "Escape de áncora libre",
+  "resumen": "Base del reloj mecánico moderno."
+ },
+ "tourbillon": {
+  "nombre": "Tourbillon",
+  "resumen": "Jaula giratoria que promedia la gravedad."
+ },
+ "cronografo": {
+  "nombre": "Cronógrafo",
+  "resumen": "Marca tiempos con tinta."
+ },
+ "hora-ferroviaria": {
+  "nombre": "Hora unificada ferroviaria",
+  "resumen": "Great Western adopta la hora de Londres."
+ },
+ "reloj-electrico": {
+  "nombre": "Reloj eléctrico",
+  "resumen": "Péndulo impulsado por corriente."
+ },
+ "reloj-pulsera": {
+  "nombre": "Reloj de pulsera",
+  "resumen": "Santos de Cartier."
+ },
+ "reloj-automatico": {
+  "nombre": "Reloj de cuerda automática",
+  "resumen": "Masa oscilante."
+ },
+ "reloj-cuarzo-pulsera": {
+  "nombre": "Reloj de pulsera de cuarzo",
+  "resumen": "Seiko Astron."
+ },
+ "reloj-digital": {
+  "nombre": "Reloj digital",
+  "resumen": "Pulsar."
+ },
+ "segundo-atomico": {
+  "nombre": "Segundo atómico",
+  "resumen": "Definido por el cesio-133."
+ },
+ "tiempo-universal-coordinado": {
+  "nombre": "UTC",
+  "resumen": "Con segundos intercalares."
+ },
+ "reloj-optico": {
+  "nombre": "Reloj óptico",
+  "resumen": "Peine de frecuencias."
+ },
+ "codo-real": {
+  "nombre": "Codo real egipcio",
+  "resumen": "Patrón de longitud de 52,4 cm."
+ },
+ "romana": {
+  "nombre": "Balanza romana",
+  "resumen": "Brazo desigual con pilón."
+ },
+ "compas": {
+  "nombre": "Compás",
+  "resumen": "Traza círculos y traslada medidas."
+ },
+ "nivel-agua": {
+  "nombre": "Corobate",
+  "resumen": "Regla con canal de agua."
+ },
+ "esfera-armilar": {
+  "nombre": "Esfera armilar",
+  "resumen": "Anillos que representan el cielo."
+ },
+ "torquetum": {
+  "nombre": "Torquetum",
+  "resumen": "Convierte coordenadas."
+ },
+ "ballestilla": {
+  "nombre": "Ballestilla",
+  "resumen": "Vara con transversal."
+ },
+ "compas-proporcion": {
+  "nombre": "Compás de proporción",
+  "resumen": "Calculadora analógica."
+ },
+ "calibre": {
+  "nombre": "Calibre de nonio",
+  "resumen": "Pie de rey."
+ },
+ "nivel-burbuja": {
+  "nombre": "Nivel de burbuja",
+  "resumen": "Tubo con alcohol."
+ },
+ "barometro-aneroide": {
+  "nombre": "Barómetro aneroide",
+  "resumen": "Cápsula metálica."
+ },
+ "manometro-bourdon": {
+  "nombre": "Manómetro de Bourdon",
+  "resumen": "Tubo curvo."
+ },
+ "planimetro": {
+  "nombre": "Planímetro",
+  "resumen": "Mide áreas."
+ },
+ "bloques-patron": {
+  "nombre": "Bloques patrón",
+  "resumen": "Galgas Johansson."
+ },
+ "metro-patron": {
+  "nombre": "Metro y kilogramo internacionales",
+  "resumen": "Platino e iridio."
+ },
+ "interferometro": {
+  "nombre": "Interferómetro",
+  "resumen": "Mide en longitudes de onda."
+ },
+ "metro-luz": {
+  "nombre": "Metro definido por la luz",
+  "resumen": "Distancia recorrida en 1/299 792 458 s."
+ },
+ "sistema-internacional": {
+  "nombre": "Sistema Internacional de Unidades",
+  "resumen": "Siete unidades básicas."
+ },
+ "kilogramo-planck": {
+  "nombre": "Unidades definidas por constantes",
+  "resumen": "El kilogramo deja de ser un objeto."
+ },
+ "maquina-medir-coordenadas": {
+  "nombre": "Máquina de medir por coordenadas",
+  "resumen": "Ferranti."
+ },
+ "microscopio-fuerza-atomica": {
+  "nombre": "Microscopio de fuerza atómica",
+  "resumen": "Una punta que palpa átomos."
+ },
+ "termopar": {
+  "nombre": "Termopar",
+  "resumen": "Mide temperaturas altas."
+ },
+ "pirometro": {
+  "nombre": "Pirómetro",
+  "resumen": "Conos de arcilla."
+ },
+ "calorimetro": {
+  "nombre": "Calorímetro de hielo",
+  "resumen": "Mide calor."
+ },
+ "espectroscopio": {
+  "nombre": "Espectroscopio de prisma",
+  "resumen": "Colimador, prisma y anteojo."
+ },
+ "refractometro": {
+  "nombre": "Refractómetro",
+  "resumen": "Índice de refracción."
+ },
+ "ph-metro": {
+  "nombre": "Medidor de pH",
+  "resumen": "Electrodo de vidrio."
+ },
+ "detector-centelleo": {
+  "nombre": "Contador de centelleo",
+  "resumen": "Fotomultiplicador."
+ }
+}

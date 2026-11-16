@@ -1,0 +1,454 @@
+{
+ "momificacion": {
+  "nombre": "Momificación con evisceración",
+  "resumen": "Conocimiento práctico de los órganos."
+ },
+ "diseccion-alejandria": {
+  "nombre": "Disección humana en Alejandría",
+  "resumen": "Nervios, cerebro y válvulas del corazón."
+ },
+ "pulso": {
+  "nombre": "Medida del pulso",
+  "resumen": "Pulso cronometrado con clepsidra."
+ },
+ "anatomia-leonardo": {
+  "nombre": "Dibujos anatómicos de Leonardo",
+  "resumen": "Cortes y vistas explosionadas, inéditos durante siglos."
+ },
+ "valvulas-venosas": {
+  "nombre": "Válvulas de las venas",
+  "resumen": "Impiden el retroceso de la sangre."
+ },
+ "vasos-quiliferos": {
+  "nombre": "Vasos linfáticos",
+  "resumen": "Quilíferos del intestino."
+ },
+ "capilares": {
+  "nombre": "Capilares",
+  "resumen": "Cierran el circuito de Harvey."
+ },
+ "globulos-rojos": {
+  "nombre": "Glóbulos rojos",
+  "resumen": "Vistos en sangre de rana."
+ },
+ "presion-arterial": {
+  "nombre": "Presión arterial",
+  "resumen": "Tubo de vidrio en la arteria de un caballo."
+ },
+ "digestion-quimica": {
+  "nombre": "Digestión química",
+  "resumen": "El jugo gástrico disuelve la carne."
+ },
+ "respiracion-combustion": {
+  "nombre": "La respiración es una combustión",
+  "resumen": "Cobayas en el calorímetro."
+ },
+ "electricidad-nerviosa": {
+  "nombre": "Corrientes nerviosas",
+  "resumen": "Potencial de acción medido."
+ },
+ "velocidad-nerviosa": {
+  "nombre": "Velocidad del impulso nervioso",
+  "resumen": "Unos 30 m/s en la rana."
+ },
+ "glucogeno": {
+  "nombre": "Función glucogénica del hígado",
+  "resumen": "Medio interno."
+ },
+ "medicina-experimental": {
+  "nombre": "Medicina experimental",
+  "resumen": "Método de la fisiología."
+ },
+ "localizacion-cerebral": {
+  "nombre": "Área del lenguaje",
+  "resumen": "Lesión frontal izquierda y afasia."
+ },
+ "sinapsis": {
+  "nombre": "Sinapsis",
+  "resumen": "Unión entre neuronas."
+ },
+ "neurotransmisores": {
+  "nombre": "Transmisión química nerviosa",
+  "resumen": "Acetilcolina en el corazón de rana."
+ },
+ "homeostasis": {
+  "nombre": "Homeostasis",
+  "resumen": "Regulación del medio interno."
+ },
+ "uroscopia": {
+  "nombre": "Examen de la orina",
+  "resumen": "Color, olor y sedimento."
+ },
+ "percusion": {
+  "nombre": "Percusión del tórax",
+  "resumen": "Golpear y escuchar."
+ },
+ "anatomia-patologica": {
+  "nombre": "Anatomía patológica",
+  "resumen": "La enfermedad tiene sede en los órganos."
+ },
+ "histologia": {
+  "nombre": "Tejidos",
+  "resumen": "Veintiún tejidos sin microscopio."
+ },
+ "laringoscopio": {
+  "nombre": "Laringoscopio",
+  "resumen": "Espejos para ver las cuerdas vocales."
+ },
+ "hemograma": {
+  "nombre": "Recuento de células sanguíneas",
+  "resumen": "Cámara de recuento."
+ },
+ "termometria-clinica": {
+  "nombre": "Curvas de temperatura",
+  "resumen": "Un millón de mediciones."
+ },
+ "bisturi-electrico": {
+  "nombre": "Bisturí eléctrico",
+  "resumen": "Corta y coagula."
+ },
+ "fluoroscopia": {
+  "nombre": "Fluoroscopia",
+  "resumen": "Imagen en movimiento."
+ },
+ "contraste-bario": {
+  "nombre": "Contrastes radiológicos",
+  "resumen": "Tubo digestivo visible."
+ },
+ "cateterismo": {
+  "nombre": "Cateterismo cardíaco",
+  "resumen": "Un catéter hasta su propio corazón."
+ },
+ "citologia-papanicolau": {
+  "nombre": "Citología vaginal",
+  "resumen": "Detección precoz del cáncer."
+ },
+ "mamografia": {
+  "nombre": "Mamografía",
+  "resumen": "Radiografía de mama."
+ },
+ "gammagrafia": {
+  "nombre": "Gammagrafía",
+  "resumen": "Imagen con radioisótopos."
+ },
+ "analizador-automatico": {
+  "nombre": "Autoanalizador",
+  "resumen": "Análisis de sangre en serie."
+ },
+ "elisa": {
+  "nombre": "ELISA",
+  "resumen": "Enzimas que revelan anticuerpos."
+ },
+ "anticuerpos": {
+  "nombre": "Anticuerpos",
+  "resumen": "Sustancias específicas del suero."
+ },
+ "radioinmunoensayo": {
+  "nombre": "Radioinmunoensayo",
+  "resumen": "Mide hormonas en picogramos."
+ },
+ "pulsioximetro": {
+  "nombre": "Pulsioxímetro",
+  "resumen": "Oxígeno en sangre con luz."
+ },
+ "glucometro": {
+  "nombre": "Glucómetro",
+  "resumen": "Glucosa en una gota."
+ },
+ "test-embarazo": {
+  "nombre": "Test de embarazo doméstico",
+  "resumen": "Detecta hCG."
+ },
+ "ensayo-hcg": {
+  "nombre": "Gonadotropina coriónica medible",
+  "resumen": "Ensayo específico."
+ },
+ "resonancia-funcional": {
+  "nombre": "Resonancia funcional",
+  "resumen": "Actividad cerebral por oxigenación."
+ },
+ "pcr-diagnostica": {
+  "nombre": "Diagnóstico por PCR",
+  "resumen": "Detección de virus por su genoma."
+ },
+ "secuenciacion-clinica": {
+  "nombre": "Exoma clínico",
+  "resumen": "Diagnóstico de enfermedades raras."
+ },
+ "banos-publicos": {
+  "nombre": "Baños y letrinas urbanas",
+  "resumen": "Mohenjo-Daro."
+ },
+ "termas": {
+  "nombre": "Termas",
+  "resumen": "Higiene pública romana."
+ },
+ "lazareto": {
+  "nombre": "Lazareto",
+  "resumen": "Venecia."
+ },
+ "registro-defunciones": {
+  "nombre": "Boletines de mortalidad",
+  "resumen": "Londres."
+ },
+ "inoculacion-europa": {
+  "nombre": "Variolización en Europa",
+  "resumen": "Traída de Constantinopla."
+ },
+ "expedicion-balmis": {
+  "nombre": "Expedición de la Vacuna",
+  "resumen": "Campaña mundial de vacunación."
+ },
+ "informe-chadwick": {
+  "nombre": "Reforma sanitaria",
+  "resumen": "Alcantarillado y agua limpia."
+ },
+ "alcantarillado-londres": {
+  "nombre": "Alcantarillado moderno",
+  "resumen": "1800 km de colectores."
+ },
+ "cruz-roja": {
+  "nombre": "Cruz Roja",
+  "resumen": "Socorro neutral."
+ },
+ "pasteurizacion-leche": {
+  "nombre": "Pasteurización de la leche",
+  "resumen": "Reduce la mortalidad infantil."
+ },
+ "fluoracion": {
+  "nombre": "Fluoración del agua",
+  "resumen": "Grand Rapids."
+ },
+ "oms": {
+  "nombre": "Organización Mundial de la Salud",
+  "resumen": "Agencia sanitaria de la ONU."
+ },
+ "tabaco-cancer": {
+  "nombre": "Tabaco y cáncer de pulmón",
+  "resumen": "Estudio de casos y controles."
+ },
+ "rehidratacion-oral": {
+  "nombre": "Rehidratación oral",
+  "resumen": "Sal y glucosa contra el cólera."
+ },
+ "sistema-nacional-salud": {
+  "nombre": "Sanidad pública universal",
+  "resumen": "NHS británico."
+ },
+ "erradicacion-peste-bovina": {
+  "nombre": "Erradicación de la peste bovina",
+  "resumen": "Segunda enfermedad eliminada."
+ },
+ "empaste-cera": {
+  "nombre": "Empaste dental de cera",
+  "resumen": "Diente de Lonche (Eslovenia)."
+ },
+ "puente-dental": {
+  "nombre": "Puentes dentales",
+  "resumen": "Etruscos."
+ },
+ "dentadura-porcelana": {
+  "nombre": "Dientes de porcelana",
+  "resumen": "Prótesis duraderas."
+ },
+ "amalgama-dental": {
+  "nombre": "Amalgama dental",
+  "resumen": "Plata y mercurio."
+ },
+ "torno-dental": {
+  "nombre": "Torno dental de pedal",
+  "resumen": "2000 rpm."
+ },
+ "anestesia-dental": {
+  "nombre": "Óxido nitroso en odontología",
+  "resumen": "Extracción sin dolor."
+ },
+ "ortodoncia": {
+  "nombre": "Odontología científica",
+  "resumen": "Le chirurgien dentiste."
+ },
+ "cepillo-dientes": {
+  "nombre": "Cepillo de dientes de cerdas",
+  "resumen": "China."
+ },
+ "pasta-fluor": {
+  "nombre": "Dentífrico con flúor",
+  "resumen": "Crest."
+ },
+ "implante-dental": {
+  "nombre": "Implante de titanio",
+  "resumen": "Oseointegración."
+ },
+ "lentes-bifocales": {
+  "nombre": "Lentes bifocales",
+  "resumen": "Dos graduaciones."
+ },
+ "astigmatismo": {
+  "nombre": "Corrección del astigmatismo",
+  "resumen": "Lentes cilíndricas."
+ },
+ "lentes-blandas": {
+  "nombre": "Lentes de contacto blandas",
+  "resumen": "Hidrogel."
+ },
+ "catarata-extraccion": {
+  "nombre": "Extracción de la catarata",
+  "resumen": "En lugar de abatirla."
+ },
+ "lente-intraocular": {
+  "nombre": "Lente intraocular",
+  "resumen": "Sustituye al cristalino."
+ },
+ "lasik": {
+  "nombre": "Cirugía refractiva con láser",
+  "resumen": "Excímero sobre la córnea."
+ },
+ "audifono": {
+  "nombre": "Audífono eléctrico",
+  "resumen": "Akouphone."
+ },
+ "implante-coclear": {
+  "nombre": "Implante coclear",
+  "resumen": "Estimula el nervio auditivo."
+ },
+ "mano-protesica": {
+  "nombre": "Mano de hierro articulada",
+  "resumen": "Götz von Berlichingen."
+ },
+ "protesis-mioelectrica": {
+  "nombre": "Prótesis mioeléctrica",
+  "resumen": "Controlada por señales musculares."
+ },
+ "silla-ruedas": {
+  "nombre": "Silla de ruedas",
+  "resumen": "Para Felipe II."
+ },
+ "incubadora": {
+  "nombre": "Incubadora neonatal",
+  "resumen": "Calor controlado."
+ },
+ "pulmon-acero": {
+  "nombre": "Pulmón de acero",
+  "resumen": "Respiración por presión negativa."
+ },
+ "respirador": {
+  "nombre": "Ventilación con presión positiva",
+  "resumen": "Copenhague, epidemia de polio."
+ },
+ "uci": {
+  "nombre": "Unidad de cuidados intensivos",
+  "resumen": "Vigilancia continua."
+ },
+ "rcp": {
+  "nombre": "Reanimación cardiopulmonar",
+  "resumen": "Masaje externo y boca a boca."
+ },
+ "bypass-coronario": {
+  "nombre": "Bypass coronario",
+  "resumen": "Vena safena."
+ },
+ "valvula-cardiaca": {
+  "nombre": "Válvula cardíaca artificial",
+  "resumen": "De bola."
+ },
+ "stent": {
+  "nombre": "Stent coronario",
+  "resumen": "Malla que mantiene abierta la arteria."
+ },
+ "corazon-artificial": {
+  "nombre": "Corazón artificial",
+  "resumen": "Jarvik-7."
+ },
+ "trasplante-higado": {
+  "nombre": "Trasplante de hígado",
+  "resumen": "Supervivencia larga desde 1967."
+ },
+ "trasplante-medula": {
+  "nombre": "Trasplante de médula ósea",
+  "resumen": "Entre gemelos."
+ },
+ "hla": {
+  "nombre": "Antígenos de histocompatibilidad",
+  "resumen": "Compatibilidad de tejidos."
+ },
+ "gabinete-curiosidades": {
+  "nombre": "Gabinetes de historia natural",
+  "resumen": "Colecciones que anteceden al museo."
+ },
+ "nomenclatura-binomial": {
+  "nombre": "Nomenclatura binomial",
+  "resumen": "Species Plantarum."
+ },
+ "historia-natural-buffon": {
+  "nombre": "Historia natural de Buffon",
+  "resumen": "La Tierra y la vida tienen historia."
+ },
+ "anatomia-comparada": {
+  "nombre": "Anatomía comparada",
+  "resumen": "Correlación de las partes."
+ },
+ "biogeografia": {
+  "nombre": "Geografía de las plantas",
+  "resumen": "Vegetación según altitud y clima."
+ },
+ "ley-poblacion": {
+  "nombre": "Ensayo sobre la población",
+  "resumen": "Crecimiento geométrico frente a recursos."
+ },
+ "linea-wallace": {
+  "nombre": "Línea de Wallace",
+  "resumen": "Frontera faunística en Indonesia."
+ },
+ "origen-hombre": {
+  "nombre": "El origen del hombre",
+  "resumen": "Selección sexual y ascendencia africana."
+ },
+ "homo-erectus": {
+  "nombre": "Hombre de Java",
+  "resumen": "Pithecanthropus erectus."
+ },
+ "nino-taung": {
+  "nombre": "Australopithecus africanus",
+  "resumen": "El niño de Taung."
+ },
+ "altamira": {
+  "nombre": "Pinturas de Altamira",
+  "resumen": "Arte paleolítico."
+ },
+ "garganta-olduvai": {
+  "nombre": "Homínidos de Olduvai",
+  "resumen": "Zinjanthropus y Homo habilis."
+ },
+ "atapuerca": {
+  "nombre": "Homo antecessor",
+  "resumen": "Gran Dolina."
+ },
+ "celacanto": {
+  "nombre": "Celacanto vivo",
+  "resumen": "Un «fósil viviente»."
+ },
+ "burgess-shale": {
+  "nombre": "Fauna de Burgess Shale",
+  "resumen": "Explosión cámbrica."
+ },
+ "equilibrio-puntuado": {
+  "nombre": "Equilibrio puntuado",
+  "resumen": "Cambios rápidos y largas estasis."
+ },
+ "gen-egoista": {
+  "nombre": "Selección a nivel del gen",
+  "resumen": "El gen egoísta."
+ },
+ "reloj-molecular": {
+  "nombre": "Reloj molecular",
+  "resumen": "Las diferencias de secuencia miden el tiempo."
+ },
+ "tiktaalik": {
+  "nombre": "Tiktaalik",
+  "resumen": "Pez con muñecas."
+ },
+ "denisovanos": {
+  "nombre": "Denisovanos",
+  "resumen": "Grupo humano conocido por su genoma."
+ }
+}

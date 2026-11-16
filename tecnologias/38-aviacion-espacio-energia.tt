@@ -1,0 +1,143 @@
+@ transporte | Transporte | #6fb58e
+@@ aviacion | Aviación
+tornillo-aereo | ~1493 | C | Tornillo aéreo y ornitóptero | maquinas-leonardo | Estudios de vuelo de Leonardo. | Leonardo da Vinci
+bambu-libelula | ~-400 | I | Juguete de hélice | arco, cuerda | Rotor que asciende al girarlo; China. |
+vuelo-ibn-firnas | ~875 | D | Intento de planeo de Ibn Firnás | seda | Córdoba. | Abbás Ibn Firnás
+globo-gas-alumbrado | 1821 | T | Globos de gas de alumbrado | gas-alumbrado, globo-hidrogeno | Más barato que el hidrógeno. | Charles Green
+planeador-cayley-nino | 1849 | I | Planeador tripulado de Cayley | aeroplano-cayley | Un niño se eleva unos metros. | George Cayley
+sustentacion-perfil | 1884 | D | Perfil alar curvado | tunel-viento | Patente de perfiles con curvatura. | Horatio Phillips
+motor-langley | 1896 | I | Aeródromo de Langley | vapor-alta-presion | Modelo a vapor que vuela un kilómetro. | Samuel Langley
+alabeo | 1899 | T | Control por torsión del ala | planeador | Clave del vuelo controlado. | Orville y Wilbur Wright
+helice-aerea | 1903 | H | Hélice aérea eficiente | tunel-viento, alabeo | Tratada como un ala giratoria. | Orville y Wilbur Wright
+santos-dumont | 1906-10 | D | Primer vuelo público en Europa | avion | 14-bis. | Alberto Santos-Dumont
+monoplano | 1907 | I | Monoplano de tractor | avion | Configuración moderna. | Louis Blériot
+fuselaje-monocasco | 1912 | H | Fuselaje monocasco | avion | Deperdussin. |
+tren-retractil | 1933 | H | Tren de aterrizaje retráctil | avion-metalico | Boeing 247. |
+flaps | 1920 | H | Flaps y ranuras | capa-limite | Más sustentación a baja velocidad. | Handley Page
+sobrealimentador | 1918 | H | Sobrealimentador de motor de aviación | turbocompresor | Potencia en altura. | Sanford Moss
+gasolina-100-octanos | 1935 | M | Gasolina de 100 octanos | craqueo-termico, octanaje | Alquilación. |
+radioayuda | 1929 | S | Radiofaros de navegación | radio-voz | Radiorrango de cuatro cursos. |
+ils | 1938 | S | Aterrizaje por instrumentos | radioayuda | Dos haces de radio guían el descenso en rumbo y pendiente.
+torre-control | 1930 | S | Control del tráfico aéreo | radio-voz | Cleveland. |
+radar-control-aereo | 1946 | S | Radar de control aéreo | radar | Aproximación controlada desde tierra. |
+vor | 1946 | S | VOR | radioayuda | Radiales omnidireccionales. |
+caja-negra | 1958 | I | Registrador de vuelo | magnetofono | Voces y datos. | David Warren
+navegacion-inercial | 1953 | I | Navegación inercial | giroscopo, servomecanismos | Vuelo transcontinental sin referencias. | Charles Draper
+spitfire-merlin | 1936 | I | Caza monoplano de altas prestaciones | avion-metalico, sobrealimentador | Spitfire y Bf 109. |
+b-29 | 1944 | I | Bombardero presurizado | cabina-presurizada, sobrealimentador | B-29 Superfortress: cabina presurizada y torretas a control remoto.
+me-262 | 1944 | I | Caza a reacción operativo | primer-reactor | Me 262. |
+motor-reaccion-axial | 1940 | H | Compresor axial | turborreactor | Jumo 004. | Anselm Franz
+regla-area | 1952 | C | Regla del área | vuelo-supersonico | Fuselaje en «botella de Coca-Cola». | Richard Whitcomb
+ala-delta | 1951 | H | Ala en delta | ala-flecha | Convair XF-92. | Alexander Lippisch
+x-15 | 1959 | I | Avión cohete hipersónico | vuelo-supersonico | X-15: Mach 6,7. |
+sr-71 | 1964 | I | Avión de Mach 3 | titanio-industrial, postcombustion | SR-71. | Kelly Johnson
+caravelle | 1959 | I | Reactor de corto radio | reactor-comercial | Motores en la cola. |
+boeing-737 | 1968 | I | Reactor de pasillo único | turbofan | El avión comercial más vendido. |
+airbus-a300 | 1974 | I | Bimotor de fuselaje ancho | turbofan-alto-indice | Airbus A300: primer bimotor de dos pasillos.
+winglets | 1976 | H | Aletas de punta de ala | regla-area | Reducen la resistencia inducida. | Richard Whitcomb
+cabina-cristal | 1982 | H | Cabina de pantallas | tubo-rayos-catodicos, microprocesador | Boeing 767. |
+etops | 1985 | S | Vuelos bimotores transoceánicos | turbofan-alto-indice | ETOPS. |
+a380 | 2007-10 | I | Avión de dos pisos | a320 | Airbus A380. |
+ala-rotatoria-chinook | 1957 | I | Helicóptero de turbina | helicoptero, turbina-gas | Motores turboeje. |
+convertiplano | 1989 | I | Convertiplano | despegue-vertical | V-22 Osprey: rotores basculantes para despegar como helicóptero y volar como avión.
+avion-solar | 1981 | I | Avión solar | celula-silicio | Solar Challenger. | Paul MacCready
+vuelo-humano | 1977 | D | Vuelo de propulsión humana | fibra-carbono | Gossamer Condor. | Paul MacCready
+vuelta-mundo-sin-escalas | 1986-12 | D | Vuelta al mundo sin repostar | fibra-carbono | Voyager. | Dick Rutan, Jeana Yeager
+@@ espacio | Astronáutica
+cohete-kibalchich | 1881 | C | Proyecto de nave a reacción | cohete-polvora | Esbozado en prisión. | Nikolái Kibálchich
+tobera-laval-cohete | 1914 | H | Tobera de Laval en cohetes | turbina-laval, cohete-polvora | Patentes de Goddard. | Robert Goddard
+libro-oberth | 1923 | C | El cohete hacia el espacio interplanetario | ecuacion-cohete | Inspira a los pioneros alemanes. | Hermann Oberth
+giroestabilizacion | 1932 | T | Cohete guiado por giróscopos | motor-cohete-liquido, giroscopo | Goddard. | Robert Goddard
+turbobomba | 1939 | H | Turbobomba | motor-cohete-liquido, turbina-vapor | Alimenta la cámara a alta presión. |
+refrigeracion-regenerativa | 1933 | T | Refrigeración regenerativa | motor-cohete-liquido | El combustible enfría la tobera. |
+jato | 1941 | I | Cohetes de combustible sólido compuesto | cohete-polvora, asfalto | Cohetes de asfalto y perclorato para ayudar al despegue de aviones. | Jack Parsons
+wac-corporal | 1945 | I | Cohete sonda | jato | 70 km de altitud. |
+foto-tierra-espacio | 1946-10 | D | Primera foto de la Tierra desde el espacio | v2, pelicula-rollo | V-2 en White Sands. |
+bumper | 1949 | D | Cohete de dos etapas | v2, wac-corporal | 393 km. |
+redstone | 1953 | I | Misil Redstone | v2 | Lanzador del primer astronauta estadounidense. |
+vanguard | 1958-03 | I | Satélite con células solares | celula-silicio, sputnik | Vanguard 1, aún en órbita. |
+nasa | 1958-10 | S | NASA | sputnik | Agencia espacial civil. |
+corona-recuperacion | 1960-08 | D | Recuperación de una cápsula desde órbita | sputnik | Discoverer 13. |
+ham | 1961-01 | D | Chimpancé en vuelo suborbital | redstone | El chimpancé Ham acciona palancas durante un vuelo suborbital y regresa ileso.
+shepard | 1961-05 | D | Primer estadounidense en el espacio | redstone | Mercury-Redstone 3. | Alan Shepard
+glenn | 1962-02 | D | Órbita tripulada estadounidense | r7-atlas | Friendship 7. | John Glenn
+r7-atlas | 1957-12 | I | Misil Atlas | v2 | Tanques-globo presurizados. |
+vosjod | 1964-10 | D | Nave de varios tripulantes | vuelo-tripulado | Vosjod 1. |
+gemini | 1965-03 | I | Nave Gemini | glenn, pila-combustible | Maniobras orbitales. |
+soyuz | 1967-04 | I | Nave Soyuz | vosjod | En servicio desde entonces. |
+cohete-proton | 1965 | I | Cohete Protón | r7 | Lanzador pesado soviético. |
+modulo-lunar | 1969-03 | I | Módulo lunar | saturno-v, computador-apolo | Probado en el Apolo 9. |
+traje-espacial | 1965 | I | Traje para actividad extravehicular | paseo-espacial, nailon | Sistema vital autónomo. |
+rover-lunar | 1971-07 | I | Vehículo lunar tripulado | alunizaje, bateria-plata-zinc | Apolo 15. |
+bateria-plata-zinc | 1941 | I | Batería de plata-zinc | acumulador-plomo | Alta densidad de energía. | Henri André
+apolo-soyuz | 1975-07 | D | Acoplamiento internacional | soyuz | Apolo-Soyuz. |
+helios | 1976 | D | Sonda solar | mariner-2 | Helios 2. |
+venera-13 | 1982-03 | D | Imágenes en color de Venus | venera-7 | Venera 13. |
+vega-globos | 1985 | D | Globos en otra atmósfera | venera-13 | Sondas Vega. |
+challenger-accidente | 1986-01 | D | Accidente del Challenger | transbordador | Fallo de una junta tórica. |
+buran | 1988-11 | I | Transbordador Burán | transbordador | Vuelo automático. |
+magallanes | 1990 | D | Cartografía radar de Venus | radar, mariner-9 | Sonda Magallanes. |
+soho | 1995-12 | I | Observatorio solar SOHO | helios | Punto de Lagrange L1. |
+mars-global-surveyor | 1997 | D | Cartografía global de Marte | mariner-9 | Altimetría láser. |
+iss-ocupacion | 2000-11 | S | Ocupación permanente del espacio | estacion-internacional | Expedición 1. |
+propulsion-ionica | 1998 | I | Propulsión iónica interplanetaria | elemento-neon-kripton-xenon | Deep Space 1. |
+vela-solar | 2010 | I | Vela solar | fibra-carbono | IKAROS. |
+hayabusa | 2010-06 | D | Muestras de un asteroide | propulsion-ionica | Hayabusa. |
+shenzhou | 2003-10 | D | Vuelo tripulado chino | soyuz | Shenzhou 5. | Yang Liwei
+chandrayaan | 2008 | D | Agua en la Luna | luna-9 | Chandrayaan-1. |
+change-4 | 2019-01 | D | Alunizaje en la cara oculta | luna-3 | Chang'e 4. |
+falcon-heavy | 2018-02 | I | Lanzador pesado reutilizable | cohete-reutilizable | Falcon Heavy. |
+dart | 2022-09 | D | Desvío de un asteroide | propulsion-ionica | Misión DART. |
+artemis-1 | 2022-11 | D | Vuelo lunar del SLS | saturno-v | Artemis I. |
+@ energia | Energía y máquinas | #d1663f
+@@ combustibles | Combustibles
+lena | ~-400000 | M | Leña | hogar | Combustible universal hasta el siglo XIX. |
+turba | ~-500 | M | Turba | hogar | Combustible de las tierras bajas. |
+aceite-ballena | ~1000 | M | Aceite de ballena | arpon-hueso, hierro-colado | Alumbrado hasta el queroseno. |
+carbon-domestico | ~1250 | S | Carbón mineral doméstico | mineria-carbon, chimenea | Newcastle abastece Londres. |
+destilacion-petroleo-persa | ~900 | T | Destilación de nafta | alambique | Queroseno de al-Razi. | al-Razi
+pozos-baku | ~1594 | S | Pozos de petróleo excavados | mineria-hierro-herramientas | Pozos de 35 m excavados a mano en la península de Absherón.
+lampara-queroseno | 1853 | I | Lámpara de queroseno | queroseno, lampara-argand | Leópolis. | Ignacy Łukasiewicz
+oleoducto | 1865 | S | Oleoducto | pozo-petroleo, laminador | Pithole. | Samuel Van Syckel
+perforacion-rotatoria | 1901 | T | Perforación rotatoria | pozo-petroleo | Spindletop. |
+trepano-triconos | 1909 | H | Trépano de conos | perforacion-rotatoria | Perfora roca dura. | Howard Hughes Sr.
+sismica-reflexion | 1921 | T | Prospección sísmica | sismografo, dinamita | Estructuras del subsuelo. |
+plataforma-marina | 1947 | S | Plataforma petrolífera en mar abierto | perforacion-rotatoria | Golfo de México. |
+gasoducto | 1891 | S | Gasoducto de larga distancia | pozo-petroleo | Indiana-Chicago. |
+gas-licuado | 1912 | M | Gases licuados del petróleo | pozo-petroleo, licuefaccion-aire | Butano y propano. | Walter Snelling
+gnl | 1941 | T | Licuefacción de gas natural | licuefaccion-aire | Planta de Cleveland. |
+fracturacion-hidraulica | 1949 | T | Fracturación hidráulica | perforacion-rotatoria | Estimula el pozo. |
+perforacion-horizontal | 1990 | T | Perforación horizontal con fracturación | fracturacion-hidraulica | Gas de esquisto. | George Mitchell
+hidrocraqueo | 1959 | T | Hidrocraqueo | craqueo-catalitico, hidrogeno | Gasóleos limpios. |
+craqueo-lecho-fluido | 1942 | T | Craqueo en lecho fluidizado | craqueo-catalitico | Catalizador en polvo circulante. |
+gasificacion-carbon | 1926 | T | Gasificador Winkler | gas-agua | Lecho fluidizado. | Fritz Winkler
+carbon-pulverizado | 1918 | T | Carbón pulverizado | turbina-vapor | Calderas de central. |
+@@ vapor | Vapor
+caldera-cornish | 1812 | H | Caldera de Cornualles | vapor-alta-presion | Tubo de humo interior. | Richard Trevithick
+caldera-lancashire | 1844 | H | Caldera Lancashire | caldera-cornish | Dos hogares. | William Fairbairn
+caldera-acuotubular | 1867 | H | Caldera acuotubular | caldera-multitubular | Babcock & Wilcox. |
+inyector | 1858 | H | Inyector de vapor | vapor-alta-presion | Alimenta la caldera sin bomba. | Henri Giffard
+valvula-seguridad | 1681 | H | Válvula de seguridad | digestor-papin | Contrapeso. | Denis Papin
+ciclo-rankine | 1859 | C | Ciclo de Rankine | ciclo-carnot | Teoría de la máquina de vapor. | William Rankine
+turbina-curtis | 1896 | H | Turbina de escalones de velocidad | turbina-laval | Compacta. | Charles Curtis
+condensador-superficie | 1834 | H | Condensador de superficie | condensador-watt | Agua dulce en circuito cerrado. | Samuel Hall
+vapor-supercritico | 1957 | S | Central supercrítica | turbina-vapor, acero-aleado | Philo 6. |
+ciclo-combinado | 1961 | S | Ciclo combinado | turbina-gas, turbina-vapor | Gas y vapor en serie. |
+cogeneracion | 1882 | S | Cogeneración | central-electrica | El calor residual calienta edificios. |
+@@ renovables | Fotovoltaica y almacenamiento
+horno-solar | 1774 | H | Horno solar | espejo | Lentes que funden metales. | Antoine Lavoisier
+colector-solar | 1767 | H | Caja caliente solar | vidrio-ventana | 110 °C. | Horace de Saussure
+motor-solar | 1878 | I | Motor solar | colector-solar, vapor-alta-presion | Exposición de París. | Augustin Mouchot
+central-solar-maadi | 1913 | S | Central solar de bombeo | motor-solar | Maadi (Egipto). | Frank Shuman
+calentador-solar | 1891 | I | Calentador solar de agua | colector-solar | Climax. | Clarence Kemp
+celula-pasivada | 1985 | I | Célula solar del 20 % | celula-silicio | Célula PERC: la cara posterior pasivada refleja la luz y reduce pérdidas. | Martin Green
+silicio-policristalino-solar | 1976 | M | Silicio policristalino solar | celula-silicio | Lingotes fundidos. |
+capa-fina | 1976 | I | Célula de capa fina | celula-silicio | Silicio amorfo. | David Carlson
+inversor | 1990 | H | Inversor fotovoltaico conectado a red | igbt | Programa de mil tejados. |
+bateria-niquel-hidruro | 1989 | I | Batería de níquel-hidruro metálico | bateria-niquel-cadmio | Sin cadmio. |
+catodo-litio-cobalto | 1980 | D | Cátodo de óxido de litio y cobalto | litio-industrial | Cuatro voltios. | John Goodenough
+anodo-grafito | 1985 | D | Ánodo de carbono para litio | catodo-litio-cobalto | Prototipo seguro. | Akira Yoshino
+litio-ferrofosfato | 1996 | M | Cátodo de ferrofosfato | catodo-litio-cobalto | Estable y barato. | John Goodenough
+bateria-red | 2017 | S | Batería a escala de red | bateria-litio | Hornsdale (Australia). |
+electrolizador-pem | 1966 | I | Electrolizador de membrana | pila-combustible, teflon | Membrana de polímero. |
+bomba-calor | 1856 | I | Bomba de calor | refrigeracion-compresion | Calefacción con ciclo frigorífico. | Peter von Rittinger

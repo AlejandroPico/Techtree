@@ -1,0 +1,434 @@
+{
+ "tablas-multiplicar": {
+  "nombre": "Tablas de multiplicar",
+  "resumen": "Tablillas escolares de Shuruppak con productos y áreas."
+ },
+ "raiz-dos-babilonia": {
+  "nombre": "Aproximación de la raíz de dos",
+  "resumen": "La tablilla YBC 7289 la da con seis cifras decimales correctas."
+ },
+ "varillas-calculo": {
+  "nombre": "Varillas de cálculo",
+  "resumen": "Palillos sobre un tablero con notación decimal posicional; China."
+ },
+ "cero-marcador": {
+  "nombre": "Signo de posición vacía",
+  "resumen": "Los escribas seléucidas marcan con dos cuñas la posición sin valor."
+ },
+ "algoritmo-euclides": {
+  "nombre": "Algoritmo de Euclides",
+  "resumen": "Máximo común divisor por restas sucesivas; también la infinitud de los primos."
+ },
+ "criba-eratostenes": {
+  "nombre": "Criba de Eratóstenes",
+  "resumen": "Tachar múltiplos para quedarse con los números primos."
+ },
+ "numeros-negativos": {
+  "nombre": "Números negativos",
+  "resumen": "Varillas rojas y negras para haberes y deudas en los Nueve capítulos."
+ },
+ "nueve-capitulos": {
+  "nombre": "Los nueve capítulos del arte matemático",
+  "resumen": "Sistemas lineales resueltos por eliminación, casi dos mil años antes de Gauss."
+ },
+ "cero-maya": {
+  "nombre": "Cero mesoamericano",
+  "resumen": "Signo de cero en la cuenta larga; invención independiente."
+ },
+ "resto-chino": {
+  "nombre": "Teorema chino del resto",
+  "resumen": "Hallar un número conocidos sus restos al dividirlo por varios."
+ },
+ "aritmetica-indoarabiga": {
+  "nombre": "Aritmética con cifras hindúes",
+  "resumen": "El tratado que da nombre a la palabra «algoritmo»."
+ },
+ "numeros-amigos": {
+  "nombre": "Regla de los números amigos",
+  "resumen": "Fórmula que genera pares de números amigos."
+ },
+ "cero-gwalior": {
+  "nombre": "Inscripción del cero de Gwalior",
+  "resumen": "El cero escrito como un pequeño círculo en un templo de la India."
+ },
+ "fracciones-decimales-arabes": {
+  "nombre": "Fracciones decimales",
+  "resumen": "Primer uso conocido de la coma decimal."
+ },
+ "induccion-matematica": {
+  "nombre": "Razonamiento por inducción",
+  "resumen": "Demostrar para un caso y pasar de cada número al siguiente."
+ },
+ "triangulo-aritmetico": {
+  "nombre": "Triángulo aritmético",
+  "resumen": "Coeficientes binomiales; Jia Xian, al-Karaji, Jayam y, siglos después, Pascal."
+ },
+ "sucesion-fibonacci": {
+  "nombre": "Sucesión de Fibonacci",
+  "resumen": "Cada término es la suma de los dos anteriores."
+ },
+ "pi-al-kashi": {
+  "nombre": "Pi con dieciséis decimales",
+  "resumen": "Calculado con polígonos de 805 millones de lados en Samarcanda."
+ },
+ "signos-mas-menos": {
+  "nombre": "Signos + y −",
+  "resumen": "Primera aparición impresa."
+ },
+ "partida-doble": {
+  "nombre": "Contabilidad por partida doble",
+  "resumen": "Cada operación se anota en el debe y en el haber."
+ },
+ "signo-igual": {
+  "nombre": "Signo =",
+  "resumen": "«Nada puede ser más igual que dos rectas paralelas»."
+ },
+ "pequeno-teorema-fermat": {
+  "nombre": "Pequeño teorema de Fermat",
+  "resumen": "Base de los tests de primalidad y de RSA."
+ },
+ "disquisitiones": {
+  "nombre": "Disquisitiones Arithmeticae",
+  "resumen": "Congruencias y reciprocidad cuadrática: la teoría de números moderna."
+ },
+ "numeros-trascendentes": {
+  "nombre": "Números trascendentes",
+  "resumen": "Números que no son raíz de ningún polinomio."
+ },
+ "hipotesis-riemann": {
+  "nombre": "Hipótesis de Riemann",
+  "resumen": "Conjetura sobre los ceros de la función zeta; sigue abierta."
+ },
+ "numeros-reales": {
+  "nombre": "Construcción de los números reales",
+  "resumen": "Cortaduras de Dedekind y sucesiones de Cantor."
+ },
+ "pi-trascendente": {
+  "nombre": "Trascendencia de pi",
+  "resumen": "La cuadratura del círculo es imposible."
+ },
+ "axiomas-peano": {
+  "nombre": "Axiomas de Peano",
+  "resumen": "Los naturales a partir de cinco axiomas."
+ },
+ "teorema-numeros-primos": {
+  "nombre": "Teorema de los números primos",
+  "resumen": "Los primos escasean como 1/ln n."
+ },
+ "ultimo-teorema-fermat": {
+  "nombre": "Demostración del último teorema de Fermat",
+  "resumen": "Resuelto 358 años después mediante curvas elípticas."
+ },
+ "pi-arquimedes": {
+  "nombre": "Medida del círculo",
+  "resumen": "Pi acotado entre 223/71 y 22/7 con polígonos de 96 lados."
+ },
+ "esfera-cilindro": {
+  "nombre": "Volumen y superficie de la esfera",
+  "resumen": "La esfera ocupa dos tercios del cilindro que la contiene."
+ },
+ "formula-heron": {
+  "nombre": "Fórmula de Herón",
+  "resumen": "Área del triángulo a partir de sus tres lados."
+ },
+ "pi-liu-hui": {
+  "nombre": "Algoritmo de Liu Hui para pi",
+  "resumen": "Polígonos inscritos hasta 3072 lados."
+ },
+ "coleccion-pappus": {
+  "nombre": "Colección matemática de Pappus",
+  "resumen": "Últimos grandes teoremas de la geometría griega."
+ },
+ "pi-zu-chongzhi": {
+  "nombre": "Pi con siete decimales",
+  "resumen": "La fracción 355/113, insuperada durante casi mil años."
+ },
+ "tabla-senos": {
+  "nombre": "Tabla de senos",
+  "resumen": "El seno sustituye a la cuerda griega."
+ },
+ "funcion-tangente": {
+  "nombre": "Tangente y trigonometría esférica",
+  "resumen": "Las seis funciones y la ley de los senos esférica."
+ },
+ "postulado-paralelas-jayam": {
+  "nombre": "Crítica del postulado de las paralelas",
+  "resumen": "Cuadrilátero que anticipa las geometrías no euclídeas."
+ },
+ "trigonometria-independiente": {
+  "nombre": "Trigonometría como disciplina propia",
+  "resumen": "Tratado del cuadrilátero: la trigonometría se separa de la astronomía."
+ },
+ "de-triangulis": {
+  "nombre": "De triangulis omnimodis",
+  "resumen": "La trigonometría sistemática llega a Europa."
+ },
+ "geometria-proyectiva": {
+  "nombre": "Geometría proyectiva",
+  "resumen": "Propiedades que se conservan al proyectar."
+ },
+ "formula-poliedros": {
+  "nombre": "Fórmula de Euler de los poliedros",
+  "resumen": "Vértices menos aristas más caras es igual a dos."
+ },
+ "geometria-descriptiva": {
+  "nombre": "Geometría descriptiva",
+  "resumen": "Representar el espacio en dos planos: el dibujo técnico de la ingeniería."
+ },
+ "curvatura-gauss": {
+  "nombre": "Geometría intrínseca de superficies",
+  "resumen": "La curvatura puede medirse sin salir de la superficie."
+ },
+ "programa-erlangen": {
+  "nombre": "Programa de Erlangen",
+  "resumen": "Cada geometría es el estudio de los invariantes de un grupo."
+ },
+ "topologia": {
+  "nombre": "Topología algebraica",
+  "resumen": "Analysis Situs: formas estudiadas por sus agujeros."
+ },
+ "fundamentos-hilbert": {
+  "nombre": "Fundamentos de la geometría",
+  "resumen": "Axiomática completa y rigurosa."
+ },
+ "teselas-penrose": {
+  "nombre": "Teselaciones aperiódicas",
+  "resumen": "Dos piezas que cubren el plano sin repetirse nunca."
+ },
+ "fractales": {
+  "nombre": "Geometría fractal",
+  "resumen": "Formas con detalle a todas las escalas."
+ },
+ "cuatro-colores": {
+  "nombre": "Teorema de los cuatro colores",
+  "resumen": "Primera gran demostración asistida por ordenador."
+ },
+ "conjetura-poincare": {
+  "nombre": "Demostración de la conjetura de Poincaré",
+  "resumen": "Flujo de Ricci con cirugía."
+ },
+ "cuadraticas-babilonia": {
+  "nombre": "Problemas de segundo grado",
+  "resumen": "Recetas para resolver ecuaciones cuadráticas en tablillas paleobabilónicas."
+ },
+ "cuadratica-general": {
+  "nombre": "Solución general de la cuadrática",
+  "resumen": "Fórmula con números negativos admitidos como deudas."
+ },
+ "algebra-polinomios": {
+  "nombre": "Álgebra de polinomios",
+  "resumen": "Operar con potencias de la incógnita sin apoyo geométrico."
+ },
+ "cubicas-jayam": {
+  "nombre": "Cúbicas por intersección de cónicas",
+  "resumen": "Clasificación y solución geométrica de las ecuaciones de tercer grado."
+ },
+ "metodo-qin": {
+  "nombre": "Solución numérica de polinomios",
+  "resumen": "Método equivalente al de Horner."
+ },
+ "simbolos-al-qalasadi": {
+  "nombre": "Notación algebraica abreviada",
+  "resumen": "Letras árabes como símbolos de incógnita, cuadrado e igualdad."
+ },
+ "determinantes": {
+  "nombre": "Determinantes",
+  "resumen": "Ideados a la vez en Japón y en Europa."
+ },
+ "regla-cramer": {
+  "nombre": "Regla de Cramer",
+  "resumen": "Sistemas lineales resueltos con determinantes."
+ },
+ "teorema-fundamental-algebra": {
+  "nombre": "Teorema fundamental del álgebra",
+  "resumen": "Todo polinomio tiene raíz compleja."
+ },
+ "quintica-irresoluble": {
+  "nombre": "Irresolubilidad de la quíntica",
+  "resumen": "No hay fórmula con radicales para el quinto grado."
+ },
+ "cuaterniones": {
+  "nombre": "Cuaterniones",
+  "resumen": "Números de cuatro dimensiones no conmutativos."
+ },
+ "matrices": {
+  "nombre": "Álgebra de matrices",
+  "resumen": "Las tablas de coeficientes se multiplican como objetos."
+ },
+ "analisis-vectorial": {
+  "nombre": "Análisis vectorial",
+  "resumen": "Gradiente, divergencia y rotacional."
+ },
+ "espacios-vectoriales": {
+  "nombre": "Espacios vectoriales",
+  "resumen": "Definición axiomática."
+ },
+ "algebra-abstracta": {
+  "nombre": "Álgebra abstracta",
+  "resumen": "Anillos e ideales estudiados por sus axiomas."
+ },
+ "teoria-categorias": {
+  "nombre": "Teoría de categorías",
+  "resumen": "Objetos y flechas: el lenguaje común de la matemática moderna."
+ },
+ "series-kerala": {
+  "nombre": "Series infinitas de Kerala",
+  "resumen": "Series para el seno, el coseno y pi, tres siglos antes que en Europa."
+ },
+ "indivisibles": {
+  "nombre": "Método de los indivisibles",
+  "resumen": "Áreas como suma de infinitas líneas."
+ },
+ "tangentes-fermat": {
+  "nombre": "Máximos, mínimos y tangentes",
+  "resumen": "Antecedente directo de la derivada."
+ },
+ "aritmetica-infinitos": {
+  "nombre": "Aritmética de los infinitos",
+  "resumen": "Productos y series infinitas; el símbolo ∞."
+ },
+ "notacion-leibniz": {
+  "nombre": "Notación diferencial de Leibniz",
+  "resumen": "dx, dy y ∫: la notación que hace el cálculo manejable."
+ },
+ "ecuaciones-diferenciales": {
+  "nombre": "Ecuaciones diferenciales",
+  "resumen": "Separación de variables y primeros métodos."
+ },
+ "manual-calculo": {
+  "nombre": "Primer manual de cálculo",
+  "resumen": "Analyse des infiniment petits, con la regla de L'Hôpital."
+ },
+ "series-taylor": {
+  "nombre": "Series de Taylor",
+  "resumen": "Toda función suave como suma de potencias."
+ },
+ "calculo-variaciones": {
+  "nombre": "Cálculo de variaciones",
+  "resumen": "Hallar la curva que hace mínima una cantidad."
+ },
+ "ecuacion-ondas": {
+  "nombre": "Ecuación de ondas",
+  "resumen": "Primera ecuación en derivadas parciales, para la cuerda vibrante."
+ },
+ "limite-riguroso": {
+  "nombre": "Definición rigurosa de límite",
+  "resumen": "Cours d'analyse: continuidad y convergencia sin infinitésimos."
+ },
+ "analisis-complejo": {
+  "nombre": "Análisis complejo",
+  "resumen": "Teorema integral de Cauchy."
+ },
+ "integral-riemann": {
+  "nombre": "Integral de Riemann",
+  "resumen": "Definición precisa del área bajo una curva."
+ },
+ "epsilon-delta": {
+  "nombre": "Formulación épsilon-delta",
+  "resumen": "El rigor definitivo del análisis."
+ },
+ "integral-lebesgue": {
+  "nombre": "Integral de Lebesgue",
+  "resumen": "Medida e integración de funciones muy irregulares."
+ },
+ "espacio-hilbert": {
+  "nombre": "Espacios de Hilbert",
+  "resumen": "Geometría en infinitas dimensiones."
+ },
+ "analisis-funcional": {
+  "nombre": "Análisis funcional",
+  "resumen": "Espacios de funciones normados."
+ },
+ "teoria-caos": {
+  "nombre": "Caos determinista",
+  "resumen": "Diferencias mínimas en el inicio crecen sin límite: el efecto mariposa."
+ },
+ "juegos-azar-cardano": {
+  "nombre": "Libro de los juegos de azar",
+  "resumen": "Primer cálculo sistemático de probabilidades."
+ },
+ "esperanza-huygens": {
+  "nombre": "Esperanza matemática",
+  "resumen": "Primer tratado impreso de probabilidad."
+ },
+ "tablas-mortalidad": {
+  "nombre": "Tablas de mortalidad",
+  "resumen": "Estadística demográfica a partir de los registros de Londres."
+ },
+ "ley-grandes-numeros": {
+  "nombre": "Ley de los grandes números",
+  "resumen": "La frecuencia observada converge a la probabilidad."
+ },
+ "teorema-central-limite": {
+  "nombre": "Teorema central del límite",
+  "resumen": "La suma de muchos efectos pequeños tiende a la campana."
+ },
+ "regresion": {
+  "nombre": "Regresión y correlación",
+  "resumen": "La «regresión a la media» en la herencia de la estatura."
+ },
+ "ji-cuadrado": {
+  "nombre": "Prueba ji-cuadrado",
+  "resumen": "¿Se ajustan los datos a lo esperado?"
+ },
+ "cadenas-markov": {
+  "nombre": "Cadenas de Márkov",
+  "resumen": "Procesos en que el futuro solo depende del presente."
+ },
+ "t-student": {
+  "nombre": "Distribución t de Student",
+  "resumen": "Inferencia con muestras pequeñas, ideada en la cervecera Guinness."
+ },
+ "diseno-experimentos": {
+  "nombre": "Diseño de experimentos",
+  "resumen": "Aleatorización, análisis de la varianza y significación."
+ },
+ "axiomas-kolmogorov": {
+  "nombre": "Axiomas de la probabilidad",
+  "resumen": "La probabilidad como teoría de la medida."
+ },
+ "metodo-monte-carlo": {
+  "nombre": "Método de Montecarlo",
+  "resumen": "Resolver problemas simulando el azar millones de veces."
+ },
+ "paradojas-zenon": {
+  "nombre": "Paradojas de Zenón",
+  "resumen": "Aquiles y la tortuga: el infinito entra en la matemática."
+ },
+ "logica-estoica": {
+  "nombre": "Lógica proposicional estoica",
+  "resumen": "Razonamientos con «si», «y», «o»."
+ },
+ "arte-combinatoria": {
+  "nombre": "Característica universal",
+  "resumen": "El sueño de reducir el razonamiento a cálculo."
+ },
+ "paradoja-russell": {
+  "nombre": "Paradoja de Russell",
+  "resumen": "El conjunto de los conjuntos que no se contienen a sí mismos."
+ },
+ "problemas-hilbert": {
+  "nombre": "Los 23 problemas de Hilbert",
+  "resumen": "Programa de investigación para todo un siglo."
+ },
+ "axiomas-zermelo": {
+  "nombre": "Axiomas de la teoría de conjuntos",
+  "resumen": "Sistema ZF, ampliado en 1922."
+ },
+ "principia-mathematica": {
+  "nombre": "Principia Mathematica",
+  "resumen": "Intento de derivar toda la matemática de la lógica."
+ },
+ "hipotesis-continuo": {
+  "nombre": "Independencia de la hipótesis del continuo",
+  "resumen": "Ni demostrable ni refutable desde ZFC."
+ },
+ "logica-difusa": {
+  "nombre": "Lógica difusa",
+  "resumen": "Grados de verdad entre 0 y 1."
+ },
+ "np-completitud": {
+  "nombre": "NP-completitud",
+  "resumen": "Una familia de problemas tan difíciles como cualquier otro verificable."
+ }
+}

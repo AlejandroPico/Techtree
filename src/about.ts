@@ -19,7 +19,7 @@ export function aboutContent(version: string, base: string, stats: { nodes: numb
         <div><strong>${t('aTime')}</strong><span>${t('aTimeText')} ${t('aTimeText2')}</span></div>
         <div><strong>${t('aCards')}</strong><span>${t('aCardsText')}</span></div></div>
       <div class="about-install"><button id="install-button" hidden><i data-lucide="download"></i>${t('aInstall')}</button><span id="install-hint">${t('aInstallHint')}</span></div>
-      <details class="release-history"><summary>${t('aHistory')}</summary><ol><li><strong>0.2.0 · ${t('aUpdatedOn')}</strong><p>${t('aV020')}</p></li><li><strong>0.1.0 · ${t('aUpdatedOn')}</strong><p>${t('aV010')}</p></li></ol></details>
+      <details class="release-history"><summary>${t('aHistory')}</summary><ol><li><strong>0.3.0 · ${t('aUpdatedOn')}</strong><p>${t('aV030')}</p></li><li><strong>0.2.0 · ${t('aV020date')}</strong><p>${t('aV020')}</p></li><li><strong>0.1.0 · ${t('aV020date')}</strong><p>${t('aV010')}</p></li></ol></details>
       <p class="about-note">${t('aNote')}</p>
     </div>
   </div>

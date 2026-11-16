@@ -1,0 +1,170 @@
+{
+ "jabon": {
+  "nombre": "Jabón",
+  "resumen": "Grasas hervidas con cenizas; Babilonia."
+ },
+ "alambique": {
+  "nombre": "Alambique",
+  "resumen": "Destilación con cabeza condensadora; alquimia alejandrina."
+ },
+ "transmutacion": {
+  "nombre": "Transmutación alquímica de metales",
+  "resumen": "Convertir metales viles en oro: imposible por medios químicos, pero dejó aparatos y técnicas."
+ },
+ "polvora": {
+  "nombre": "Pólvora negra",
+  "resumen": "Salitre, azufre y carbón; alquimistas taoístas."
+ },
+ "acido-nitrico": {
+  "nombre": "Ácidos minerales",
+  "resumen": "Nítrico, sulfúrico y agua regia por destilación de sales."
+ },
+ "flogisto": {
+  "nombre": "Teoría del flogisto",
+  "resumen": "La combustión liberaría un principio inflamable; refutada por Lavoisier."
+ },
+ "fosforo": {
+  "nombre": "Fósforo",
+  "resumen": "Primer elemento descubierto con fecha y autor."
+ },
+ "quimico-esceptico": {
+  "nombre": "El químico escéptico",
+  "resumen": "Elementos definidos por el experimento."
+ },
+ "aire-fijo": {
+  "nombre": "Dióxido de carbono",
+  "resumen": "Un gas distinto del aire, fijado en los carbonatos."
+ },
+ "balanza-precision": {
+  "nombre": "Balanza analítica",
+  "resumen": "Cruz ligera sobre cuchillas de acero o ágata: pesadas al miligramo."
+ },
+ "hidrogeno": {
+  "nombre": "Hidrógeno",
+  "resumen": "El «aire inflamable» desprendido al atacar metales con ácido."
+ },
+ "nitrogeno": {
+  "nombre": "Nitrógeno",
+  "resumen": "«Aire nocivo» que no mantiene la combustión."
+ },
+ "oxigeno": {
+  "nombre": "Oxígeno",
+  "resumen": "El «aire desflogisticado» obtenido calentando óxido de mercurio."
+ },
+ "cloro": {
+  "nombre": "Cloro",
+  "resumen": "Gas verdoso obtenido del ácido muriático."
+ },
+ "combustion-lavoisier": {
+  "nombre": "Teoría de la combustión por oxígeno",
+  "resumen": "Conservación de la masa."
+ },
+ "composicion-agua": {
+  "nombre": "Composición del agua",
+  "resumen": "El agua es un compuesto de hidrógeno y oxígeno."
+ },
+ "nomenclatura": {
+  "nombre": "Nomenclatura química",
+  "resumen": "Nombres sistemáticos según la composición."
+ },
+ "teoria-atomica": {
+  "nombre": "Teoría atómica",
+  "resumen": "Pesos atómicos relativos."
+ },
+ "electroquimica-davy": {
+  "nombre": "Aislamiento electrolítico de potasio y sodio",
+  "resumen": "Metales alcalinos por electrólisis de sus hidróxidos fundidos."
+ },
+ "ley-avogadro": {
+  "nombre": "Hipótesis de Avogadro",
+  "resumen": "Volúmenes iguales de gas contienen igual número de moléculas."
+ },
+ "benceno": {
+  "nombre": "Benceno",
+  "resumen": "Aislado del gas de alumbrado."
+ },
+ "sintesis-urea": {
+  "nombre": "Síntesis de la urea",
+  "resumen": "Un compuesto orgánico a partir de materia inorgánica."
+ },
+ "vitalismo": {
+  "nombre": "Vitalismo químico",
+  "resumen": "Los compuestos orgánicos requerirían una fuerza vital; erosionado desde 1828."
+ },
+ "mechero-bunsen": {
+  "nombre": "Mechero Bunsen",
+  "resumen": "Llama limpia y regulable."
+ },
+ "estructura-benceno": {
+  "nombre": "Estructura del benceno",
+  "resumen": "Anillo de seis carbonos."
+ },
+ "tabla-periodica": {
+  "nombre": "Tabla periódica",
+  "resumen": "Ordena los elementos y predice los que faltan."
+ },
+ "gases-nobles": {
+  "nombre": "Gases nobles",
+  "resumen": "Argón; después helio, neón, kriptón y xenón."
+ },
+ "cromatografia": {
+  "nombre": "Cromatografía",
+  "resumen": "Separación de pigmentos en una columna adsorbente."
+ },
+ "enlace-covalente": {
+  "nombre": "Enlace covalente",
+  "resumen": "Pares de electrones compartidos."
+ },
+ "acido-sulfurico-camaras": {
+  "nombre": "Ácido sulfúrico en cámaras de plomo",
+  "resumen": "Producción a gran escala en recintos revestidos de plomo."
+ },
+ "proceso-leblanc": {
+  "nombre": "Sosa Leblanc",
+  "resumen": "Carbonato sódico a partir de sal."
+ },
+ "algodon-polvora": {
+  "nombre": "Nitrocelulosa",
+  "resumen": "Algodón nitrado con mezcla de ácidos."
+ },
+ "nitroglicerina": {
+  "nombre": "Nitroglicerina",
+  "resumen": "Explosivo líquido muy sensible."
+ },
+ "proceso-solvay": {
+  "nombre": "Proceso Solvay",
+  "resumen": "Sosa a partir de sal, caliza y amoníaco reciclado."
+ },
+ "dinamita": {
+  "nombre": "Dinamita",
+  "resumen": "Nitroglicerina estabilizada en tierra de diatomeas."
+ },
+ "polvora-sin-humo": {
+  "nombre": "Pólvora sin humo",
+  "resumen": "Nitrocelulosa gelatinizada: Poudre B."
+ },
+ "cloro-alcali": {
+  "nombre": "Electrólisis cloro-álcali",
+  "resumen": "Cloro y sosa cáustica con cátodo de mercurio."
+ },
+ "proceso-contacto": {
+  "nombre": "Ácido sulfúrico por contacto",
+  "resumen": "Dióxido de azufre oxidado sobre un catalizador: ácido concentrado."
+ },
+ "proceso-ostwald": {
+  "nombre": "Proceso Ostwald",
+  "resumen": "Ácido nítrico por oxidación de amoníaco."
+ },
+ "haber-bosch": {
+  "nombre": "Síntesis del amoníaco",
+  "resumen": "Nitrógeno e hidrógeno a alta presión con catalizador."
+ },
+ "haber-bosch-industrial": {
+  "nombre": "Planta de amoníaco de Oppau",
+  "resumen": "Reactores de alta presión."
+ },
+ "acero-aleado": {
+  "nombre": "Aceros aleados para alta presión",
+  "resumen": "Aceros al níquel y al cromo."
+ }
+}

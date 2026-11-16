@@ -1,0 +1,582 @@
+{
+ "principios-steno": {
+  "nombre": "Principios de la estratigrafía",
+  "resumen": "Superposición y horizontalidad original de los estratos."
+ },
+ "tiempo-profundo": {
+  "nombre": "Tiempo profundo",
+  "resumen": "«Ni vestigio de un principio ni perspectiva de un fin»."
+ },
+ "mapa-geologico": {
+  "nombre": "Mapa geológico nacional",
+  "resumen": "Estratos identificados por sus fósiles."
+ },
+ "uniformismo": {
+  "nombre": "Uniformismo",
+  "resumen": "El presente es la clave del pasado."
+ },
+ "glaciaciones": {
+  "nombre": "Edad de hielo",
+  "resumen": "Los bloques erráticos los dejaron glaciares."
+ },
+ "escala-geologica": {
+  "nombre": "Eras geológicas",
+  "resumen": "Paleozoico, Mesozoico y Cenozoico."
+ },
+ "sismografo": {
+  "nombre": "Sismógrafo moderno",
+  "resumen": "Registro continuo del movimiento del suelo."
+ },
+ "discontinuidad-moho": {
+  "nombre": "Discontinuidad de Mohorovičić",
+  "resumen": "Límite entre corteza y manto."
+ },
+ "nucleo-terrestre": {
+  "nombre": "Núcleo de la Tierra",
+  "resumen": "Las ondas S no lo atraviesan."
+ },
+ "deriva-continental": {
+  "nombre": "Deriva continental",
+  "resumen": "Los continentes estuvieron unidos; rechazada medio siglo."
+ },
+ "ciclos-milankovic": {
+  "nombre": "Ciclos de Milanković",
+  "resumen": "Las variaciones orbitales marcan las glaciaciones."
+ },
+ "escala-richter": {
+  "nombre": "Escala de magnitud sísmica",
+  "resumen": "Medida logarítmica de la energía."
+ },
+ "nucleo-interno": {
+  "nombre": "Núcleo interno sólido",
+  "resumen": "Deducido de ondas reflejadas."
+ },
+ "dorsales-oceanicas": {
+  "nombre": "Dorsal mesoatlántica y su rift",
+  "resumen": "Cartografiada por ecosonda."
+ },
+ "expansion-fondo-oceanico": {
+  "nombre": "Expansión del fondo oceánico",
+  "resumen": "El fondo nace en las dorsales."
+ },
+ "bandas-magneticas": {
+  "nombre": "Bandas magnéticas del fondo marino",
+  "resumen": "Inversiones del campo grabadas en la roca."
+ },
+ "tectonica-placas": {
+  "nombre": "Tectónica de placas",
+  "resumen": "La litosfera se divide en placas móviles."
+ },
+ "pluviometro": {
+  "nombre": "Pluviómetro",
+  "resumen": "Medición de lluvia en la India."
+ },
+ "veleta": {
+  "nombre": "Veleta",
+  "resumen": "Torre de los Vientos de Atenas."
+ },
+ "higrometro": {
+  "nombre": "Higrómetro",
+  "resumen": "Humedad medida con lana."
+ },
+ "anemometro": {
+  "nombre": "Anemómetro",
+  "resumen": "Placa oscilante."
+ },
+ "red-meteorologica": {
+  "nombre": "Red de observación meteorológica",
+  "resumen": "Accademia del Cimento."
+ },
+ "termometro-florentino": {
+  "nombre": "Termómetro sellado de alcohol",
+  "resumen": "No depende de la presión."
+ },
+ "vientos-alisios": {
+  "nombre": "Mapa de los vientos alisios",
+  "resumen": "Circulación atmosférica."
+ },
+ "clasificacion-nubes": {
+  "nombre": "Clasificación de las nubes",
+  "resumen": "Cirros, cúmulos, estratos."
+ },
+ "escala-beaufort": {
+  "nombre": "Escala de Beaufort",
+  "resumen": "Fuerza del viento por sus efectos."
+ },
+ "mapa-tiempo": {
+  "nombre": "Mapa del tiempo telegráfico",
+  "resumen": "Datos simultáneos de muchas estaciones."
+ },
+ "prediccion-tiempo": {
+  "nombre": "Pronóstico meteorológico público",
+  "resumen": "Publicado en The Times."
+ },
+ "efecto-invernadero": {
+  "nombre": "Absorción infrarroja de los gases",
+  "resumen": "Vapor de agua y CO2 retienen calor."
+ },
+ "calentamiento-co2": {
+  "nombre": "Calentamiento por dióxido de carbono",
+  "resumen": "Duplicar el CO2 eleva la temperatura varios grados."
+ },
+ "frentes": {
+  "nombre": "Teoría de los frentes",
+  "resumen": "Escuela de Bergen."
+ },
+ "radiosonda": {
+  "nombre": "Radiosonda",
+  "resumen": "Datos de altura por radio."
+ },
+ "prediccion-numerica": {
+  "nombre": "Predicción numérica del tiempo",
+  "resumen": "Primera previsión calculada por ordenador."
+ },
+ "curva-keeling": {
+  "nombre": "Curva de Keeling",
+  "resumen": "El CO2 atmosférico sube año tras año."
+ },
+ "radar-meteorologico": {
+  "nombre": "Radar meteorológico",
+  "resumen": "Detecta precipitación y tornados."
+ },
+ "testigos-hielo": {
+  "nombre": "Testigos de hielo",
+  "resumen": "Clima de cientos de miles de años."
+ },
+ "modelo-climatico": {
+  "nombre": "Modelo climático global",
+  "resumen": "Simulación de la atmósfera con CO2 duplicado."
+ },
+ "mapa-babilonico": {
+  "nombre": "Mapa del mundo babilónico",
+  "resumen": "Tablilla con el mundo rodeado por un océano."
+ },
+ "medida-tierra": {
+  "nombre": "Medida de la circunferencia terrestre",
+  "resumen": "Sombras en Siena y Alejandría."
+ },
+ "latitud-longitud": {
+  "nombre": "Red de latitud y longitud",
+  "resumen": "Coordenadas sobre la esfera."
+ },
+ "geografia-ptolomeo": {
+  "nombre": "Geografía de Ptolomeo",
+  "resumen": "Ocho mil lugares con coordenadas y proyecciones."
+ },
+ "mapa-cuadricula-chino": {
+  "nombre": "Cartografía con cuadrícula",
+  "resumen": "Seis principios de Pei Xiu."
+ },
+ "tabula-rogeriana": {
+  "nombre": "Tabula Rogeriana",
+  "resumen": "Mapamundi más exacto de su tiempo."
+ },
+ "atlas-catalan": {
+  "nombre": "Atlas catalán",
+  "resumen": "Mapamundi de la escuela mallorquina."
+ },
+ "globo-terraqueo": {
+  "nombre": "Globo terráqueo",
+  "resumen": "Erdapfel."
+ },
+ "mapa-waldseemuller": {
+  "nombre": "Mapa con el nombre de América",
+  "resumen": "Universalis Cosmographia."
+ },
+ "triangulacion": {
+  "nombre": "Triangulación",
+  "resumen": "Medir un país con triángulos encadenados."
+ },
+ "atlas-moderno": {
+  "nombre": "Atlas moderno",
+  "resumen": "Theatrum Orbis Terrarum."
+ },
+ "forma-tierra": {
+  "nombre": "Achatamiento de la Tierra",
+  "resumen": "Expediciones a Laponia y al Perú."
+ },
+ "mapa-cassini": {
+  "nombre": "Mapa topográfico nacional",
+  "resumen": "Carta de Cassini de Francia."
+ },
+ "curvas-nivel": {
+  "nombre": "Curvas de nivel",
+  "resumen": "Relieve representado por líneas de igual altitud."
+ },
+ "meridiano-greenwich": {
+  "nombre": "Meridiano de Greenwich y husos horarios",
+  "resumen": "Conferencia de Washington."
+ },
+ "fotogrametria": {
+  "nombre": "Fotogrametría aérea",
+  "resumen": "Mapas a partir de fotografías."
+ },
+ "teledeteccion": {
+  "nombre": "Satélite de observación de la Tierra",
+  "resumen": "Landsat 1."
+ },
+ "sig": {
+  "nombre": "Sistema de información geográfica",
+  "resumen": "Capas de datos sobre mapas digitales."
+ },
+ "mapas-web": {
+  "nombre": "Mapas en línea",
+  "resumen": "Mapas navegables con imágenes de satélite."
+ },
+ "poblamiento-america": {
+  "nombre": "Poblamiento de América",
+  "resumen": "Huellas de White Sands (Nuevo México)."
+ },
+ "periplo-hannon": {
+  "nombre": "Periplo de Hannón",
+  "resumen": "Navegación cartaginesa por la costa africana."
+ },
+ "ruta-seda": {
+  "nombre": "Ruta de la Seda",
+  "resumen": "Embajada de Zhang Qian."
+ },
+ "vikingos-america": {
+  "nombre": "Europeos en América",
+  "resumen": "L'Anse aux Meadows."
+ },
+ "viajes-zheng-he": {
+  "nombre": "Flotas de Zheng He",
+  "resumen": "Siete expediciones hasta África oriental."
+ },
+ "cabo-buena-esperanza": {
+  "nombre": "Paso del cabo de Buena Esperanza",
+  "resumen": "Bartolomeu Dias."
+ },
+ "viaje-colon": {
+  "nombre": "Travesía del Atlántico",
+  "resumen": "Llegada a las Antillas."
+ },
+ "ruta-india": {
+  "nombre": "Ruta marítima a la India",
+  "resumen": "Vasco da Gama."
+ },
+ "polo-norte": {
+  "nombre": "Llegada al Polo Norte",
+  "resumen": "Reclamada por Peary; discutida."
+ },
+ "polo-sur": {
+  "nombre": "Llegada al Polo Sur",
+  "resumen": "Expedición noruega."
+ },
+ "everest": {
+  "nombre": "Ascenso al Everest",
+  "resumen": "Con oxígeno embotellado."
+ },
+ "tambor": {
+  "nombre": "Tambor de membrana",
+  "resumen": "Piel tensada sobre un marco."
+ },
+ "arpa": {
+  "nombre": "Arpa y lira",
+  "resumen": "Liras y arpas de las tumbas reales de Ur."
+ },
+ "laud": {
+  "nombre": "Laúd de mástil",
+  "resumen": "Cuerdas pisadas sobre un mástil."
+ },
+ "campana": {
+  "nombre": "Campana de bronce",
+  "resumen": "Campanas afinadas de la China Shang."
+ },
+ "trompeta": {
+  "nombre": "Trompeta metálica",
+  "resumen": "Trompetas de la tumba de Tutankamón."
+ },
+ "escala-pitagorica": {
+  "nombre": "Afinación pitagórica",
+  "resumen": "Intervalos como razones de números enteros."
+ },
+ "organo-hidraulico": {
+  "nombre": "Órgano hidráulico",
+  "resumen": "Hydraulis."
+ },
+ "notacion-neumas": {
+  "nombre": "Notación de neumas",
+  "resumen": "Signos sobre el texto que indican el contorno melódico."
+ },
+ "tetragrama": {
+  "nombre": "Pauta y solmisación",
+  "resumen": "Líneas para las alturas y nombres de las notas."
+ },
+ "polifonia": {
+  "nombre": "Polifonía escrita",
+  "resumen": "Escuela de Notre-Dame."
+ },
+ "notacion-mensural": {
+  "nombre": "Notación mensural",
+  "resumen": "La forma de la nota indica su duración."
+ },
+ "clavicordio": {
+  "nombre": "Clavicordio y clave",
+  "resumen": "Cuerdas accionadas por teclado."
+ },
+ "violin": {
+  "nombre": "Violín",
+  "resumen": "Forma definitiva del instrumento en los talleres de Cremona."
+ },
+ "imprenta-musical": {
+  "nombre": "Imprenta musical",
+  "resumen": "Odhecaton."
+ },
+ "opera": {
+  "nombre": "Ópera",
+  "resumen": "L’Orfeo de Monteverdi une drama, canto y orquesta."
+ },
+ "temperamento-igual": {
+  "nombre": "Temperamento igual",
+  "resumen": "Doce semitonos idénticos."
+ },
+ "progresiones-stifel": {
+  "nombre": "Progresiones y exponentes",
+  "resumen": "Relación entre progresión aritmética y geométrica."
+ },
+ "piano": {
+  "nombre": "Pianoforte",
+  "resumen": "Macillos que permiten matices."
+ },
+ "diapason": {
+  "nombre": "Diapasón",
+  "resumen": "Referencia de afinación."
+ },
+ "metronomo": {
+  "nombre": "Metrónomo",
+  "resumen": "Tempo medido."
+ },
+ "saxofon": {
+  "nombre": "Saxofón",
+  "resumen": "Viento de lengüeta y cuerpo metálico."
+ },
+ "piano-marco-hierro": {
+  "nombre": "Piano con bastidor de hierro",
+  "resumen": "Soporta cuerdas mucho más tensas."
+ },
+ "fonoautografo": {
+  "nombre": "Fonoautógrafo",
+  "resumen": "Registra el sonido sin poder reproducirlo."
+ },
+ "gramofono": {
+  "nombre": "Gramófono de disco",
+  "resumen": "Discos planos duplicables."
+ },
+ "theremin": {
+  "nombre": "Theremin",
+  "resumen": "Instrumento electrónico que se toca sin contacto."
+ },
+ "grabacion-electrica": {
+  "nombre": "Grabación eléctrica",
+  "resumen": "Micrófono y amplificador."
+ },
+ "guitarra-electrica": {
+  "nombre": "Guitarra eléctrica",
+  "resumen": "Pastilla electromagnética."
+ },
+ "magnetofono": {
+  "nombre": "Magnetófono",
+  "resumen": "Magnetophon K1."
+ },
+ "disco-vinilo": {
+  "nombre": "Disco de larga duración",
+  "resumen": "Microsurco a 33⅓ rpm."
+ },
+ "estereofonia": {
+  "nombre": "Sonido estereofónico",
+  "resumen": "Dos canales."
+ },
+ "sintetizador": {
+  "nombre": "Sintetizador modular",
+  "resumen": "Control por tensión."
+ },
+ "casete": {
+  "nombre": "Casete compacto",
+  "resumen": "Cinta en cartucho."
+ },
+ "sintesis-fm": {
+  "nombre": "Síntesis por modulación de frecuencia",
+  "resumen": "Base del DX7."
+ },
+ "reproductor-mp3": {
+  "nombre": "Reproductor digital portátil",
+  "resumen": "Música en memoria flash."
+ },
+ "musica-streaming": {
+  "nombre": "Música en streaming",
+  "resumen": "Catálogo completo bajo demanda."
+ },
+ "pesas-patron": {
+  "nombre": "Pesas normalizadas",
+  "resumen": "Sistema uniforme del valle del Indo."
+ },
+ "contabilidad-tablillas": {
+  "nombre": "Contabilidad escrita",
+  "resumen": "Entradas y salidas de los templos de Uruk."
+ },
+ "codigo-leyes": {
+  "nombre": "Código legal escrito",
+  "resumen": "Código de Ur-Nammu; después Hammurabi."
+ },
+ "prestamo-interes": {
+  "nombre": "Préstamo con interés regulado",
+  "resumen": "Tipos máximos en el Código de Hammurabi."
+ },
+ "papel-moneda": {
+  "nombre": "Papel moneda",
+  "resumen": "Jiaozi de Sichuan."
+ },
+ "letra-cambio": {
+  "nombre": "Letra de cambio",
+  "resumen": "Pagos a distancia sin mover metal."
+ },
+ "banca-deposito": {
+  "nombre": "Banco público de depósito",
+  "resumen": "Banco di San Giorgio; Taula de Canvi de Barcelona (1401)."
+ },
+ "seguro-maritimo": {
+  "nombre": "Seguro marítimo",
+  "resumen": "Pólizas genovesas."
+ },
+ "sociedad-acciones": {
+  "nombre": "Sociedad anónima y bolsa",
+  "resumen": "Compañía Holandesa de las Indias Orientales y bolsa de Ámsterdam."
+ },
+ "banco-central": {
+  "nombre": "Banco central",
+  "resumen": "Riksbank; Banco de Inglaterra en 1694."
+ },
+ "patentes": {
+  "nombre": "Ley de patentes",
+  "resumen": "Estatuto de Venecia."
+ },
+ "derechos-autor": {
+  "nombre": "Derecho de autor",
+  "resumen": "Estatuto de la Reina Ana."
+ },
+ "riqueza-naciones": {
+  "nombre": "La riqueza de las naciones",
+  "resumen": "División del trabajo y mercado."
+ },
+ "patron-oro": {
+  "nombre": "Patrón oro",
+  "resumen": "Convertibilidad de la libra."
+ },
+ "ventaja-comparativa": {
+  "nombre": "Ventaja comparativa",
+  "resumen": "Por qué comerciar beneficia a ambos."
+ },
+ "cooperativa": {
+  "nombre": "Cooperativa de consumo",
+  "resumen": "Pioneros de Rochdale."
+ },
+ "grandes-almacenes": {
+  "nombre": "Grandes almacenes",
+  "resumen": "Le Bon Marché: precio fijo y entrada libre."
+ },
+ "caja-registradora": {
+  "nombre": "Caja registradora",
+  "resumen": "Registra cada venta."
+ },
+ "organizacion-cientifica": {
+  "nombre": "Organización científica del trabajo",
+  "resumen": "Tiempos y movimientos."
+ },
+ "tarjeta-credito": {
+  "nombre": "Tarjeta de crédito",
+  "resumen": "Diners Club."
+ },
+ "cajero-automatico": {
+  "nombre": "Cajero automático",
+  "resumen": "Barclays de Enfield."
+ },
+ "contabilidad-nacional": {
+  "nombre": "Producto interior bruto",
+  "resumen": "Medida de la economía de un país."
+ },
+ "supermercado": {
+  "nombre": "Supermercado",
+  "resumen": "Autoservicio."
+ },
+ "black-scholes": {
+  "nombre": "Valoración de opciones",
+  "resumen": "Fórmula de Black-Scholes."
+ },
+ "comercio-electronico": {
+  "nombre": "Comercio electrónico",
+  "resumen": "Amazon y eBay."
+ },
+ "censo": {
+  "nombre": "Censo",
+  "resumen": "Recuentos de población y ganado en Egipto."
+ },
+ "escuela-escribas": {
+  "nombre": "Escuela de escribas",
+  "resumen": "La edubba sumeria."
+ },
+ "servicio-postal": {
+  "nombre": "Servicio postal estatal",
+  "resumen": "Camino Real persa con relevos."
+ },
+ "caminos-empedrados": {
+  "nombre": "Caminos empedrados",
+  "resumen": "Vías pavimentadas en Creta y Mesopotamia."
+ },
+ "academia": {
+  "nombre": "Academia de Atenas",
+  "resumen": "Escuela filosófica permanente."
+ },
+ "examenes-imperiales": {
+  "nombre": "Exámenes imperiales",
+  "resumen": "Funcionarios elegidos por mérito."
+ },
+ "casa-sabiduria": {
+  "nombre": "Casa de la Sabiduría",
+  "resumen": "Traducción sistemática de la ciencia griega e india en Bagdad."
+ },
+ "universidad": {
+  "nombre": "Universidad",
+  "resumen": "Bolonia; después París y Oxford."
+ },
+ "escuela-traductores": {
+  "nombre": "Escuela de traductores de Toledo",
+  "resumen": "La ciencia árabe y griega pasa al latín."
+ },
+ "metodo-experimental": {
+  "nombre": "Método experimental",
+  "resumen": "Novum Organum."
+ },
+ "sociedades-cientificas": {
+  "nombre": "Sociedades científicas",
+  "resumen": "Royal Society; Académie des Sciences en 1666."
+ },
+ "revista-cientifica": {
+  "nombre": "Revista científica",
+  "resumen": "Philosophical Transactions."
+ },
+ "enciclopedia-diderot": {
+  "nombre": "Encyclopédie",
+  "resumen": "Las artes y oficios descritos y grabados."
+ },
+ "escuela-politecnica": {
+  "nombre": "Escuela de ingenieros",
+  "resumen": "École Polytechnique."
+ },
+ "sello-postal": {
+  "nombre": "Sello postal",
+  "resumen": "Penny Black."
+ },
+ "laboratorio-industrial": {
+  "nombre": "Laboratorio de investigación industrial",
+  "resumen": "Menlo Park."
+ },
+ "premios-nobel": {
+  "nombre": "Premios Nobel",
+  "resumen": "Legado de Alfred Nobel."
+ },
+ "revision-pares": {
+  "nombre": "Revisión por pares",
+  "resumen": "Royal Society de Edimburgo."
+ }
+}

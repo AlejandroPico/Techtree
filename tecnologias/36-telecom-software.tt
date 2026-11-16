@@ -1,0 +1,116 @@
+@ electricidad | Electricidad y telecomunicación | #e3b23c
+@@ telecom | Telecomunicación
+senales-humo | ~-800 | S | Señales de humo y fuego | hogar | Torres de almenara en la Gran Muralla. |
+heliografo | 1821 | I | Heliógrafo | espejo | Destellos de sol codificados. | Carl Friedrich Gauss
+telegrafo-agujas | 1833 | I | Telégrafo de Gauss y Weber | galvanometro | Un kilómetro de línea en Gotinga. | Carl Friedrich Gauss, Wilhelm Weber
+poste-telegrafico | 1844 | S | Tendido aéreo sobre postes | codigo-morse | Hilo desnudo de hierro. |
+repetidor-telegrafico | 1837 | H | Repetidor telegráfico | rele | Regenera la señal. | Edward Davy
+pantelegrafo | 1865 | I | Pantelégrafo | codigo-morse | Primer servicio de fax, París-Lyon. | Giovanni Caselli
+codigo-baudot | 1874 | S | Código Baudot | telegrafo-impresor | Cinco bits por carácter. | Émile Baudot
+teoria-linea-transmision | 1885 | C | Teoría de la línea de transmisión | ecuaciones-maxwell, cable-transatlantico | Ecuación del telegrafista. | Oliver Heaviside
+teletrofono | 1860 | I | Teletrófono | electroiman | Aparato de Meucci, reconocido tardíamente. | Antonio Meucci
+auricular-electromagnetico | 1876 | H | Receptor telefónico de diafragma | telefono | Imán, bobina y lámina. |
+cuadro-conmutacion | 1879 | H | Cuadro de clavijas múltiple | central-telefonica | Miles de abonados. |
+telefono-disco | 1896 | H | Disco de marcar | conmutador-strowger | Impulsos por rotación. |
+linea-larga-distancia | 1892 | S | Telefonía de larga distancia | cobre-estirado-duro, telefono | Nueva York-Chicago. |
+repetidor-valvulas | 1915-01 | S | Línea transcontinental con repetidores | triodo, bobina-carga | Nueva York-San Francisco. |
+multiplex-frecuencia | 1918 | T | Multiplexación por frecuencia | triodo, filtro-electrico | Varias llamadas por un par. |
+filtro-electrico | 1915 | H | Filtro de ondas | teoria-linea-transmision | Selecciona bandas. | George Campbell
+criterio-nyquist | 1932 | C | Criterio de estabilidad | realimentacion-negativa | Cuándo oscila un amplificador. | Harry Nyquist
+telex | 1933 | S | Red télex | teletipo | Teletipos conmutados. |
+radioenlace-microondas | 1947 | S | Radioenlace de microondas | magnetron, multiplex-frecuencia | Torres repetidoras. |
+cable-telefonico-transatlantico | 1956-09 | S | Cable telefónico transatlántico | cable-coaxial, polietileno | TAT-1. |
+conmutacion-electronica | 1965 | S | Central de conmutación electrónica | transistor-silicio, computador-transistores | Central 1ESS: la conmutación telefónica gobernada por un programa almacenado.
+telefonia-digital | 1962 | S | Portadora digital T1 | modulacion-pulsos, transistor-silicio | 24 canales a 1,5 Mbit/s. |
+buscapersonas | 1950 | I | Buscapersonas | radio-voz | Aviso por radio. |
+telefono-coche | 1946 | S | Telefonía móvil vehicular | radio-voz | San Luis. |
+concepto-celular | 1947 | C | Concepto celular | telefono-coche | Reutilizar frecuencias en celdas. | Douglas Ring
+rdsi | 1988 | S | RDSI | telefonia-digital | Línea digital de abonado. |
+cdma | 1995 | S | CDMA | teoria-informacion | Espectro ensanchado. | Irwin Jacobs
+ofdm | 1966 | C | OFDM | transformada-rapida-fourier | Muchas portadoras ortogonales. | Robert Chang
+mimo | 1996 | C | MIMO | ofdm | Varias antenas multiplican la capacidad. | Gerard Foschini
+turbo-codigos | 1993 | C | Turbocódigos | codigo-hamming | Rozan el límite de Shannon. | Claude Berrou
+@@ radio | Radio y televisión
+antena-dipolo | 1887 | H | Antena dipolo | ondas-hertz | Dos varillas resonantes. | Heinrich Hertz
+sintonia | 1898 | T | Sintonía resonante | ondas-hertz, botella-leyden | Circuitos acordados. | Oliver Lodge
+transmisor-chispa | 1896 | H | Transmisor de chispa | bobina-induccion | Ondas amortiguadas. |
+detector-magnetico | 1902 | H | Detector magnético | radiotelegrafia | «Maggie». | Guglielmo Marconi
+arco-poulsen | 1903 | H | Transmisor de arco | arco-electrico | Onda continua. | Valdemar Poulsen
+alternador-alexanderson | 1906 | H | Alternador de alta frecuencia | dinamo-autoexcitada | Voz por radio. | Ernst Alexanderson
+sos | 1906 | S | Señal de socorro SOS | radiotelegrafia | Convenio de Berlín. |
+ionosfera | 1924 | D | Ionosfera | radio-voz | Capa que refleja las ondas. | Edward Appleton
+onda-corta | 1923 | D | Onda corta intercontinental | regeneracion | Aficionados cruzan el Atlántico. |
+antena-yagi | 1926 | H | Antena Yagi-Uda | antena-dipolo | Directiva. | Shintaro Uda, Hidetsugu Yagi
+tetrodo-pentodo | 1926 | H | Tetrodo y pentodo | triodo | Rejillas adicionales. | Bernard Tellegen
+disco-nipkow | 1884 | I | Disco de Nipkow | fotoconductividad-selenio | Exploración mecánica de imágenes. | Paul Nipkow
+fotoconductividad-selenio | 1873 | D | Fotoconductividad del selenio | elemento-selenio | Su resistencia cae con la luz. | Willoughby Smith
+iconoscopio | 1931 | H | Iconoscopio | tubo-rayos-catodicos, efecto-fotoelectrico | Tubo de cámara con almacenamiento. | Vladimir Zworykin
+bbc-television | 1936-11 | S | Servicio regular de televisión | iconoscopio | BBC, 405 líneas. |
+klistron | 1937 | H | Klistrón | tetrodo-pentodo | Amplificador de microondas. | Russell y Sigurd Varian
+guia-ondas | 1936 | H | Guía de ondas | ecuaciones-maxwell | Tubo metálico que conduce microondas. | George Southworth
+tubo-ondas-progresivas | 1943 | H | Tubo de ondas progresivas | klistron | Banda ancha para satélites. | Rudolf Kompfner
+pal-secam | 1967 | S | Televisión en color PAL y SECAM | television-color | Sistemas europeos. | Walter Bruch
+television-cable | 1948 | S | Televisión por cable | cable-coaxial | Antena comunitaria. |
+mando-distancia | 1956 | I | Mando a distancia | television-electronica | Ultrasonidos; después infrarrojo. | Robert Adler
+magnetoscopio | 1956 | I | Magnetoscopio | magnetofono | Ampex VRX-1000. | Charles Ginsburg
+teletexto | 1974 | S | Teletexto | television-color | Ceefax. |
+television-alta-definicion | 1989 | S | Televisión de alta definición | television-color | Hi-Vision japonés. |
+pantalla-plana-television | 1997 | I | Televisor de plasma | pantalla-plasma | 42 pulgadas. |
+television-led | 2004 | I | Televisor LCD con retroiluminación LED | lcd-matriz-activa, led-azul | Más fino y eficiente. |
+radio-digital | 1995 | S | Radio digital DAB | ofdm, mpeg | Radio digital DAB emitida por la BBC con audio comprimido.
+radio-definida-software | 1991 | C | Radio definida por software | dsp | La radio como programa. | Joseph Mitola
+@ electronica | Electrónica e informática | #5fa8d3
+@@ software | Software
+subrutina | 1951 | C | Subrutina | manchester-baby | Biblioteca de EDSAC. | Maurice Wilkes, David Wheeler
+enlazador | 1947 | I | Cargador y enlazador | eniac | Une programas. |
+recoleccion-basura | 1959 | C | Recolección de basura | lisp | Memoria gestionada. | John McCarthy
+recursion | 1960 | C | Recursión en lenguajes | algol | Pila de llamadas. |
+multitarea | 1961 | C | Multiprogramación | computador-transistores | Varios programas en memoria. |
+semaforo | 1965 | C | Semáforos | multitarea | Sincronización de procesos. | Edsger Dijkstra
+sistema-archivos-jerarquico | 1965 | C | Directorios jerárquicos | ctss-archivos | Árbol de carpetas. |
+ctss-archivos | 1963 | I | CTSS con archivos por usuario | tiempo-compartido | Cada usuario, su espacio. |
+hipertexto | 1965 | C | Hipertexto | computador-transistores | Texto enlazado no lineal. | Ted Nelson
+madre-demos | 1968-12 | D | La madre de todas las demos | raton, hipertexto | Ratón, ventanas y videoconferencia. | Douglas Engelbart
+tubos-unix | 1973 | C | Tuberías de UNIX | unix | Programas pequeños encadenados. | Douglas McIlroy
+editor-pantalla | 1976 | I | Editores de pantalla | unix | vi y Emacs. | Bill Joy, Richard Stallman
+make | 1976 | I | make | unix | Compilación por dependencias. | Stuart Feldman
+shell-bourne | 1979 | I | Shell de Bourne | tubos-unix | Lenguaje de órdenes. | Stephen Bourne
+control-versiones | 1972 | I | Control de versiones | unix | SCCS; después RCS, CVS. | Marc Rochkind
+gcc | 1987 | I | GCC | proyecto-gnu | Compilador libre. | Richard Stallman
+wysiwyg | 1974 | I | Edición WYSIWYG | interfaz-grafica | Bravo en el Xerox Alto. | Charles Simonyi, Butler Lampson
+autoedicion | 1985 | S | Autoedición | postscript, macintosh, impresora-laser | PageMaker. |
+photoshop | 1990 | I | Retoque fotográfico digital | macintosh, escaner | Photoshop 1.0. | Thomas y John Knoll
+autocad | 1982 | I | CAD en ordenador personal | ibm-pc, cad | AutoCAD. |
+lotus-123 | 1983 | I | Lotus 1-2-3 | hoja-calculo, ibm-pc | Vende el PC a las empresas. | Mitch Kapor
+excel | 1985 | I | Excel | lotus-123, macintosh | Hoja de cálculo gráfica. |
+word | 1983 | I | Microsoft Word | procesador-textos, wysiwyg | Procesador con ratón. |
+powerpoint | 1987 | I | Presentaciones | macintosh | PowerPoint. | Robert Gaskins
+oracle | 1979 | I | Base de datos relacional comercial | sql | Oracle V2. | Larry Ellison
+mysql | 1995 | I | MySQL | sql, linux | Base de datos libre de la web. |
+postgresql | 1996 | I | PostgreSQL | sql | Sucesor de Postgres. | Michael Stonebraker
+sqlite | 2000 | I | SQLite | sql, lenguaje-c | Base de datos en un archivo. | Richard Hipp
+nosql | 2007 | C | Bases de datos NoSQL | mapreduce | Dynamo, Bigtable, MongoDB. |
+apache | 1995 | I | Servidor Apache | web, licencia-gpl | Servidor web dominante. |
+cgi | 1993 | S | Páginas dinámicas CGI | web | Programas tras el servidor. |
+cookies | 1994 | I | Cookies | navegador-grafico | Estado en el navegador. | Lou Montulli
+ajax | 2005 | T | AJAX | javascript, xml | Páginas que se actualizan sin recargar. |
+node-js | 2009 | I | Node.js | javascript | JavaScript en el servidor. | Ryan Dahl
+angular-react | 2013 | I | Marcos de interfaz web | javascript, typescript | AngularJS, React, Vue. |
+webgl | 2011 | S | WebGL | opengl, javascript | Gráficos acelerados en el navegador. |
+app-store | 2008-07 | S | Tienda de aplicaciones | telefono-inteligente | Distribución directa. |
+github | 2008 | S | Alojamiento de código colaborativo | git | GitHub. |
+integracion-continua | 2001 | T | Integración y despliegue continuos | control-versiones | Pruebas automáticas en cada cambio. |
+metodologias-agiles | 2001 | C | Metodologías ágiles | programacion-estructurada | Manifiesto ágil. |
+patrones-diseno | 1994 | C | Patrones de diseño | smalltalk, c-mas-mas | Catálogo de soluciones. | Erich Gamma
+uml | 1997 | S | UML | patrones-diseno | Notación de modelado. |
+tdd | 1999 | T | Programación extrema y pruebas primero | smalltalk | JUnit. | Kent Beck
+gwt | 2006 | I | Google Web Toolkit | java, ajax | Java compilado a JavaScript. |
+jvm-jit | 1999 | T | Compilación en tiempo de ejecución | java | HotSpot. |
+llvm | 2003 | I | LLVM | lenguaje-c | Infraestructura de compiladores. | Chris Lattner
+tensorflow | 2015 | I | Bibliotecas de aprendizaje profundo | cuda, python | TensorFlow y PyTorch. |
+virus-informatico | 1986 | D | Virus de PC | ms-dos | Brain. |
+antivirus | 1987 | I | Antivirus | virus-informatico | Firmas de código. |
+cortafuegos | 1988 | I | Cortafuegos | internet, gusano-morris | Filtro de paquetes. |
+criptografia-eliptica | 1985 | C | Criptografía de curva elíptica | clave-publica | Claves más cortas. | Neal Koblitz, Victor Miller
+sha | 1993 | S | Funciones resumen SHA | des | Huella de un mensaje. |
+https-generalizado | 2015 | S | Cifrado web generalizado | ssl | Let's Encrypt. |

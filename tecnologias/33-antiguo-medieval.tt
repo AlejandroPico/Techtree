@@ -1,0 +1,98 @@
+@ energia | Energía y máquinas | #d1663f
+@@ mecanismos | Mecanismos
+rodillos-troncos | ~-3500 | T | Rodillos de troncos | narria | Troncos bajo la carga que se van adelantando. |
+plano-inclinado-rampa | ~-2700 | T | Rampas de construcción | palanca, adobe | Planos inclinados de adobe para subir sillares. |
+cuna-hendido | ~-2600 | T | Hendido de piedra con cuñas | herramientas-cobre | Cuñas de madera mojada en ranuras. |
+torno-elevacion | ~-700 | H | Torno de pozo | cuerda, rueda | Cilindro con manivela para subir cubos. |
+odometro | ~-27 | I | Odómetro | engranaje | Cuenta las vueltas de la rueda y suelta una bola por milla. | Vitruvio
+dioptra | ~-150 | H | Dioptra | engranaje, trigonometria | Instrumento de topografía con tornillos de ajuste. | Herón de Alejandría
+automatas-heron | ~60 | I | Autómatas de Herón | eolipila, polea | Teatros mecánicos, puertas automáticas y máquina de monedas. | Herón de Alejandría
+organo-neumatico | ~120 | I | Fuelles de órgano | organo-hidraulico, fuelle | El aire a presión sustituye al agua. |
+carro-brujula | ~235 | I | Carro que apunta al sur | engranaje | Tren diferencial que mantiene una figura orientada. | Ma Jun
+cadena-transmision-china | 1094 | H | Transmisión por cadena | reloj-su-song | Cadena sin fin en la torre de Su Song. |
+cardado-arco | ~-200 | H | Arco de cardar | arco, algodon | Vibración de la cuerda que ahueca la fibra. |
+molino-rodezno | ~-100 | S | Molino de rodezno | rueda-hidraulica | Rueda horizontal sin engranajes. |
+molino-barcas | 537 | S | Molinos flotantes | molino-agua | Montados sobre barcas en el Tíber durante el asedio de Roma. | Belisario
+molino-papel-mazos | 794 | S | Molino de papel de Bagdad | papel, molino-agua | Fabricación en serie con energía hidráulica. |
+ruedas-al-jazari | 1206 | C | Libro de los ingenios mecánicos | reloj-agua-automata | Cincuenta máquinas descritas con instrucciones de montaje. | al-Jazari
+bomba-doble-efecto | 1206 | H | Bomba de succión de doble efecto | reloj-agua-automata, bomba-impelente | Cigüeñal, bielas y válvulas. | al-Jazari
+ventilador-rotativo | ~180 | H | Ventilador rotativo | manivela | Siete ruedas movidas a mano. | Ding Huan
+aventadora | ~120 | H | Aventadora de manivela | manivela | Corriente de aire que separa el grano de la paja. |
+taladro-percusion-china | ~-100 | T | Perforación profunda a percusión | bambu-cables, hierro-colado | Pozos de salmuera de cientos de metros en Sichuan. |
+bambu-cables | ~-300 | M | Cables de bambú trenzado | cuerda | Sogas muy resistentes para puentes y sondeos. |
+gas-natural-china | ~-100 | S | Uso del gas natural | taladro-percusion-china | Conducido por cañas de bambú para evaporar salmuera. |
+puente-colgante-cadenas | ~600 | S | Puente colgante de cadenas de hierro | forja, bambu-cables | Yunnan y Sichuan. |
+puente-arco-rebajado | 605 | S | Puente de arco rebajado | arco-dovelas | Puente de Anji. | Li Chun
+pagoda-madera | 1056 | S | Gran estructura de madera ensamblada | cercha | Pagoda de Yingxian, de 67 m. |
+tratado-construccion-chino | 1103 | C | Yingzao Fashi | xilografia, pagoda-madera | Normas modulares de construcción. | Li Jie
+@@ agua-viento | Agua y viento
+rueda-pecho | ~1450 | H | Rueda hidráulica de costado | molino-agua | El agua entra a media altura. |
+rueda-arriba | ~-50 | H | Rueda de alimentación superior | rueda-hidraulica | El peso del agua mueve la rueda. |
+molino-torre | ~1300 | S | Molino de torre | molino-viento-poste | Solo gira el tejado. |
+molino-desague | ~1410 | S | Molino de drenaje | molino-torre, tornillo-arquimedes | Pólders de Holanda. |
+molino-aserrar-viento | 1594 | S | Aserradero de viento | molino-torre, biela-manivela | Cigüeñal que mueve sierras. | Cornelis Corneliszoon
+cola-orientacion | 1745 | H | Orientación automática del molino | molino-torre | Rueda de cola. | Edmund Lee
+rueda-poncelet | 1824 | H | Rueda de álabes curvos | principia, molino-agua | Rendimiento del 60 %. | Jean-Victor Poncelet
+turbina-francis | 1849 | H | Turbina Francis | turbina-hidraulica | Flujo radial hacia dentro. | James Francis
+turbina-pelton | 1879 | H | Turbina Pelton | turbina-hidraulica | Cucharas dobles para grandes saltos. | Lester Pelton
+turbina-kaplan | 1913 | H | Turbina Kaplan | turbina-francis | Palas orientables para saltos bajos. | Viktor Kaplan
+@ medicion | Medida, tiempo e instrumentos | #8fa3ad
+@@ tiempo | Medida del tiempo
+merkhet | ~-600 | H | Merkhet | reloj-sol | Plomada para marcar las horas por las estrellas. |
+reloj-incienso | ~500 | H | Reloj de incienso | hogar | Barritas que arden a ritmo conocido. |
+reloj-vela | ~880 | H | Reloj de vela | vela-cera | Velas graduadas. |
+reloj-arena | ~1330 | H | Reloj de arena | vidrio-soplado | Ampolletas para las guardias de mar. |
+clepsidra-ctesibio | ~-250 | I | Clepsidra de caudal constante | clepsidra, bomba-impelente | Flotador con cremallera y aguja. | Ctesibio
+torre-vientos | ~-50 | S | Torre de los Vientos | clepsidra-ctesibio, reloj-sol | Reloj público de Atenas. |
+reloj-astronomico-yixing | 725 | I | Escape hidráulico | clepsidra, engranaje | Esfera armilar movida por agua. | Yi Xing
+reloj-elefante | 1206 | I | Reloj del elefante | reloj-agua-automata | Autómata horario. | al-Jazari
+reloj-torre | ~1300 | S | Reloj público de torre | escape-mecanico | Campanas horarias en ciudades. |
+astrario-dondi | 1364 | I | Astrario | escape-mecanico, epiciclos | Reloj planetario de siete caras. | Giovanni Dondi
+reloj-praga | 1410 | I | Reloj astronómico de Praga | astrario-dondi | Esfera astrolábica. |
+caracol-fusee | ~1430 | H | Caracol | reloj-muelle | Cono que iguala la fuerza del muelle. |
+minutero | ~1577 | H | Aguja de minutos | reloj-muelle | Para las observaciones de Tycho. | Jost Bürgi
+escape-ancora | 1657 | H | Escape de áncora | reloj-pendulo | Oscilaciones pequeñas: péndulos largos. | Robert Hooke
+escape-graham | 1715 | H | Escape de reposo | escape-ancora | Sin retroceso. | George Graham
+pendulo-compensado | 1726 | H | Péndulo de parrilla | escape-graham | Latón y acero compensan la dilatación. | John Harrison
+escape-cilindro | 1726 | H | Escape de cilindro | volante-espiral | Relojes planos. | George Graham
+escape-ancora-suiza | 1755 | H | Escape de áncora libre | volante-espiral | Base del reloj mecánico moderno. | Thomas Mudge
+tourbillon | 1801 | H | Tourbillon | escape-ancora-suiza | Jaula giratoria que promedia la gravedad. | Abraham-Louis Breguet
+cronografo | 1821 | I | Cronógrafo | escape-ancora-suiza | Marca tiempos con tinta. | Nicolas Rieussec
+hora-ferroviaria | 1840 | S | Hora unificada ferroviaria | telegrafo-ferroviario | Great Western adopta la hora de Londres. |
+reloj-electrico | 1840 | I | Reloj eléctrico | electroiman, reloj-pendulo | Péndulo impulsado por corriente. | Alexander Bain
+reloj-pulsera | 1904 | I | Reloj de pulsera | escape-ancora-suiza | Santos de Cartier. |
+reloj-automatico | 1923 | I | Reloj de cuerda automática | reloj-pulsera | Masa oscilante. | John Harwood
+reloj-cuarzo-pulsera | 1969-12 | I | Reloj de pulsera de cuarzo | reloj-cuarzo, cmos | Seiko Astron. |
+reloj-digital | 1972 | I | Reloj digital | led, cmos | Pulsar. |
+segundo-atomico | 1967 | S | Segundo atómico | reloj-atomico | Definido por el cesio-133. |
+tiempo-universal-coordinado | 1972 | S | UTC | segundo-atomico | Con segundos intercalares. |
+reloj-optico | 2001 | I | Reloj óptico | laser, reloj-atomico | Peine de frecuencias. | Theodor Hänsch, John Hall
+@@ instrumentos | Pesas, medidas e instrumentos
+codo-real | ~-2700 | S | Codo real egipcio | geometria-egipcia | Patrón de longitud de 52,4 cm. |
+romana | ~-200 | H | Balanza romana | balanza, ley-palanca | Brazo desigual con pilón. |
+compas | ~-500 | H | Compás | bronce | Traza círculos y traslada medidas. |
+nivel-agua | ~-25 | H | Corobate | nivel-plomada | Regla con canal de agua. |
+esfera-armilar | ~-250 | H | Esfera armilar | tierra-esferica | Anillos que representan el cielo. | Eratóstenes
+torquetum | ~1280 | H | Torquetum | astrolabio | Convierte coordenadas. |
+ballestilla | ~1340 | H | Ballestilla | trigonometria | Vara con transversal. | Levi ben Gerson
+compas-proporcion | 1597 | H | Compás de proporción | elementos | Calculadora analógica. | Galileo Galilei
+calibre | 1631 | H | Calibre de nonio | nonio | Pie de rey. |
+nivel-burbuja | 1661 | H | Nivel de burbuja | vidrio-soplado | Tubo con alcohol. | Melchisédech Thévenot
+barometro-aneroide | 1844 | H | Barómetro aneroide | barometro | Cápsula metálica. | Lucien Vidi
+manometro-bourdon | 1849 | H | Manómetro de Bourdon | vapor-alta-presion | Tubo curvo. | Eugène Bourdon
+planimetro | 1854 | H | Planímetro | calculo | Mide áreas. | Jakob Amsler
+bloques-patron | 1896 | H | Bloques patrón | rectificadora | Galgas Johansson. | Carl Johansson
+metro-patron | 1889 | S | Metro y kilogramo internacionales | sistema-metrico, elemento-osmio-iridio | Platino e iridio. |
+interferometro | 1881 | H | Interferómetro | doble-rendija | Mide en longitudes de onda. | Albert Michelson
+metro-luz | 1983 | S | Metro definido por la luz | laser, segundo-atomico | Distancia recorrida en 1/299 792 458 s. |
+sistema-internacional | 1960 | S | Sistema Internacional de Unidades | metro-patron | Siete unidades básicas. |
+kilogramo-planck | 2019-05 | S | Unidades definidas por constantes | sistema-internacional, efecto-josephson | El kilogramo deja de ser un objeto. |
+maquina-medir-coordenadas | 1959 | H | Máquina de medir por coordenadas | control-numerico | Ferranti. |
+microscopio-fuerza-atomica | 1986 | I | Microscopio de fuerza atómica | microscopio-efecto-tunel | Una punta que palpa átomos. | Gerd Binnig
+termopar | 1826 | H | Termopar | termoelectricidad | Mide temperaturas altas. |
+pirometro | 1782 | H | Pirómetro | porcelana-europea | Conos de arcilla. | Josiah Wedgwood
+calorimetro | 1782 | H | Calorímetro de hielo | calor-latente | Mide calor. | Antoine Lavoisier, Pierre-Simon Laplace
+espectroscopio | 1859 | H | Espectroscopio de prisma | espectroscopia, vidrio-optico | Colimador, prisma y anteojo. |
+refractometro | 1869 | H | Refractómetro | ley-snell | Índice de refracción. | Ernst Abbe
+ph-metro | 1934 | H | Medidor de pH | escala-ph, triodo | Electrodo de vidrio. | Arnold Beckman
+detector-centelleo | 1944 | H | Contador de centelleo | efecto-fotoelectrico | Fotomultiplicador. |

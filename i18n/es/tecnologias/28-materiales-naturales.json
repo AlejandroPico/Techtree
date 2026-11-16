@@ -1,0 +1,602 @@
+{
+ "madera-trabajada": {
+  "nombre": "Madera trabajada",
+  "resumen": "Tabla pulida de sauce de Gesher Benot Ya'aqov; la madera fue el material más usado y el que peor se conserva."
+ },
+ "estructura-madera-kalambo": {
+  "nombre": "Estructura de troncos ensamblados",
+  "resumen": "Dos troncos con muesca encajada en las cataratas de Kalambo (Zambia): la construcción en madera más antigua."
+ },
+ "hueso-trabajado": {
+  "nombre": "Útiles de hueso",
+  "resumen": "Huesos largos tallados como bifaces en Olduvai y Konso."
+ },
+ "piel-curtida-grasa": {
+  "nombre": "Pieles raspadas y engrasadas",
+  "resumen": "Raspadores con huellas de trabajo de piel; la grasa y el humo la conservan flexible."
+ },
+ "tendon-cuerda": {
+  "nombre": "Tendones y tripas como ligaduras",
+  "resumen": "Fibras animales que se contraen al secarse y aprietan el enmangue."
+ },
+ "concha-recipiente": {
+  "nombre": "Conchas como útil y recipiente",
+  "resumen": "Concha grabada y usada como herramienta por Homo erectus en Trinil (Java)."
+ },
+ "obsidiana": {
+  "nombre": "Obsidiana",
+  "resumen": "Vidrio volcánico de filo extremo, tallado en Melka Kunture y comerciado a larga distancia desde el Paleolítico."
+ },
+ "silex-seleccion": {
+  "nombre": "Selección de rocas de talla",
+  "resumen": "Elección y transporte de sílex, cuarcita y basalto según su fractura."
+ },
+ "arcilla-cruda": {
+  "nombre": "Arcilla modelada sin cocer",
+  "resumen": "Bisontes de arcilla del Tuc d'Audoubert; el barro como primer material plástico."
+ },
+ "marfil-tallado": {
+  "nombre": "Marfil tallado",
+  "resumen": "Hombre-león de Hohlenstein-Stadel y figuras del Jura suabo."
+ },
+ "asta-reno": {
+  "nombre": "Asta trabajada por ranurado",
+  "resumen": "Varillas extraídas con buril para puntas y arpones: material elástico y resistente."
+ },
+ "buril": {
+  "nombre": "Buril",
+  "resumen": "Útil de sílex con diedro cortante para grabar y ranurar hueso, asta y marfil."
+ },
+ "cola-animal": {
+  "nombre": "Cola de colágeno",
+  "resumen": "Pieles y tendones hervidos: adhesivo hallado en Nahal Hemar."
+ },
+ "resina-pino": {
+  "nombre": "Resinas vegetales",
+  "resumen": "Resina de conífera mezclada con ocre como adhesivo de enmangue en Sibudu."
+ },
+ "adhesivo-compuesto": {
+  "nombre": "Adhesivos compuestos",
+  "resumen": "Resina, ocre y cera en proporción medida y calentados: una receta con varios ingredientes."
+ },
+ "cera-abeja-uso": {
+  "nombre": "Cera de abeja",
+  "resumen": "Cera con resina y fibra para atar puntas en Border Cave."
+ },
+ "carbon-pigmento": {
+  "nombre": "Negro de carbón y manganeso",
+  "resumen": "Dibujos de Chauvet con carbón de pino y óxidos de manganeso."
+ },
+ "tapial": {
+  "nombre": "Tierra apisonada (tapial)",
+  "resumen": "Tierra húmeda compactada entre tablas; murallas chinas y mediterráneas."
+ },
+ "bahareque": {
+  "nombre": "Entramado de cañas y barro",
+  "resumen": "Zarzo recubierto de barro: paredes ligeras del Neolítico."
+ },
+ "yeso": {
+  "nombre": "Yeso",
+  "resumen": "Aljez calcinado a solo 150 °C; enlucidos y recipientes del Neolítico precerámico."
+ },
+ "vajilla-blanca": {
+  "nombre": "Vajilla blanca de cal y yeso",
+  "resumen": "Recipientes moldeados en cal antes de la cerámica en el Levante."
+ },
+ "estuco": {
+  "nombre": "Estuco",
+  "resumen": "Cal, polvo de mármol y pigmentos: superficie para la pintura mural."
+ },
+ "fresco": {
+  "nombre": "Pintura al fresco",
+  "resumen": "Pigmentos sobre cal húmeda que carbonata y los fija; Cnosos y Akrotiri."
+ },
+ "betun-impermeable": {
+  "nombre": "Betún como mortero e impermeabilizante",
+  "resumen": "Asfalto natural en baños, barcas y muros de Mesopotamia y el Indo."
+ },
+ "piedra-seca": {
+  "nombre": "Mampostería en seco",
+  "resumen": "Piedras sin mortero trabadas por su peso."
+ },
+ "canteria": {
+  "nombre": "Cantería de sillares",
+  "resumen": "Bloques escuadrados con cinceles de cobre, mazas de dolerita y cuñas de madera."
+ },
+ "cuna-madera-cantera": {
+  "nombre": "Arranque con cuñas",
+  "resumen": "Cuñas de madera empapadas que al hincharse parten el granito; canteras de Asuán."
+ },
+ "pulido-abrasivos": {
+  "nombre": "Abrasivos de arena y esmeril",
+  "resumen": "Arena, arenisca y, después, esmeril de Naxos para pulir piedra y metal."
+ },
+ "esteatita": {
+  "nombre": "Esteatita tallada y cocida",
+  "resumen": "Piedra blanda que endurece al cocerla; cuentas y sellos del Indo."
+ },
+ "lapislazuli": {
+  "nombre": "Lapislázuli",
+  "resumen": "Extraído en Badajshán y llevado hasta Egipto y Sumer."
+ },
+ "jade": {
+  "nombre": "Jade trabajado",
+  "resumen": "Nefrita cortada con arena y cuerda; culturas Xinglongwa y Hongshan."
+ },
+ "ambar-trabajado": {
+  "nombre": "Ámbar tallado",
+  "resumen": "Colgantes y figuras del Báltico."
+ },
+ "conchas-nacar": {
+  "nombre": "Conchas pintadas y perforadas",
+  "resumen": "Conchas con pigmento usadas por neandertales en la cueva de los Aviones (Cartagena)."
+ },
+ "cuero": {
+  "nombre": "Cuero curtido",
+  "resumen": "Zapato de Areni-1 y la indumentaria de Ötzi."
+ },
+ "pergamino-crudo": {
+  "nombre": "Piel cruda tensada",
+  "resumen": "Piel sin curtir secada en tensión: parches de tambor, escudos y soportes."
+ },
+ "corcho": {
+  "nombre": "Corcho",
+  "resumen": "Corteza de alcornoque para flotadores y tapones."
+ },
+ "bambu": {
+  "nombre": "Bambú estructural",
+  "resumen": "Cañas ligeras y resistentes para andamios, tuberías y casas en Asia."
+ },
+ "laca": {
+  "nombre": "Laca",
+  "resumen": "Savia del árbol de la laca endurecida en capas; cuenco rojo de Hemudu."
+ },
+ "barniz": {
+  "nombre": "Barnices de resina y aceite",
+  "resumen": "Resinas disueltas en aceite secante."
+ },
+ "aceite-linaza": {
+  "nombre": "Aceite secante de linaza",
+  "resumen": "Polimeriza al aire y forma una película dura."
+ },
+ "pez-naval": {
+  "nombre": "Pez y brea de calafate",
+  "resumen": "Alquitrán de madera para impermeabilizar cascos y ánforas."
+ },
+ "alquitran-madera": {
+  "nombre": "Destilación seca de la madera",
+  "resumen": "Carboneras que rinden carbón, alquitrán y pez."
+ },
+ "goma-arabiga": {
+  "nombre": "Goma arábiga",
+  "resumen": "Exudado de acacia: aglutinante de tintas y pinturas."
+ },
+ "natron": {
+  "nombre": "Natrón",
+  "resumen": "Carbonato sódico natural: momificación, vidrio y lavado."
+ },
+ "potasa": {
+  "nombre": "Potasa de cenizas",
+  "resumen": "Lixiviado de cenizas de madera: álcali para jabón y vidrio."
+ },
+ "azuela": {
+  "nombre": "Azuela",
+  "resumen": "Hoja transversal para desbastar tablas y vaciar troncos."
+ },
+ "ensamble-caja-espiga": {
+  "nombre": "Ensamble de caja y espiga",
+  "resumen": "Pozos neolíticos de Sajonia revestidos con tablones ensamblados."
+ },
+ "cuna-rajado": {
+  "nombre": "Rajado con cuñas",
+  "resumen": "Tablas obtenidas hendiendo el tronco siguiendo la fibra."
+ },
+ "tabla-aserrada": {
+  "nombre": "Tablas aserradas",
+  "resumen": "La sierra de cobre da tablas finas y regulares."
+ },
+ "contrachapado-egipcio": {
+  "nombre": "Madera contrachapada",
+  "resumen": "Seis capas encoladas con la fibra cruzada en un ataúd de la III dinastía."
+ },
+ "chapa-taracea": {
+  "nombre": "Chapeado y taracea",
+  "resumen": "Láminas finas de maderas preciosas y marfil encoladas."
+ },
+ "cola-pescado": {
+  "nombre": "Cola de pescado",
+  "resumen": "Adhesivo fuerte y flexible de vejigas natatorias."
+ },
+ "torneado-madera": {
+  "nombre": "Torneado de madera",
+  "resumen": "Cuencos y patas torneadas; tumba de Gordio."
+ },
+ "cepillo-carpintero": {
+  "nombre": "Cepillo de carpintero",
+  "resumen": "Cuchilla en un cuerpo de madera o hierro; Pompeya."
+ },
+ "clavo-hierro": {
+  "nombre": "Clavo de hierro forjado",
+  "resumen": "Uniones rápidas; siete toneladas halladas en Inchtuthil."
+ },
+ "sierra-bastidor": {
+  "nombre": "Sierra de bastidor",
+  "resumen": "Hoja fina tensada en un marco."
+ },
+ "berbiqui": {
+  "nombre": "Berbiquí",
+  "resumen": "Manivela acodada para taladrar con giro continuo."
+ },
+ "garlopa-banco": {
+  "nombre": "Banco de carpintero",
+  "resumen": "Tablero con topes para sujetar la pieza."
+ },
+ "aserradero-vapor": {
+  "nombre": "Aserradero de sierra circular a vapor",
+  "resumen": "Producción masiva de tablas normalizadas."
+ },
+ "sierra-circular": {
+  "nombre": "Sierra circular",
+  "resumen": "Disco dentado giratorio."
+ },
+ "sierra-cinta": {
+  "nombre": "Sierra de cinta",
+  "resumen": "Hoja sin fin sobre dos volantes; práctica desde 1846."
+ },
+ "estructura-globo": {
+  "nombre": "Entramado ligero de madera",
+  "resumen": "Montantes finos y clavos baratos: casas levantadas en días."
+ },
+ "clavo-maquina": {
+  "nombre": "Clavo cortado a máquina",
+  "resumen": "Clavos baratos troquelados de chapa."
+ },
+ "tornillo-madera-maquina": {
+  "nombre": "Tornillo para madera a máquina",
+  "resumen": "Fabricación en serie."
+ },
+ "contrachapado-industrial": {
+  "nombre": "Contrachapado industrial",
+  "resumen": "Chapas desenrolladas del tronco y encoladas."
+ },
+ "tablero-aglomerado": {
+  "nombre": "Tablero aglomerado",
+  "resumen": "Virutas prensadas con resina."
+ },
+ "creosota": {
+  "nombre": "Madera tratada con creosota",
+  "resumen": "Impregnación a presión de traviesas y postes."
+ },
+ "madera-laminada": {
+  "nombre": "Madera laminada encolada",
+  "resumen": "Vigas de tablas encoladas de gran luz."
+ },
+ "cola-caseina": {
+  "nombre": "Cola de caseína",
+  "resumen": "Adhesivo resistente al agua."
+ },
+ "mdf": {
+  "nombre": "Tablero de fibras de densidad media",
+  "resumen": "Fibras de madera con resina prensadas en seco."
+ },
+ "madera-contralaminada": {
+  "nombre": "Madera contralaminada",
+  "resumen": "Paneles de capas cruzadas para edificios de varias plantas."
+ },
+ "calera": {
+  "nombre": "Horno de cal",
+  "resumen": "Hornos de cuba para calcinar caliza de forma continua."
+ },
+ "cal-apagada": {
+  "nombre": "Apagado y maduración de la cal",
+  "resumen": "La cal viva con agua da una pasta que mejora con meses de reposo."
+ },
+ "mortero-cal": {
+  "nombre": "Mortero de cal y arena",
+  "resumen": "Endurece al absorber CO2 del aire."
+ },
+ "puzolana": {
+  "nombre": "Puzolana",
+  "resumen": "Ceniza volcánica de Pozzuoli que reacciona con la cal y fragua bajo el agua."
+ },
+ "cocciopesto": {
+  "nombre": "Mortero de teja molida",
+  "resumen": "Cerámica triturada que da hidraulicidad; cisternas fenicias y romanas."
+ },
+ "opus-caementicium": {
+  "nombre": "Encofrado y hormigón en masa",
+  "resumen": "Hormigón vertido entre paramentos; Porticus Aemilia."
+ },
+ "hormigon-marino-romano": {
+  "nombre": "Hormigón marino romano",
+  "resumen": "Puertos como Cesarea: la tobermorita crece con el agua de mar y lo refuerza con los siglos."
+ },
+ "aridos-ligeros": {
+  "nombre": "Áridos ligeros",
+  "resumen": "Piedra pómez y ánforas vacías en lo alto de la cúpula del Panteón."
+ },
+ "cemento-romano-parker": {
+  "nombre": "Cemento natural",
+  "resumen": "Nódulos de marga calcinados: «cemento romano»."
+ },
+ "cal-hidraulica-artificial": {
+  "nombre": "Cal hidráulica artificial",
+  "resumen": "Mezcla dosificada de caliza y arcilla."
+ },
+ "clinker": {
+  "nombre": "Clínker a alta temperatura",
+  "resumen": "Cocción hasta la sinterización: el Portland moderno."
+ },
+ "horno-rotatorio": {
+  "nombre": "Horno rotatorio de cemento",
+  "resumen": "Tubo inclinado giratorio de producción continua."
+ },
+ "hormigon-lambot": {
+  "nombre": "Barca de cemento armado",
+  "resumen": "Primer objeto de ferrocemento."
+ },
+ "sistema-hennebique": {
+  "nombre": "Estructura monolítica de hormigón armado",
+  "resumen": "Pilares, vigas y losas en una pieza con estribos."
+ },
+ "ensayo-conos": {
+  "nombre": "Relación agua-cemento",
+  "resumen": "La resistencia depende de la proporción de agua."
+ },
+ "hormigonera-camion": {
+  "nombre": "Camión hormigonera",
+  "resumen": "Hormigón amasado en ruta."
+ },
+ "bloque-hormigon": {
+  "nombre": "Bloque de hormigón",
+  "resumen": "Máquina de moldear bloques huecos."
+ },
+ "hormigon-aireado": {
+  "nombre": "Hormigón celular curado en autoclave",
+  "resumen": "Ligero y aislante."
+ },
+ "fibrocemento": {
+  "nombre": "Fibrocemento de amianto",
+  "resumen": "Placas resistentes; prohibido después por la toxicidad del amianto."
+ },
+ "aditivo-plastificante": {
+  "nombre": "Aditivos plastificantes",
+  "resumen": "Lignosulfonatos que fluidifican el hormigón con menos agua."
+ },
+ "hormigon-alta-resistencia": {
+  "nombre": "Hormigón de alta resistencia",
+  "resumen": "Humo de sílice y superplastificantes."
+ },
+ "hormigon-autocompactante": {
+  "nombre": "Hormigón autocompactante",
+  "resumen": "Fluye y rellena el encofrado sin vibrar."
+ },
+ "geopolimeros": {
+  "nombre": "Geopolímeros",
+  "resumen": "Aglomerantes de aluminosilicatos activados con álcalis."
+ },
+ "desgrasante": {
+  "nombre": "Desgrasantes en la pasta",
+  "resumen": "Arena, concha o paja evitan que la vasija se agriete al cocer."
+ },
+ "coccion-hoguera": {
+  "nombre": "Cocción en hoguera abierta",
+  "resumen": "Seiscientos a ochocientos grados sin horno."
+ },
+ "ceramica-jomon": {
+  "nombre": "Cerámica Jōmon",
+  "resumen": "Vasijas con impresiones de cuerda en Japón."
+ },
+ "ceramica-cardial": {
+  "nombre": "Cerámica impresa cardial",
+  "resumen": "Decoración con el borde de una concha en el Mediterráneo occidental."
+ },
+ "engobe": {
+  "nombre": "Engobe y bruñido",
+  "resumen": "Capa de arcilla fina que alisa y colorea."
+ },
+ "ceramica-pintada": {
+  "nombre": "Cerámica pintada",
+  "resumen": "Halaf y Samarra: óxidos minerales fijados al cocer."
+ },
+ "coccion-reductora": {
+  "nombre": "Cocción reductora",
+  "resumen": "Atmósfera sin oxígeno que da pastas grises y negras."
+ },
+ "figuras-negras": {
+  "nombre": "Cerámica de figuras negras",
+  "resumen": "Tres fases de cocción oxidante-reductora-oxidante; Corinto y Atenas."
+ },
+ "terra-sigillata": {
+  "nombre": "Terra sigillata",
+  "resumen": "Vajilla roja brillante hecha a molde en serie; Arezzo y la Graufesenque."
+ },
+ "gres": {
+  "nombre": "Gres",
+  "resumen": "Pasta vitrificada a más de 1200 °C; China Shang."
+ },
+ "horno-dragon": {
+  "nombre": "Horno dragón en pendiente",
+  "resumen": "Túnel inclinado de decenas de metros que alcanza 1300 °C."
+ },
+ "celadon": {
+  "nombre": "Celadón",
+  "resumen": "Vidriado verde de hierro en atmósfera reductora; hornos Yue."
+ },
+ "vidriado-plomo": {
+  "nombre": "Vidriado de plomo",
+  "resumen": "Funde a baja temperatura y da colores vivos; Han y Roma."
+ },
+ "loza-estannifera": {
+  "nombre": "Loza estannífera",
+  "resumen": "Vidriado blanco opaco de óxido de estaño; Basora."
+ },
+ "loza-dorada": {
+  "nombre": "Reflejo metálico",
+  "resumen": "Película de plata y cobre en tercera cocción reductora; Manises después."
+ },
+ "azul-cobalto-ceramica": {
+  "nombre": "Azul y blanco bajo cubierta",
+  "resumen": "Óxido de cobalto persa sobre porcelana de Jingdezhen."
+ },
+ "azul-cobalto-vidrio": {
+  "nombre": "Pigmento azul de cobalto",
+  "resumen": "Vidrios y vidriados azules egipcios coloreados con minerales de cobalto."
+ },
+ "mayolica": {
+  "nombre": "Mayólica",
+  "resumen": "Loza pintada italiana derivada de la hispanomusulmana."
+ },
+ "azulejo": {
+  "nombre": "Azulejo",
+  "resumen": "Revestimiento cerámico vidriado; alicatado andalusí y cuerda seca."
+ },
+ "porcelana-blanda": {
+  "nombre": "Porcelana blanda",
+  "resumen": "Porcelana de los Médici con frita de vidrio."
+ },
+ "loza-crema": {
+  "nombre": "Loza fina de pasta blanca",
+  "resumen": "Creamware barato y elegante producido en serie."
+ },
+ "pirometro-wedgwood": {
+  "nombre": "Pirómetro cerámico",
+  "resumen": "Cilindros de arcilla que se contraen según la temperatura del horno."
+ },
+ "porcelana-huesos": {
+  "nombre": "Porcelana de huesos",
+  "resumen": "Ceniza de hueso que da translucidez y resistencia."
+ },
+ "impresion-transferencia": {
+  "nombre": "Decoración por transferencia",
+  "resumen": "Estampas impresas pasadas a la loza."
+ },
+ "refractarios-silice": {
+  "nombre": "Ladrillo refractario de sílice",
+  "resumen": "Ladrillos Dinas para hornos siderúrgicos."
+ },
+ "horno-tunel": {
+  "nombre": "Horno túnel continuo",
+  "resumen": "Las piezas avanzan en vagonetas por zonas de temperatura."
+ },
+ "horno-hoffmann": {
+  "nombre": "Horno anular Hoffmann",
+  "resumen": "Fuego que recorre cámaras en anillo: ladrillos en continuo."
+ },
+ "extrusora-ladrillo": {
+  "nombre": "Extrusora de ladrillos",
+  "resumen": "Barra de arcilla continua cortada con alambre."
+ },
+ "ceramica-tecnica-alumina": {
+  "nombre": "Alúmina sinterizada",
+  "resumen": "Aislantes de bujía y herramientas de corte."
+ },
+ "circona-estabilizada": {
+  "nombre": "Circona tenaz",
+  "resumen": "Cerámica que detiene las grietas por transformación de fase."
+ },
+ "nitruro-silicio": {
+  "nombre": "Nitruro de silicio",
+  "resumen": "Cerámica estructural para rodamientos y turbinas."
+ },
+ "sanitarios-porcelana": {
+  "nombre": "Sanitarios de loza vitrificada",
+  "resumen": "Inodoro de pedestal de una pieza."
+ },
+ "frita": {
+  "nombre": "Fritado",
+  "resumen": "Arena y álcali sinterizados antes de fundir."
+ },
+ "vidrio-mosaico": {
+  "nombre": "Vidrio mosaico y millefiori",
+  "resumen": "Varillas de colores fundidas en sección."
+ },
+ "vidrio-molde": {
+  "nombre": "Vidrio colado en molde",
+  "resumen": "Cuencos tallados y pulidos; Nimrud."
+ },
+ "vidrio-incoloro-antimonio": {
+  "nombre": "Vidrio decolorado",
+  "resumen": "Antimonio y manganeso neutralizan el verde del hierro."
+ },
+ "vidrio-soplado-molde": {
+  "nombre": "Soplado en molde",
+  "resumen": "Botellas idénticas en serie."
+ },
+ "vidrio-camafeo": {
+  "nombre": "Vidrio camafeo",
+  "resumen": "Dos capas talladas: vaso Portland."
+ },
+ "copa-licurgo": {
+  "nombre": "Vidrio dicroico con nanopartículas",
+  "resumen": "Oro y plata coloidales: verde reflejado, rojo al trasluz."
+ },
+ "vidrio-ceniza-bosque": {
+  "nombre": "Vidrio potásico",
+  "resumen": "Ceniza de haya en lugar de natrón; vidrieras medievales."
+ },
+ "vidrio-corona": {
+  "nombre": "Vidrio plano por corona",
+  "resumen": "Burbuja abierta y girada hasta formar un disco."
+ },
+ "vidrio-cilindro": {
+  "nombre": "Vidrio plano por cilindro",
+  "resumen": "Manguito soplado, cortado y aplanado."
+ },
+ "espejo-vidrio-azogue": {
+  "nombre": "Espejo de vidrio azogado",
+  "resumen": "Amalgama de estaño tras un vidrio plano; Murano."
+ },
+ "vidrio-colado-laminas": {
+  "nombre": "Vidrio plano colado",
+  "resumen": "Vertido sobre mesa de hierro y pulido; Saint-Gobain."
+ },
+ "vidrio-flint-optico": {
+  "nombre": "Doblete acromático",
+  "resumen": "Lente crown y flint que cancelan la dispersión."
+ },
+ "vidrio-schott": {
+  "nombre": "Vidrios ópticos de composición diseñada",
+  "resumen": "Catálogo de vidrios con índice y dispersión a medida."
+ },
+ "botella-maquina": {
+  "nombre": "Máquina automática de botellas",
+  "resumen": "Succión y soplado sin operario."
+ },
+ "vidrio-estirado": {
+  "nombre": "Vidrio estirado",
+  "resumen": "Lámina continua tirada verticalmente del fundido."
+ },
+ "vidrio-pyrex": {
+  "nombre": "Vidrio de laboratorio y cocina",
+  "resumen": "Pyrex."
+ },
+ "lana-vidrio": {
+  "nombre": "Lana de vidrio",
+  "resumen": "Aislante térmico de fibras cortas."
+ },
+ "hilos-vidrio": {
+  "nombre": "Hilos de vidrio",
+  "resumen": "Vestido de fibra de vidrio en la Exposición de Chicago."
+ },
+ "vitroceramica": {
+  "nombre": "Vitrocerámica",
+  "resumen": "Vidrio cristalizado de forma controlada, sin dilatación."
+ },
+ "vidrio-fotocromatico": {
+  "nombre": "Vidrio fotocromático",
+  "resumen": "Se oscurece con la luz por haluros de plata."
+ },
+ "vidrio-gorilla": {
+  "nombre": "Vidrio reforzado por intercambio iónico",
+  "resumen": "Iones de potasio comprimen la superficie; pantallas de móvil."
+ },
+ "vidrio-bajo-emisivo": {
+  "nombre": "Vidrio de baja emisividad",
+  "resumen": "Capa metálica que refleja el infrarrojo."
+ },
+ "vidrio-metalico": {
+  "nombre": "Vidrio metálico",
+  "resumen": "Aleación enfriada tan rápido que no cristaliza."
+ }
+}

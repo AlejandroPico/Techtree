@@ -1,0 +1,117 @@
+@ transporte | Transporte | #6fb58e
+@@ terrestre | Transporte terrestre
+porteo | ~-30000 | T | Porteo con mecapal y parihuelas | cuerda | Carga a la espalda con banda frontal. |
+travois | ~-8000 | H | Travois | perro, cuerda | Dos pértigas arrastradas por un animal. |
+esquis | ~-6000 | H | Esquís | piedra-pulimentada | Esquís de Vis (Rusia) y Kalvträsk. |
+raquetas-nieve | ~-4000 | H | Raquetas de nieve | cuerda | Bastidor con red. |
+camino-troncos | ~-3800 | S | Camino de tablones | piedra-pulimentada | Sweet Track (Inglaterra). |
+yugo-cuernos | ~-3500 | H | Yugo de cuernos y de cruz | traccion-bovina | Transmite la fuerza del buey. |
+eje-giratorio | ~-500 | H | Eje delantero pivotante | carro-bueyes, forja | El carro gira sin arrastrar. |
+llanta-hierro | ~-700 | H | Llanta de hierro en caliente | rueda-radios, forja | El aro se contrae al enfriar. |
+bocado | ~-1300 | H | Bocado metálico | doma-caballo, bronce | Control del caballo. |
+arnes-pecho | ~-300 | H | Arnés de pechera | doma-caballo | China; no ahoga al animal. |
+silla-rigida | ~-200 | H | Silla de armazón rígido | montar | Reparte el peso sobre el lomo. |
+puente-piedra | ~-850 | S | Puente de arco de piedra | arco-dovelas | Esmirna; después los romanos. |
+puente-pontones | ~-500 | S | Puente de barcas | barco-tablas | Darío sobre el Bósforo. |
+miliario | ~-120 | S | Hitos de distancia | calzada | Miliarios romanos. |
+posta | ~-20 | S | Cursus publicus | calzada, servicio-postal | Relevos cada jornada. |
+carruaje-suspension | ~1450 | I | Coche de caja suspendida | eje-giratorio | Kocs (Hungría): de ahí «coche». |
+diligencia | 1640 | S | Servicio de diligencias | carruaje-suspension | Líneas regulares con horario. |
+omnibus | 1662 | S | Transporte público urbano | carruaje-suspension | Carrozas de cinco sueldos de París. | Blaise Pascal
+ballesta-eliptica | 1804 | H | Ballesta elíptica | ballestas-suspension | Suspensión sin correas. | Obadiah Elliott
+tranvia-caballos | 1832 | S | Tranvía de caballos | rail-hierro | Nueva York. |
+bicicleta-rueda-alta | 1871 | I | Biciclo de rueda alta | velocipedo, rodamiento-bolas | Radios de alambre tensados. | James Starley
+rueda-libre | 1898 | H | Piñón libre | bicicleta | Rodar sin pedalear. |
+cambio-desviador | 1905 | H | Cambio de desviador | bicicleta | Varias marchas. | Paul de Vivie
+neumatico-desmontable | 1891 | H | Neumático desmontable | neumatico | Michelin. | Édouard Michelin
+neumatico-radial | 1946 | H | Neumático radial | neumatico-desmontable | Michelin X. |
+semaforo-trafico | 1914 | I | Semáforo eléctrico | bombilla | Cleveland. |
+parquimetro | 1935 | I | Parquímetro | engranaje-reloj | Oklahoma City. |
+tunel-carretero | 1927 | S | Túnel de carretera ventilado | tuneladora, ventilador-electrico | Holland Tunnel. |
+puente-atirantado | 1955 | S | Puente atirantado moderno | hormigon-pretensado | Strömsund. |
+puente-golden-gate | 1937-05 | S | Gran puente colgante | puente-colgante-acero | Golden Gate: 1280 m de vano. |
+patinete-electrico | 2017 | S | Micromovilidad compartida | bateria-litio, gps | Patinetes de alquiler. |
+@@ automovil | Automóvil
+motor-gas-marcus | 1870 | I | Carro de Marcus | motor-lenoir | Motor de combustión sobre ruedas. | Siegfried Marcus
+triciclo-vapor-bollee | 1873 | I | Automóviles de vapor de Bollée | vapor-alta-presion | L'Obéissante. | Amédée Bollée
+volante | 1894 | H | Volante de dirección | automovil | Sustituye a la caña. | Alfred Vacheron
+direccion-ackermann | 1818 | H | Dirección de Ackermann | eje-giratorio | Cada rueda gira su ángulo. | Georg Lankensperger
+embrague | 1889 | H | Embrague de cono | motor-rapido | Desconecta motor y ruedas. |
+junta-cardan-eje | 1898 | H | Transmisión por eje cardán | cardan, automovil | En lugar de cadena. | Louis Renault
+bateria-coche | 1912 | H | Sistema eléctrico del automóvil | arranque-electrico | Dinamo, batería y luces. |
+limpiaparabrisas | 1903 | I | Limpiaparabrisas | automovil | Manual; después eléctrico. | Mary Anderson
+freno-hidraulico | 1921 | H | Frenos hidráulicos | prensa-hidraulica, freno-tambor | A las cuatro ruedas. | Malcolm Loughead
+freno-disco | 1953 | H | Frenos de disco | freno-hidraulico | Jaguar en Le Mans. |
+suspension-independiente | 1922 | H | Suspensión independiente | carroceria-autoportante | Cada rueda por separado. |
+sincronizado | 1928 | H | Cambio sincronizado | cambio-marchas | Cadillac. |
+diesel-turismo | 1936 | I | Turismo diésel | motor-diesel, bomba-inyeccion | Mercedes 260 D. |
+bomba-inyeccion | 1927 | H | Bomba de inyección | motor-diesel | Bosch. |
+escarabajo | 1938 | I | Volkswagen | carroceria-autoportante | Motor trasero refrigerado por aire. | Ferdinand Porsche
+jeep | 1941 | I | Todoterreno ligero | traccion-total | Willys MB. |
+traccion-total | 1903 | H | Tracción a las cuatro ruedas | automovil | Spyker 60 HP. |
+direccion-asistida | 1951 | H | Dirección asistida | freno-hidraulico | Chrysler Imperial. |
+mini | 1959 | I | Motor transversal y tracción delantera | traccion-delantera | Mini: motor transversal y tracción delantera dejan el 80 % del coche para los ocupantes. | Alec Issigonis
+seat-600 | 1957 | I | Motorización popular | escarabajo | Fiat y SEAT 600. | Dante Giacosa
+zona-deformacion | 1952 | C | Zona de deformación programada | carroceria-autoportante | Célula rígida y extremos que absorben. | Béla Barényi
+sonda-lambda | 1976 | H | Sonda lambda | catalizador, inyeccion-electronica | Mide el oxígeno del escape. |
+turbo-gasolina | 1962 | I | Turbo en turismos | turbocompresor | Oldsmobile Jetfire; después Saab. |
+inyeccion-directa-diesel | 1989 | I | Diésel de inyección directa | bomba-inyeccion, turbocompresor | Motores TDI: inyección directa con turbo y gestión electrónica.
+common-rail | 1997 | I | Conducto común | inyeccion-directa-diesel, microprocesador | Presión de 1350 bar. |
+bus-can | 1986 | S | Bus CAN | microprocesador | Red de centralitas. |
+diagnostico-obd | 1996 | S | Diagnóstico a bordo | bus-can | OBD-II. |
+gps-coche | 2000 | S | Navegación GPS civil precisa | gps, navegador-coche | Fin de la degradación de señal. |
+leaf | 2010-12 | I | Eléctrico de gran serie | bateria-litio | Nissan Leaf. |
+supercargador | 2012 | S | Red de carga rápida | electrico-litio | Corriente continua de alta potencia. |
+pila-combustible-coche | 2014 | I | Automóvil de hidrógeno de serie | pila-combustible | Toyota Mirai. |
+@@ naval | Navegación
+odre-flotador | ~-900 | H | Odres inflados | curtido | Balsas de pieles en relieves asirios. |
+coracle | ~-2000 | I | Barca de pieles | curtido, cesteria | Armazón de mimbre forrado. |
+kayak | ~-2000 | I | Kayak y umiak | curtido | Ártico. |
+calafateado | ~-2000 | T | Calafateado | betun, barco-tablas | Estopa y brea en las juntas. |
+espiga-mortaja | ~-1400 | T | Ensamble de espiga y mortaja | sierra-metal, barco-tablas | Casco mediterráneo. |
+vela-cuadra | ~-3000 | H | Vela cuadra con verga | vela | Egipto. |
+penteconter | ~-800 | I | Pentecóntero | quilla | Cincuenta remos. |
+espolon | ~-850 | H | Espolón | bronce, quilla | Arma naval. |
+puerto-artificial | ~-500 | S | Puerto artificial | dique-seco | Diques y muelles. |
+dique-seco | ~-600 | S | Dique seco y rampas de varada | polea | Diolkos y neorias. |
+sondaleza | ~-500 | H | Escandallo | plomo, cuerda | Mide el fondo. |
+periplo | ~-500 | C | Periplos y derroteros | alfabeto-griego | Descripciones de costa. |
+quinquerreme | ~-400 | I | Quinquerreme | trirreme | Siracusa. |
+esqueleto-primero | ~700 | T | Construcción a esqueleto | quilla, forja | Primero las cuadernas y luego el forro. |
+dromon | ~550 | I | Dromon | vela-latina | Galera bizantina. |
+dhow | ~600 | I | Dhow cosido | vela-latina | Océano Índico. |
+knarr | ~900 | I | Knarr | drakkar | Carguero oceánico vikingo. |
+brujula-seca | ~1300 | H | Brújula de bitácora | brujula | Aguja sobre pivote y rosa. |
+toleta-espadilla | ~1180 | H | Timón de codaste en Europa | timon-codaste | Coca de Winchester. |
+tabla-leste | ~1430 | T | Navegación de altura por latitud | cuadrante-nautico | Volta do mar. |
+cuadrante-nautico | ~1420 | H | Cuadrante náutico | cuadrante-astronomico | Altura de la Polar. |
+regimiento-sol | 1484 | C | Tablas de declinación solar | tablas-alfonsies | Regimento do sol. | Abraham Zacuto
+nao | ~1450 | I | Nao | carraca | Casco redondo. |
+porta-canon | 1501 | H | Porta de cañón | carraca, canon-bronce | Baterías bajo cubierta. |
+navio-linea | ~1650 | I | Navío de línea | galeon, porta-canon | Línea de batalla. |
+fragata | ~1740 | I | Fragata | navio-linea | Una batería, rápida. |
+goleta | ~1713 | I | Goleta | vela-latina | Velas de cuchillo. |
+rueda-timon | ~1703 | H | Rueda de timón | timon-codaste | Sustituye al pinzote. |
+bomba-cadena-naval | ~1770 | H | Bomba de achique de cadena | bomba-cadena | Navíos británicos. |
+distancias-lunares | 1767 | T | Longitud por distancias lunares | sextante, tabla-senos | Almanaque Náutico. | Nevil Maskelyne
+almanaque-nautico | 1767 | S | Almanaque Náutico | distancias-lunares | Efemérides anuales. |
+faro-fresnel | 1823 | H | Lente de Fresnel | ondas-transversales, lampara-argand | Faro de Cordouan. | Augustin Fresnel
+codigo-senales | 1857 | S | Código internacional de señales | navio-linea | Banderas. |
+vapor-transatlantico | 1838 | S | Travesía atlántica a vapor | barco-vapor | Sirius y Great Western. |
+great-eastern | 1858 | I | Great Eastern | casco-hierro | Doble casco, 211 m. | Isambard Brunel
+casco-acero | 1879 | I | Casco de acero | siemens-martin, casco-hierro | Rotomahana. |
+rompehielos | 1898 | I | Rompehielos polar | casco-acero | Yermak. | Stepán Makárov
+radio-naval | 1899 | S | Radio a bordo | radiotelegrafia | Socorro en el mar. |
+ecosonda | 1913 | I | Ecosonda | oscilador-fessenden | Fondo por eco. | Alexander Behm
+oscilador-fessenden | 1912 | I | Oscilador submarino | electroiman | Fessenden. | Reginald Fessenden
+estabilizador-aletas | 1933 | H | Aletas estabilizadoras | girocompas | Reducen el balance. |
+radar-naval | 1937 | I | Radar naval | radar | Detección de superficie. |
+loran | 1942 | S | Navegación hiperbólica | radar | LORAN. |
+bulbo-proa | 1929 | H | Bulbo de proa | tunel-viento | Bremen. |
+buque-nuclear | 1959 | I | Buque civil nuclear | submarino-nuclear | Rompehielos Lenin. |
+superpetrolero | 1966 | I | Superpetrolero | petrolero | Idemitsu Maru: 200.000 t. |
+hidroala | 1906 | I | Hidroala | helice | Forlanini. | Enrico Forlanini
+portacontenedores-celular | 1968 | I | Portacontenedores celular | contenedor | Guías verticales. |
+metanero | 1959 | I | Buque metanero | licuefaccion-aire | Methane Pioneer. |
+posicionamiento-dinamico | 1961 | T | Posicionamiento dinámico | helice, servomecanismos | Cuss 1. |
+ais | 2002 | S | Identificación automática de buques | gps | Cada buque emite por radio su identidad, posición y rumbo.

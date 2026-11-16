@@ -1,0 +1,210 @@
+{
+ "molienda": {
+  "nombre": "Molienda de granos silvestres",
+  "resumen": "Morteros y molederas con restos de almidón de avena y otras plantas silvestres (Paglicci, Kostenki)."
+ },
+ "pan": {
+  "nombre": "Pan ácimo",
+  "resumen": "Tortas de cereal silvestre y tubérculos cocidas por natufienses en Shubayqa 1 (Jordania)."
+ },
+ "cerveza": {
+  "nombre": "Fermentación de cereales (cerveza)",
+  "resumen": "Residuos de malteado y fermentación en morteros de la cueva de Raqefet (Israel)."
+ },
+ "hoz": {
+  "nombre": "Hoz con dientes de sílex",
+  "resumen": "Láminas insertadas en un mango curvo; el «lustre de hoz» delata la siega de cereales."
+ },
+ "granero": {
+  "nombre": "Granero elevado",
+  "resumen": "Almacenes con suelo suspendido para grano silvestre en Dhra' (Jordania), antes de la domesticación."
+ },
+ "extraccion-sal": {
+  "nombre": "Obtención de sal por evaporación",
+  "resumen": "Hervir salmuera en vasijas (briquetage) en Poiana Slatinei (Rumanía)."
+ },
+ "cultivo-predomestico": {
+  "nombre": "Cultivo de cereales silvestres",
+  "resumen": "Siembra deliberada de plantas aún morfológicamente silvestres en el Creciente Fértil."
+ },
+ "trigo-cebada": {
+  "nombre": "Domesticación de trigo y cebada",
+  "resumen": "Escanda, espelta menor y cebada con raquis no quebradizo: la planta ya depende del agricultor."
+ },
+ "legumbres": {
+  "nombre": "Domesticación de legumbres",
+  "resumen": "Lenteja, guisante, garbanzo y yero completan la dieta y fijan nitrógeno en el suelo."
+ },
+ "mijo": {
+  "nombre": "Domesticación del mijo",
+  "resumen": "Mijo común y menor cultivados en el norte de China (Cishan)."
+ },
+ "arroz": {
+  "nombre": "Domesticación del arroz",
+  "resumen": "Proceso gradual en el valle del Yangtsé (Shangshan, Hemudu)."
+ },
+ "maiz": {
+  "nombre": "Domesticación del maíz",
+  "resumen": "A partir del teosinte en el valle del Balsas (México)."
+ },
+ "patata": {
+  "nombre": "Domesticación de la patata",
+  "resumen": "Altiplano andino, en torno al lago Titicaca."
+ },
+ "regadio": {
+  "nombre": "Regadío por canales",
+  "resumen": "Canales que derivan agua a los campos en Choga Mami (Mesopotamia)."
+ },
+ "arado": {
+  "nombre": "Arado de madera (ard)",
+  "resumen": "Rompe el suelo con tracción animal y multiplica la superficie cultivable por persona."
+ },
+ "vino": {
+  "nombre": "Vino de uva",
+  "resumen": "Residuos de ácido tartárico en tinajas neolíticas de Georgia."
+ },
+ "olivo-vid": {
+  "nombre": "Cultivo del olivo y la vid",
+  "resumen": "Arboricultura mediterránea: exige inversión a largo plazo y prensas."
+ },
+ "apicultura": {
+  "nombre": "Apicultura en colmenas",
+  "resumen": "Colmenas cilíndricas representadas en el templo solar de Nyuserre (Egipto)."
+ },
+ "molino-rotatorio": {
+  "nombre": "Molino rotatorio de mano",
+  "resumen": "Dos muelas circulares giran una sobre otra; aparece en la península ibérica y Cartago."
+ },
+ "sembradora-china": {
+  "nombre": "Sembradora de tubos",
+  "resumen": "Sembradora Han de varios tubos tirada por un animal."
+ },
+ "arado-vertedera": {
+  "nombre": "Arado de vertedera de hierro",
+  "resumen": "Voltea la tierra; rejas y vertederas de hierro colado en la China Han."
+ },
+ "collera": {
+  "nombre": "Collera rígida",
+  "resumen": "Apoya la carga en los hombros del caballo sin ahogarlo; China, y Europa hacia el siglo IX."
+ },
+ "arado-pesado": {
+  "nombre": "Arado pesado con ruedas",
+  "resumen": "Cuchilla, reja y vertedera para los suelos arcillosos del norte de Europa."
+ },
+ "rotacion-trienal": {
+  "nombre": "Rotación trienal",
+  "resumen": "Tres hojas con cereal de invierno, de primavera y barbecho."
+ },
+ "azucar": {
+  "nombre": "Azúcar cristalizado",
+  "resumen": "Cristalización del jugo de caña hervido en la India gupta."
+ },
+ "sembradora-tull": {
+  "nombre": "Sembradora mecánica de Tull",
+  "resumen": "Deposita la semilla en hileras a profundidad regular."
+ },
+ "rotacion-norfolk": {
+  "nombre": "Rotación cuatrienal de Norfolk",
+  "resumen": "Trigo, nabos, cebada y trébol: elimina el barbecho y alimenta ganado en invierno."
+ },
+ "segadora": {
+  "nombre": "Segadora mecánica",
+  "resumen": "Cuchilla alternativa y molinete tirados por caballos."
+ },
+ "superfosfato": {
+  "nombre": "Superfosfato",
+  "resumen": "Fosfato tratado con ácido sulfúrico: primer fertilizante químico industrial."
+ },
+ "tractor": {
+  "nombre": "Tractor de gasolina",
+  "resumen": "Tractor con motor de combustión capaz de avanzar y retroceder."
+ },
+ "ddt": {
+  "nombre": "DDT como insecticida",
+  "resumen": "Descubrimiento de su acción insecticida; más tarde restringido por su persistencia ambiental."
+ },
+ "trigo-enano": {
+  "nombre": "Trigos semienanos de alto rendimiento",
+  "resumen": "Variedades mexicanas que sostienen la Revolución Verde."
+ },
+ "planta-transgenica": {
+  "nombre": "Planta transgénica",
+  "resumen": "Primeras plantas con un gen ajeno insertado mediante Agrobacterium."
+ },
+ "perro": {
+  "nombre": "Domesticación del perro",
+  "resumen": "Entierro de Bonn-Oberkassel; la separación genética respecto al lobo es anterior."
+ },
+ "oveja-cabra": {
+  "nombre": "Domesticación de oveja y cabra",
+  "resumen": "Montes Zagros y Anatolia oriental."
+ },
+ "bovino": {
+  "nombre": "Domesticación del bovino",
+  "resumen": "Uro domesticado en el alto Éufrates; el cebú, de forma independiente, en el Indo."
+ },
+ "cerdo": {
+  "nombre": "Domesticación del cerdo",
+  "resumen": "Anatolia y, por separado, China."
+ },
+ "lacteos": {
+  "nombre": "Ordeño y consumo de leche",
+  "resumen": "Grasas lácteas en cerámicas del noroeste de Anatolia."
+ },
+ "queso": {
+  "nombre": "Queso",
+  "resumen": "Coladores cerámicos con residuos lácteos en Cuyavia (Polonia)."
+ },
+ "asno": {
+  "nombre": "Domesticación del asno",
+  "resumen": "África oriental; primer animal de carga a larga distancia."
+ },
+ "traccion-bovina": {
+  "nombre": "Tracción bovina con yugo",
+  "resumen": "Bueyes uncidos para tirar de arados y narrias."
+ },
+ "lana": {
+  "nombre": "Oveja lanar",
+  "resumen": "Selección de vellones largos que se pueden hilar."
+ },
+ "gusano-seda": {
+  "nombre": "Sericicultura",
+  "resumen": "Cría de Bombyx mori sobre morera en la China neolítica."
+ },
+ "doma-caballo": {
+  "nombre": "Caballo doméstico moderno",
+  "resumen": "Linaje DOM2 de la estepa del Volga-Don, apto para montar y tirar; antes, Botai."
+ },
+ "gallina": {
+  "nombre": "Domesticación de la gallina",
+  "resumen": "Gallo bankiva atraído por los arrozales del sudeste asiático."
+ },
+ "dromedario": {
+  "nombre": "Domesticación del dromedario",
+  "resumen": "Sudeste de Arabia; abre las rutas caravaneras del desierto."
+ },
+ "destilacion-alcohol": {
+  "nombre": "Destilación de alcohol",
+  "resumen": "Aqua ardens obtenida del vino en la escuela de Salerno."
+ },
+ "conserva-appert": {
+  "nombre": "Conserva por calor en recipiente cerrado",
+  "resumen": "Alimentos hervidos en botellas selladas."
+ },
+ "lata": {
+  "nombre": "Lata de conserva",
+  "resumen": "Recipiente de hierro estañado soldado."
+ },
+ "refrigeracion-compresion": {
+  "nombre": "Refrigeración por compresión de vapor",
+  "resumen": "Ciclo cerrado con éter que produce hielo."
+ },
+ "pasteurizacion": {
+  "nombre": "Pasteurización",
+  "resumen": "Calentamiento moderado que destruye los microbios que alteran vino y leche."
+ },
+ "frigorifico-amoniaco": {
+  "nombre": "Máquina frigorífica de amoníaco",
+  "resumen": "Compresor fiable para cervecerías y mataderos."
+ }
+}

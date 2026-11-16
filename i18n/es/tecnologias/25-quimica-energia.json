@@ -1,0 +1,642 @@
+{
+ "ley-proporciones-definidas": {
+  "nombre": "Ley de las proporciones definidas",
+  "resumen": "Un compuesto tiene siempre la misma composición."
+ },
+ "simbolos-quimicos": {
+  "nombre": "Símbolos químicos modernos",
+  "resumen": "Letras para los elementos y subíndices para las proporciones."
+ },
+ "isomeria": {
+  "nombre": "Isomería",
+  "resumen": "Misma fórmula, distintas sustancias."
+ },
+ "catalisis": {
+  "nombre": "Catálisis",
+  "resumen": "Sustancias que aceleran una reacción sin consumirse."
+ },
+ "ozono": {
+  "nombre": "Ozono",
+  "resumen": "Olor de las descargas eléctricas."
+ },
+ "valencia": {
+  "nombre": "Valencia",
+  "resumen": "Cada átomo forma un número fijo de enlaces."
+ },
+ "congreso-karlsruhe": {
+  "nombre": "Congreso de Karlsruhe",
+  "resumen": "Pesos atómicos unificados gracias a Cannizzaro."
+ },
+ "estereoquimica": {
+  "nombre": "Carbono tetraédrico",
+  "resumen": "Las moléculas tienen forma en tres dimensiones."
+ },
+ "ley-accion-masas": {
+  "nombre": "Ley de acción de masas",
+  "resumen": "Equilibrio químico."
+ },
+ "disociacion-electrolitica": {
+  "nombre": "Disociación electrolítica",
+  "resumen": "Las sales se separan en iones al disolverse."
+ },
+ "termodinamica-quimica": {
+  "nombre": "Termodinámica química",
+  "resumen": "Energía libre y regla de las fases."
+ },
+ "escala-ph": {
+  "nombre": "Escala de pH",
+  "resumen": "Medida de la acidez."
+ },
+ "cristalografia-rayos-x": {
+  "nombre": "Cristalografía de rayos X",
+  "resumen": "Posición de cada átomo en un cristal."
+ },
+ "enlace-quimico-cuantico": {
+  "nombre": "Naturaleza cuántica del enlace",
+  "resumen": "Hibridación y resonancia."
+ },
+ "espectroscopia-rmn": {
+  "nombre": "Espectroscopia de RMN",
+  "resumen": "El desplazamiento químico delata la estructura."
+ },
+ "cromatografia-gases": {
+  "nombre": "Cromatografía de gases",
+  "resumen": "Separa mezclas volátiles."
+ },
+ "gases-nobles-compuestos": {
+  "nombre": "Compuestos de gases nobles",
+  "resumen": "El xenón sí reacciona."
+ },
+ "nanotubos": {
+  "nombre": "Nanotubos de carbono",
+  "resumen": "Cilindros de grafeno."
+ },
+ "quimica-clic": {
+  "nombre": "Química clic",
+  "resumen": "Reacciones rápidas, limpias y modulares."
+ },
+ "alumbre": {
+  "nombre": "Alumbre",
+  "resumen": "Mordiente para teñir y curtir."
+ },
+ "curtido": {
+  "nombre": "Curtido vegetal",
+  "resumen": "Taninos que vuelven imputrescible la piel."
+ },
+ "betun": {
+  "nombre": "Betún natural",
+  "resumen": "Adhesivo e impermeabilizante en el Próximo Oriente."
+ },
+ "azul-egipcio": {
+  "nombre": "Azul egipcio",
+  "resumen": "Primer pigmento sintético: silicato de calcio y cobre."
+ },
+ "purpura-tiro": {
+  "nombre": "Púrpura de Tiro",
+  "resumen": "Tinte de múrex, miles de moluscos por gramo."
+ },
+ "salitre-purificado": {
+  "nombre": "Refinado del salitre",
+  "resumen": "Recristalización con cenizas."
+ },
+ "azul-prusia": {
+  "nombre": "Azul de Prusia",
+  "resumen": "Primer pigmento sintético moderno."
+ },
+ "blanqueo-cloro": {
+  "nombre": "Blanqueo con cloro",
+  "resumen": "Lejía para la industria textil."
+ },
+ "cerilla": {
+  "nombre": "Cerilla de fricción",
+  "resumen": "Cabeza que prende al frotarla."
+ },
+ "cerilla-seguridad": {
+  "nombre": "Cerilla de seguridad",
+  "resumen": "Fósforo rojo en la caja y no en la cabeza."
+ },
+ "soda-caustica": {
+  "nombre": "Sosa cáustica industrial",
+  "resumen": "Para jabón y papel."
+ },
+ "colorantes-azoicos": {
+  "nombre": "Colorantes azoicos",
+  "resumen": "Diazotación."
+ },
+ "alizarina-sintetica": {
+  "nombre": "Alizarina sintética",
+  "resumen": "Sustituye a la raíz de rubia."
+ },
+ "indigo-sintetico": {
+  "nombre": "Índigo sintético",
+  "resumen": "BASF arruina el cultivo del añil."
+ },
+ "celofan": {
+  "nombre": "Celofán",
+  "resumen": "Película transparente de celulosa."
+ },
+ "gas-agua": {
+  "nombre": "Gas de agua",
+  "resumen": "Hidrógeno y monóxido de carbono a partir de vapor y coque."
+ },
+ "hidrogenacion-grasas": {
+  "nombre": "Hidrogenación de grasas",
+  "resumen": "Margarina sólida a partir de aceites."
+ },
+ "fischer-tropsch": {
+  "nombre": "Síntesis de Fischer-Tropsch",
+  "resumen": "Combustibles líquidos a partir de carbón."
+ },
+ "neopreno": {
+  "nombre": "Caucho sintético",
+  "resumen": "Neopreno y Buna."
+ },
+ "plexiglas": {
+  "nombre": "Polimetacrilato",
+  "resumen": "Vidrio acrílico."
+ },
+ "poliestireno": {
+  "nombre": "Poliestireno industrial",
+  "resumen": "Plástico rígido y barato."
+ },
+ "pvc": {
+  "nombre": "PVC plastificado",
+  "resumen": "Policloruro de vinilo flexible."
+ },
+ "poliuretano": {
+  "nombre": "Poliuretano",
+  "resumen": "Espumas y elastómeros."
+ },
+ "siliconas": {
+  "nombre": "Siliconas",
+  "resumen": "Polímeros de silicio y oxígeno."
+ },
+ "freones": {
+  "nombre": "Clorofluorocarbonos",
+  "resumen": "Refrigerantes seguros que resultaron destruir el ozono."
+ },
+ "agujero-ozono": {
+  "nombre": "Agujero de la capa de ozono",
+  "resumen": "Hallado sobre la Antártida; lleva al Protocolo de Montreal."
+ },
+ "polipropileno": {
+  "nombre": "Polipropileno",
+  "resumen": "Polímero isotáctico."
+ },
+ "pet": {
+  "nombre": "Poliéster PET",
+  "resumen": "Fibras y, después, botellas."
+ },
+ "superpegamento": {
+  "nombre": "Cianoacrilato",
+  "resumen": "Adhesivo instantáneo."
+ },
+ "metalografia": {
+  "nombre": "Metalografía",
+  "resumen": "Estructura del acero vista al microscopio."
+ },
+ "acero-manganeso": {
+  "nombre": "Acero al manganeso",
+  "resumen": "Primer acero aleado comercial."
+ },
+ "acero-rapido": {
+  "nombre": "Acero rápido",
+  "resumen": "Herramientas que cortan al rojo."
+ },
+ "diagrama-hierro-carbono": {
+  "nombre": "Diagrama hierro-carbono",
+  "resumen": "Fases del acero según temperatura y composición."
+ },
+ "dislocaciones": {
+  "nombre": "Teoría de dislocaciones",
+  "resumen": "Por qué los metales se deforman."
+ },
+ "carburo-tungsteno": {
+  "nombre": "Carburo cementado",
+  "resumen": "Widia: «como el diamante»."
+ },
+ "superaleaciones": {
+  "nombre": "Superaleaciones de níquel",
+  "resumen": "Resisten al rojo en las turbinas."
+ },
+ "diamante-sintetico": {
+  "nombre": "Diamante sintético",
+  "resumen": "Alta presión y temperatura."
+ },
+ "vidrio-borosilicato": {
+  "nombre": "Vidrio de borosilicato",
+  "resumen": "Resiste el choque térmico."
+ },
+ "vidrio-templado": {
+  "nombre": "Vidrio templado y laminado",
+  "resumen": "Vidrio de seguridad para automóviles."
+ },
+ "ferritas": {
+  "nombre": "Ferritas",
+  "resumen": "Cerámicas magnéticas."
+ },
+ "imanes-neodimio": {
+  "nombre": "Imanes de neodimio",
+  "resumen": "Los imanes permanentes más potentes."
+ },
+ "cristales-liquidos": {
+  "nombre": "Cristales líquidos",
+  "resumen": "Fase intermedia entre sólido y líquido."
+ },
+ "aleacion-memoria": {
+  "nombre": "Aleación con memoria de forma",
+  "resumen": "Nitinol."
+ },
+ "cuasicristales": {
+  "nombre": "Cuasicristales",
+  "resumen": "Orden sin periodicidad."
+ },
+ "aerogel": {
+  "nombre": "Aerogel",
+  "resumen": "El sólido más ligero."
+ },
+ "perovskitas-solares": {
+  "nombre": "Células solares de perovskita",
+  "resumen": "Rendimiento que pasa del 4 % al 25 % en una década."
+ },
+ "torno-arco": {
+  "nombre": "Torno de arco",
+  "resumen": "Pieza girada con un arco; Egipto."
+ },
+ "trepano-arco": {
+  "nombre": "Taladro de arco",
+  "resumen": "Perforación rotatoria; también usado en dientes en Mehrgarh."
+ },
+ "cabrestante": {
+  "nombre": "Cabrestante y torno",
+  "resumen": "Tambor que enrolla una cuerda."
+ },
+ "ballestas-suspension": {
+  "nombre": "Ballesta de suspensión",
+  "resumen": "Láminas de acero que amortiguan el carruaje."
+ },
+ "cardan": {
+  "nombre": "Suspensión cardán",
+  "resumen": "Anillos concéntricos que mantienen horizontal un objeto."
+ },
+ "reloj-agua-automata": {
+  "nombre": "Autómatas de al-Jazari",
+  "resumen": "Relojes y máquinas con levas, válvulas y cigüeñal."
+ },
+ "batan": {
+  "nombre": "Batán hidráulico",
+  "resumen": "Mazos que enfurten paños."
+ },
+ "martinete": {
+  "nombre": "Martinete hidráulico",
+  "resumen": "Martillo de forja movido por rueda."
+ },
+ "sierra-hidraulica": {
+  "nombre": "Sierra hidráulica",
+  "resumen": "Dibujada por Villard de Honnecourt."
+ },
+ "molino-mareas": {
+  "nombre": "Molino de mareas",
+  "resumen": "Nendrum (Irlanda)."
+ },
+ "volante-inercia": {
+  "nombre": "Volante de inercia",
+  "resumen": "Regulariza el giro de una máquina."
+ },
+ "torno-pedal": {
+  "nombre": "Torno de pértiga y pedal",
+  "resumen": "Deja libres ambas manos."
+ },
+ "tornillo-metalico": {
+  "nombre": "Tornillo y tuerca metálicos",
+  "resumen": "Uniones desmontables en armaduras y relojes."
+ },
+ "cojinete-rodillos": {
+  "nombre": "Cojinetes de rodillos",
+  "resumen": "Dibujados por Leonardo."
+ },
+ "maquinas-leonardo": {
+  "nombre": "Estudios de máquinas de Leonardo",
+  "resumen": "Análisis sistemático de mecanismos."
+ },
+ "bomba-aspirante": {
+  "nombre": "Bomba aspirante de pistón",
+  "resumen": "Eleva agua hasta diez metros."
+ },
+ "maquina-dividir": {
+  "nombre": "Máquina de dividir",
+  "resumen": "Gradúa círculos con precisión mecánica."
+ },
+ "prensa-hidraulica": {
+  "nombre": "Prensa hidráulica",
+  "resumen": "Multiplica la fuerza con un líquido."
+ },
+ "cepilladora": {
+  "nombre": "Cepilladora",
+  "resumen": "Superficies planas de precisión."
+ },
+ "rosca-normalizada": {
+  "nombre": "Rosca normalizada",
+  "resumen": "Tornillos intercambiables entre fabricantes."
+ },
+ "martillo-vapor": {
+  "nombre": "Martillo pilón de vapor",
+  "resumen": "Forja grandes ejes."
+ },
+ "torno-revolver": {
+  "nombre": "Torno revólver",
+  "resumen": "Varias herramientas en una torreta."
+ },
+ "rectificadora": {
+  "nombre": "Rectificadora universal",
+  "resumen": "Acabado por muela abrasiva."
+ },
+ "soldadura-arco": {
+  "nombre": "Soldadura por arco",
+  "resumen": "Une metales fundiéndolos con electricidad."
+ },
+ "soldadura-oxiacetilenica": {
+  "nombre": "Soplete oxiacetilénico",
+  "resumen": "Corta y suelda acero."
+ },
+ "control-numerico": {
+  "nombre": "Control numérico",
+  "resumen": "Fresadora guiada por cinta perforada en el MIT."
+ },
+ "servomecanismos": {
+  "nombre": "Servomecanismos",
+  "resumen": "Control automático por realimentación eléctrica."
+ },
+ "robot-industrial": {
+  "nombre": "Robot industrial",
+  "resumen": "Unimate en una cadena de General Motors."
+ },
+ "corte-laser": {
+  "nombre": "Corte por láser",
+  "resumen": "Taladra matrices de diamante."
+ },
+ "cad": {
+  "nombre": "Diseño asistido por ordenador",
+  "resumen": "El dibujo técnico pasa a la pantalla."
+ },
+ "bomba-fuego-worcester": {
+  "nombre": "Máquina de elevar agua por fuego",
+  "resumen": "Descripción del marqués de Worcester."
+ },
+ "maquina-papin": {
+  "nombre": "Cilindro y pistón de vapor",
+  "resumen": "El vapor condensado deja un vacío que mueve un pistón."
+ },
+ "indicador-watt": {
+  "nombre": "Diagrama indicador",
+  "resumen": "Presión frente a volumen: la máquina se puede medir."
+ },
+ "maquina-corliss": {
+  "nombre": "Máquina Corliss",
+  "resumen": "Válvulas rotativas de gran rendimiento."
+ },
+ "triple-expansion": {
+  "nombre": "Máquina de triple expansión",
+  "resumen": "Motor de los transatlánticos."
+ },
+ "turbina-laval": {
+  "nombre": "Turbina de acción",
+  "resumen": "Tobera convergente-divergente."
+ },
+ "motor-dos-tiempos": {
+  "nombre": "Motor de dos tiempos",
+  "resumen": "Una explosión por vuelta."
+ },
+ "magneto": {
+  "nombre": "Magneto de encendido",
+  "resumen": "Chispa sin batería."
+ },
+ "turbocompresor": {
+  "nombre": "Turbocompresor",
+  "resumen": "Los gases de escape comprimen el aire de admisión."
+ },
+ "motor-radial": {
+  "nombre": "Motor radial",
+  "resumen": "Cilindros en estrella."
+ },
+ "octanaje": {
+  "nombre": "Índice de octano",
+  "resumen": "Mide la resistencia al picado."
+ },
+ "postcombustion": {
+  "nombre": "Postcombustión",
+  "resumen": "Combustible inyectado tras la turbina."
+ },
+ "pila-seca": {
+  "nombre": "Pila seca",
+  "resumen": "Electrolito en pasta: pilas portátiles."
+ },
+ "bateria-niquel-cadmio": {
+  "nombre": "Batería de níquel-cadmio",
+  "resumen": "Recargable alcalina."
+ },
+ "pila-alcalina": {
+  "nombre": "Pila alcalina",
+  "resumen": "Zinc y dióxido de manganeso con electrolito alcalino."
+ },
+ "central-geotermica": {
+  "nombre": "Energía geotérmica",
+  "resumen": "Larderello."
+ },
+ "presa-hoover": {
+  "nombre": "Gran presa hidroeléctrica",
+  "resumen": "Presa Hoover."
+ },
+ "central-solar-termica": {
+  "nombre": "Central termosolar",
+  "resumen": "Cilindros parabólicos en California."
+ },
+ "aerogenerador-moderno": {
+  "nombre": "Aerogenerador tripala moderno",
+  "resumen": "Concepto danés."
+ },
+ "parque-eolico-marino": {
+  "nombre": "Parque eólico marino",
+  "resumen": "Vindeby."
+ },
+ "bombeo-reversible": {
+  "nombre": "Central de bombeo",
+  "resumen": "Almacena energía subiendo agua."
+ },
+ "reactor-agua-presion": {
+  "nombre": "Reactor de agua a presión",
+  "resumen": "Shippingport."
+ },
+ "reactor-reproductor": {
+  "nombre": "Reactor reproductor",
+  "resumen": "EBR-I produce la primera electricidad nuclear."
+ },
+ "accidente-chernobil": {
+  "nombre": "Accidente de Chernóbil",
+  "resumen": "Explosión de un reactor RBMK."
+ },
+ "iter": {
+  "nombre": "Proyecto ITER",
+  "resumen": "Reactor experimental de fusión internacional."
+ },
+ "guerra-corrientes": {
+  "nombre": "Corriente alterna frente a continua",
+  "resumen": "La alterna se impone para el transporte a distancia."
+ },
+ "contador-electrico": {
+  "nombre": "Contador eléctrico de inducción",
+  "resumen": "Mide la energía consumida."
+ },
+ "interruptor-automatico": {
+  "nombre": "Interruptor automático",
+  "resumen": "Corta el circuito en caso de sobrecarga."
+ },
+ "enchufe": {
+  "nombre": "Enchufe y clavija",
+  "resumen": "Conexión doméstica desmontable."
+ },
+ "red-interconectada": {
+  "nombre": "Red eléctrica nacional",
+  "resumen": "National Grid británica."
+ },
+ "corriente-continua-alta-tension": {
+  "nombre": "Transporte en continua de alta tensión",
+  "resumen": "Enlace submarino de Gotland."
+ },
+ "valvula-mercurio": {
+  "nombre": "Rectificador de vapor de mercurio",
+  "resumen": "Convierte alterna en continua."
+ },
+ "tiristor": {
+  "nombre": "Tiristor",
+  "resumen": "Interruptor de potencia de estado sólido."
+ },
+ "plancha-electrica": {
+  "nombre": "Plancha eléctrica",
+  "resumen": "Resistencia calefactora."
+ },
+ "ventilador-electrico": {
+  "nombre": "Ventilador eléctrico",
+  "resumen": "Motor con aspas."
+ },
+ "aspiradora": {
+  "nombre": "Aspiradora",
+  "resumen": "Succión por motor."
+ },
+ "lavadora-electrica": {
+  "nombre": "Lavadora eléctrica",
+  "resumen": "Tambor motorizado."
+ },
+ "nevera-domestica": {
+  "nombre": "Frigorífico doméstico",
+  "resumen": "Compresor eléctrico en casa."
+ },
+ "tostadora": {
+  "nombre": "Tostadora eléctrica",
+  "resumen": "Hilo resistente que no se oxida."
+ },
+ "nicrom": {
+  "nombre": "Nicrom",
+  "resumen": "Aleación para resistencias."
+ },
+ "horno-microondas": {
+  "nombre": "Horno de microondas",
+  "resumen": "Raytheon."
+ },
+ "lavavajillas": {
+  "nombre": "Lavavajillas",
+  "resumen": "Agua a presión sobre una rejilla."
+ },
+ "placa-induccion": {
+  "nombre": "Cocina de inducción",
+  "resumen": "Calienta el recipiente y no la placa."
+ },
+ "telegrafo-electroquimico": {
+  "nombre": "Telégrafo electroquímico",
+  "resumen": "Burbujas en tubos de agua."
+ },
+ "telegrafo-impresor": {
+  "nombre": "Telégrafo impresor",
+  "resumen": "Teclado tipo piano."
+ },
+ "telegrafia-duplex": {
+  "nombre": "Telegrafía múltiplex",
+  "resumen": "Varios mensajes por un hilo."
+ },
+ "fotofono": {
+  "nombre": "Fotófono",
+  "resumen": "Voz transmitida por un haz de luz."
+ },
+ "conmutador-strowger": {
+  "nombre": "Central telefónica automática",
+  "resumen": "Selector paso a paso."
+ },
+ "bobina-carga": {
+  "nombre": "Bobinas de carga",
+  "resumen": "Líneas telefónicas de larga distancia."
+ },
+ "radio-transatlantica": {
+  "nombre": "Radio transatlántica",
+  "resumen": "Señal de Cornualles a Terranova."
+ },
+ "radio-galena": {
+  "nombre": "Receptor de galena",
+  "resumen": "Radio sin alimentación."
+ },
+ "superheterodino": {
+  "nombre": "Receptor superheterodino",
+  "resumen": "Arquitectura de casi todas las radios."
+ },
+ "teletipo": {
+  "nombre": "Teletipo",
+  "resumen": "Máquinas de escribir a distancia."
+ },
+ "cable-coaxial": {
+  "nombre": "Cable coaxial",
+  "resumen": "Ancho de banda para televisión y telefonía."
+ },
+ "frecuencia-modulada": {
+  "nombre": "Frecuencia modulada",
+  "resumen": "Radio sin ruido."
+ },
+ "modulacion-pulsos": {
+  "nombre": "Modulación por impulsos codificados",
+  "resumen": "La voz convertida en números."
+ },
+ "teoria-muestreo": {
+  "nombre": "Teorema de muestreo",
+  "resumen": "Una señal queda definida por muestras al doble de su frecuencia máxima."
+ },
+ "television-color": {
+  "nombre": "Televisión en color",
+  "resumen": "Sistema NTSC compatible."
+ },
+ "radio-transistores": {
+  "nombre": "Radio de transistores",
+  "resumen": "Regency TR-1."
+ },
+ "television-satelite": {
+  "nombre": "Televisión transatlántica en directo",
+  "resumen": "Telstar."
+ },
+ "fax-moderno": {
+  "nombre": "Fax por línea telefónica",
+  "resumen": "Xerox LDX."
+ },
+ "telefono-teclas": {
+  "nombre": "Marcación por tonos",
+  "resumen": "Teclado en lugar de disco."
+ },
+ "video-domestico": {
+  "nombre": "Vídeo doméstico",
+  "resumen": "VHS y Betamax."
+ },
+ "walkman": {
+  "nombre": "Reproductor portátil",
+  "resumen": "Walkman."
+ },
+ "television-digital": {
+  "nombre": "Televisión digital",
+  "resumen": "DVB y ATSC."
+ }
+}

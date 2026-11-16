@@ -1,0 +1,226 @@
+{
+ "palanca": {
+  "nombre": "Palanca y cuña",
+  "resumen": "Máquinas simples usadas mucho antes de formularse su ley."
+ },
+ "polea": {
+  "nombre": "Polea",
+  "resumen": "Cambia la dirección del esfuerzo; Mesopotamia y Egipto."
+ },
+ "engranaje": {
+  "nombre": "Engranaje",
+  "resumen": "Ruedas dentadas que transmiten giro; mundo helenístico y China."
+ },
+ "arbol-levas": {
+  "nombre": "Árbol de levas",
+  "resumen": "Convierte el giro en golpes alternos para mazos y batanes."
+ },
+ "polipasto": {
+  "nombre": "Polipasto",
+  "resumen": "Poleas compuestas que multiplican la fuerza."
+ },
+ "tornillo": {
+  "nombre": "Tornillo y prensa de tornillo",
+  "resumen": "Tornillo sin fin, de Arquímedes y de prensa para aceite y vino."
+ },
+ "manivela": {
+  "nombre": "Manivela",
+  "resumen": "Brazo excéntrico para girar a mano; China Han."
+ },
+ "correa-transmision": {
+  "nombre": "Transmisión por correa",
+  "resumen": "Correa sin fin entre dos ruedas; devanadoras de seda chinas."
+ },
+ "biela-manivela": {
+  "nombre": "Biela-manivela",
+  "resumen": "Giro convertido en vaivén; aserradero hidráulico de Hierápolis."
+ },
+ "engranaje-reloj": {
+  "nombre": "Tren de engranajes de precisión",
+  "resumen": "Ruedas talladas con paso regular para relojería."
+ },
+ "torno-paralelo": {
+  "nombre": "Torno de roscar con carro",
+  "resumen": "Roscas y piezas intercambiables de precisión."
+ },
+ "piezas-intercambiables": {
+  "nombre": "Piezas intercambiables",
+  "resumen": "Calibres y máquinas-herramienta permiten montar sin ajuste manual; arsenales de EE. UU."
+ },
+ "fresadora": {
+  "nombre": "Fresadora",
+  "resumen": "Herramienta rotativa de varios filos."
+ },
+ "rodamiento-bolas": {
+  "nombre": "Rodamiento de bolas",
+  "resumen": "Bolas de acero templado entre dos pistas; patentado para bicicletas."
+ },
+ "rueda-hidraulica": {
+  "nombre": "Rueda hidráulica y noria",
+  "resumen": "Rueda de paletas movida por la corriente; descrita por Filón de Bizancio."
+ },
+ "molino-agua": {
+  "nombre": "Molino hidráulico de engranajes",
+  "resumen": "Rueda vertical que mueve la muela mediante engranaje en ángulo; Vitruvio."
+ },
+ "molino-viento-persa": {
+  "nombre": "Molino de viento de eje vertical",
+  "resumen": "Sistán (Persia oriental)."
+ },
+ "molino-viento-poste": {
+  "nombre": "Molino de viento de poste",
+  "resumen": "Todo el cuerpo gira para orientarse; Yorkshire."
+ },
+ "turbina-hidraulica": {
+  "nombre": "Turbina hidráulica",
+  "resumen": "Rodete de álabes curvos de alto rendimiento."
+ },
+ "aerogenerador": {
+  "nombre": "Aerogenerador",
+  "resumen": "Molino que carga acumuladores."
+ },
+ "central-hidroelectrica": {
+  "nombre": "Central hidroeléctrica",
+  "resumen": "Una turbina en el río Fox mueve una dinamo que ilumina fábricas y casas de Appleton (Wisconsin)."
+ },
+ "eolipila": {
+  "nombre": "Eolípila",
+  "resumen": "Esfera que gira por reacción del vapor; curiosidad sin aplicación."
+ },
+ "digestor-papin": {
+  "nombre": "Marmita de Papin",
+  "resumen": "Olla a presión con válvula de seguridad."
+ },
+ "bomba-savery": {
+  "nombre": "Bomba de vapor de Savery",
+  "resumen": "El vacío del vapor condensado aspira el agua de las minas."
+ },
+ "maquina-newcomen": {
+  "nombre": "Máquina atmosférica de Newcomen",
+  "resumen": "Pistón empujado por la atmósfera al condensar el vapor."
+ },
+ "condensador-watt": {
+  "nombre": "Condensador separado",
+  "resumen": "El cilindro permanece caliente: el consumo cae a un tercio."
+ },
+ "mandrinadora": {
+  "nombre": "Mandrinadora de cilindros",
+  "resumen": "Cilindros con la precisión que exige la máquina de Watt."
+ },
+ "movimiento-rotativo": {
+  "nombre": "Máquina de vapor rotativa",
+  "resumen": "Engranaje planetario y doble efecto: el vapor mueve fábricas."
+ },
+ "regulador-centrifugo": {
+  "nombre": "Regulador centrífugo",
+  "resumen": "Realimentación que estabiliza la velocidad."
+ },
+ "vapor-alta-presion": {
+  "nombre": "Máquina de alta presión",
+  "resumen": "Compacta y sin condensador."
+ },
+ "turbina-vapor": {
+  "nombre": "Turbina de vapor de reacción",
+  "resumen": "Expansión escalonada que mueve directamente el generador."
+ },
+ "mineria-carbon": {
+  "nombre": "Minería de carbón",
+  "resumen": "Explotación de hulla en Fushun (China)."
+ },
+ "gas-alumbrado": {
+  "nombre": "Gas de hulla",
+  "resumen": "Destilación de carbón para alumbrado."
+ },
+ "queroseno": {
+  "nombre": "Queroseno",
+  "resumen": "Destilado de carbón y petróleo para lámparas."
+ },
+ "pozo-petroleo": {
+  "nombre": "Pozo petrolífero perforado",
+  "resumen": "Perforación a percusión entubada en Titusville."
+ },
+ "craqueo-termico": {
+  "nombre": "Craqueo térmico",
+  "resumen": "Rompe fracciones pesadas para obtener gasolina."
+ },
+ "craqueo-catalitico": {
+  "nombre": "Craqueo catalítico",
+  "resumen": "Catalizador de aluminosilicato: gasolina de mayor octanaje."
+ },
+ "motor-lenoir": {
+  "nombre": "Motor de gas de Lenoir",
+  "resumen": "Primer motor de combustión interna comercial."
+ },
+ "ciclo-otto": {
+  "nombre": "Motor de cuatro tiempos",
+  "resumen": "Compresión previa a la ignición."
+ },
+ "motor-rapido": {
+  "nombre": "Motor ligero de gasolina",
+  "resumen": "Alto régimen y carburador de superficie."
+ },
+ "carburador": {
+  "nombre": "Carburador de pulverización",
+  "resumen": "Chorro de combustible en una corriente de aire."
+ },
+ "motor-diesel": {
+  "nombre": "Motor diésel",
+  "resumen": "Encendido por compresión."
+ },
+ "bujia": {
+  "nombre": "Bujía con magneto de alta tensión",
+  "resumen": "Encendido fiable a alto régimen."
+ },
+ "turbina-gas": {
+  "nombre": "Turbina de gas",
+  "resumen": "Primera en entregar potencia neta."
+ },
+ "turborreactor": {
+  "nombre": "Turborreactor",
+  "resumen": "Bancos de ensayo independientes en Inglaterra y Alemania."
+ },
+ "reactor-cp1": {
+  "nombre": "Reacción en cadena controlada",
+  "resumen": "Chicago Pile-1: grafito y uranio natural."
+ },
+ "enriquecimiento-uranio": {
+  "nombre": "Enriquecimiento de uranio",
+  "resumen": "Difusión gaseosa y separación electromagnética en Oak Ridge."
+ },
+ "bomba-fision": {
+  "nombre": "Bomba de fisión",
+  "resumen": "Ensayo Trinity y bombardeos de Hiroshima y Nagasaki."
+ },
+ "bomba-termonuclear": {
+  "nombre": "Bomba termonuclear",
+  "resumen": "Ensayo Ivy Mike: fusión iniciada por fisión."
+ },
+ "central-nuclear": {
+  "nombre": "Central nuclear",
+  "resumen": "Óbninsk (URSS) vierte electricidad a la red."
+ },
+ "tokamak": {
+  "nombre": "Tokamak",
+  "resumen": "Confinamiento magnético toroidal del plasma."
+ },
+ "ignicion-fusion": {
+  "nombre": "Ganancia neta en fusión inercial",
+  "resumen": "La National Ignition Facility obtiene más energía de fusión que la del láser incidente."
+ },
+ "efecto-fotovoltaico": {
+  "nombre": "Efecto fotovoltaico",
+  "resumen": "La luz genera corriente en una celda electrolítica."
+ },
+ "celula-selenio": {
+  "nombre": "Célula solar de selenio",
+  "resumen": "Rendimiento en torno al 1 %."
+ },
+ "celula-silicio": {
+  "nombre": "Célula solar de silicio",
+  "resumen": "Unión p-n con un 6 % de rendimiento."
+ },
+ "bateria-litio": {
+  "nombre": "Batería de iones de litio",
+  "resumen": "Cátodo de óxido de cobalto y ánodo de carbono."
+ }
+}

@@ -1,0 +1,156 @@
+@ materiales | Materiales | #c9a25c
+@@ naturales | Materiales naturales y prehistóricos
+madera-trabajada | ~-780000 | M | Madera trabajada | achelense | Tabla pulida de sauce de Gesher Benot Ya'aqov; la madera fue el material más usado y el que peor se conserva. |
+estructura-madera-kalambo | ~-476000 | S | Estructura de troncos ensamblados | madera-trabajada | Dos troncos con muesca encajada en las cataratas de Kalambo (Zambia): la construcción en madera más antigua. |
+hueso-trabajado | ~-1500000 | M | Útiles de hueso | olduvayense | Huesos largos tallados como bifaces en Olduvai y Konso. |
+piel-curtida-grasa | ~-400000 | M | Pieles raspadas y engrasadas | hueso-trabajado, olduvayense | Raspadores con huellas de trabajo de piel; la grasa y el humo la conservan flexible. |
+tendon-cuerda | ~-300000 | M | Tendones y tripas como ligaduras | piel-curtida-grasa | Fibras animales que se contraen al secarse y aprietan el enmangue. |
+concha-recipiente | ~-500000 | M | Conchas como útil y recipiente | olduvayense | Concha grabada y usada como herramienta por Homo erectus en Trinil (Java). |
+obsidiana | ~-1700000 | M | Obsidiana | olduvayense | Vidrio volcánico de filo extremo, tallado en Melka Kunture y comerciado a larga distancia desde el Paleolítico. |
+silex-seleccion | ~-2000000 | M | Selección de rocas de talla | olduvayense | Elección y transporte de sílex, cuarcita y basalto según su fractura. |
+arcilla-cruda | ~-30000 | M | Arcilla modelada sin cocer | ocre | Bisontes de arcilla del Tuc d'Audoubert; el barro como primer material plástico. |
+marfil-tallado | ~-40000 | M | Marfil tallado | laminas | Hombre-león de Hohlenstein-Stadel y figuras del Jura suabo. |
+asta-reno | ~-45000 | M | Asta trabajada por ranurado | laminas | Varillas extraídas con buril para puntas y arpones: material elástico y resistente. |
+buril | ~-45000 | H | Buril | laminas | Útil de sílex con diedro cortante para grabar y ranurar hueso, asta y marfil. |
+cola-animal | ~-6000 | M | Cola de colágeno | hogar, ceramica-vasijas | Pieles y tendones hervidos: adhesivo hallado en Nahal Hemar. |
+resina-pino | ~-80000 | M | Resinas vegetales | hogar | Resina de conífera mezclada con ocre como adhesivo de enmangue en Sibudu. |
+adhesivo-compuesto | ~-70000 | M | Adhesivos compuestos | resina-pino, ocre | Resina, ocre y cera en proporción medida y calentados: una receta con varios ingredientes. |
+cera-abeja-uso | ~-40000 | M | Cera de abeja | adhesivo-compuesto | Cera con resina y fibra para atar puntas en Border Cave. |
+carbon-pigmento | ~-36000 | M | Negro de carbón y manganeso | ocre | Dibujos de Chauvet con carbón de pino y óxidos de manganeso. |
+tapial | ~-7000 | M | Tierra apisonada (tapial) | adobe | Tierra húmeda compactada entre tablas; murallas chinas y mediterráneas. |
+bahareque | ~-9500 | M | Entramado de cañas y barro | cesteria, arcilla-cruda | Zarzo recubierto de barro: paredes ligeras del Neolítico. |
+yeso | ~-9000 | M | Yeso | hogar | Aljez calcinado a solo 150 °C; enlucidos y recipientes del Neolítico precerámico. |
+vajilla-blanca | ~-7000 | M | Vajilla blanca de cal y yeso | cal, yeso | Recipientes moldeados en cal antes de la cerámica en el Levante. |
+estuco | ~-2000 | M | Estuco | cal, yeso | Cal, polvo de mármol y pigmentos: superficie para la pintura mural. |
+fresco | ~-1700 | T | Pintura al fresco | estuco | Pigmentos sobre cal húmeda que carbonata y los fija; Cnosos y Akrotiri. |
+betun-impermeable | ~-3000 | M | Betún como mortero e impermeabilizante | betun | Asfalto natural en baños, barcas y muros de Mesopotamia y el Indo. |
+piedra-seca | ~-9000 | T | Mampostería en seco | megalitos | Piedras sin mortero trabadas por su peso. |
+canteria | ~-2700 | T | Cantería de sillares | herramientas-cobre, piedra-seca | Bloques escuadrados con cinceles de cobre, mazas de dolerita y cuñas de madera. |
+cuna-madera-cantera | ~-2600 | T | Arranque con cuñas | canteria | Cuñas de madera empapadas que al hincharse parten el granito; canteras de Asuán. |
+pulido-abrasivos | ~-9500 | T | Abrasivos de arena y esmeril | piedra-pulimentada | Arena, arenisca y, después, esmeril de Naxos para pulir piedra y metal. |
+esteatita | ~-5000 | M | Esteatita tallada y cocida | piedra-pulimentada | Piedra blanda que endurece al cocerla; cuentas y sellos del Indo. |
+lapislazuli | ~-4000 | M | Lapislázuli | piedra-pulimentada | Extraído en Badajshán y llevado hasta Egipto y Sumer. |
+jade | ~-6000 | M | Jade trabajado | pulido-abrasivos | Nefrita cortada con arena y cuerda; culturas Xinglongwa y Hongshan. |
+ambar-trabajado | ~-11000 | M | Ámbar tallado | buril | Colgantes y figuras del Báltico. |
+conchas-nacar | ~-110000 | M | Conchas pintadas y perforadas | cuerda-primitiva | Conchas con pigmento usadas por neandertales en la cueva de los Aviones (Cartagena). |
+cuero | ~-5000 | M | Cuero curtido | curtido | Zapato de Areni-1 y la indumentaria de Ötzi. |
+pergamino-crudo | ~-2500 | M | Piel cruda tensada | cuero | Piel sin curtir secada en tensión: parches de tambor, escudos y soportes. |
+corcho | ~-3000 | M | Corcho | piedra-pulimentada | Corteza de alcornoque para flotadores y tapones. |
+bambu | ~-5000 | M | Bambú estructural | cuerda | Cañas ligeras y resistentes para andamios, tuberías y casas en Asia. |
+laca | ~-5000 | M | Laca | resina-pino | Savia del árbol de la laca endurecida en capas; cuenco rojo de Hemudu. |
+barniz | ~-1000 | M | Barnices de resina y aceite | laca, aceite-oliva | Resinas disueltas en aceite secante. |
+aceite-linaza | ~-500 | M | Aceite secante de linaza | lino-tejido | Polimeriza al aire y forma una película dura. |
+pez-naval | ~-3000 | M | Pez y brea de calafate | brea-abedul | Alquitrán de madera para impermeabilizar cascos y ánforas. |
+alquitran-madera | ~-1000 | T | Destilación seca de la madera | pez-naval, carbon-vegetal | Carboneras que rinden carbón, alquitrán y pez. |
+goma-arabiga | ~-2600 | M | Goma arábiga | papiro | Exudado de acacia: aglutinante de tintas y pinturas. |
+natron | ~-3000 | M | Natrón | extraccion-sal | Carbonato sódico natural: momificación, vidrio y lavado. |
+potasa | ~-2000 | M | Potasa de cenizas | hogar, ceramica-vasijas | Lixiviado de cenizas de madera: álcali para jabón y vidrio. |
+@@ madera | Carpintería y madera
+azuela | ~-9000 | H | Azuela | piedra-pulimentada | Hoja transversal para desbastar tablas y vaciar troncos. |
+ensamble-caja-espiga | ~-5000 | T | Ensamble de caja y espiga | azuela | Pozos neolíticos de Sajonia revestidos con tablones ensamblados. |
+cuna-rajado | ~-9000 | T | Rajado con cuñas | azuela | Tablas obtenidas hendiendo el tronco siguiendo la fibra. |
+tabla-aserrada | ~-2700 | T | Tablas aserradas | sierra-metal | La sierra de cobre da tablas finas y regulares. |
+contrachapado-egipcio | ~-2600 | M | Madera contrachapada | tabla-aserrada, cola-animal | Seis capas encoladas con la fibra cruzada en un ataúd de la III dinastía. |
+chapa-taracea | ~-2600 | T | Chapeado y taracea | tabla-aserrada, cola-animal | Láminas finas de maderas preciosas y marfil encoladas. |
+cola-pescado | ~-1500 | M | Cola de pescado | cola-animal | Adhesivo fuerte y flexible de vejigas natatorias. |
+torneado-madera | ~-700 | T | Torneado de madera | torno-arco | Cuencos y patas torneadas; tumba de Gordio. |
+cepillo-carpintero | ~-50 | H | Cepillo de carpintero | forja, tabla-aserrada | Cuchilla en un cuerpo de madera o hierro; Pompeya. |
+clavo-hierro | ~-500 | H | Clavo de hierro forjado | forja | Uniones rápidas; siete toneladas halladas en Inchtuthil. |
+sierra-bastidor | ~-100 | H | Sierra de bastidor | forja | Hoja fina tensada en un marco. |
+berbiqui | ~1420 | H | Berbiquí | manivela | Manivela acodada para taladrar con giro continuo. |
+garlopa-banco | ~-100 | H | Banco de carpintero | sierra-bastidor | Tablero con topes para sujetar la pieza. |
+aserradero-vapor | 1802 | S | Aserradero de sierra circular a vapor | movimiento-rotativo, sierra-circular | Producción masiva de tablas normalizadas. |
+sierra-circular | 1777 | H | Sierra circular | molino-agua, acero-crisol | Disco dentado giratorio. | Samuel Miller
+sierra-cinta | 1808 | H | Sierra de cinta | sierra-circular | Hoja sin fin sobre dos volantes; práctica desde 1846. | William Newberry
+estructura-globo | 1833 | S | Entramado ligero de madera | aserradero-vapor, clavo-maquina | Montantes finos y clavos baratos: casas levantadas en días. |
+clavo-maquina | 1795 | H | Clavo cortado a máquina | laminador | Clavos baratos troquelados de chapa. | Jacob Perkins
+tornillo-madera-maquina | 1760 | H | Tornillo para madera a máquina | torno-pedal | Fabricación en serie. | Job y William Wyatt
+contrachapado-industrial | 1865 | M | Contrachapado industrial | sierra-circular, cola-animal | Chapas desenrolladas del tronco y encoladas. |
+tablero-aglomerado | 1932 | M | Tablero aglomerado | baquelita | Virutas prensadas con resina. | Max Himmelheber
+creosota | 1838 | T | Madera tratada con creosota | gas-alumbrado | Impregnación a presión de traviesas y postes. | John Bethell
+madera-laminada | 1906 | M | Madera laminada encolada | cola-caseina | Vigas de tablas encoladas de gran luz. | Otto Hetzer
+cola-caseina | ~1800 | M | Cola de caseína | queso, cal | Adhesivo resistente al agua. |
+mdf | 1965 | M | Tablero de fibras de densidad media | tablero-aglomerado | Fibras de madera con resina prensadas en seco. |
+madera-contralaminada | 1994 | M | Madera contralaminada | madera-laminada | Paneles de capas cruzadas para edificios de varias plantas. |
+@@ hormigon | Cales, cementos y hormigones
+calera | ~-2500 | H | Horno de cal | cal, horno-alfarero | Hornos de cuba para calcinar caliza de forma continua. |
+cal-apagada | ~-2500 | T | Apagado y maduración de la cal | calera | La cal viva con agua da una pasta que mejora con meses de reposo. |
+mortero-cal | ~-2500 | M | Mortero de cal y arena | cal-apagada | Endurece al absorber CO2 del aire. |
+puzolana | ~-300 | M | Puzolana | mortero-cal | Ceniza volcánica de Pozzuoli que reacciona con la cal y fragua bajo el agua. |
+cocciopesto | ~-700 | M | Mortero de teja molida | mortero-cal, ladrillo-cocido | Cerámica triturada que da hidraulicidad; cisternas fenicias y romanas. |
+opus-caementicium | ~-150 | T | Encofrado y hormigón en masa | hormigon-romano, puzolana | Hormigón vertido entre paramentos; Porticus Aemilia. |
+hormigon-marino-romano | ~-30 | M | Hormigón marino romano | opus-caementicium | Puertos como Cesarea: la tobermorita crece con el agua de mar y lo refuerza con los siglos. |
+aridos-ligeros | ~120 | M | Áridos ligeros | opus-caementicium | Piedra pómez y ánforas vacías en lo alto de la cúpula del Panteón. |
+cemento-romano-parker | 1796 | M | Cemento natural | cal-hidraulica | Nódulos de marga calcinados: «cemento romano». | James Parker
+cal-hidraulica-artificial | 1818 | M | Cal hidráulica artificial | cal-hidraulica, analisis-mineral | Mezcla dosificada de caliza y arcilla. | Louis Vicat
+clinker | 1845 | M | Clínker a alta temperatura | cemento-portland | Cocción hasta la sinterización: el Portland moderno. | Isaac Johnson
+horno-rotatorio | 1885 | H | Horno rotatorio de cemento | clinker, pudelado | Tubo inclinado giratorio de producción continua. | Frederick Ransome
+hormigon-lambot | 1848 | I | Barca de cemento armado | cemento-portland, trefilado-hidraulico | Primer objeto de ferrocemento. | Joseph-Louis Lambot
+sistema-hennebique | 1892 | S | Estructura monolítica de hormigón armado | hormigon-armado | Pilares, vigas y losas en una pieza con estribos. | François Hennebique
+ensayo-conos | 1918 | T | Relación agua-cemento | sistema-hennebique | La resistencia depende de la proporción de agua. | Duff Abrams
+hormigonera-camion | 1916 | H | Camión hormigonera | camion, sistema-hennebique | Hormigón amasado en ruta. | Stephan Stepanian
+bloque-hormigon | 1900 | M | Bloque de hormigón | cemento-portland | Máquina de moldear bloques huecos. | Harmon Palmer
+hormigon-aireado | 1924 | M | Hormigón celular curado en autoclave | cemento-portland, asepsia | Ligero y aislante. | Axel Eriksson
+fibrocemento | 1900 | M | Fibrocemento de amianto | cemento-portland | Placas resistentes; prohibido después por la toxicidad del amianto. | Ludwig Hatschek
+aditivo-plastificante | 1932 | M | Aditivos plastificantes | ensayo-conos | Lignosulfonatos que fluidifican el hormigón con menos agua. |
+hormigon-alta-resistencia | 1970 | M | Hormigón de alta resistencia | aditivo-plastificante | Humo de sílice y superplastificantes. |
+hormigon-autocompactante | 1988 | M | Hormigón autocompactante | hormigon-alta-resistencia | Fluye y rellena el encofrado sin vibrar. | Hajime Okamura
+geopolimeros | 1978 | M | Geopolímeros | cemento-portland | Aglomerantes de aluminosilicatos activados con álcalis. | Joseph Davidovits
+@@ ceramica | Cerámica y aglomerantes
+desgrasante | ~-16000 | T | Desgrasantes en la pasta | ceramica-vasijas | Arena, concha o paja evitan que la vasija se agriete al cocer. |
+coccion-hoguera | ~-18000 | T | Cocción en hoguera abierta | ceramica-vasijas | Seiscientos a ochocientos grados sin horno. |
+ceramica-jomon | ~-14500 | I | Cerámica Jōmon | ceramica-vasijas | Vasijas con impresiones de cuerda en Japón. |
+ceramica-cardial | ~-5800 | I | Cerámica impresa cardial | ceramica-vasijas | Decoración con el borde de una concha en el Mediterráneo occidental. |
+engobe | ~-6000 | T | Engobe y bruñido | ceramica-vasijas | Capa de arcilla fina que alisa y colorea. |
+ceramica-pintada | ~-6000 | T | Cerámica pintada | engobe, ocre | Halaf y Samarra: óxidos minerales fijados al cocer. |
+coccion-reductora | ~-5500 | T | Cocción reductora | horno-alfarero | Atmósfera sin oxígeno que da pastas grises y negras. |
+figuras-negras | ~-700 | T | Cerámica de figuras negras | coccion-reductora, engobe | Tres fases de cocción oxidante-reductora-oxidante; Corinto y Atenas. |
+terra-sigillata | ~-40 | M | Terra sigillata | figuras-negras, molde | Vajilla roja brillante hecha a molde en serie; Arezzo y la Graufesenque. |
+gres | ~-1400 | M | Gres | horno-alfarero | Pasta vitrificada a más de 1200 °C; China Shang. |
+horno-dragon | ~-1000 | H | Horno dragón en pendiente | gres | Túnel inclinado de decenas de metros que alcanza 1300 °C. |
+celadon | ~200 | M | Celadón | gres, vidriado | Vidriado verde de hierro en atmósfera reductora; hornos Yue. |
+vidriado-plomo | ~-100 | T | Vidriado de plomo | vidriado, plomo | Funde a baja temperatura y da colores vivos; Han y Roma. |
+loza-estannifera | ~800 | M | Loza estannífera | vidriado-plomo, mineria-estano | Vidriado blanco opaco de óxido de estaño; Basora. |
+loza-dorada | ~850 | T | Reflejo metálico | loza-estannifera, cobre-reduccion | Película de plata y cobre en tercera cocción reductora; Manises después. |
+azul-cobalto-ceramica | ~1320 | T | Azul y blanco bajo cubierta | porcelana, azul-cobalto-vidrio | Óxido de cobalto persa sobre porcelana de Jingdezhen. |
+azul-cobalto-vidrio | ~-1400 | M | Pigmento azul de cobalto | vidrio | Vidrios y vidriados azules egipcios coloreados con minerales de cobalto. |
+mayolica | ~1400 | M | Mayólica | loza-estannifera | Loza pintada italiana derivada de la hispanomusulmana. |
+azulejo | ~1200 | M | Azulejo | loza-estannifera | Revestimiento cerámico vidriado; alicatado andalusí y cuerda seca. |
+porcelana-blanda | 1575 | M | Porcelana blanda | mayolica | Porcelana de los Médici con frita de vidrio. |
+loza-crema | 1762 | M | Loza fina de pasta blanca | porcelana-europea | Creamware barato y elegante producido en serie. | Josiah Wedgwood
+pirometro-wedgwood | 1782 | H | Pirómetro cerámico | loza-crema | Cilindros de arcilla que se contraen según la temperatura del horno. | Josiah Wedgwood
+porcelana-huesos | 1794 | M | Porcelana de huesos | loza-crema | Ceniza de hueso que da translucidez y resistencia. | Josiah Spode
+impresion-transferencia | 1756 | T | Decoración por transferencia | porcelana-europea, imprenta | Estampas impresas pasadas a la loza. | John Sadler
+refractarios-silice | 1820 | M | Ladrillo refractario de sílice | alto-horno | Ladrillos Dinas para hornos siderúrgicos. | William Young
+horno-tunel | 1873 | H | Horno túnel continuo | ladrillo-cocido | Las piezas avanzan en vagonetas por zonas de temperatura. |
+horno-hoffmann | 1858 | H | Horno anular Hoffmann | ladrillo-cocido | Fuego que recorre cámaras en anillo: ladrillos en continuo. | Friedrich Hoffmann
+extrusora-ladrillo | 1855 | H | Extrusora de ladrillos | ladrillo-cocido, tornillo | Barra de arcilla continua cortada con alambre. | Carl Schlickeysen
+ceramica-tecnica-alumina | 1930 | M | Alúmina sinterizada | bayer, pulvimetalurgia-tungsteno | Aislantes de bujía y herramientas de corte. |
+circona-estabilizada | 1975 | M | Circona tenaz | ceramica-tecnica-alumina, elemento-circonio | Cerámica que detiene las grietas por transformación de fase. | Ron Garvie
+nitruro-silicio | 1955 | M | Nitruro de silicio | ceramica-tecnica-alumina | Cerámica estructural para rodamientos y turbinas. |
+sanitarios-porcelana | 1885 | I | Sanitarios de loza vitrificada | loza-crema | Inodoro de pedestal de una pieza. | Thomas Twyford
+@@ vidrio | Vidrio
+frita | ~-2500 | T | Fritado | fayenza | Arena y álcali sinterizados antes de fundir. |
+vidrio-mosaico | ~-1400 | T | Vidrio mosaico y millefiori | vidrio-nucleo | Varillas de colores fundidas en sección. |
+vidrio-molde | ~-700 | T | Vidrio colado en molde | vidrio-nucleo | Cuencos tallados y pulidos; Nimrud. |
+vidrio-incoloro-antimonio | ~-700 | M | Vidrio decolorado | vidrio-molde | Antimonio y manganeso neutralizan el verde del hierro. |
+vidrio-soplado-molde | ~25 | T | Soplado en molde | vidrio-soplado | Botellas idénticas en serie. |
+vidrio-camafeo | ~-15 | T | Vidrio camafeo | vidrio-soplado | Dos capas talladas: vaso Portland. |
+copa-licurgo | ~350 | D | Vidrio dicroico con nanopartículas | vidrio-soplado, oro | Oro y plata coloidales: verde reflejado, rojo al trasluz. |
+vidrio-ceniza-bosque | ~1000 | M | Vidrio potásico | potasa, vidrio-soplado | Ceniza de haya en lugar de natrón; vidrieras medievales. |
+vidrio-corona | ~1330 | T | Vidrio plano por corona | vidrio-soplado | Burbuja abierta y girada hasta formar un disco. |
+vidrio-cilindro | ~1100 | T | Vidrio plano por cilindro | vidrio-soplado | Manguito soplado, cortado y aplanado. |
+espejo-vidrio-azogue | ~1500 | I | Espejo de vidrio azogado | cristallo, elemento-mercurio | Amalgama de estaño tras un vidrio plano; Murano. |
+vidrio-colado-laminas | 1688 | T | Vidrio plano colado | espejo-vidrio-azogue | Vertido sobre mesa de hierro y pulido; Saint-Gobain. | Bernard Perrot
+vidrio-flint-optico | 1757 | M | Doblete acromático | vidrio-plomo | Lente crown y flint que cancelan la dispersión. | John Dollond
+vidrio-schott | 1884 | M | Vidrios ópticos de composición diseñada | vidrio-optico, elemento-bario, elemento-boro | Catálogo de vidrios con índice y dispersión a medida. | Otto Schott, Ernst Abbe
+botella-maquina | 1903 | I | Máquina automática de botellas | vidrio-soplado-molde | Succión y soplado sin operario. | Michael Owens
+vidrio-estirado | 1913 | T | Vidrio estirado | vidrio-cilindro | Lámina continua tirada verticalmente del fundido. | Émile Fourcault
+vidrio-pyrex | 1915 | M | Vidrio de laboratorio y cocina | vidrio-borosilicato | Pyrex. |
+lana-vidrio | 1933 | M | Lana de vidrio | hilos-vidrio | Aislante térmico de fibras cortas. | Games Slayter
+hilos-vidrio | 1893 | M | Hilos de vidrio | vidrio-soplado | Vestido de fibra de vidrio en la Exposición de Chicago. | Edward Libbey
+vitroceramica | 1953 | M | Vitrocerámica | vidrio-borosilicato | Vidrio cristalizado de forma controlada, sin dilatación. | Donald Stookey
+vidrio-fotocromatico | 1964 | M | Vidrio fotocromático | vitroceramica | Se oscurece con la luz por haluros de plata. | Donald Stookey
+vidrio-gorilla | 2007 | M | Vidrio reforzado por intercambio iónico | vitroceramica, elemento-potasio | Iones de potasio comprimen la superficie; pantallas de móvil. |
+vidrio-bajo-emisivo | 1975 | M | Vidrio de baja emisividad | vidrio-flotado | Capa metálica que refleja el infrarrojo. |
+vidrio-metalico | 1960 | M | Vidrio metálico | fusion-zonas | Aleación enfriada tan rápido que no cristaliza. | Pol Duwez

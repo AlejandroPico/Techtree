@@ -1,0 +1,150 @@
+{
+ "percusion-dura": {
+  "nombre": "Percusión con percutor duro",
+  "resumen": "Golpear una piedra con otra para desprender lascas cortantes; las piezas de Lomekwi 3 (Kenia) son la evidencia más antigua."
+ },
+ "olduvayense": {
+  "nombre": "Industria olduvayense (Modo 1)",
+  "resumen": "Cantos tallados y lascas de filo vivo producidos de forma sistemática; Gona (Etiopía)."
+ },
+ "achelense": {
+  "nombre": "Bifaz achelense (Modo 2)",
+  "resumen": "Útiles tallados por ambas caras con forma y simetría planificadas; Kokiselei (Kenia)."
+ },
+ "percutor-blando": {
+  "nombre": "Percutor blando de asta o hueso",
+  "resumen": "Un percutor elástico arranca lascas más finas y permite bifaces delgados y regulares."
+ },
+ "levallois": {
+  "nombre": "Núcleo preparado Levallois (Modo 3)",
+  "resumen": "El núcleo se prepara para predeterminar la forma de la lasca o punta antes de extraerla."
+ },
+ "tratamiento-termico-piedra": {
+  "nombre": "Tratamiento térmico de la silcreta",
+  "resumen": "Calentar la roca de forma controlada mejora su fractura; Pinnacle Point (Sudáfrica)."
+ },
+ "talla-presion": {
+  "nombre": "Retoque por presión",
+  "resumen": "Desprender esquirlas presionando con un compresor de hueso; puntas de Blombos."
+ },
+ "microlitos": {
+  "nombre": "Microlitos geométricos",
+  "resumen": "Pequeñas piezas de dorso estandarizadas y recambiables para armas compuestas; Howiesons Poort."
+ },
+ "laminas": {
+  "nombre": "Talla laminar sistemática (Modo 4)",
+  "resumen": "Núcleos prismáticos de los que se extraen series de láminas largas: más filo por kilo de piedra."
+ },
+ "piedra-pulimentada": {
+  "nombre": "Piedra pulimentada",
+  "resumen": "Hachas y azuelas acabadas por abrasión, resistentes para talar y trabajar madera."
+ },
+ "mineria-silex": {
+  "nombre": "Minería subterránea de sílex",
+  "resumen": "Pozos y galerías para extraer nódulos de calidad; Spiennes (Bélgica), más tarde Grimes Graves."
+ },
+ "uso-fuego": {
+  "nombre": "Uso del fuego",
+  "resumen": "Sedimentos quemados dentro de la cueva de Wonderwerk (Sudáfrica) indican fuego mantenido por homininos."
+ },
+ "hogar": {
+  "nombre": "Hogares estructurados",
+  "resumen": "Fuegos repetidos en puntos fijos del campamento; Gesher Benot Ya'aqov (Israel)."
+ },
+ "coccion": {
+  "nombre": "Cocción de alimentos",
+  "resumen": "Restos de peces cocinados a temperatura controlada en Gesher Benot Ya'aqov."
+ },
+ "encendido-fuego": {
+  "nombre": "Encendido deliberado del fuego",
+  "resumen": "Producir chispa golpeando pirita con sílex; indicios en Barnham (Inglaterra) y, después, útiles neandertales."
+ },
+ "brea-abedul": {
+  "nombre": "Brea de abedul",
+  "resumen": "Adhesivo obtenido calentando corteza de abedul con poco oxígeno; primer material sintético conocido."
+ },
+ "lampara-grasa": {
+  "nombre": "Lámpara de grasa",
+  "resumen": "Cuencos de piedra con grasa animal y mecha vegetal para iluminar el interior de las cuevas."
+ },
+ "palo-cavador": {
+  "nombre": "Palo cavador",
+  "resumen": "Varas endurecidas al fuego para desenterrar tubérculos; Border Cave y Poggetti Vecchi."
+ },
+ "lanza-madera": {
+  "nombre": "Lanza de madera",
+  "resumen": "Lanzas talladas y equilibradas para la caza mayor; Clacton y Schöningen."
+ },
+ "enmangue": {
+  "nombre": "Enmangue de puntas",
+  "resumen": "Unir una punta de piedra a un astil con ligaduras y adhesivos crea la primera herramienta compuesta."
+ },
+ "ocre": {
+  "nombre": "Preparación de pigmento ocre",
+  "resumen": "Taller de Blombos: ocre molido y mezclado con grasa y carbón en conchas-recipiente."
+ },
+ "arpon-hueso": {
+  "nombre": "Arpón de hueso dentado",
+  "resumen": "Puntas barbadas de hueso para la pesca; Katanda (Congo)."
+ },
+ "arco": {
+  "nombre": "Arco y flecha",
+  "resumen": "Puntas de Sibudu (Sudáfrica) con huellas de uso como flechas; la propulsión elástica almacena energía."
+ },
+ "cuerda": {
+  "nombre": "Cuerda de fibras torcidas",
+  "resumen": "Cordel de tres cabos de fibra de corteza hallado en Abri du Maras (Francia), obra neandertal."
+ },
+ "aguja": {
+  "nombre": "Aguja de hueso con ojo",
+  "resumen": "Permite coser pieles ajustadas; ejemplar temprano en la cueva de Denísova."
+ },
+ "ropa-cosida": {
+  "nombre": "Vestimenta cosida",
+  "resumen": "Prendas ajustadas de piel, imprescindibles para ocupar latitudes frías."
+ },
+ "cesteria": {
+  "nombre": "Cestería y tejido de fibras",
+  "resumen": "Improntas de tejidos y cestos en arcilla de Dolní Věstonice y Pavlov."
+ },
+ "anzuelo": {
+  "nombre": "Anzuelo",
+  "resumen": "Anzuelos de concha de la cueva de Sakitari (Okinawa)."
+ },
+ "propulsor": {
+  "nombre": "Propulsor (átlatl)",
+  "resumen": "Palanca que alarga el brazo y multiplica la velocidad del venablo; Solutrense."
+ },
+ "pico-asta": {
+  "nombre": "Pico de asta",
+  "resumen": "Astas de ciervo usadas como picos y palancas para cavar y extraer roca."
+ },
+ "grabado-abstracto": {
+  "nombre": "Grabados y trazos abstractos",
+  "resumen": "Ocre grabado y trazo a lápiz de ocre sobre silcreta en Blombos."
+ },
+ "adornos": {
+  "nombre": "Cuentas y adornos personales",
+  "resumen": "Conchas perforadas para ensartar; Bizmoune (Marruecos)."
+ },
+ "cuerda-primitiva": {
+  "nombre": "Ligaduras de tendón y fibra",
+  "resumen": "Tiras de tendón, piel o fibra sin torcer para atar y ensartar."
+ },
+ "arte-rupestre": {
+  "nombre": "Pintura rupestre figurativa",
+  "resumen": "Escena narrativa pintada en Sulawesi (Indonesia), la más antigua fechada."
+ },
+ "antorcha": {
+  "nombre": "Iluminación con antorchas",
+  "resumen": "Teas resinosas para adentrarse en zonas profundas de las cuevas."
+ },
+ "flauta": {
+  "nombre": "Flauta de hueso",
+  "resumen": "Flautas de hueso de buitre y marfil del Jura suabo (Hohle Fels)."
+ },
+ "muescas-conteo": {
+  "nombre": "Hueso con muescas de conteo",
+  "resumen": "Peroné de babuino con 29 muescas (hueso de Lebombo): registro numérico externo."
+ }
+}

@@ -1,0 +1,454 @@
+{
+ "porteo": {
+  "nombre": "Porteo con mecapal y parihuelas",
+  "resumen": "Carga a la espalda con banda frontal."
+ },
+ "travois": {
+  "nombre": "Travois",
+  "resumen": "Dos pértigas arrastradas por un animal."
+ },
+ "esquis": {
+  "nombre": "Esquís",
+  "resumen": "Esquís de Vis (Rusia) y Kalvträsk."
+ },
+ "raquetas-nieve": {
+  "nombre": "Raquetas de nieve",
+  "resumen": "Bastidor con red."
+ },
+ "camino-troncos": {
+  "nombre": "Camino de tablones",
+  "resumen": "Sweet Track (Inglaterra)."
+ },
+ "yugo-cuernos": {
+  "nombre": "Yugo de cuernos y de cruz",
+  "resumen": "Transmite la fuerza del buey."
+ },
+ "eje-giratorio": {
+  "nombre": "Eje delantero pivotante",
+  "resumen": "El carro gira sin arrastrar."
+ },
+ "llanta-hierro": {
+  "nombre": "Llanta de hierro en caliente",
+  "resumen": "El aro se contrae al enfriar."
+ },
+ "bocado": {
+  "nombre": "Bocado metálico",
+  "resumen": "Control del caballo."
+ },
+ "arnes-pecho": {
+  "nombre": "Arnés de pechera",
+  "resumen": "China; no ahoga al animal."
+ },
+ "silla-rigida": {
+  "nombre": "Silla de armazón rígido",
+  "resumen": "Reparte el peso sobre el lomo."
+ },
+ "puente-piedra": {
+  "nombre": "Puente de arco de piedra",
+  "resumen": "Esmirna; después los romanos."
+ },
+ "puente-pontones": {
+  "nombre": "Puente de barcas",
+  "resumen": "Darío sobre el Bósforo."
+ },
+ "miliario": {
+  "nombre": "Hitos de distancia",
+  "resumen": "Miliarios romanos."
+ },
+ "posta": {
+  "nombre": "Cursus publicus",
+  "resumen": "Relevos cada jornada."
+ },
+ "carruaje-suspension": {
+  "nombre": "Coche de caja suspendida",
+  "resumen": "Kocs (Hungría): de ahí «coche»."
+ },
+ "diligencia": {
+  "nombre": "Servicio de diligencias",
+  "resumen": "Líneas regulares con horario."
+ },
+ "omnibus": {
+  "nombre": "Transporte público urbano",
+  "resumen": "Carrozas de cinco sueldos de París."
+ },
+ "ballesta-eliptica": {
+  "nombre": "Ballesta elíptica",
+  "resumen": "Suspensión sin correas."
+ },
+ "tranvia-caballos": {
+  "nombre": "Tranvía de caballos",
+  "resumen": "Nueva York."
+ },
+ "bicicleta-rueda-alta": {
+  "nombre": "Biciclo de rueda alta",
+  "resumen": "Radios de alambre tensados."
+ },
+ "rueda-libre": {
+  "nombre": "Piñón libre",
+  "resumen": "Rodar sin pedalear."
+ },
+ "cambio-desviador": {
+  "nombre": "Cambio de desviador",
+  "resumen": "Varias marchas."
+ },
+ "neumatico-desmontable": {
+  "nombre": "Neumático desmontable",
+  "resumen": "Michelin."
+ },
+ "neumatico-radial": {
+  "nombre": "Neumático radial",
+  "resumen": "Michelin X."
+ },
+ "semaforo-trafico": {
+  "nombre": "Semáforo eléctrico",
+  "resumen": "Cleveland."
+ },
+ "parquimetro": {
+  "nombre": "Parquímetro",
+  "resumen": "Oklahoma City."
+ },
+ "tunel-carretero": {
+  "nombre": "Túnel de carretera ventilado",
+  "resumen": "Holland Tunnel."
+ },
+ "puente-atirantado": {
+  "nombre": "Puente atirantado moderno",
+  "resumen": "Strömsund."
+ },
+ "puente-golden-gate": {
+  "nombre": "Gran puente colgante",
+  "resumen": "Golden Gate: 1280 m de vano."
+ },
+ "patinete-electrico": {
+  "nombre": "Micromovilidad compartida",
+  "resumen": "Patinetes de alquiler."
+ },
+ "motor-gas-marcus": {
+  "nombre": "Carro de Marcus",
+  "resumen": "Motor de combustión sobre ruedas."
+ },
+ "triciclo-vapor-bollee": {
+  "nombre": "Automóviles de vapor de Bollée",
+  "resumen": "L'Obéissante."
+ },
+ "volante": {
+  "nombre": "Volante de dirección",
+  "resumen": "Sustituye a la caña."
+ },
+ "direccion-ackermann": {
+  "nombre": "Dirección de Ackermann",
+  "resumen": "Cada rueda gira su ángulo."
+ },
+ "embrague": {
+  "nombre": "Embrague de cono",
+  "resumen": "Desconecta motor y ruedas."
+ },
+ "junta-cardan-eje": {
+  "nombre": "Transmisión por eje cardán",
+  "resumen": "En lugar de cadena."
+ },
+ "bateria-coche": {
+  "nombre": "Sistema eléctrico del automóvil",
+  "resumen": "Dinamo, batería y luces."
+ },
+ "limpiaparabrisas": {
+  "nombre": "Limpiaparabrisas",
+  "resumen": "Manual; después eléctrico."
+ },
+ "freno-hidraulico": {
+  "nombre": "Frenos hidráulicos",
+  "resumen": "A las cuatro ruedas."
+ },
+ "freno-disco": {
+  "nombre": "Frenos de disco",
+  "resumen": "Jaguar en Le Mans."
+ },
+ "suspension-independiente": {
+  "nombre": "Suspensión independiente",
+  "resumen": "Cada rueda por separado."
+ },
+ "sincronizado": {
+  "nombre": "Cambio sincronizado",
+  "resumen": "Cadillac."
+ },
+ "diesel-turismo": {
+  "nombre": "Turismo diésel",
+  "resumen": "Mercedes 260 D."
+ },
+ "bomba-inyeccion": {
+  "nombre": "Bomba de inyección",
+  "resumen": "Bosch."
+ },
+ "escarabajo": {
+  "nombre": "Volkswagen",
+  "resumen": "Motor trasero refrigerado por aire."
+ },
+ "jeep": {
+  "nombre": "Todoterreno ligero",
+  "resumen": "Willys MB."
+ },
+ "traccion-total": {
+  "nombre": "Tracción a las cuatro ruedas",
+  "resumen": "Spyker 60 HP."
+ },
+ "direccion-asistida": {
+  "nombre": "Dirección asistida",
+  "resumen": "Chrysler Imperial."
+ },
+ "mini": {
+  "nombre": "Motor transversal y tracción delantera",
+  "resumen": "Mini: motor transversal y tracción delantera dejan el 80 % del coche para los ocupantes."
+ },
+ "seat-600": {
+  "nombre": "Motorización popular",
+  "resumen": "Fiat y SEAT 600."
+ },
+ "zona-deformacion": {
+  "nombre": "Zona de deformación programada",
+  "resumen": "Célula rígida y extremos que absorben."
+ },
+ "sonda-lambda": {
+  "nombre": "Sonda lambda",
+  "resumen": "Mide el oxígeno del escape."
+ },
+ "turbo-gasolina": {
+  "nombre": "Turbo en turismos",
+  "resumen": "Oldsmobile Jetfire; después Saab."
+ },
+ "inyeccion-directa-diesel": {
+  "nombre": "Diésel de inyección directa",
+  "resumen": "Motores TDI: inyección directa con turbo y gestión electrónica."
+ },
+ "common-rail": {
+  "nombre": "Conducto común",
+  "resumen": "Presión de 1350 bar."
+ },
+ "bus-can": {
+  "nombre": "Bus CAN",
+  "resumen": "Red de centralitas."
+ },
+ "diagnostico-obd": {
+  "nombre": "Diagnóstico a bordo",
+  "resumen": "OBD-II."
+ },
+ "gps-coche": {
+  "nombre": "Navegación GPS civil precisa",
+  "resumen": "Fin de la degradación de señal."
+ },
+ "leaf": {
+  "nombre": "Eléctrico de gran serie",
+  "resumen": "Nissan Leaf."
+ },
+ "supercargador": {
+  "nombre": "Red de carga rápida",
+  "resumen": "Corriente continua de alta potencia."
+ },
+ "pila-combustible-coche": {
+  "nombre": "Automóvil de hidrógeno de serie",
+  "resumen": "Toyota Mirai."
+ },
+ "odre-flotador": {
+  "nombre": "Odres inflados",
+  "resumen": "Balsas de pieles en relieves asirios."
+ },
+ "coracle": {
+  "nombre": "Barca de pieles",
+  "resumen": "Armazón de mimbre forrado."
+ },
+ "kayak": {
+  "nombre": "Kayak y umiak",
+  "resumen": "Ártico."
+ },
+ "calafateado": {
+  "nombre": "Calafateado",
+  "resumen": "Estopa y brea en las juntas."
+ },
+ "espiga-mortaja": {
+  "nombre": "Ensamble de espiga y mortaja",
+  "resumen": "Casco mediterráneo."
+ },
+ "vela-cuadra": {
+  "nombre": "Vela cuadra con verga",
+  "resumen": "Egipto."
+ },
+ "penteconter": {
+  "nombre": "Pentecóntero",
+  "resumen": "Cincuenta remos."
+ },
+ "espolon": {
+  "nombre": "Espolón",
+  "resumen": "Arma naval."
+ },
+ "puerto-artificial": {
+  "nombre": "Puerto artificial",
+  "resumen": "Diques y muelles."
+ },
+ "dique-seco": {
+  "nombre": "Dique seco y rampas de varada",
+  "resumen": "Diolkos y neorias."
+ },
+ "sondaleza": {
+  "nombre": "Escandallo",
+  "resumen": "Mide el fondo."
+ },
+ "periplo": {
+  "nombre": "Periplos y derroteros",
+  "resumen": "Descripciones de costa."
+ },
+ "quinquerreme": {
+  "nombre": "Quinquerreme",
+  "resumen": "Siracusa."
+ },
+ "esqueleto-primero": {
+  "nombre": "Construcción a esqueleto",
+  "resumen": "Primero las cuadernas y luego el forro."
+ },
+ "dromon": {
+  "nombre": "Dromon",
+  "resumen": "Galera bizantina."
+ },
+ "dhow": {
+  "nombre": "Dhow cosido",
+  "resumen": "Océano Índico."
+ },
+ "knarr": {
+  "nombre": "Knarr",
+  "resumen": "Carguero oceánico vikingo."
+ },
+ "brujula-seca": {
+  "nombre": "Brújula de bitácora",
+  "resumen": "Aguja sobre pivote y rosa."
+ },
+ "toleta-espadilla": {
+  "nombre": "Timón de codaste en Europa",
+  "resumen": "Coca de Winchester."
+ },
+ "tabla-leste": {
+  "nombre": "Navegación de altura por latitud",
+  "resumen": "Volta do mar."
+ },
+ "cuadrante-nautico": {
+  "nombre": "Cuadrante náutico",
+  "resumen": "Altura de la Polar."
+ },
+ "regimiento-sol": {
+  "nombre": "Tablas de declinación solar",
+  "resumen": "Regimento do sol."
+ },
+ "nao": {
+  "nombre": "Nao",
+  "resumen": "Casco redondo."
+ },
+ "porta-canon": {
+  "nombre": "Porta de cañón",
+  "resumen": "Baterías bajo cubierta."
+ },
+ "navio-linea": {
+  "nombre": "Navío de línea",
+  "resumen": "Línea de batalla."
+ },
+ "fragata": {
+  "nombre": "Fragata",
+  "resumen": "Una batería, rápida."
+ },
+ "goleta": {
+  "nombre": "Goleta",
+  "resumen": "Velas de cuchillo."
+ },
+ "rueda-timon": {
+  "nombre": "Rueda de timón",
+  "resumen": "Sustituye al pinzote."
+ },
+ "bomba-cadena-naval": {
+  "nombre": "Bomba de achique de cadena",
+  "resumen": "Navíos británicos."
+ },
+ "distancias-lunares": {
+  "nombre": "Longitud por distancias lunares",
+  "resumen": "Almanaque Náutico."
+ },
+ "almanaque-nautico": {
+  "nombre": "Almanaque Náutico",
+  "resumen": "Efemérides anuales."
+ },
+ "faro-fresnel": {
+  "nombre": "Lente de Fresnel",
+  "resumen": "Faro de Cordouan."
+ },
+ "codigo-senales": {
+  "nombre": "Código internacional de señales",
+  "resumen": "Banderas."
+ },
+ "vapor-transatlantico": {
+  "nombre": "Travesía atlántica a vapor",
+  "resumen": "Sirius y Great Western."
+ },
+ "great-eastern": {
+  "nombre": "Great Eastern",
+  "resumen": "Doble casco, 211 m."
+ },
+ "casco-acero": {
+  "nombre": "Casco de acero",
+  "resumen": "Rotomahana."
+ },
+ "rompehielos": {
+  "nombre": "Rompehielos polar",
+  "resumen": "Yermak."
+ },
+ "radio-naval": {
+  "nombre": "Radio a bordo",
+  "resumen": "Socorro en el mar."
+ },
+ "ecosonda": {
+  "nombre": "Ecosonda",
+  "resumen": "Fondo por eco."
+ },
+ "oscilador-fessenden": {
+  "nombre": "Oscilador submarino",
+  "resumen": "Fessenden."
+ },
+ "estabilizador-aletas": {
+  "nombre": "Aletas estabilizadoras",
+  "resumen": "Reducen el balance."
+ },
+ "radar-naval": {
+  "nombre": "Radar naval",
+  "resumen": "Detección de superficie."
+ },
+ "loran": {
+  "nombre": "Navegación hiperbólica",
+  "resumen": "LORAN."
+ },
+ "bulbo-proa": {
+  "nombre": "Bulbo de proa",
+  "resumen": "Bremen."
+ },
+ "buque-nuclear": {
+  "nombre": "Buque civil nuclear",
+  "resumen": "Rompehielos Lenin."
+ },
+ "superpetrolero": {
+  "nombre": "Superpetrolero",
+  "resumen": "Idemitsu Maru: 200.000 t."
+ },
+ "hidroala": {
+  "nombre": "Hidroala",
+  "resumen": "Forlanini."
+ },
+ "portacontenedores-celular": {
+  "nombre": "Portacontenedores celular",
+  "resumen": "Guías verticales."
+ },
+ "metanero": {
+  "nombre": "Buque metanero",
+  "resumen": "Methane Pioneer."
+ },
+ "posicionamiento-dinamico": {
+  "nombre": "Posicionamiento dinámico",
+  "resumen": "Cuss 1."
+ },
+ "ais": {
+  "nombre": "Identificación automática de buques",
+  "resumen": "Cada buque emite por radio su identidad, posición y rumbo."
+ }
+}

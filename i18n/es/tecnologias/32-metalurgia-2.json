@@ -1,0 +1,454 @@
+{
+ "lavado-batea": {
+  "nombre": "Lavado de arenas con batea",
+  "resumen": "El oro y la casiterita, más densos, quedan en el fondo."
+ },
+ "mineria-turquesa": {
+  "nombre": "Minas de turquesa del Sinaí",
+  "resumen": "Expediciones egipcias a Wadi Maghara."
+ },
+ "mazas-mineras": {
+  "nombre": "Mazas de piedra con surco",
+  "resumen": "Martillos enmangados para triturar mena."
+ },
+ "entibacion": {
+  "nombre": "Entibación de galerías",
+  "resumen": "Marcos de madera que sostienen el techo."
+ },
+ "mineria-sal-gema": {
+  "nombre": "Minería de sal gema",
+  "resumen": "Hallstatt y Dürrnberg."
+ },
+ "lampara-minera": {
+  "nombre": "Lámpara minera de aceite",
+  "resumen": "Candiles en nichos de las galerías."
+ },
+ "ruina-montium": {
+  "nombre": "Minería hidráulica romana",
+  "resumen": "Las Médulas: el agua derrumba la montaña."
+ },
+ "tornillo-desague": {
+  "nombre": "Desagüe con tornillos y norias",
+  "resumen": "Cadenas de norias en Riotinto."
+ },
+ "malacate": {
+  "nombre": "Malacate de caballerías",
+  "resumen": "Torno vertical movido por animales."
+ },
+ "bomba-cadena": {
+  "nombre": "Bomba de rosario",
+  "resumen": "Bolas en cadena dentro de un tubo."
+ },
+ "de-re-metallica": {
+  "nombre": "De re metallica",
+  "resumen": "Tratado ilustrado de minería y metalurgia."
+ },
+ "arte-metales": {
+  "nombre": "Arte de los metales",
+  "resumen": "Tratado de la metalurgia de la plata en Potosí."
+ },
+ "ventilacion-forzada": {
+  "nombre": "Ventilación forzada",
+  "resumen": "Fuelles y ventiladores que mueven aire por conductos."
+ },
+ "academia-minas": {
+  "nombre": "Academia de minas",
+  "resumen": "Freiberg; Almadén en 1777."
+ },
+ "cable-acero-minero": {
+  "nombre": "Cable de alambre de acero",
+  "resumen": "Sustituye a las cadenas en los pozos."
+ },
+ "perforadora-neumatica": {
+  "nombre": "Perforadora neumática",
+  "resumen": "Barrenos mucho más rápidos."
+ },
+ "detonador": {
+  "nombre": "Detonador de fulminato",
+  "resumen": "Cápsula que inicia el explosivo con seguridad."
+ },
+ "mecha-seguridad": {
+  "nombre": "Mecha de seguridad",
+  "resumen": "Pólvora dentro de un cordón que arde a ritmo fijo."
+ },
+ "mineria-cielo-abierto": {
+  "nombre": "Gran minería a cielo abierto",
+  "resumen": "Bingham Canyon: menas de cobre del 2 %."
+ },
+ "pala-vapor": {
+  "nombre": "Pala de vapor",
+  "resumen": "Excavadora mecánica."
+ },
+ "lixiviacion-pilas": {
+  "nombre": "Lixiviación en pilas",
+  "resumen": "Soluciones que percolan por montones de mena pobre."
+ },
+ "extraccion-solventes": {
+  "nombre": "Extracción por solventes y electroobtención",
+  "resumen": "Cobre catódico directo de disoluciones."
+ },
+ "malaquita-pigmento": {
+  "nombre": "Malaquita y azurita como pigmento",
+  "resumen": "Minerales verdes y azules de cobre molidos."
+ },
+ "tostacion": {
+  "nombre": "Tostación de sulfuros",
+  "resumen": "Quemar el azufre de la calcopirita antes de reducirla."
+ },
+ "mata-cobre": {
+  "nombre": "Fusión a mata",
+  "resumen": "Sulfuro intermedio de cobre y hierro."
+ },
+ "lingote-piel-buey": {
+  "nombre": "Lingotes de piel de buey",
+  "resumen": "Formato normalizado del comercio de cobre en el Mediterráneo."
+ },
+ "bronce-plomado": {
+  "nombre": "Bronce plomado",
+  "resumen": "El plomo mejora la colabilidad."
+ },
+ "molde-piezas-chino": {
+  "nombre": "Fundición en moldes de piezas",
+  "resumen": "Bronces rituales Shang."
+ },
+ "martillado-chapa": {
+  "nombre": "Batido de chapa y repujado",
+  "resumen": "Vasos de una sola pieza."
+ },
+ "remache": {
+  "nombre": "Remache",
+  "resumen": "Une chapas y fija empuñaduras."
+ },
+ "soldadura-blanda": {
+  "nombre": "Soldadura con aleaciones de estaño y plomo",
+  "resumen": "Une piezas a baja temperatura."
+ },
+ "soldadura-fuerte": {
+  "nombre": "Soldadura fuerte",
+  "resumen": "Aleaciones de oro y cobre que unen orfebrería."
+ },
+ "bronce-campana": {
+  "nombre": "Bronce de campanas",
+  "resumen": "Un 20 % de estaño: sonoro y frágil."
+ },
+ "bronce-canon": {
+  "nombre": "Bronce de cañones",
+  "resumen": "Un 10 % de estaño: tenaz."
+ },
+ "laton-zinc-metalico": {
+  "nombre": "Latón por aleación directa",
+  "resumen": "Zinc metálico fundido con cobre."
+ },
+ "metal-muntz": {
+  "nombre": "Metal Muntz",
+  "resumen": "Latón 60/40 laminable en caliente."
+ },
+ "alpaca": {
+  "nombre": "Alpaca",
+  "resumen": "Cobre, níquel y zinc: el paktong chino imitado en Europa."
+ },
+ "bronce-fosforoso": {
+  "nombre": "Bronce fosforoso",
+  "resumen": "Muelles y cojinetes."
+ },
+ "bronce-aluminio": {
+  "nombre": "Bronce de aluminio",
+  "resumen": "Dorado y resistente a la corrosión."
+ },
+ "cuproniquel": {
+  "nombre": "Cuproníquel",
+  "resumen": "Monedas y tubos de condensador."
+ },
+ "cobre-blister": {
+  "nombre": "Cobre blíster",
+  "resumen": "Cobre del 98 % con ampollas de gas."
+ },
+ "afino-fuego": {
+  "nombre": "Afino al fuego con pértiga",
+  "resumen": "Troncos verdes que reducen el óxido disuelto."
+ },
+ "anodos-cobre": {
+  "nombre": "Colada de ánodos",
+  "resumen": "Placas que se disolverán en la celda."
+ },
+ "lodos-anodicos": {
+  "nombre": "Recuperación de lodos anódicos",
+  "resumen": "Oro, plata y selenio caen al fondo de la celda."
+ },
+ "horno-flash": {
+  "nombre": "Fusión instantánea",
+  "resumen": "Outokumpu: el concentrado arde en suspensión."
+ },
+ "colada-continua-cobre": {
+  "nombre": "Colada continua de alambrón",
+  "resumen": "Southwire: rueda de colada y laminación en línea."
+ },
+ "cobre-libre-oxigeno": {
+  "nombre": "Cobre libre de oxígeno",
+  "resumen": "Máxima conductividad para electrónica."
+ },
+ "cobre-berilio": {
+  "nombre": "Cobre-berilio",
+  "resumen": "Aleación de muelles que no produce chispa."
+ },
+ "hematites-pigmento": {
+  "nombre": "Óxidos de hierro como pigmento",
+  "resumen": "Uso de ocre rojo por humanos arcaicos."
+ },
+ "horno-sangrado": {
+  "nombre": "Horno bajo con sangrado de escoria",
+  "resumen": "La escoria se evacua líquida."
+ },
+ "forja-catalana": {
+  "nombre": "Farga catalana",
+  "resumen": "Horno bajo con trompa de agua en los Pirineos."
+ },
+ "trompa-agua": {
+  "nombre": "Trompa de agua",
+  "resumen": "El agua que cae arrastra aire: viento continuo sin fuelles."
+ },
+ "hierro-forjado-pilares": {
+  "nombre": "Grandes piezas de hierro soldado",
+  "resumen": "Pilar de Delhi, de seis toneladas."
+ },
+ "acero-chino-cofusion": {
+  "nombre": "Acero por cofusión",
+  "resumen": "Arrabio y hierro dulce fundidos juntos."
+ },
+ "arrabio-afino": {
+  "nombre": "Afino del arrabio",
+  "resumen": "Descarburación removiendo el baño: «cien refinados»."
+ },
+ "osmund": {
+  "nombre": "Afino en forja baja",
+  "resumen": "Convierte arrabio en hierro maleable."
+ },
+ "forja-valona": {
+  "nombre": "Método valón",
+  "resumen": "Dos hogares: afino y calda."
+ },
+ "horno-stuckofen": {
+  "nombre": "Stückofen",
+  "resumen": "Horno alto de masa: antecesor del alto horno."
+ },
+ "fundicion-canones-hierro": {
+  "nombre": "Cañones de hierro colado",
+  "resumen": "Weald de Sussex."
+ },
+ "acero-cementacion-horno": {
+  "nombre": "Horno de cementación",
+  "resumen": "Barras de hierro en cajas de carbón durante días: acero ampolla."
+ },
+ "hojalata-laminada": {
+  "nombre": "Hojalata laminada",
+  "resumen": "Pontypool."
+ },
+ "cubilote": {
+  "nombre": "Cubilote",
+  "resumen": "Horno de refundición de fundiciones."
+ },
+ "viento-caliente": {
+  "nombre": "Viento caliente",
+  "resumen": "Precalentar el aire reduce el combustible a un tercio."
+ },
+ "estufas-cowper": {
+  "nombre": "Estufas Cowper",
+  "resumen": "Regeneradores de ladrillo para el viento."
+ },
+ "laminador-reversible": {
+  "nombre": "Tren reversible",
+  "resumen": "Lamina grandes perfiles."
+ },
+ "laminador-universal": {
+  "nombre": "Laminador universal",
+  "resumen": "Cilindros horizontales y verticales."
+ },
+ "ferromanganeso": {
+  "nombre": "Spiegeleisen",
+  "resumen": "Desoxida el acero Bessemer."
+ },
+ "acero-mushet": {
+  "nombre": "Acero autotemplante",
+  "resumen": "Primer acero de herramientas aleado."
+ },
+ "acero-niquel": {
+  "nombre": "Acero al níquel",
+  "resumen": "Blindajes."
+ },
+ "acero-cromo-niquel": {
+  "nombre": "Acero inoxidable austenítico",
+  "resumen": "18/8 de Krupp."
+ },
+ "grano-orientado": {
+  "nombre": "Chapa de grano orientado",
+  "resumen": "Laminación que alinea los cristales."
+ },
+ "templabilidad": {
+  "nombre": "Ensayo de templabilidad",
+  "resumen": "Ensayo Jominy."
+ },
+ "martensita": {
+  "nombre": "Martensita",
+  "resumen": "Estructura del acero templado."
+ },
+ "ensayo-traccion": {
+  "nombre": "Ensayos mecánicos normalizados",
+  "resumen": "Resistencia y alargamiento medidos."
+ },
+ "dureza-brinell": {
+  "nombre": "Ensayo de dureza",
+  "resumen": "Bola de acero presionada."
+ },
+ "fatiga-metales": {
+  "nombre": "Fatiga de los metales",
+  "resumen": "Los ejes se rompen por cargas repetidas."
+ },
+ "galvanizado": {
+  "nombre": "Galvanizado en caliente",
+  "resumen": "Hierro sumergido en zinc fundido."
+ },
+ "proteccion-catodica": {
+  "nombre": "Protección catódica",
+  "resumen": "Ánodos de sacrificio."
+ },
+ "niquelado": {
+  "nombre": "Niquelado",
+  "resumen": "Baño de sulfato de níquel."
+ },
+ "cromado": {
+  "nombre": "Cromado",
+  "resumen": "Baño de ácido crómico."
+ },
+ "colada-continua": {
+  "nombre": "Colada continua del acero",
+  "resumen": "Molde oscilante."
+ },
+ "desgasificado-vacio": {
+  "nombre": "Desgasificado al vacío",
+  "resumen": "Elimina hidrógeno."
+ },
+ "horno-induccion": {
+  "nombre": "Horno de inducción",
+  "resumen": "Funde sin electrodos."
+ },
+ "reduccion-directa": {
+  "nombre": "Reducción directa",
+  "resumen": "Hierro esponja con gas natural: proceso HYL."
+ },
+ "acero-microaleado": {
+  "nombre": "Aceros microaleados",
+  "resumen": "Niobio y vanadio en centésimas."
+ },
+ "pulvimetalurgia": {
+  "nombre": "Pulvimetalurgia industrial",
+  "resumen": "Piezas prensadas y sinterizadas."
+ },
+ "acero-hidrogeno": {
+  "nombre": "Acero con hidrógeno",
+  "resumen": "HYBRIT: primera entrega sin carbón."
+ },
+ "electro": {
+  "nombre": "Electro",
+  "resumen": "Aleación natural de oro y plata."
+ },
+ "granulado": {
+  "nombre": "Granulado y filigrana",
+  "resumen": "Esferas diminutas soldadas."
+ },
+ "pan-de-oro": {
+  "nombre": "Pan de oro",
+  "resumen": "Batido hasta micras de espesor."
+ },
+ "piedra-toque": {
+  "nombre": "Piedra de toque",
+  "resumen": "La raya revela la ley."
+ },
+ "separacion-oro-plata": {
+  "nombre": "Separación de oro y plata por cementación",
+  "resumen": "Refinerías de Sardes."
+ },
+ "plomo-tuberias": {
+  "nombre": "Tuberías de plomo",
+  "resumen": "Fístulas romanas."
+ },
+ "acunacion-martillo": {
+  "nombre": "Acuñación a martillo",
+  "resumen": "Cuños de bronce y hierro."
+ },
+ "prensa-volante": {
+  "nombre": "Prensa de volante para acuñar",
+  "resumen": "Monedas regulares."
+ },
+ "apartado-acido": {
+  "nombre": "Apartado con ácido nítrico",
+  "resumen": "El ácido disuelve la plata y deja el oro."
+ },
+ "proceso-pattinson": {
+  "nombre": "Desplatado del plomo",
+  "resumen": "Cristalización fraccionada."
+ },
+ "proceso-parkes": {
+  "nombre": "Proceso Parkes",
+  "resumen": "El zinc arrastra la plata."
+ },
+ "proceso-miller": {
+  "nombre": "Refinado del oro con cloro",
+  "resumen": "Burbujear cloro por el oro fundido."
+ },
+ "proceso-wohlwill": {
+  "nombre": "Refinado electrolítico del oro",
+  "resumen": "Oro de cuatro nueves."
+ },
+ "magnesio-electrolitico": {
+  "nombre": "Magnesio electrolítico",
+  "resumen": "Producción industrial."
+ },
+ "aluminotermia": {
+  "nombre": "Aluminotermia",
+  "resumen": "El aluminio reduce óxidos; suelda raíles."
+ },
+ "proceso-mond": {
+  "nombre": "Proceso Mond del níquel",
+  "resumen": "Carbonilo volátil."
+ },
+ "aleacion-7075": {
+  "nombre": "Aluminio-zinc de alta resistencia",
+  "resumen": "Zero japonés y, después, 7075."
+ },
+ "titanio-industrial": {
+  "nombre": "Titanio industrial",
+  "resumen": "Esponja de titanio a escala."
+ },
+ "circonio-nuclear": {
+  "nombre": "Circonio para reactores",
+  "resumen": "Zircaloy."
+ },
+ "uranio-metalico": {
+  "nombre": "Uranio metálico puro",
+  "resumen": "Proceso Ames."
+ },
+ "tierras-raras-separacion": {
+  "nombre": "Separación industrial de tierras raras",
+  "resumen": "Intercambio iónico a gran escala."
+ },
+ "litio-industrial": {
+  "nombre": "Litio metálico industrial",
+  "resumen": "Electrólisis de cloruro fundido."
+ },
+ "aluminio-litio": {
+  "nombre": "Aleaciones aluminio-litio",
+  "resumen": "Más ligeras y rígidas."
+ },
+ "espuma-metalica": {
+  "nombre": "Espumas metálicas",
+  "resumen": "Aluminio celular."
+ },
+ "alta-entropia": {
+  "nombre": "Aleaciones de alta entropía",
+  "resumen": "Cinco o más elementos en partes iguales."
+ },
+ "fabricacion-aditiva-metal": {
+  "nombre": "Fusión selectiva por láser",
+  "resumen": "Piezas metálicas impresas capa a capa."
+ }
+}

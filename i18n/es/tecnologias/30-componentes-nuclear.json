@@ -1,0 +1,554 @@
+{
+ "electroscopio": {
+  "nombre": "Versorium",
+  "resumen": "Aguja pivotante que detecta cuerpos electrizados."
+ },
+ "electroscopio-panes-oro": {
+  "nombre": "Electroscopio de panes de oro",
+  "resumen": "Dos láminas que se repelen al cargarse."
+ },
+ "electroforo": {
+  "nombre": "Electróforo",
+  "resumen": "Fuente inagotable de carga por influencia."
+ },
+ "condensador-placas": {
+  "nombre": "Condensador de placas",
+  "resumen": "Dos conductores separados por un aislante."
+ },
+ "bateria-leyden": {
+  "nombre": "Batería de botellas de Leyden",
+  "resumen": "Varias botellas conectadas: el origen de la palabra «batería»."
+ },
+ "maquina-wimshurst": {
+  "nombre": "Máquina de influencia",
+  "resumen": "Discos contrarrotantes que generan alta tensión."
+ },
+ "interruptor-palanca": {
+  "nombre": "Interruptor de cuchilla",
+  "resumen": "Lámina de cobre que cierra el circuito."
+ },
+ "reostato": {
+  "nombre": "Reóstato",
+  "resumen": "Resistencia variable de hilo."
+ },
+ "puente-wheatstone": {
+  "nombre": "Puente de Wheatstone",
+  "resumen": "Mide resistencias por equilibrio."
+ },
+ "resistencia-patron": {
+  "nombre": "Unidades eléctricas patrón",
+  "resumen": "Ohmio, voltio y amperio definidos por la Asociación Británica."
+ },
+ "galvanometro-espejo": {
+  "nombre": "Galvanómetro de espejo",
+  "resumen": "Un rayo de luz como aguja; lee señales del cable transatlántico."
+ },
+ "galvanometro-darsonval": {
+  "nombre": "Galvanómetro de bobina móvil",
+  "resumen": "Base de todos los instrumentos de aguja."
+ },
+ "voltimetro-amperimetro": {
+  "nombre": "Voltímetro y amperímetro portátiles",
+  "resumen": "Instrumentos de precisión de Weston."
+ },
+ "pila-patron-weston": {
+  "nombre": "Pila patrón",
+  "resumen": "Tensión de referencia estable."
+ },
+ "condensador-papel": {
+  "nombre": "Condensador de papel parafinado",
+  "resumen": "Rollos de papel y estaño."
+ },
+ "condensador-mica": {
+  "nombre": "Condensador de mica",
+  "resumen": "Estable a alta frecuencia."
+ },
+ "condensador-electrolitico": {
+  "nombre": "Condensador electrolítico",
+  "resumen": "Óxido de aluminio como dieléctrico."
+ },
+ "condensador-ceramico": {
+  "nombre": "Condensador cerámico",
+  "resumen": "Titanatos de alta permitividad."
+ },
+ "condensador-tantalio": {
+  "nombre": "Condensador de tantalio",
+  "resumen": "Gran capacidad en poco volumen."
+ },
+ "supercondensador": {
+  "nombre": "Supercondensador",
+  "resumen": "Doble capa electroquímica."
+ },
+ "resistencia-carbon": {
+  "nombre": "Resistencia de composición de carbón",
+  "resumen": "Carbón moldeado con aglutinante."
+ },
+ "codigo-colores-resistencias": {
+  "nombre": "Código de colores",
+  "resumen": "Bandas que indican el valor."
+ },
+ "resistencia-pelicula": {
+  "nombre": "Resistencia de película metálica",
+  "resumen": "Precisa y estable."
+ },
+ "potenciometro": {
+  "nombre": "Potenciómetro",
+  "resumen": "Divisor de tensión ajustable."
+ },
+ "termistor": {
+  "nombre": "Termistor",
+  "resumen": "Resistencia que varía con la temperatura."
+ },
+ "bobina-autoinduccion": {
+  "nombre": "Autoinducción",
+  "resumen": "Una bobina se opone a los cambios de su propia corriente."
+ },
+ "nucleo-laminado": {
+  "nombre": "Núcleo de chapas laminadas",
+  "resumen": "Reduce las corrientes parásitas."
+ },
+ "acero-silicio": {
+  "nombre": "Chapa de acero al silicio",
+  "resumen": "Menos pérdidas magnéticas."
+ },
+ "nucleo-ferrita": {
+  "nombre": "Núcleos de ferrita",
+  "resumen": "Inductores y transformadores de alta frecuencia."
+ },
+ "fusible": {
+  "nombre": "Fusible",
+  "resumen": "Hilo que se funde y protege el cable telegráfico."
+ },
+ "interruptor-rotativo": {
+  "nombre": "Interruptor de resorte",
+  "resumen": "Ruptura brusca que evita el arco."
+ },
+ "interruptor-basculante": {
+  "nombre": "Interruptor basculante",
+  "resumen": "Palanca doméstica."
+ },
+ "interruptor-diferencial": {
+  "nombre": "Interruptor diferencial",
+  "resumen": "Corta ante una fuga a tierra."
+ },
+ "rele-telefonico": {
+  "nombre": "Relé telefónico",
+  "resumen": "Contactos múltiples para centrales."
+ },
+ "contactor": {
+  "nombre": "Contactor",
+  "resumen": "Relé de potencia para motores."
+ },
+ "rele-reed": {
+  "nombre": "Relé de láminas",
+  "resumen": "Contactos sellados en vidrio."
+ },
+ "rele-estado-solido": {
+  "nombre": "Relé de estado sólido",
+  "resumen": "Sin partes móviles."
+ },
+ "conector-banana": {
+  "nombre": "Clavija banana",
+  "resumen": "Conector de laboratorio."
+ },
+ "conector-bnc": {
+  "nombre": "Conector coaxial BNC",
+  "resumen": "Bayoneta para radiofrecuencia."
+ },
+ "cable-pvc": {
+  "nombre": "Cable aislado con PVC",
+  "resumen": "Sustituye al caucho y al algodón."
+ },
+ "cable-caucho": {
+  "nombre": "Cable aislado con caucho vulcanizado",
+  "resumen": "Instalaciones interiores."
+ },
+ "cable-papel-impregnado": {
+  "nombre": "Cable de papel impregnado y plomo",
+  "resumen": "Cables subterráneos de alta tensión."
+ },
+ "aislador-porcelana": {
+  "nombre": "Aislador de porcelana",
+  "resumen": "Campanas que soportan los hilos."
+ },
+ "torre-alta-tension": {
+  "nombre": "Línea de aisladores en cadena",
+  "resumen": "Discos suspendidos: 100 kV y más."
+ },
+ "circuito-impreso": {
+  "nombre": "Circuito impreso",
+  "resumen": "Pistas de cobre sobre una placa aislante."
+ },
+ "soldadura-estano": {
+  "nombre": "Soldadura blanda",
+  "resumen": "Aleación de estaño y plomo que une metales a baja temperatura."
+ },
+ "soldador-electrico": {
+  "nombre": "Soldador eléctrico",
+  "resumen": "Punta calentada por resistencia."
+ },
+ "soldadura-ola": {
+  "nombre": "Soldadura por ola",
+  "resumen": "Todas las uniones de una placa a la vez."
+ },
+ "montaje-superficial": {
+  "nombre": "Montaje superficial",
+  "resumen": "Componentes sin patillas soldados sobre la placa."
+ },
+ "placa-multicapa": {
+  "nombre": "Circuito impreso multicapa",
+  "resumen": "Agujeros metalizados entre capas."
+ },
+ "osciloscopio": {
+  "nombre": "Osciloscopio de rayos catódicos",
+  "resumen": "Dibuja la forma de una señal."
+ },
+ "osciloscopio-disparo": {
+  "nombre": "Osciloscopio con barrido disparado",
+  "resumen": "Tektronix 511."
+ },
+ "multimetro": {
+  "nombre": "Multímetro",
+  "resumen": "Avómetro."
+ },
+ "multimetro-digital": {
+  "nombre": "Voltímetro digital",
+  "resumen": "Lectura numérica."
+ },
+ "analizador-espectros": {
+  "nombre": "Analizador de espectros",
+  "resumen": "Representa la señal por frecuencias."
+ },
+ "generador-van-de-graaff": {
+  "nombre": "Generador de Van de Graaff",
+  "resumen": "Correa que acumula millones de voltios."
+ },
+ "bobina-tesla": {
+  "nombre": "Bobina de Tesla",
+  "resumen": "Transformador resonante de alta frecuencia."
+ },
+ "rueda-barlow": {
+  "nombre": "Rueda de Barlow",
+  "resumen": "Primer giro continuo por corriente."
+ },
+ "rotacion-faraday": {
+  "nombre": "Rotación electromagnética",
+  "resumen": "Un hilo gira alrededor de un imán."
+ },
+ "ley-lenz": {
+  "nombre": "Ley de Lenz",
+  "resumen": "La corriente inducida se opone al cambio."
+ },
+ "conmutador-colector": {
+  "nombre": "Colector de delgas",
+  "resumen": "Rectifica mecánicamente la corriente."
+ },
+ "alternador-woolrich": {
+  "nombre": "Generador industrial",
+  "resumen": "Magneto para galvanoplastia en Birmingham."
+ },
+ "motor-davenport": {
+  "nombre": "Motor eléctrico patentado",
+  "resumen": "Mueve una prensa y un tren en miniatura."
+ },
+ "dinamo-reversible": {
+  "nombre": "Reversibilidad de la dinamo",
+  "resumen": "Una dinamo alimentada gira como motor."
+ },
+ "alternador-polifasico": {
+  "nombre": "Alternador polifásico",
+  "resumen": "Varias corrientes desfasadas."
+ },
+ "motor-jaula-ardilla": {
+  "nombre": "Motor de jaula de ardilla",
+  "resumen": "Rotor sin escobillas ni bobinado."
+ },
+ "motor-sincrono": {
+  "nombre": "Motor síncrono",
+  "resumen": "Gira al ritmo exacto de la red."
+ },
+ "motor-universal": {
+  "nombre": "Motor universal",
+  "resumen": "Funciona con continua y alterna; electrodomésticos."
+ },
+ "motor-paso-a-paso": {
+  "nombre": "Motor paso a paso",
+  "resumen": "Gira en incrementos fijos."
+ },
+ "motor-sin-escobillas": {
+  "nombre": "Motor de continua sin escobillas",
+  "resumen": "Conmutación electrónica."
+ },
+ "variador-frecuencia": {
+  "nombre": "Variador de frecuencia",
+  "resumen": "Regula la velocidad del motor de alterna."
+ },
+ "transformador-gaulard": {
+  "nombre": "Generador secundario",
+  "resumen": "Transformador de núcleo abierto."
+ },
+ "transformador-trifasico": {
+  "nombre": "Transformador trifásico",
+  "resumen": "Tres columnas en un núcleo."
+ },
+ "transformador-aceite": {
+  "nombre": "Transformador en baño de aceite",
+  "resumen": "Aísla y refrigera."
+ },
+ "turboalternador": {
+  "nombre": "Turboalternador",
+  "resumen": "Turbina y generador en un eje."
+ },
+ "frecuencia-red": {
+  "nombre": "Frecuencia normalizada",
+  "resumen": "50 Hz en Europa y 60 Hz en América."
+ },
+ "unidades-si-electricas": {
+  "nombre": "Congreso internacional de electricidad",
+  "resumen": "Adopta voltio, amperio, ohmio, culombio y faradio."
+ },
+ "teoria-circuitos-alterna": {
+  "nombre": "Cálculo de alterna con números complejos",
+  "resumen": "Fasores e impedancia."
+ },
+ "histeresis": {
+  "nombre": "Ley de la histéresis",
+  "resumen": "Pérdidas magnéticas calculables."
+ },
+ "calculo-operacional": {
+  "nombre": "Cálculo operacional",
+  "resumen": "Método de Heaviside para circuitos."
+ },
+ "ecuaciones-telegrafista": {
+  "nombre": "Ecuaciones del telegrafista",
+  "resumen": "Teoría de las líneas de transmisión."
+ },
+ "equivalencia-masa-energia": {
+  "nombre": "Equivalencia entre masa y energía",
+  "resumen": "E = mc²."
+ },
+ "defecto-masa": {
+  "nombre": "Defecto de masa",
+  "resumen": "El helio pesa menos que cuatro hidrógenos."
+ },
+ "modelo-gota-liquida": {
+  "nombre": "Modelo de la gota líquida",
+  "resumen": "El núcleo como gota cargada."
+ },
+ "neutrones-lentos": {
+  "nombre": "Neutrones lentos",
+  "resumen": "Frenados en parafina reaccionan mucho más."
+ },
+ "reaccion-cadena-idea": {
+  "nombre": "Idea de la reacción en cadena",
+  "resumen": "Patentada en secreto."
+ },
+ "explicacion-fision": {
+  "nombre": "Interpretación de la fisión",
+  "resumen": "El núcleo se parte y libera 200 MeV."
+ },
+ "neutrones-secundarios": {
+  "nombre": "Neutrones liberados en la fisión",
+  "resumen": "Más de dos por fisión: la cadena es posible."
+ },
+ "memorandum-frisch-peierls": {
+  "nombre": "Masa crítica",
+  "resumen": "Bastan kilos de uranio-235."
+ },
+ "moderador-grafito": {
+  "nombre": "Grafito de pureza nuclear",
+  "resumen": "Sin boro, que absorbe neutrones."
+ },
+ "barras-control": {
+  "nombre": "Barras de control",
+  "resumen": "Cadmio que absorbe neutrones."
+ },
+ "separacion-electromagnetica": {
+  "nombre": "Calutrón",
+  "resumen": "Espectrómetro de masas industrial en Oak Ridge."
+ },
+ "reactor-x10": {
+  "nombre": "Reactor de grafito refrigerado por aire",
+  "resumen": "Oak Ridge produce los primeros gramos de plutonio."
+ },
+ "reactores-hanford": {
+  "nombre": "Reactores de producción de plutonio",
+  "resumen": "Reactor B, refrigerado por agua."
+ },
+ "reprocesamiento": {
+  "nombre": "Separación química del plutonio",
+  "resumen": "Proceso del fosfato de bismuto; después PUREX."
+ },
+ "lentes-explosivas": {
+  "nombre": "Lentes explosivas de implosión",
+  "resumen": "Explosivos de distinta velocidad comprimen una esfera."
+ },
+ "iniciador-neutrones": {
+  "nombre": "Iniciador de neutrones",
+  "resumen": "Polonio y berilio."
+ },
+ "bomba-uranio-canon": {
+  "nombre": "Bomba de uranio de tipo cañón",
+  "resumen": "Little Boy."
+ },
+ "bomba-sovietica": {
+  "nombre": "Primera bomba soviética",
+  "resumen": "RDS-1."
+ },
+ "diseno-teller-ulam": {
+  "nombre": "Diseño Teller-Ulam",
+  "resumen": "Los rayos X de la fisión comprimen el combustible de fusión."
+ },
+ "deuteruro-litio": {
+  "nombre": "Deuteruro de litio",
+  "resumen": "Combustible de fusión sólido."
+ },
+ "bomba-zar": {
+  "nombre": "Mayor explosión nuclear",
+  "resumen": "Bomba Zar de 50 megatones."
+ },
+ "tratado-prohibicion-parcial": {
+  "nombre": "Prohibición de ensayos atmosféricos",
+  "resumen": "Tratado de Moscú."
+ },
+ "no-proliferacion": {
+  "nombre": "Tratado de No Proliferación",
+  "resumen": "Salvaguardias del OIEA."
+ },
+ "reactor-agua-pesada": {
+  "nombre": "Reactor de agua pesada",
+  "resumen": "CP-3 en Argonne."
+ },
+ "reactor-candu": {
+  "nombre": "Reactor CANDU",
+  "resumen": "Uranio natural y recarga en marcha."
+ },
+ "reactor-agua-ebullicion": {
+  "nombre": "Reactor de agua en ebullición",
+  "resumen": "Vallecitos y Dresden."
+ },
+ "reactor-magnox": {
+  "nombre": "Reactor de gas y grafito",
+  "resumen": "Calder Hall."
+ },
+ "reactor-rbmk": {
+  "nombre": "Reactor RBMK",
+  "resumen": "Canales de presión en grafito."
+ },
+ "reactor-naval": {
+  "nombre": "Reactor naval compacto",
+  "resumen": "Prototipo S1W."
+ },
+ "vainas-zircaloy": {
+  "nombre": "Zircaloy",
+  "resumen": "Aleación de circonio transparente a los neutrones."
+ },
+ "pastillas-oxido-uranio": {
+  "nombre": "Combustible de óxido de uranio",
+  "resumen": "Pastillas cerámicas sinterizadas."
+ },
+ "combustible-mox": {
+  "nombre": "Combustible MOX",
+  "resumen": "Óxidos de uranio y plutonio."
+ },
+ "vasija-presion": {
+  "nombre": "Vasija de presión del reactor",
+  "resumen": "Acero forjado de 20 cm con revestimiento inoxidable."
+ },
+ "edificio-contencion": {
+  "nombre": "Edificio de contención",
+  "resumen": "Cúpula estanca alrededor del reactor."
+ },
+ "torre-refrigeracion": {
+  "nombre": "Torre de refrigeración hiperbólica",
+  "resumen": "Tiro natural."
+ },
+ "refrigeracion-sodio": {
+  "nombre": "Refrigeración por metal líquido",
+  "resumen": "Sodio y potasio fundidos."
+ },
+ "superphenix": {
+  "nombre": "Reactor rápido comercial",
+  "resumen": "Superphénix."
+ },
+ "accidente-three-mile": {
+  "nombre": "Accidente de Three Mile Island",
+  "resumen": "Fusión parcial del núcleo."
+ },
+ "accidente-fukushima": {
+  "nombre": "Accidente de Fukushima",
+  "resumen": "Tsunami que anula la refrigeración."
+ },
+ "almacen-geologico": {
+  "nombre": "Almacén geológico profundo",
+  "resumen": "Onkalo (Finlandia), en granito."
+ },
+ "vitrificacion-residuos": {
+  "nombre": "Vitrificación de residuos",
+  "resumen": "Residuos de alta actividad fundidos en vidrio."
+ },
+ "reactor-epr": {
+  "nombre": "Reactores de tercera generación",
+  "resumen": "EPR y AP1000 con seguridad pasiva."
+ },
+ "reactor-modular": {
+  "nombre": "Reactores modulares pequeños",
+  "resumen": "Akademik Lomonósov, central flotante."
+ },
+ "reactor-oklo": {
+  "nombre": "Reactor natural de Oklo",
+  "resumen": "Fisión espontánea en Gabón hace 2000 millones de años."
+ },
+ "fusion-laboratorio": {
+  "nombre": "Fusión de deuterio",
+  "resumen": "Deuterones acelerados producen helio-3 y tritio."
+ },
+ "cockcroft-walton": {
+  "nombre": "Acelerador Cockcroft-Walton",
+  "resumen": "Primera desintegración nuclear con partículas aceleradas."
+ },
+ "criterio-lawson": {
+  "nombre": "Criterio de Lawson",
+  "resumen": "Densidad, temperatura y tiempo necesarios."
+ },
+ "estricion-plasma": {
+  "nombre": "Confinamiento por estricción",
+  "resumen": "Máquinas pinch; ZETA en 1957."
+ },
+ "stellarator": {
+  "nombre": "Stellarator",
+  "resumen": "Bobinas retorcidas."
+ },
+ "tokamak-t3": {
+  "nombre": "Diez millones de grados en un tokamak",
+  "resumen": "Resultados del T-3 confirmados con láser."
+ },
+ "fusion-inercial": {
+  "nombre": "Fusión por confinamiento inercial",
+  "resumen": "Implosión de una microesfera."
+ },
+ "jet": {
+  "nombre": "Tokamak JET",
+  "resumen": "Culham."
+ },
+ "modo-h": {
+  "nombre": "Modo de alto confinamiento",
+  "resumen": "Descubierto en ASDEX."
+ },
+ "fusion-deuterio-tritio": {
+  "nombre": "Fusión controlada de deuterio y tritio",
+  "resumen": "JET produce 1,7 MW."
+ },
+ "record-jet": {
+  "nombre": "Dieciséis megavatios de fusión",
+  "resumen": "Récord del JET."
+ },
+ "imanes-superconductores-fusion": {
+  "nombre": "Tokamak superconductor",
+  "resumen": "Tore Supra."
+ },
+ "wendelstein": {
+  "nombre": "Stellarator optimizado",
+  "resumen": "Wendelstein 7-X."
+ }
+}

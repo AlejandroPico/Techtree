@@ -1,0 +1,99 @@
+@ quimica | Química | #58b7a8
+@@ laboratorio | Instrumentos y técnicas de laboratorio
+bano-maria | ~200 | H | Baño maría | alambique | Calentamiento suave y uniforme. | María la Judía
+kerotakis | ~200 | H | Kerotakis | alambique | Aparato de reflujo para atacar metales con vapores. | María la Judía
+retorta | ~800 | H | Retorta de vidrio | alambique, vidrio-soplado | Recipiente de cuello curvo. | Jabir ibn Hayyan
+crisol-hesse | ~1450 | H | Crisoles de Hesse | porcelana | Refractarios de mullita exportados a toda Europa. |
+cuba-neumatica | 1727 | H | Cuba neumática | vidrio-soplado | Recoge gases sobre agua. | Stephen Hales
+cuba-mercurio | 1770 | H | Cuba de mercurio | cuba-neumatica | Recoge gases solubles. | Joseph Priestley
+eudiometro | 1775 | H | Eudiómetro | cuba-neumatica, botella-leyden | Mide volúmenes de gas tras una chispa. | Alessandro Volta
+bureta | 1791 | H | Bureta y valoración | balanza-precision | Análisis por volumen. | François Descroizilles
+condensador-liebig | 1830 | H | Refrigerante de Liebig | retorta | Camisa de agua a contracorriente. | Justus von Liebig
+analisis-combustion | 1831 | T | Análisis elemental por combustión | condensador-liebig | Carbono e hidrógeno de un compuesto orgánico. | Justus von Liebig
+laboratorio-docente | 1826 | S | Laboratorio de enseñanza | analisis-oxido-cobre | Giessen: los alumnos investigan. | Justus von Liebig
+analisis-oxido-cobre | 1811 | T | Análisis orgánico con óxido de cobre | combustion-lavoisier | Primer método cuantitativo. | Joseph Gay-Lussac, Louis Thénard
+desecador | 1850 | H | Desecador y bomba de trompa | bomba-vacio | Filtración al vacío. | Robert Bunsen
+matraz-erlenmeyer | 1860 | H | Matraz Erlenmeyer | vidrio-soplado | Cónico, para valorar. | Emil Erlenmeyer
+extractor-soxhlet | 1879 | H | Extractor Soxhlet | condensador-liebig | Extracción continua. | Franz von Soxhlet
+vaso-dewar | 1892 | H | Vaso Dewar | bomba-sprengel, espejo-plateado | Doble pared al vacío. | James Dewar
+ultracentrifugacion-analitica | 1926 | T | Peso molecular por sedimentación | ultracentrifuga | Las proteínas son moléculas definidas. | Theodor Svedberg
+electroforesis | 1937 | T | Electroforesis | disociacion-electrolitica | Separa proteínas por carga. | Arne Tiselius
+cromatografia-papel | 1944 | T | Cromatografía en papel | cromatografia | Separa aminoácidos. | Archer Martin, Richard Synge
+espectrofotometro | 1941 | H | Espectrofotómetro ultravioleta | espectroscopio, triodo | Beckman DU. | Arnold Beckman
+espectroscopia-infrarroja | 1944 | T | Espectroscopia infrarroja | radiacion-infrarroja | Huella de los enlaces. |
+espectrometria-masas-organica | 1956 | T | Espectrometría de masas orgánica | espectrometro-masas | Estructura por fragmentación. |
+hplc | 1967 | T | Cromatografía líquida de alta eficacia | cromatografia-gases | Columnas a alta presión. | Csaba Horváth
+rmn-transformada | 1966 | T | RMN por transformada de Fourier | espectroscopia-rmn, transformada-rapida-fourier | Sensibilidad cien veces mayor. | Richard Ernst
+sintesis-fase-solida | 1963 | T | Síntesis de péptidos en fase sólida | secuencia-insulina | Cadenas ancladas a una resina. | Bruce Merrifield
+quimica-combinatoria | 1991 | T | Química combinatoria | sintesis-fase-solida | Miles de compuestos a la vez. |
+ionizacion-electrospray | 1988 | T | Ionización por electrospray | espectrometria-masas-organica | Proteínas enteras al espectrómetro. | John Fenn
+@@ organica | Química orgánica
+alcohol-absoluto | 1796 | M | Alcohol absoluto | destilacion-alcohol | Deshidratado con potasa. | Johann Lowitz
+eter-etilico | 1540 | M | Éter etílico | acido-nitrico, destilacion-alcohol | «Aceite dulce de vitriolo». | Valerius Cordus
+acido-acetico-glacial | ~1700 | M | Ácido acético concentrado | alambique | Destilación de acetatos. |
+acidos-organicos-scheele | 1780 | D | Ácidos orgánicos aislados | analisis-mineral | Cítrico, láctico, tartárico, úrico. | Carl Scheele
+glicerina | 1783 | D | Glicerina | jabon | Aislada al saponificar aceite. | Carl Scheele
+grasas-chevreul | 1823 | D | Naturaleza de las grasas | glicerina | Ésteres de glicerina y ácidos grasos. | Michel Chevreul
+alcaloides | 1820 | D | Alcaloides | morfina | Estricnina, cafeína, nicotina. |
+radicales | 1832 | C | Teoría de los radicales | isomeria | El grupo benzoílo pasa intacto de un compuesto a otro. | Justus von Liebig, Friedrich Wöhler
+fenol | 1834 | D | Fenol | gas-alumbrado | Aislado del alquitrán de hulla. | Friedlieb Runge
+anilina | 1826 | D | Anilina | tintes | Obtenida del índigo. | Otto Unverdorben
+acido-acetico-sintesis | 1845 | D | Síntesis total del ácido acético | sintesis-urea | Desde los elementos. | Hermann Kolbe
+teoria-tipos | 1853 | C | Teoría de los tipos | radicales | Clasifica los compuestos orgánicos. | Charles Gerhardt
+tetravalencia-carbono | 1858 | C | Tetravalencia del carbono | valencia | El carbono forma cadenas. | August Kekulé, Archibald Couper
+quiralidad | 1848 | D | Quiralidad molecular | polarizacion | Cristales izquierdos y derechos de tartrato. | Louis Pasteur
+reaccion-friedel-crafts | 1877 | T | Reacción de Friedel-Crafts | estructura-benceno | Alquilación de anillos aromáticos. | Charles Friedel, James Crafts
+reactivo-grignard | 1900 | T | Reactivos de Grignard | elemento-magnesio | Enlaces carbono-carbono. | Victor Grignard
+azucares-fischer | 1891 | D | Estructura de los azúcares | estereoquimica | Configuración de la glucosa. | Emil Fischer
+peptidos | 1902 | C | Enlace peptídico | azucares-fischer | Las proteínas son cadenas de aminoácidos. | Emil Fischer, Franz Hofmeister
+reaccion-diels-alder | 1928 | T | Reacción de Diels-Alder | estructura-benceno | Forma anillos de seis miembros. | Otto Diels, Kurt Alder
+mecanismos-reaccion | 1933 | C | Mecanismos de reacción | enlace-covalente | Flechas curvas y SN1/SN2. | Christopher Ingold
+sintesis-quinina | 1944 | D | Síntesis total de productos naturales | quinina, reaccion-diels-alder | Quinina; después vitamina B12. | Robert Woodward
+retrosintesis | 1967 | C | Análisis retrosintético | sintesis-quinina | Planificar la síntesis hacia atrás. | Elias Corey
+reaccion-wittig | 1954 | T | Reacción de Wittig | reactivo-grignard | Alquenos con posición fija. | Georg Wittig
+acoplamiento-paladio | 1972 | T | Acoplamientos cruzados con paladio | elemento-paladio | Heck, Negishi y Suzuki. | Richard Heck
+metatesis | 1971 | T | Metátesis de olefinas | catalisis | Intercambio de dobles enlaces. | Yves Chauvin
+catalisis-asimetrica | 1968 | T | Catálisis asimétrica | quiralidad | Fabrica una sola mano de la molécula. | William Knowles
+@@ industrial | Industria química
+sal-amoniaco | ~800 | M | Sal amoníaco | alambique | Sublimada del hollín. |
+vitriolos | ~-500 | M | Vitriolos | mineria-cobre | Sulfatos de hierro y cobre para tintas y tintes. |
+tinta-ferrogalica | ~400 | M | Tinta ferrogálica | vitriolos | Agallas de roble y vitriolo. |
+albayalde | ~-400 | M | Albayalde | plomo, vino | Blanco de plomo por corrosión con vinagre. |
+minio | ~-300 | M | Minio | albayalde | Rojo de plomo. |
+bermellon | ~-400 | M | Bermellón | elemento-mercurio | Cinabrio molido; después sintético. |
+azul-ultramar | ~500 | M | Azul ultramar | malaquita-pigmento | Lapislázuli purificado. |
+amarillo-napoles | ~-1500 | M | Amarillo de antimoniato de plomo | vidriado | En vidrios y esmaltes egipcios. |
+cardenillo | ~-500 | M | Cardenillo | cobre-reduccion, vino | Verde de acetato de cobre. |
+acido-clorhidrico | 1648 | M | Ácido clorhídrico | acido-nitrico, extraccion-sal | Sal y ácido sulfúrico. | Johann Glauber
+sal-glauber | 1625 | M | Sal de Glauber | hornos-glauber | Sulfato sódico. | Johann Glauber
+hornos-glauber | ~1600 | T | Hornos de destilación de Glauber | alambique | Hornos filosóficos de mayor escala. | Johann Glauber
+vitriolo-nordhausen | ~1650 | M | Ácido sulfúrico fumante | vitriolos, alambique | Destilación seca de vitriolo verde. |
+campana-azufre | 1736 | T | Ácido sulfúrico «por la campana» | vitriolo-nordhausen | Azufre y salitre en globos de vidrio. | Joshua Ward
+torre-gay-lussac | 1827 | H | Torres de Gay-Lussac y Glover | acido-sulfurico-camaras | Recuperan los óxidos de nitrógeno. | Joseph Gay-Lussac
+ultramar-sintetico | 1828 | M | Ultramar sintético | azul-ultramar | Caolín, sosa y azufre. | Jean-Baptiste Guimet
+verde-scheele | 1775 | M | Verde de Scheele | elemento-arsenico | Pigmento de arsénico, tóxico. | Carl Scheele
+amarillo-cromo | 1809 | M | Amarillo de cromo | elemento-cromo | Cromato de plomo. | Louis Vauquelin
+blanco-zinc | 1834 | M | Blanco de zinc | zinc | Sustituto no tóxico del albayalde. |
+blanco-titanio | 1916 | M | Blanco de titanio | elemento-titanio | El pigmento blanco moderno. |
+tubo-pintura | 1841 | I | Tubo de pintura | hojalata | Estaño plegable. | John Rand
+parafina | 1856 | M | Parafina | queroseno | Velas y aislantes. | James Young
+torre-destilacion | 1830 | H | Columna de rectificación | destilacion-alcohol | Destilación continua. | Aeneas Coffey
+refino-petroleo | 1861 | S | Refinería de petróleo | torre-destilacion, pozo-petroleo | Destilación fraccionada del crudo. |
+reformado-catalitico | 1949 | T | Reformado catalítico | craqueo-catalitico, platino-maleable | Platforming. | Vladimir Haensel
+polimerizacion-etileno-oxido | 1931 | M | Óxido de etileno | catalisis | Anticongelantes y detergentes. |
+detergente-sintetico | 1932 | M | Detergentes sintéticos | jabon, hidrogenacion-grasas | Sulfatos de alcohol graso. |
+metanol-sintetico | 1923 | T | Metanol sintético | haber-bosch-industrial, gas-agua | Alta presión de BASF. | Matthias Pier
+urea-industrial | 1922 | T | Urea industrial | haber-bosch-industrial | Fertilizante nitrogenado. |
+nitrato-amonico | 1913 | M | Nitrato amónico | proceso-ostwald, haber-bosch-industrial | Fertilizante y explosivo. |
+tnt | 1863 | M | Trinitrotolueno | acido-sulfurico-camaras, benceno | Explosivo estable. | Julius Wilbrand
+rdx | 1898 | M | Hexógeno | tnt | Explosivo de alta potencia. | Georg Henning
+proceso-deacon | 1868 | T | Proceso Deacon | proceso-leblanc, catalisis | Cloro a partir de ácido clorhídrico. | Henry Deacon
+polvos-blanqueo | 1799 | M | Polvos de blanqueo | blanqueo-cloro, cal | Cloruro de cal transportable. | Charles Tennant
+fosforo-rojo | 1845 | D | Fósforo rojo | fosforo | Forma estable. | Anton von Schrötter
+carburo-calcio | 1892 | M | Carburo de calcio | arco-electrico, dinamo-gramme, cal | Acetileno. | Thomas Willson, Henri Moissan
+carborundo | 1891 | M | Carburo de silicio | arco-electrico, dinamo-gramme | Abrasivo. | Edward Acheson
+grafito-sintetico | 1896 | M | Grafito sintético | carborundo | Electrodos. | Edward Acheson
+cianamida | 1898 | T | Proceso de la cianamida | carburo-calcio | Fija nitrógeno. | Adolph Frank, Nikodem Caro
+arco-birkeland | 1903 | T | Fijación de nitrógeno por arco | arco-electrico, central-hidroelectrica | Proceso noruego. | Kristian Birkeland, Sam Eyde
+zeolitas | 1948 | M | Zeolitas sintéticas | cristalografia-rayos-x | Tamices moleculares. | Richard Barrer
+biodiesel | 1937 | M | Biodiésel | motor-diesel | Transesterificación. |
