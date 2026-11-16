@@ -1,0 +1,210 @@
+{
+ "bmc-ind-siderurgia-g0": {
+  "nombre": "Acero al carbono",
+  "resumen": "Generación 1 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g1": {
+  "nombre": "Acero aleado",
+  "resumen": "Generación 2 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g2": {
+  "nombre": "Acero de alta resistencia",
+  "resumen": "Generación 3 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g3": {
+  "nombre": "Aleaciones ligeras",
+  "resumen": "Generación 4 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g4": {
+  "nombre": "Superaleaciones",
+  "resumen": "Generación 5 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g5": {
+  "nombre": "Compuestos metálicos",
+  "resumen": "Generación 6 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g6": {
+  "nombre": "Materiales compuestos avanzados",
+  "resumen": "Generación 7 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g7": {
+  "nombre": "Compuestos de matriz cerámica",
+  "resumen": "Generación 8 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-siderurgia-g8": {
+  "nombre": "Metamateriales estructurales",
+  "resumen": "Generación 9 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g0": {
+  "nombre": "Química de síntesis",
+  "resumen": "Generación 1 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g1": {
+  "nombre": "Craqueo del petróleo",
+  "resumen": "Generación 2 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g2": {
+  "nombre": "Polímeros",
+  "resumen": "Generación 3 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g3": {
+  "nombre": "Petroquímica integrada",
+  "resumen": "Generación 4 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g4": {
+  "nombre": "Catálisis avanzada",
+  "resumen": "Generación 5 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g5": {
+  "nombre": "Química fina",
+  "resumen": "Generación 6 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g6": {
+  "nombre": "Química verde",
+  "resumen": "Generación 7 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-quimica-g7": {
+  "nombre": "Síntesis dirigida",
+  "resumen": "Generación 8 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g0": {
+  "nombre": "Producción en cadena",
+  "resumen": "Generación 1 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g1": {
+  "nombre": "Cadena móvil",
+  "resumen": "Generación 2 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g2": {
+  "nombre": "Producción de guerra",
+  "resumen": "Generación 3 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g3": {
+  "nombre": "Control de calidad estadístico",
+  "resumen": "Generación 4 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g4": {
+  "nombre": "Producción ajustada",
+  "resumen": "Generación 5 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g5": {
+  "nombre": "Célula flexible",
+  "resumen": "Generación 6 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g6": {
+  "nombre": "Fabricación integrada",
+  "resumen": "Generación 7 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-montaje-g7": {
+  "nombre": "Fabricación aditiva",
+  "resumen": "Generación 8 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-automatizacion-g0": {
+  "nombre": "Control mecánico",
+  "resumen": "Generación 1 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-automatizacion-g1": {
+  "nombre": "Control por relés",
+  "resumen": "Generación 2 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-automatizacion-g2": {
+  "nombre": "Control numérico",
+  "resumen": "Generación 3 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-automatizacion-g3": {
+  "nombre": "Robótica industrial",
+  "resumen": "Generación 4 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-automatizacion-g4": {
+  "nombre": "Célula robotizada",
+  "resumen": "Generación 5 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-automatizacion-g5": {
+  "nombre": "Planta automatizada",
+  "resumen": "Generación 6 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-automatizacion-g6": {
+  "nombre": "Planta autónoma",
+  "resumen": "Generación 7 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g0": {
+  "nombre": "Red de corriente alterna",
+  "resumen": "Generación 1 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g1": {
+  "nombre": "Red nacional",
+  "resumen": "Generación 2 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g2": {
+  "nombre": "Térmica de gran escala",
+  "resumen": "Generación 3 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g3": {
+  "nombre": "Hidroeléctrica de embalse",
+  "resumen": "Generación 4 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g4": {
+  "nombre": "Nuclear civil",
+  "resumen": "Generación 5 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g5": {
+  "nombre": "Ciclo combinado",
+  "resumen": "Generación 6 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g6": {
+  "nombre": "Renovable a escala",
+  "resumen": "Generación 7 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-energia-g7": {
+  "nombre": "Red inteligente",
+  "resumen": "Generación 8 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g0": {
+  "nombre": "Minería mecanizada",
+  "resumen": "Generación 1 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g1": {
+  "nombre": "Perforación rotativa",
+  "resumen": "Generación 2 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g2": {
+  "nombre": "Extracción a cielo abierto",
+  "resumen": "Generación 3 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g3": {
+  "nombre": "Prospección sísmica",
+  "resumen": "Generación 4 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g4": {
+  "nombre": "Extracción marina",
+  "resumen": "Generación 5 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g5": {
+  "nombre": "Recuperación asistida",
+  "resumen": "Generación 6 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g6": {
+  "nombre": "Extracción de tierras raras",
+  "resumen": "Generación 7 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ind-extraccion-g7": {
+  "nombre": "Reciclado estratégico",
+  "resumen": "Generación 8 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-produccion-masiva": {
+  "nombre": "Producción de guerra a gran escala",
+  "resumen": "Aplicación que combina líneas de montaje, movilización civil. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-complejo-militar": {
+  "nombre": "Complejo industrial-militar",
+  "resumen": "Aplicación que combina líneas de montaje, política industrial. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-autonomia-estrategica": {
+  "nombre": "Autonomía industrial estratégica",
+  "resumen": "Aplicación que combina gestión de recursos estratégicos, política industrial. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-complejo-militar": {
+  "nombre": "Consolidar el complejo militar-industrial",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "bmc-inf-redes-g0": {
+  "nombre": "Conmutación de circuitos",
+  "resumen": "Generación 1 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-redes-g1": {
+  "nombre": "Conmutación de paquetes",
+  "resumen": "Generación 2 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-redes-g2": {
+  "nombre": "Red de área extensa",
+  "resumen": "Generación 3 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-redes-g3": {
+  "nombre": "Interconexión abierta",
+  "resumen": "Generación 4 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-redes-g4": {
+  "nombre": "Red de banda ancha",
+  "resumen": "Generación 5 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-redes-g5": {
+  "nombre": "Red definida por software",
+  "resumen": "Generación 6 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-criptografia-g0": {
+  "nombre": "Cifrado de rotor",
+  "resumen": "Generación 1 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-criptografia-g1": {
+  "nombre": "Criptoanálisis mecanizado",
+  "resumen": "Generación 2 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-criptografia-g2": {
+  "nombre": "Cifrado por bloques",
+  "resumen": "Generación 3 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-criptografia-g3": {
+  "nombre": "Clave pública",
+  "resumen": "Generación 4 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-criptografia-g4": {
+  "nombre": "Curva elíptica",
+  "resumen": "Generación 5 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-criptografia-g5": {
+  "nombre": "Cifrado homomórfico",
+  "resumen": "Generación 6 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberdefensa-g0": {
+  "nombre": "Control de acceso",
+  "resumen": "Generación 1 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberdefensa-g1": {
+  "nombre": "Cortafuegos",
+  "resumen": "Generación 2 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberdefensa-g2": {
+  "nombre": "Detección de intrusiones",
+  "resumen": "Generación 3 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberdefensa-g3": {
+  "nombre": "Respuesta automatizada",
+  "resumen": "Generación 4 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberdefensa-g4": {
+  "nombre": "Arquitectura de confianza cero",
+  "resumen": "Generación 5 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberataque-g0": {
+  "nombre": "Intrusión oportunista",
+  "resumen": "Generación 1 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberataque-g1": {
+  "nombre": "Explotación dirigida",
+  "resumen": "Generación 2 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberataque-g2": {
+  "nombre": "Persistencia en red ajena",
+  "resumen": "Generación 3 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberataque-g3": {
+  "nombre": "Sabotaje de sistemas industriales",
+  "resumen": "Generación 4 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ciberataque-g4": {
+  "nombre": "Campaña sostenida",
+  "resumen": "Generación 5 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ia-g0": {
+  "nombre": "Sistemas expertos",
+  "resumen": "Generación 1 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ia-g1": {
+  "nombre": "Redes neuronales",
+  "resumen": "Generación 2 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ia-g2": {
+  "nombre": "Aprendizaje estadístico",
+  "resumen": "Generación 3 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ia-g3": {
+  "nombre": "Aprendizaje profundo",
+  "resumen": "Generación 4 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-ia-g4": {
+  "nombre": "Modelos de gran escala",
+  "resumen": "Generación 5 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-mando-g0": {
+  "nombre": "Centro de operaciones",
+  "resumen": "Generación 1 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-mando-g1": {
+  "nombre": "Mando automatizado",
+  "resumen": "Generación 2 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-mando-g2": {
+  "nombre": "Imagen única de situación",
+  "resumen": "Generación 3 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-mando-g3": {
+  "nombre": "Mando en red",
+  "resumen": "Generación 4 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-mando-g4": {
+  "nombre": "Fusión multidominio",
+  "resumen": "Generación 5 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-mando-g5": {
+  "nombre": "Mando asistido",
+  "resumen": "Generación 6 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-ciber-g0": {
+  "nombre": "Seguridad de las comunicaciones",
+  "resumen": "Generación 1 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-ciber-g1": {
+  "nombre": "Guerra de la información",
+  "resumen": "Generación 2 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-ciber-g2": {
+  "nombre": "Operaciones en el ciberespacio",
+  "resumen": "Generación 3 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-ciber-g3": {
+  "nombre": "Defensa activa en red",
+  "resumen": "Generación 4 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-datos-g0": {
+  "nombre": "Tarjeta perforada",
+  "resumen": "Generación 1 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-datos-g1": {
+  "nombre": "Proceso por lotes",
+  "resumen": "Generación 2 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-datos-g2": {
+  "nombre": "Base de datos relacional",
+  "resumen": "Generación 3 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-datos-g3": {
+  "nombre": "Almacén de datos",
+  "resumen": "Generación 4 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-datos-g4": {
+  "nombre": "Datos masivos",
+  "resumen": "Generación 5 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-datos-g5": {
+  "nombre": "Tratamiento en tiempo real",
+  "resumen": "Generación 6 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-simulacion-g0": {
+  "nombre": "Juego de mesa de estado mayor",
+  "resumen": "Generación 1 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-simulacion-g1": {
+  "nombre": "Simulación analógica",
+  "resumen": "Generación 2 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-simulacion-g2": {
+  "nombre": "Simulación por computador",
+  "resumen": "Generación 3 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-simulacion-g3": {
+  "nombre": "Adiestramiento sintético",
+  "resumen": "Generación 4 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-simulacion-g4": {
+  "nombre": "Simulación distribuida",
+  "resumen": "Generación 5 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-inf-simulacion-g5": {
+  "nombre": "Gemelo digital",
+  "resumen": "Generación 6 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-ciber-mando": {
+  "nombre": "Mando de operaciones digitales",
+  "resumen": "Aplicación que combina doctrina digital, operaciones digitales ofensivas. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-fusion-datos": {
+  "nombre": "Fusión de datos multidominio",
+  "resumen": "Aplicación que combina inteligencia artificial, mando y control digital, tratamiento de datos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-defensa-infra": {
+  "nombre": "Protección de infraestructura crítica",
+  "resumen": "Aplicación que combina ciberdefensa, energía eléctrica. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-ciber-infra": {
+  "nombre": "Sabotaje de infraestructura crítica",
+  "resumen": "Aplicación que combina operaciones digitales ofensivas, redes. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-apagon": {
+  "nombre": "Negación de la red eléctrica",
+  "resumen": "Aplicación que combina energía eléctrica, operaciones digitales ofensivas. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-ciber-sanidad": {
+  "nombre": "Interrupción de servicios esenciales",
+  "resumen": "Aplicación que combina operaciones digitales ofensivas, sanidad. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-ia-mando": {
+  "nombre": "Apoyo a la decisión asistido",
+  "resumen": "Aplicación que combina inteligencia artificial, simulación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-vigilancia-masiva": {
+  "nombre": "Implantar la vigilancia masiva",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-influencia-redes": {
+  "nombre": "Operación de influencia en red",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

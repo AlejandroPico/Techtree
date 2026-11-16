@@ -1,0 +1,146 @@
+{
+ "bmc-nuc-reactor-g0": {
+  "nombre": "Pila experimental",
+  "resumen": "Generación 1 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-reactor-g1": {
+  "nombre": "Reactor de investigación",
+  "resumen": "Generación 2 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-reactor-g2": {
+  "nombre": "Reactor de potencia",
+  "resumen": "Generación 3 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-reactor-g3": {
+  "nombre": "Reactor compacto",
+  "resumen": "Generación 4 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-reactor-g4": {
+  "nombre": "Reactor de seguridad pasiva",
+  "resumen": "Generación 5 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-reactor-g5": {
+  "nombre": "Reactor modular",
+  "resumen": "Generación 6 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-enriquecimiento-g0": {
+  "nombre": "Separación electromagnética",
+  "resumen": "Generación 1 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-enriquecimiento-g1": {
+  "nombre": "Difusión gaseosa",
+  "resumen": "Generación 2 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-enriquecimiento-g2": {
+  "nombre": "Centrifugación",
+  "resumen": "Generación 3 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-enriquecimiento-g3": {
+  "nombre": "Centrifugación avanzada",
+  "resumen": "Generación 4 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-enriquecimiento-g4": {
+  "nombre": "Separación por láser",
+  "resumen": "Generación 5 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-dispositivo-g0": {
+  "nombre": "Dispositivo de fisión",
+  "resumen": "Generación 1 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-dispositivo-g1": {
+  "nombre": "Dispositivo de implosión mejorada",
+  "resumen": "Generación 2 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-dispositivo-g2": {
+  "nombre": "Dispositivo termonuclear",
+  "resumen": "Generación 3 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-dispositivo-g3": {
+  "nombre": "Miniaturización de ojivas",
+  "resumen": "Generación 4 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-dispositivo-g4": {
+  "nombre": "Ojiva de reentrada múltiple",
+  "resumen": "Generación 5 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-dispositivo-g5": {
+  "nombre": "Ojiva de potencia seleccionable",
+  "resumen": "Generación 6 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-naval-g0": {
+  "nombre": "Reactor naval",
+  "resumen": "Generación 1 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-naval-g1": {
+  "nombre": "Reactor de larga duración",
+  "resumen": "Generación 2 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-naval-g2": {
+  "nombre": "Reactor naval silencioso",
+  "resumen": "Generación 3 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-naval-g3": {
+  "nombre": "Reactor de vida de casco",
+  "resumen": "Generación 4 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-custodia-g0": {
+  "nombre": "Custodia centralizada",
+  "resumen": "Generación 1 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-custodia-g1": {
+  "nombre": "Enlace de autorización",
+  "resumen": "Generación 2 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-custodia-g2": {
+  "nombre": "Enlace de acción permisiva",
+  "resumen": "Generación 3 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-custodia-g3": {
+  "nombre": "Mando resistente",
+  "resumen": "Generación 4 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-custodia-g4": {
+  "nombre": "Custodia distribuida",
+  "resumen": "Generación 5 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-verificacion-g0": {
+  "nombre": "Detección sísmica de ensayos",
+  "resumen": "Generación 1 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-verificacion-g1": {
+  "nombre": "Vigilancia atmosférica",
+  "resumen": "Generación 2 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-verificacion-g2": {
+  "nombre": "Inspección internacional",
+  "resumen": "Generación 3 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-verificacion-g3": {
+  "nombre": "Verificación por satélite",
+  "resumen": "Generación 4 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nuc-verificacion-g4": {
+  "nombre": "Vigilancia continua",
+  "resumen": "Generación 5 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-segundo-golpe": {
+  "nombre": "Capacidad de segundo golpe",
+  "resumen": "Aplicación que combina mando y custodia nuclear, submarinos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-triada": {
+  "nombre": "Tríada estratégica completa",
+  "resumen": "Aplicación que combina bombardeo estratégico, dispositivos nucleares, submarinos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-reactor-compacto": {
+  "nombre": "Reactor compacto de propulsión",
+  "resumen": "Aplicación que combina física de reactores, propulsión naval nuclear. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-programa-nuclear": {
+  "nombre": "Iniciar un programa nuclear",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-renunciar-nuclear": {
+  "nombre": "Renunciar al arma nuclear",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

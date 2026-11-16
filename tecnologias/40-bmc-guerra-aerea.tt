@@ -1,0 +1,100 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ guerra-aerea | Guerra aérea | #7fa6c9
+@@ air-aerodinamica | Aerodinámica
+bmc-air-aerodinamica-g0 | ~1903 | I | Ala rígida | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g1 | ~1928 | I | Monoplano metálico | bmc-air-aerodinamica-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g2 | ~1942 | I | Ala laminar | bmc-air-aerodinamica-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g3 | ~1950 | I | Ala en flecha | bmc-air-aerodinamica-g2, bmc-ind-siderurgia-g3 | Generación 4 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g4 | ~1958 | I | Ala delta | bmc-air-aerodinamica-g3, bmc-ind-siderurgia-g3 | Generación 5 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g5 | ~1970 | I | Geometría variable | bmc-air-aerodinamica-g4, bmc-ind-siderurgia-g4 | Generación 6 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g6 | ~1982 | I | Control artificial de estabilidad | bmc-air-aerodinamica-g5, bmc-ind-siderurgia-g5 | Generación 7 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g7 | ~2005 | I | Ala adaptativa | bmc-air-aerodinamica-g6, bmc-ind-siderurgia-g6 | Generación 8 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aerodinamica-g8 | ~2024 | I | Configuración sin cola | bmc-air-aerodinamica-g7, bmc-ind-siderurgia-g8 | Generación 9 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-motor | Motores aeronáuticos
+bmc-air-motor-g0 | ~1910 | I | Motor de pistón refrigerado | bmc-ind-siderurgia-g0, bmc-ind-quimica-g0 | Generación 1 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-motor-g1 | ~1935 | I | Motor sobrealimentado | bmc-air-motor-g0, bmc-ind-siderurgia-g1, bmc-ind-quimica-g1 | Generación 2 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-motor-g2 | ~1944 | I | Turborreactor | bmc-air-motor-g1, bmc-ind-siderurgia-g2, bmc-ind-quimica-g2 | Generación 3 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-motor-g3 | ~1960 | I | Turbofán | bmc-air-motor-g2, bmc-ind-siderurgia-g3, bmc-ind-quimica-g3 | Generación 4 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-motor-g4 | ~1972 | I | Postcombustión eficiente | bmc-air-motor-g3, bmc-ind-siderurgia-g4, bmc-ind-quimica-g3 | Generación 5 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-motor-g5 | ~1985 | I | Turbofán de alta relación | bmc-air-motor-g4, bmc-ind-siderurgia-g5, bmc-ind-quimica-g4 | Generación 6 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-motor-g6 | ~2010 | I | Motor de ciclo variable | bmc-air-motor-g5, bmc-ind-siderurgia-g7, bmc-ind-quimica-g6 | Generación 7 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-aa | Munición aire-aire
+bmc-air-aa-g0 | ~1915 | I | Ametralladora sincronizada | bmc-air-motor-g0, bmc-ele-sensores-g0 | Generación 1 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aa-g1 | ~1940 | I | Cañón de aviación | bmc-air-aa-g0, bmc-air-motor-g1, bmc-ele-sensores-g0 | Generación 2 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aa-g2 | ~1956 | I | Misil de guía infrarroja | bmc-air-aa-g1, bmc-air-motor-g2, bmc-ele-sensores-g1 | Generación 3 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aa-g3 | ~1965 | I | Misil de guía radárica | bmc-air-aa-g2, bmc-air-motor-g3, bmc-ele-sensores-g2 | Generación 4 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aa-g4 | ~1980 | I | Misil de largo alcance | bmc-air-aa-g3, bmc-air-motor-g4, bmc-ele-sensores-g3 | Generación 5 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aa-g5 | ~1998 | I | Misil de alta maniobrabilidad | bmc-air-aa-g4, bmc-air-motor-g5, bmc-ele-sensores-g4 | Generación 6 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-aa-g6 | ~2018 | I | Misil de red | bmc-air-aa-g5, bmc-air-motor-g6, bmc-ele-sensores-g6 | Generación 7 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-as | Munición aire-suelo
+bmc-air-as-g0 | ~1912 | I | Bomba de caída libre | avion | Generación 1 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-as-g1 | ~1940 | I | Bomba pesada | bmc-air-as-g0, bmc-ele-guiado-g0 | Generación 2 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-as-g2 | ~1958 | I | Bomba planeadora | bmc-air-as-g1, bmc-ele-guiado-g1 | Generación 3 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-as-g3 | ~1968 | I | Guiado láser | bmc-air-as-g2, bmc-ele-guiado-g2 | Generación 4 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-as-g4 | ~1994 | I | Guiado por satélite | bmc-air-as-g3, bmc-ele-guiado-g5 | Generación 5 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-as-g5 | ~2004 | I | Munición de ataque directo | bmc-air-as-g4, bmc-ele-guiado-g5 | Generación 6 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-as-g6 | ~2018 | I | Munición merodeadora | bmc-air-as-g5, bmc-ele-guiado-g6 | Generación 7 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-furtividad | Firma reducida
+bmc-air-furtividad-g0 | ~1943 | I | Camuflaje activo | bmc-air-aerodinamica-g2, bmc-ele-radar-g1 | Generación 1 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-furtividad-g1 | ~1965 | I | Absorción de radar | bmc-air-furtividad-g0, bmc-air-aerodinamica-g4, bmc-ele-radar-g3 | Generación 2 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-furtividad-g2 | ~1978 | I | Configuración facetada | bmc-air-furtividad-g1, bmc-air-aerodinamica-g5, bmc-ele-radar-g4 | Generación 3 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-furtividad-g3 | ~1990 | I | Configuración continua | bmc-air-furtividad-g2, bmc-air-aerodinamica-g6, bmc-ele-radar-g5 | Generación 4 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-furtividad-g4 | ~2008 | I | Gestión de firma completa | bmc-air-furtividad-g3, bmc-air-aerodinamica-g7, bmc-ele-radar-g6 | Generación 5 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-helicoptero | Helicópteros
+bmc-air-helicoptero-g0 | ~1939 | I | Rotor articulado | bmc-air-motor-g1 | Generación 1 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-helicoptero-g1 | ~1952 | I | Helicóptero de transporte | bmc-air-helicoptero-g0, bmc-air-motor-g2 | Generación 2 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-helicoptero-g2 | ~1966 | I | Helicóptero de ataque | bmc-air-helicoptero-g1, bmc-air-motor-g3 | Generación 3 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-helicoptero-g3 | ~1980 | I | Rotor rígido | bmc-air-helicoptero-g2, bmc-air-motor-g4 | Generación 4 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-helicoptero-g4 | ~1996 | I | Rotor basculante | bmc-air-helicoptero-g3, bmc-air-motor-g5 | Generación 5 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-helicoptero-g5 | ~2018 | I | Rotor compuesto de alta velocidad | bmc-air-helicoptero-g4, bmc-air-motor-g6 | Generación 6 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-dron | Sistemas no tripulados aéreos
+bmc-air-dron-g0 | ~1935 | I | Blanco radiocontrolado | bmc-ele-radio-g1 | Generación 1 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-dron-g1 | ~1960 | I | Dron de reconocimiento | bmc-air-dron-g0, bmc-ele-radio-g3 | Generación 2 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-dron-g2 | ~1990 | I | Dron de vigilancia persistente | bmc-air-dron-g1, bmc-ele-radio-g5, bmc-inf-ia-g1 | Generación 3 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-dron-g3 | ~2001 | I | Dron armado | bmc-air-dron-g2, bmc-ele-radio-g6, bmc-inf-ia-g2 | Generación 4 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-dron-g4 | ~2014 | I | Dron táctico de bajo coste | bmc-air-dron-g3, bmc-ele-radio-g7, bmc-inf-ia-g3 | Generación 5 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-dron-g5 | ~2022 | I | Enjambre coordinado | bmc-air-dron-g4, bmc-ele-radio-g7, bmc-inf-ia-g4 | Generación 6 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-transporte | Transporte aéreo
+bmc-air-transporte-g0 | ~1930 | I | Transporte ligero | bmc-air-motor-g0 | Generación 1 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-transporte-g1 | ~1943 | I | Transporte de asalto | bmc-air-transporte-g0, bmc-air-motor-g1 | Generación 2 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-transporte-g2 | ~1955 | I | Reabastecimiento en vuelo | bmc-air-transporte-g1, bmc-air-motor-g2 | Generación 3 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-transporte-g3 | ~1960 | I | Transporte estratégico | bmc-air-transporte-g2, bmc-air-motor-g3 | Generación 4 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-transporte-g4 | ~1974 | I | Transporte de gran capacidad | bmc-air-transporte-g3, bmc-air-motor-g4 | Generación 5 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-transporte-g5 | ~1998 | I | Puente aéreo integrado | bmc-air-transporte-g4, bmc-air-motor-g5 | Generación 6 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-bombardero | Bombardeo estratégico
+bmc-air-bombardero-g0 | ~1917 | I | Bombardero bimotor | bmc-air-motor-g0 | Generación 1 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-bombardero-g1 | ~1938 | I | Bombardero pesado | bmc-air-bombardero-g0, bmc-air-motor-g1 | Generación 2 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-bombardero-g2 | ~1944 | I | Bombardero de gran altitud | bmc-air-bombardero-g1, bmc-air-motor-g2 | Generación 3 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-bombardero-g3 | ~1954 | I | Bombardero a reacción | bmc-air-bombardero-g2, bmc-air-motor-g2 | Generación 4 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-bombardero-g4 | ~1964 | I | Bombardero supersónico | bmc-air-bombardero-g3, bmc-air-motor-g3 | Generación 5 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-bombardero-g5 | ~1989 | I | Bombardero de firma reducida | bmc-air-bombardero-g4, bmc-air-motor-g5 | Generación 6 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-bombardero-g6 | ~2015 | I | Plataforma de ataque de largo alcance | bmc-air-bombardero-g5, bmc-air-motor-g6 | Generación 7 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-caza | Caza
+bmc-air-caza-g0 | ~1915 | I | Caza biplano | bmc-air-motor-g0, bmc-air-aerodinamica-g0 | Generación 1 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-caza-g1 | ~1936 | I | Caza monoplano | bmc-air-caza-g0, bmc-air-motor-g1, bmc-air-aerodinamica-g1 | Generación 2 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-caza-g2 | ~1945 | I | Caza a reacción | bmc-air-caza-g1, bmc-air-motor-g2, bmc-air-aerodinamica-g2 | Generación 3 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-caza-g3 | ~1955 | I | Caza supersónico | bmc-air-caza-g2, bmc-air-motor-g2, bmc-air-aerodinamica-g3 | Generación 4 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-caza-g4 | ~1974 | I | Caza polivalente | bmc-air-caza-g3, bmc-air-motor-g4, bmc-air-aerodinamica-g5 | Generación 5 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-caza-g5 | ~1985 | I | Caza de superioridad | bmc-air-caza-g4, bmc-air-motor-g5, bmc-air-aerodinamica-g6 | Generación 6 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-caza-g6 | ~2005 | I | Caza de baja observabilidad | bmc-air-caza-g5, bmc-air-motor-g5, bmc-air-aerodinamica-g7 | Generación 7 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ air-hipersonico | Vuelo hipersónico
+bmc-air-hipersonico-g0 | ~1959 | I | Vehículo experimental | bmc-air-motor-g2 | Generación 1 de la línea «Vuelo hipersónico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-hipersonico-g1 | ~1990 | I | Estatorreactor de combustión supersónica | bmc-air-hipersonico-g0, bmc-air-motor-g4, bmc-esp-reentrada-g2 | Generación 2 de la línea «Vuelo hipersónico». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-air-hipersonico-g2 | ~2015 | I | Planeador hipersónico | bmc-air-hipersonico-g1, bmc-air-motor-g5, bmc-esp-reentrada-g3 | Generación 3 de la línea «Vuelo hipersónico». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-bomba-volante | ~1944 | S | Bomba volante propulsada | bmc-air-motor-g2, bmc-ele-guiado-g0 | Aplicación que combina guiado y navegación, motores aeronáuticos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-base-aerea | ~1944 | S | Base aérea de despliegue | bmc-air-motor-g2, bmc-tie-logistica-g2 | Aplicación que combina logística terrestre, motores aeronáuticos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-reabastecimiento | ~1955 | S | Reabastecimiento en vuelo | bmc-air-transporte-g2, bmc-air-motor-g2 | Aplicación que combina motores aeronáuticos, transporte aéreo. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-avion-reconocimiento | ~1957 | S | Avión de reconocimiento de gran altitud | bmc-int-fotografia-g3, bmc-air-aerodinamica-g3, bmc-air-motor-g2 | Aplicación que combina aerodinámica, fotografía y sensores de espionaje, motores aeronáuticos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-helicoptero-ataque | ~1966 | S | Helicóptero de ataque | bmc-air-helicoptero-g2, bmc-tie-atgm-g2 | Aplicación que combina armas contracarro, helicópteros. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-misil-crucero | ~1972 | S | Misil de crucero | bmc-air-motor-g3, bmc-ele-guiado-g2, bmc-air-as-g3 | Aplicación que combina guiado y navegación, motores aeronáuticos, munición aire-suelo. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-sead | ~1972 | S | Supresión de defensas aéreas | bmc-ele-guerra-electronica-g2, bmc-air-as-g3 | Aplicación que combina guerra electrónica, munición aire-suelo. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-awacs | ~1977 | S | Alerta aérea temprana aerotransportada | bmc-ele-radar-g4, bmc-air-transporte-g3, bmc-inf-mando-g1 | Aplicación que combina mando y control digital, radar, transporte aéreo. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-caza-superioridad | ~1985 | S | Caza de superioridad aérea | bmc-air-caza-g5, bmc-air-aa-g4, bmc-ele-radar-g5 | Aplicación que combina caza, munición aire-aire, radar. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-bombardero-furtivo | ~1989 | S | Bombardero de firma reducida | bmc-air-bombardero-g5, bmc-air-furtividad-g2 | Aplicación que combina bombardeo estratégico, firma reducida. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-dron-armado | ~2001 | S | Dron armado de vigilancia persistente | bmc-air-dron-g3, bmc-air-as-g4, bmc-esp-comunicacion-g3 | Aplicación que combina munición aire-suelo, satélites de comunicación, sistemas no tripulados aéreos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-caza-furtivo | ~2005 | S | Caza de baja observabilidad | bmc-air-caza-g6, bmc-air-furtividad-g3 | Aplicación que combina caza, firma reducida. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-dron-barato | ~2014 | S | Dron táctico de bajo coste | bmc-air-dron-g4, bmc-ele-computacion-g7 | Aplicación que combina computación, sistemas no tripulados aéreos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-hipersonico | ~2015 | S | Arma hipersónica de planeo | bmc-air-hipersonico-g2, bmc-ele-guiado-g6 | Aplicación que combina guiado y navegación, vuelo hipersónico. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-laser-defensa | ~2020 | S | Defensa de punto por energía dirigida | bmc-esp-dirigida-g3, bmc-ind-energia-g7 | Aplicación que combina energía dirigida, energía eléctrica. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-enjambre | ~2022 | S | Enjambre táctico coordinado | bmc-air-dron-g5, bmc-inf-ia-g4 | Aplicación que combina inteligencia artificial, sistemas no tripulados aéreos. Fecha orientativa, tomada de Blue Marble Crisis. |

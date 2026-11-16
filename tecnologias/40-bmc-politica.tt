@@ -1,0 +1,64 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ politica | Política y gobierno | #a07f5f
+@@ pol-administracion | Administración del Estado
+bmc-pol-administracion-g0 | ~1900 | I | Administración de notables | codigo-leyes | Generación 1 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-administracion-g1 | ~1918 | I | Función pública profesional | bmc-pol-administracion-g0, bmc-soc-educacion-g0 | Generación 2 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-administracion-g2 | ~1940 | I | Administración de guerra | bmc-pol-administracion-g1, bmc-soc-educacion-g1 | Generación 3 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-administracion-g3 | ~1955 | I | Administración de bienestar | bmc-pol-administracion-g2, bmc-soc-educacion-g2 | Generación 4 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-administracion-g4 | ~1972 | I | Administración descentralizada | bmc-pol-administracion-g3, bmc-soc-educacion-g3 | Generación 5 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-administracion-g5 | ~1990 | I | Administración informatizada | bmc-pol-administracion-g4, bmc-soc-educacion-g4 | Generación 6 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-administracion-g6 | ~2008 | I | Administración digital | bmc-pol-administracion-g5, bmc-soc-educacion-g4 | Generación 7 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-administracion-g7 | ~2026 | I | Administración basada en datos | bmc-pol-administracion-g6, bmc-soc-educacion-g5 | Generación 8 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ pol-propaganda | Propaganda y opinión pública
+bmc-pol-propaganda-g0 | ~1900 | I | Prensa afín | bmc-soc-medios-g0 | Generación 1 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-propaganda-g1 | ~1915 | I | Oficina de propaganda de guerra | bmc-pol-propaganda-g0, bmc-soc-medios-g0 | Generación 2 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-propaganda-g2 | ~1932 | I | Propaganda radiofónica | bmc-pol-propaganda-g1, bmc-soc-medios-g1 | Generación 3 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-propaganda-g3 | ~1943 | I | Propaganda de masas | bmc-pol-propaganda-g2, bmc-soc-medios-g1 | Generación 4 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-propaganda-g4 | ~1960 | I | Propaganda televisada | bmc-pol-propaganda-g3, bmc-soc-medios-g2 | Generación 5 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-propaganda-g5 | ~1978 | I | Sondeo de opinión pública | bmc-pol-propaganda-g4, bmc-soc-medios-g3 | Generación 6 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-propaganda-g6 | ~2000 | I | Comunicación política segmentada | bmc-pol-propaganda-g5, bmc-soc-medios-g4 | Generación 7 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-propaganda-g7 | ~2020 | I | Comunicación política automatizada | bmc-pol-propaganda-g6, bmc-soc-medios-g5 | Generación 8 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ pol-partidos | Partidos y representación
+bmc-pol-partidos-g0 | ~1900 | I | Notables y clientelas | codigo-leyes | Generación 1 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-partidos-g1 | ~1918 | I | Partido de masas | bmc-pol-partidos-g0, bmc-pol-administracion-g0 | Generación 2 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-partidos-g2 | ~1935 | I | Partido único | bmc-pol-partidos-g1, bmc-pol-administracion-g1 | Generación 3 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-partidos-g3 | ~1950 | I | Sistema de partidos estable | bmc-pol-partidos-g2, bmc-pol-administracion-g2 | Generación 4 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-partidos-g4 | ~1970 | I | Representación proporcional consolidada | bmc-pol-partidos-g3, bmc-pol-administracion-g3 | Generación 5 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-partidos-g5 | ~1990 | I | Financiación regulada de partidos | bmc-pol-partidos-g4, bmc-pol-administracion-g4 | Generación 6 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-partidos-g6 | ~2015 | I | Participación digital | bmc-pol-partidos-g5, bmc-pol-administracion-g6 | Generación 7 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ pol-orden | Control interno y orden público
+bmc-pol-orden-g0 | ~1900 | I | Policía gubernativa | bmc-pol-administracion-g0 | Generación 1 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-orden-g1 | ~1917 | I | Orden público de emergencia | bmc-pol-orden-g0, bmc-pol-administracion-g0 | Generación 2 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-orden-g2 | ~1936 | I | Policía política | bmc-pol-orden-g1, bmc-pol-administracion-g1 | Generación 3 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-orden-g3 | ~1950 | I | Orden público de posguerra | bmc-pol-orden-g2, bmc-pol-administracion-g2 | Generación 4 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-orden-g4 | ~1972 | I | Policía de proximidad | bmc-pol-orden-g3, bmc-pol-administracion-g4 | Generación 5 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-orden-g5 | ~1990 | I | Gestión de concentraciones masivas | bmc-pol-orden-g4, bmc-pol-administracion-g5 | Generación 6 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-orden-g6 | ~2008 | I | Orden público con medios técnicos | bmc-pol-orden-g5, bmc-pol-administracion-g6 | Generación 7 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-orden-g7 | ~2026 | I | Gestión de crisis internas | bmc-pol-orden-g6, bmc-pol-administracion-g7 | Generación 8 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ pol-diplomacia | Diplomacia pública e influencia exterior
+bmc-pol-diplomacia-g0 | ~1900 | I | Legaciones y cancillerías | telegrafo-electrico | Generación 1 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-diplomacia-g1 | ~1925 | I | Servicio exterior profesional | bmc-pol-diplomacia-g0, bmc-pol-administracion-g1, bmc-soc-informacion-g0 | Generación 2 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-diplomacia-g2 | ~1948 | I | Diplomacia cultural | bmc-pol-diplomacia-g1, bmc-pol-administracion-g2, bmc-soc-informacion-g1 | Generación 3 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-diplomacia-g3 | ~1968 | I | Diplomacia pública | bmc-pol-diplomacia-g2, bmc-pol-administracion-g3, bmc-soc-informacion-g2 | Generación 4 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-diplomacia-g4 | ~1985 | I | Influencia mediante ayuda exterior | bmc-pol-diplomacia-g3, bmc-pol-administracion-g4, bmc-soc-informacion-g3 | Generación 5 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-diplomacia-g5 | ~2002 | I | Influencia en foros multilaterales | bmc-pol-diplomacia-g4, bmc-pol-administracion-g5, bmc-soc-informacion-g3 | Generación 6 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-pol-diplomacia-g6 | ~2022 | I | Influencia exterior en red | bmc-pol-diplomacia-g5, bmc-pol-administracion-g6, bmc-soc-informacion-g4 | Generación 7 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-control-interno | ~1942 | S | Aparato de control interno | bmc-pol-orden-g2, bmc-cin-personal-g2 | Aplicación que combina control interno y orden público, seguridad de personal. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-guerra-politica | ~1962 | S | Guerra política | bmc-pol-propaganda-g4, bmc-cin-engano-g3, bmc-int-agentes-g3 | Aplicación que combina desinformación y engaño, propaganda y opinión pública, red de informadores. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-sondeo-opinion | ~1978 | S | Sondeo permanente de opinión | bmc-pol-propaganda-g5, bmc-soc-medios-g3 | Aplicación que combina medios y opinión, propaganda y opinión pública. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-servicio-exterior | ~1985 | S | Servicio exterior de influencia | bmc-pol-diplomacia-g4, bmc-pol-administracion-g4 | Aplicación que combina administración del estado, diplomacia pública e influencia exterior. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-administracion-digital | ~2008 | S | Administración digital del Estado | bmc-pol-administracion-g6, bmc-inf-datos-g4 | Aplicación que combina administración del estado, tratamiento de datos. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-campana-propaganda | ~1915 | S | Campaña de propaganda de Estado | bmc-pol-propaganda-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-estado-excepcion | ~1917 | S | Declarar el estado de excepción | bmc-pol-orden-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-partido-unico | ~1935 | S | Instaurar el partido único | bmc-pol-partidos-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-purga-interna | ~1936 | S | Depuración interna del aparato del Estado | bmc-pol-orden-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-policia-politica | ~1936 | S | Crear una policía política | bmc-pol-orden-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-ley-secretos | ~1942 | S | Ley de secretos oficiales | bmc-cin-personal-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-apertura-politica | ~1950 | S | Apertura política | bmc-pol-partidos-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-elecciones-libres | ~1950 | S | Convocar elecciones libres | bmc-pol-partidos-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-reforma-administrativa | ~1955 | S | Reforma de la administración | bmc-pol-administracion-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-descentralizar | ~1972 | S | Descentralizar la administración | bmc-pol-administracion-g4 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-desclasificar | ~1975 | S | Desclasificar los archivos del Estado | bmc-pol-administracion-g4 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-influencia-exterior | ~1985 | S | Programa de influencia exterior | bmc-pol-diplomacia-g4 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

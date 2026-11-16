@@ -1,0 +1,166 @@
+{
+ "bmc-cin-cifrado-g0": {
+  "nombre": "Cifrado manual de libreta",
+  "resumen": "Generación 1 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-cifrado-g1": {
+  "nombre": "Cifrado por máquina de rotores",
+  "resumen": "Generación 2 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-cifrado-g2": {
+  "nombre": "Cifrado de red de campaña",
+  "resumen": "Generación 3 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-cifrado-g3": {
+  "nombre": "Cifrado electrónico de línea",
+  "resumen": "Generación 4 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-cifrado-g4": {
+  "nombre": "Cifrado de clave pública",
+  "resumen": "Generación 5 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-cifrado-g5": {
+  "nombre": "Cifrado de curva elíptica",
+  "resumen": "Generación 6 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-cifrado-g6": {
+  "nombre": "Cifrado de extremo a extremo generalizado",
+  "resumen": "Generación 7 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-personal-g0": {
+  "nombre": "Juramento de reserva",
+  "resumen": "Generación 1 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-personal-g1": {
+  "nombre": "Clasificación de documentos",
+  "resumen": "Generación 2 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-personal-g2": {
+  "nombre": "Compartimentación por niveles",
+  "resumen": "Generación 3 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-personal-g3": {
+  "nombre": "Habilitación de seguridad",
+  "resumen": "Generación 4 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-personal-g4": {
+  "nombre": "Control de acceso a instalaciones",
+  "resumen": "Generación 5 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-personal-g5": {
+  "nombre": "Revisión periódica de habilitaciones",
+  "resumen": "Generación 6 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-personal-g6": {
+  "nombre": "Acceso de mínimo privilegio",
+  "resumen": "Generación 7 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-deteccion-g0": {
+  "nombre": "Servicio de vigilancia interior",
+  "resumen": "Generación 1 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-deteccion-g1": {
+  "nombre": "Contravigilancia de guerra",
+  "resumen": "Generación 2 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-deteccion-g2": {
+  "nombre": "Detección de escuchas",
+  "resumen": "Generación 3 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-deteccion-g3": {
+  "nombre": "Control técnico de instalaciones",
+  "resumen": "Generación 4 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-deteccion-g4": {
+  "nombre": "Auditoría interna sistemática",
+  "resumen": "Generación 5 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-deteccion-g5": {
+  "nombre": "Detección de anomalías internas",
+  "resumen": "Generación 6 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g0": {
+  "nombre": "Rumor dirigido",
+  "resumen": "Generación 1 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g1": {
+  "nombre": "Engaño operativo",
+  "resumen": "Generación 2 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g2": {
+  "nombre": "Plan de engaño estratégico",
+  "resumen": "Generación 3 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g3": {
+  "nombre": "Desinformación de posguerra",
+  "resumen": "Generación 4 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g4": {
+  "nombre": "Campaña de desinformación sostenida",
+  "resumen": "Generación 5 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g5": {
+  "nombre": "Desinformación en medios electrónicos",
+  "resumen": "Generación 6 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g6": {
+  "nombre": "Desinformación en red",
+  "resumen": "Generación 7 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-engano-g7": {
+  "nombre": "Desinformación automatizada",
+  "resumen": "Generación 8 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-redes-g0": {
+  "nombre": "Segregación de redes",
+  "resumen": "Generación 1 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-redes-g1": {
+  "nombre": "Perímetro reforzado",
+  "resumen": "Generación 2 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-redes-g2": {
+  "nombre": "Supervisión del tráfico interno",
+  "resumen": "Generación 3 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-redes-g3": {
+  "nombre": "Segmentación estricta",
+  "resumen": "Generación 4 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-cin-redes-g4": {
+  "nombre": "Arquitectura de confianza cero",
+  "resumen": "Generación 5 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-contravigilancia": {
+  "nombre": "Servicio de contravigilancia",
+  "resumen": "Aplicación que combina detección de intrusos y vigilancia interna, seguridad de personal. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-seguridad-comunicaciones": {
+  "nombre": "Seguridad integral de las comunicaciones",
+  "resumen": "Aplicación que combina cifrado de las comunicaciones propias, radio y enlace. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-cifrado-publico": {
+  "nombre": "Cifrado de clave pública",
+  "resumen": "Aplicación que combina cifrado de las comunicaciones propias, criptografía. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-confianza-cero": {
+  "nombre": "Arquitectura de confianza cero",
+  "resumen": "Aplicación que combina ciberdefensa, endurecimiento de redes propias. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-habilitaciones": {
+  "nombre": "Sistema de habilitaciones de seguridad",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-contravigilancia-estado": {
+  "nombre": "Implantar la contravigilancia del Estado",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-cifrado-estatal": {
+  "nombre": "Cifrar las comunicaciones del Estado",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-auditoria-interna": {
+  "nombre": "Auditoría interna permanente",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

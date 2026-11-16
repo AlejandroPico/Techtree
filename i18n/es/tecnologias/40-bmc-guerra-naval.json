@@ -1,0 +1,318 @@
+{
+ "bmc-mar-casco-g0": {
+  "nombre": "Casco de acero",
+  "resumen": "Generación 1 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-casco-g1": {
+  "nombre": "Compartimentación",
+  "resumen": "Generación 2 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-casco-g2": {
+  "nombre": "Casco soldado",
+  "resumen": "Generación 3 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-casco-g3": {
+  "nombre": "Casco de bloques",
+  "resumen": "Generación 4 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-casco-g4": {
+  "nombre": "Casco de firma reducida",
+  "resumen": "Generación 5 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-casco-g5": {
+  "nombre": "Casco modular",
+  "resumen": "Generación 6 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-casco-g6": {
+  "nombre": "Casco compuesto",
+  "resumen": "Generación 7 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-propulsion-g0": {
+  "nombre": "Turbina de vapor",
+  "resumen": "Generación 1 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-propulsion-g1": {
+  "nombre": "Caldera de alta presión",
+  "resumen": "Generación 2 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-propulsion-g2": {
+  "nombre": "Propulsión diésel",
+  "resumen": "Generación 3 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-propulsion-g3": {
+  "nombre": "Turbina de gas",
+  "resumen": "Generación 4 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-propulsion-g4": {
+  "nombre": "Propulsión integrada eléctrica",
+  "resumen": "Generación 5 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-propulsion-g5": {
+  "nombre": "Propulsión híbrida",
+  "resumen": "Generación 6 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-propulsion-g6": {
+  "nombre": "Propulsión silenciosa",
+  "resumen": "Generación 7 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-sonar-g0": {
+  "nombre": "Hidrófono",
+  "resumen": "Generación 1 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-sonar-g1": {
+  "nombre": "Sonar activo",
+  "resumen": "Generación 2 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-sonar-g2": {
+  "nombre": "Sonar de casco",
+  "resumen": "Generación 3 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-sonar-g3": {
+  "nombre": "Sonar remolcado",
+  "resumen": "Generación 4 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-sonar-g4": {
+  "nombre": "Proceso de señal digital",
+  "resumen": "Generación 5 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-sonar-g5": {
+  "nombre": "Red de vigilancia submarina",
+  "resumen": "Generación 6 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-sonar-g6": {
+  "nombre": "Detección multiestática",
+  "resumen": "Generación 7 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-artilleria-g0": {
+  "nombre": "Torre de gran calibre",
+  "resumen": "Generación 1 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-artilleria-g1": {
+  "nombre": "Dirección de tiro centralizada",
+  "resumen": "Generación 2 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-artilleria-g2": {
+  "nombre": "Artillería polivalente",
+  "resumen": "Generación 3 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-artilleria-g3": {
+  "nombre": "Montaje automático",
+  "resumen": "Generación 4 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-artilleria-g4": {
+  "nombre": "Munición naval guiada",
+  "resumen": "Generación 5 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-artilleria-g5": {
+  "nombre": "Artillería de apoyo de largo alcance",
+  "resumen": "Generación 6 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-misil-g0": {
+  "nombre": "Misil antibuque",
+  "resumen": "Generación 1 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-misil-g1": {
+  "nombre": "Lanzamiento vertical",
+  "resumen": "Generación 2 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-misil-g2": {
+  "nombre": "Misil de crucero embarcado",
+  "resumen": "Generación 3 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-misil-g3": {
+  "nombre": "Ataque en profundidad desde el mar",
+  "resumen": "Generación 4 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-misil-g4": {
+  "nombre": "Misil antibuque de largo alcance",
+  "resumen": "Generación 5 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g0": {
+  "nombre": "Submarino de patrulla",
+  "resumen": "Generación 1 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g1": {
+  "nombre": "Submarino oceánico",
+  "resumen": "Generación 2 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g2": {
+  "nombre": "Casco hidrodinámico",
+  "resumen": "Generación 3 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g3": {
+  "nombre": "Submarino nuclear de ataque",
+  "resumen": "Generación 4 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g4": {
+  "nombre": "Submarino lanzamisiles",
+  "resumen": "Generación 5 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g5": {
+  "nombre": "Submarino silencioso",
+  "resumen": "Generación 6 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g6": {
+  "nombre": "Propulsión independiente del aire",
+  "resumen": "Generación 7 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-submarino-g7": {
+  "nombre": "Submarino no tripulado",
+  "resumen": "Generación 8 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-aeronaval-g0": {
+  "nombre": "Cubierta de vuelo",
+  "resumen": "Generación 1 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-aeronaval-g1": {
+  "nombre": "Portaaviones de escuadra",
+  "resumen": "Generación 2 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-aeronaval-g2": {
+  "nombre": "Cubierta angulada y catapulta",
+  "resumen": "Generación 3 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-aeronaval-g3": {
+  "nombre": "Ala embarcada polivalente",
+  "resumen": "Generación 4 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-aeronaval-g4": {
+  "nombre": "Catapulta electromagnética",
+  "resumen": "Generación 5 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-minas-g0": {
+  "nombre": "Mina de contacto",
+  "resumen": "Generación 1 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-minas-g1": {
+  "nombre": "Mina de influencia",
+  "resumen": "Generación 2 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-minas-g2": {
+  "nombre": "Dragado mecánico",
+  "resumen": "Generación 3 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-minas-g3": {
+  "nombre": "Caza de minas por sonar",
+  "resumen": "Generación 4 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-minas-g4": {
+  "nombre": "Contramedidas no tripuladas",
+  "resumen": "Generación 5 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-minas-g5": {
+  "nombre": "Barrido autónomo",
+  "resumen": "Generación 6 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-anfibio-g0": {
+  "nombre": "Desembarco por lanchas",
+  "resumen": "Generación 1 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-anfibio-g1": {
+  "nombre": "Buque de desembarco",
+  "resumen": "Generación 2 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-anfibio-g2": {
+  "nombre": "Asalto vertical",
+  "resumen": "Generación 3 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-anfibio-g3": {
+  "nombre": "Buque de asalto polivalente",
+  "resumen": "Generación 4 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-anfibio-g4": {
+  "nombre": "Desembarco desde el horizonte",
+  "resumen": "Generación 5 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-anfibio-g5": {
+  "nombre": "Asalto distribuido",
+  "resumen": "Generación 6 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-logistica-g0": {
+  "nombre": "Carboneras y estaciones",
+  "resumen": "Generación 1 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-logistica-g1": {
+  "nombre": "Reabastecimiento en la mar",
+  "resumen": "Generación 2 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-logistica-g2": {
+  "nombre": "Tren logístico de escuadra",
+  "resumen": "Generación 3 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-logistica-g3": {
+  "nombre": "Buque de apoyo polivalente",
+  "resumen": "Generación 4 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-logistica-g4": {
+  "nombre": "Sostenimiento expedicionario",
+  "resumen": "Generación 5 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-logistica-g5": {
+  "nombre": "Logística naval distribuida",
+  "resumen": "Generación 6 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-patrulla-g0": {
+  "nombre": "Hidroavión de patrulla",
+  "resumen": "Generación 1 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-patrulla-g1": {
+  "nombre": "Avión de patrulla de largo alcance",
+  "resumen": "Generación 2 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-patrulla-g2": {
+  "nombre": "Patrulla con sonoboyas",
+  "resumen": "Generación 3 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-patrulla-g3": {
+  "nombre": "Patrulla con proceso digital",
+  "resumen": "Generación 4 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-mar-patrulla-g4": {
+  "nombre": "Patrulla no tripulada",
+  "resumen": "Generación 5 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-base-naval": {
+  "nombre": "Base naval de escuadra",
+  "resumen": "Aplicación que combina casco y estructura naval, logística terrestre. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-portaaviones": {
+  "nombre": "Portaaviones de escuadra",
+  "resumen": "Aplicación que combina aviación embarcada, casco y estructura naval, propulsión naval. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-destructor": {
+  "nombre": "Destructor de escolta",
+  "resumen": "Aplicación que combina casco y estructura naval, guerra antisubmarina, propulsión naval. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-reabastecedor": {
+  "nombre": "Buque de reabastecimiento",
+  "resumen": "Aplicación que combina casco y estructura naval, logística naval. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-submarino-ataque": {
+  "nombre": "Submarino nuclear de ataque",
+  "resumen": "Aplicación que combina propulsión naval nuclear, submarinos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-submarino-estrategico": {
+  "nombre": "Submarino lanzamisiles",
+  "resumen": "Aplicación que combina cohetería de combustible sólido, propulsión naval nuclear, submarinos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-fragata-asw": {
+  "nombre": "Fragata antisubmarina",
+  "resumen": "Aplicación que combina casco y estructura naval, guerra antisubmarina, patrulla marítima. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-cazaminas": {
+  "nombre": "Cazaminas costero",
+  "resumen": "Aplicación que combina minas y contramedidas. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-buque-asalto": {
+  "nombre": "Buque de asalto anfibio",
+  "resumen": "Aplicación que combina guerra anfibia, helicópteros. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-crucero-misiles": {
+  "nombre": "Crucero lanzamisiles",
+  "resumen": "Aplicación que combina misil naval, radar. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-uuv": {
+  "nombre": "Vehículo submarino no tripulado",
+  "resumen": "Aplicación que combina guerra antisubmarina, inteligencia artificial. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

@@ -4,13 +4,13 @@
 
 Forma parte del mismo ecosistema que [Historicmap](https://github.com/AlejandroPico/Historicmap) y está pensado para servir de base de datos a otros proyectos (entre ellos, un futuro videojuego).
 
-## Estado (0.3.0)
+## Estado (0.4.0)
 
 | | |
 |---|---|
-| Avances | 3.779 |
-| Requisitos | 5.441 |
-| Ámbitos / subámbitos | 22 / 116 |
+| Avances | 4.745 |
+| Requisitos | 7.393 |
+| Ámbitos / subámbitos | 38 / 268 |
 | Motor | probado con 1.000.000 de elementos sintéticos (`?stress=1000000`) |
 
 El objetivo es crecer por fases hasta decenas de miles de avances; ver [tareas.md](tareas.md).
@@ -25,6 +25,7 @@ i18n/<idioma>/           todo lo traducible, por idioma
   ambitos.json             nombres de ámbitos y subámbitos
   tecnologias/*.json       nombre y resumen de cada tecnología, un archivo por cada .tt
 tools/build_data.py      valida y compila
+tools/importar_bmc.py    trae el árbol de Blue Marble Crisis a tecnologias/40-bmc-*.tt
 public/data/ (generado)  indice.json · textos/<idioma>/… · techtree.json · techtree.db (SQLite)
 src/                     aplicación TypeScript + WebGL2 (Vite)
 tests/test_data.py       garantías de la base de datos

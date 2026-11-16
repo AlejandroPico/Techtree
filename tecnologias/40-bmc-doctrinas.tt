@@ -1,0 +1,54 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ doctrinas | Doctrinas militares | #a08070
+@@ doc-tie | Doctrina terrestre
+bmc-doc-tie-g0 | ~1900 | I | Infantería de masas | bmc-tie-logistica-g0 | Generación 1 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-tie-g1 | ~1915 | I | Guerra de trincheras | bmc-doc-tie-g0, bmc-tie-logistica-g0 | Generación 2 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-tie-g2 | ~1936 | I | Guerra móvil | bmc-doc-tie-g1, bmc-tie-logistica-g1 | Generación 3 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-tie-g3 | ~1943 | I | Armas combinadas | bmc-doc-tie-g2, bmc-tie-logistica-g1 | Generación 4 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-tie-g4 | ~1960 | I | Defensa elástica en profundidad | bmc-doc-tie-g3, bmc-tie-logistica-g2 | Generación 5 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-tie-g5 | ~1982 | I | Batalla aeroterrestre | bmc-doc-tie-g4, bmc-tie-logistica-g3 | Generación 6 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-tie-g6 | ~2005 | I | Maniobra distribuida | bmc-doc-tie-g5, bmc-tie-logistica-g4 | Generación 7 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-tie-g7 | ~2022 | I | Combate multidominio | bmc-doc-tie-g6, bmc-tie-logistica-g5 | Generación 8 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ doc-mar | Doctrina naval
+bmc-doc-mar-g0 | ~1900 | I | Flota de batalla | bmc-mar-casco-g0 | Generación 1 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-mar-g1 | ~1915 | I | Guerra de corso | bmc-doc-mar-g0, bmc-mar-casco-g0 | Generación 2 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-mar-g2 | ~1941 | I | Escolta de convoyes | bmc-doc-mar-g1, bmc-mar-casco-g2 | Generación 3 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-mar-g3 | ~1955 | I | Proyección aeronaval | bmc-doc-mar-g2, bmc-mar-casco-g2 | Generación 4 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-mar-g4 | ~1968 | I | Disuasión submarina | bmc-doc-mar-g3, bmc-mar-casco-g3 | Generación 5 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-mar-g5 | ~1995 | I | Control del mar en red | bmc-doc-mar-g4, bmc-mar-casco-g4 | Generación 6 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-mar-g6 | ~2015 | I | Negación de área marítima | bmc-doc-mar-g5, bmc-mar-casco-g5 | Generación 7 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ doc-air | Doctrina aérea
+bmc-doc-air-g0 | ~1914 | I | Reconocimiento aéreo | bmc-air-aerodinamica-g0 | Generación 1 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-air-g1 | ~1940 | I | Superioridad aérea | bmc-doc-air-g0, bmc-air-aerodinamica-g1 | Generación 2 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-air-g2 | ~1943 | I | Bombardeo estratégico | bmc-doc-air-g1, bmc-air-aerodinamica-g2 | Generación 3 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-air-g3 | ~1950 | I | Apoyo aéreo cercano | bmc-doc-air-g2, bmc-air-aerodinamica-g3 | Generación 4 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-air-g4 | ~1972 | I | Supresión de defensas | bmc-doc-air-g3, bmc-air-aerodinamica-g5 | Generación 5 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-air-g5 | ~1991 | I | Campaña de precisión | bmc-doc-air-g4, bmc-air-aerodinamica-g6 | Generación 6 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-air-g6 | ~2012 | I | Negación de área aérea | bmc-doc-air-g5, bmc-air-aerodinamica-g7 | Generación 7 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ doc-esp | Doctrina espacial
+bmc-doc-esp-g0 | ~1960 | I | Reconocimiento desde órbita | bmc-esp-observacion-g0 | Generación 1 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-esp-g1 | ~1980 | I | Apoyo espacial a la fuerza | bmc-doc-esp-g0, bmc-esp-observacion-g2 | Generación 2 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-esp-g2 | ~1995 | I | Dependencia orbital reconocida | bmc-doc-esp-g1, bmc-esp-observacion-g3 | Generación 3 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-esp-g3 | ~2012 | I | Resiliencia orbital | bmc-doc-esp-g2, bmc-esp-observacion-g4 | Generación 4 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ doc-disuasion | Doctrina de disuasión
+bmc-doc-disuasion-g0 | ~1954 | I | Represalia masiva | bmc-nuc-dispositivo-g2 | Generación 1 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-disuasion-g1 | ~1962 | I | Respuesta flexible | bmc-doc-disuasion-g0, bmc-nuc-dispositivo-g3 | Generación 2 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-disuasion-g2 | ~1968 | I | Capacidad de segundo golpe | bmc-doc-disuasion-g1, bmc-nuc-dispositivo-g3 | Generación 3 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-disuasion-g3 | ~1980 | I | Estabilidad estratégica | bmc-doc-disuasion-g2, bmc-nuc-dispositivo-g4 | Generación 4 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-disuasion-g4 | ~2010 | I | Disuasión integrada | bmc-doc-disuasion-g3, bmc-nuc-dispositivo-g5 | Generación 5 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ doc-montania | Guerra en terreno difícil
+bmc-doc-montania-g0 | ~1915 | I | Tropas de montaña | bmc-tie-infanteria-g0 | Generación 1 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-montania-g1 | ~1940 | I | Guerra ártica | bmc-doc-montania-g0, bmc-tie-infanteria-g1 | Generación 2 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-montania-g2 | ~1950 | I | Guerra en selva | bmc-doc-montania-g1, bmc-tie-infanteria-g2 | Generación 3 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-montania-g3 | ~1967 | I | Guerra en desierto | bmc-doc-montania-g2, bmc-tie-infanteria-g2 | Generación 4 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-montania-g4 | ~1993 | I | Guerra urbana | bmc-doc-montania-g3, bmc-tie-infanteria-g4 | Generación 5 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-montania-g5 | ~2015 | I | Combate subterráneo | bmc-doc-montania-g4, bmc-tie-infanteria-g5 | Generación 6 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ doc-contrainsurgencia | Contrainsurgencia
+bmc-doc-contrainsurgencia-g0 | ~1900 | I | Pacificación colonial | bmc-tie-infanteria-g0 | Generación 1 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-contrainsurgencia-g1 | ~1945 | I | Guerra irregular | bmc-doc-contrainsurgencia-g0, bmc-tie-infanteria-g1 | Generación 2 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-contrainsurgencia-g2 | ~1960 | I | Contrainsurgencia poblacional | bmc-doc-contrainsurgencia-g1, bmc-tie-infanteria-g2 | Generación 3 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-contrainsurgencia-g3 | ~1995 | I | Estabilización | bmc-doc-contrainsurgencia-g2, bmc-tie-infanteria-g4 | Generación 4 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-contrainsurgencia-g4 | ~2010 | I | Asesoramiento y capacitación | bmc-doc-contrainsurgencia-g3, bmc-tie-infanteria-g5 | Generación 5 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-guerra-naval | ~1968 | S | Doctrina naval integrada | bmc-doc-mar-g4, bmc-mar-sonar-g3 | Aplicación que combina doctrina naval, guerra antisubmarina. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-defensa-activa | ~2000 | S | Defensa activa en capas | bmc-tie-antiaerea-g4, bmc-inf-mando-g3 | Aplicación que combina defensa antiaérea de campaña, mando y control digital. Fecha orientativa, tomada de Blue Marble Crisis. |

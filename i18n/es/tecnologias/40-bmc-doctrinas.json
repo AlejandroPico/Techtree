@@ -1,0 +1,178 @@
+{
+ "bmc-doc-tie-g0": {
+  "nombre": "Infantería de masas",
+  "resumen": "Generación 1 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-tie-g1": {
+  "nombre": "Guerra de trincheras",
+  "resumen": "Generación 2 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-tie-g2": {
+  "nombre": "Guerra móvil",
+  "resumen": "Generación 3 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-tie-g3": {
+  "nombre": "Armas combinadas",
+  "resumen": "Generación 4 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-tie-g4": {
+  "nombre": "Defensa elástica en profundidad",
+  "resumen": "Generación 5 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-tie-g5": {
+  "nombre": "Batalla aeroterrestre",
+  "resumen": "Generación 6 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-tie-g6": {
+  "nombre": "Maniobra distribuida",
+  "resumen": "Generación 7 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-tie-g7": {
+  "nombre": "Combate multidominio",
+  "resumen": "Generación 8 de la línea «Doctrina terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-mar-g0": {
+  "nombre": "Flota de batalla",
+  "resumen": "Generación 1 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-mar-g1": {
+  "nombre": "Guerra de corso",
+  "resumen": "Generación 2 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-mar-g2": {
+  "nombre": "Escolta de convoyes",
+  "resumen": "Generación 3 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-mar-g3": {
+  "nombre": "Proyección aeronaval",
+  "resumen": "Generación 4 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-mar-g4": {
+  "nombre": "Disuasión submarina",
+  "resumen": "Generación 5 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-mar-g5": {
+  "nombre": "Control del mar en red",
+  "resumen": "Generación 6 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-mar-g6": {
+  "nombre": "Negación de área marítima",
+  "resumen": "Generación 7 de la línea «Doctrina naval». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-air-g0": {
+  "nombre": "Reconocimiento aéreo",
+  "resumen": "Generación 1 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-air-g1": {
+  "nombre": "Superioridad aérea",
+  "resumen": "Generación 2 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-air-g2": {
+  "nombre": "Bombardeo estratégico",
+  "resumen": "Generación 3 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-air-g3": {
+  "nombre": "Apoyo aéreo cercano",
+  "resumen": "Generación 4 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-air-g4": {
+  "nombre": "Supresión de defensas",
+  "resumen": "Generación 5 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-air-g5": {
+  "nombre": "Campaña de precisión",
+  "resumen": "Generación 6 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-air-g6": {
+  "nombre": "Negación de área aérea",
+  "resumen": "Generación 7 de la línea «Doctrina aérea». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-esp-g0": {
+  "nombre": "Reconocimiento desde órbita",
+  "resumen": "Generación 1 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-esp-g1": {
+  "nombre": "Apoyo espacial a la fuerza",
+  "resumen": "Generación 2 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-esp-g2": {
+  "nombre": "Dependencia orbital reconocida",
+  "resumen": "Generación 3 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-esp-g3": {
+  "nombre": "Resiliencia orbital",
+  "resumen": "Generación 4 de la línea «Doctrina espacial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-disuasion-g0": {
+  "nombre": "Represalia masiva",
+  "resumen": "Generación 1 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-disuasion-g1": {
+  "nombre": "Respuesta flexible",
+  "resumen": "Generación 2 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-disuasion-g2": {
+  "nombre": "Capacidad de segundo golpe",
+  "resumen": "Generación 3 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-disuasion-g3": {
+  "nombre": "Estabilidad estratégica",
+  "resumen": "Generación 4 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-disuasion-g4": {
+  "nombre": "Disuasión integrada",
+  "resumen": "Generación 5 de la línea «Doctrina de disuasión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-montania-g0": {
+  "nombre": "Tropas de montaña",
+  "resumen": "Generación 1 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-montania-g1": {
+  "nombre": "Guerra ártica",
+  "resumen": "Generación 2 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-montania-g2": {
+  "nombre": "Guerra en selva",
+  "resumen": "Generación 3 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-montania-g3": {
+  "nombre": "Guerra en desierto",
+  "resumen": "Generación 4 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-montania-g4": {
+  "nombre": "Guerra urbana",
+  "resumen": "Generación 5 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-montania-g5": {
+  "nombre": "Combate subterráneo",
+  "resumen": "Generación 6 de la línea «Guerra en terreno difícil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-contrainsurgencia-g0": {
+  "nombre": "Pacificación colonial",
+  "resumen": "Generación 1 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-contrainsurgencia-g1": {
+  "nombre": "Guerra irregular",
+  "resumen": "Generación 2 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-contrainsurgencia-g2": {
+  "nombre": "Contrainsurgencia poblacional",
+  "resumen": "Generación 3 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-contrainsurgencia-g3": {
+  "nombre": "Estabilización",
+  "resumen": "Generación 4 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-doc-contrainsurgencia-g4": {
+  "nombre": "Asesoramiento y capacitación",
+  "resumen": "Generación 5 de la línea «Contrainsurgencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-guerra-naval": {
+  "nombre": "Doctrina naval integrada",
+  "resumen": "Aplicación que combina doctrina naval, guerra antisubmarina. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-defensa-activa": {
+  "nombre": "Defensa activa en capas",
+  "resumen": "Aplicación que combina defensa antiaérea de campaña, mando y control digital. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

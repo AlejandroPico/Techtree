@@ -1,0 +1,92 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ guerra-terrestre | Guerra terrestre | #9c6b4f
+@@ tie-infanteria | Equipo de infantería
+bmc-tie-infanteria-g0 | ~1900 | I | Fusil de cerrojo | fusil-lebel | Generación 1 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-infanteria-g1 | ~1936 | I | Fusil semiautomático | bmc-tie-infanteria-g0, bmc-ind-montaje-g1 | Generación 2 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-infanteria-g2 | ~1947 | I | Fusil de asalto | bmc-tie-infanteria-g1, bmc-ind-montaje-g2 | Generación 3 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-infanteria-g3 | ~1970 | I | Equipo individual integrado | bmc-tie-infanteria-g2, bmc-ind-montaje-g3 | Generación 4 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-infanteria-g4 | ~1985 | I | Protección balística ligera | bmc-tie-infanteria-g3, bmc-ind-montaje-g4 | Generación 5 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-infanteria-g5 | ~2005 | I | Soldado en red | bmc-tie-infanteria-g4, bmc-ind-montaje-g6 | Generación 6 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-infanteria-g6 | ~2025 | I | Equipo asistido | bmc-tie-infanteria-g5, bmc-ind-montaje-g7 | Generación 7 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-blindaje | Blindaje
+bmc-tie-blindaje-g0 | ~1917 | I | Blindaje remachado | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-blindaje-g1 | ~1936 | I | Blindaje soldado | bmc-tie-blindaje-g0, bmc-ind-siderurgia-g2 | Generación 2 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-blindaje-g2 | ~1943 | I | Blindaje inclinado | bmc-tie-blindaje-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-blindaje-g3 | ~1970 | I | Blindaje compuesto | bmc-tie-blindaje-g2, bmc-ind-siderurgia-g4 | Generación 4 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-blindaje-g4 | ~1982 | I | Blindaje reactivo | bmc-tie-blindaje-g3, bmc-ind-siderurgia-g5 | Generación 5 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-blindaje-g5 | ~2000 | I | Protección activa | bmc-tie-blindaje-g4, bmc-ind-siderurgia-g6 | Generación 6 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-blindaje-g6 | ~2018 | I | Protección multicapa | bmc-tie-blindaje-g5, bmc-ind-siderurgia-g7 | Generación 7 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-canon | Artillería de tubo
+bmc-tie-canon-g0 | ~1900 | I | Cañón de retroceso | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-canon-g1 | ~1918 | I | Obús de campaña | bmc-tie-canon-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-canon-g2 | ~1939 | I | Cañón antitanque | bmc-tie-canon-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-canon-g3 | ~1960 | I | Cañón de ánima lisa | bmc-tie-canon-g2, bmc-ind-siderurgia-g3 | Generación 4 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-canon-g4 | ~1975 | I | Munición de energía cinética | bmc-tie-canon-g3, bmc-ind-siderurgia-g4 | Generación 5 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-canon-g5 | ~1990 | I | Munición guiada de artillería | bmc-tie-canon-g4, bmc-ind-siderurgia-g5 | Generación 6 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-canon-g6 | ~2010 | I | Cañón de largo alcance | bmc-tie-canon-g5, bmc-ind-siderurgia-g7 | Generación 7 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-cohete | Artillería de cohetes
+bmc-tie-cohete-g0 | ~1939 | I | Cohete de saturación | bmc-coh-solido-g0 | Generación 1 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-cohete-g1 | ~1950 | I | Lanzacohetes múltiple | bmc-tie-cohete-g0, bmc-coh-solido-g1 | Generación 2 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-cohete-g2 | ~1968 | I | Cohete de largo alcance | bmc-tie-cohete-g1, bmc-coh-solido-g3 | Generación 3 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-cohete-g3 | ~1985 | I | Lanzador modular | bmc-tie-cohete-g2, bmc-coh-solido-g4 | Generación 4 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-cohete-g4 | ~2000 | I | Cohete guiado de saturación | bmc-tie-cohete-g3, bmc-coh-solido-g5 | Generación 5 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-cohete-g5 | ~2018 | I | Fuego de precisión en profundidad | bmc-tie-cohete-g4, bmc-coh-solido-g6 | Generación 6 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-mecanizacion | Mecanización
+bmc-tie-mecanizacion-g0 | ~1916 | I | Tracción mecánica | bmc-ind-montaje-g0 | Generación 1 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-mecanizacion-g1 | ~1934 | I | Vehículo de cadenas | bmc-tie-mecanizacion-g0, bmc-ind-montaje-g1 | Generación 2 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-mecanizacion-g2 | ~1948 | I | Transporte blindado | bmc-tie-mecanizacion-g1, bmc-ind-montaje-g2 | Generación 3 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-mecanizacion-g3 | ~1966 | I | Vehículo de combate de infantería | bmc-tie-mecanizacion-g2, bmc-ind-montaje-g3 | Generación 4 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-mecanizacion-g4 | ~1988 | I | Plataforma modular | bmc-tie-mecanizacion-g3, bmc-ind-montaje-g5 | Generación 5 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-mecanizacion-g5 | ~2006 | I | Vehículo en red | bmc-tie-mecanizacion-g4, bmc-ind-montaje-g6 | Generación 6 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-mecanizacion-g6 | ~2026 | I | Vehículo opcionalmente tripulado | bmc-tie-mecanizacion-g5, bmc-ind-montaje-g7 | Generación 7 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-ingenieria | Ingeniería de campaña
+bmc-tie-ingenieria-g0 | ~1914 | I | Fortificación de campaña | alambre-espino | Generación 1 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-ingenieria-g1 | ~1940 | I | Puente móvil | bmc-tie-ingenieria-g0, bmc-tie-mecanizacion-g1 | Generación 2 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-ingenieria-g2 | ~1958 | I | Desminado mecanizado | bmc-tie-ingenieria-g1, bmc-tie-mecanizacion-g2 | Generación 3 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-ingenieria-g3 | ~1975 | I | Ingeniería de asalto | bmc-tie-ingenieria-g2, bmc-tie-mecanizacion-g3 | Generación 4 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-ingenieria-g4 | ~1995 | I | Movilidad asistida | bmc-tie-ingenieria-g3, bmc-tie-mecanizacion-g4 | Generación 5 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-ingenieria-g5 | ~2015 | I | Ingeniería robotizada | bmc-tie-ingenieria-g4, bmc-tie-mecanizacion-g5 | Generación 6 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-antiaerea | Defensa antiaérea de campaña
+bmc-tie-antiaerea-g0 | ~1915 | I | Cañón antiaéreo | fusil-lebel | Generación 1 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-antiaerea-g1 | ~1940 | I | Dirección de tiro antiaérea | bmc-tie-antiaerea-g0, bmc-ele-radar-g0, bmc-coh-solido-g0 | Generación 2 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-antiaerea-g2 | ~1957 | I | Misil antiaéreo | bmc-tie-antiaerea-g1, bmc-ele-radar-g2, bmc-coh-solido-g2 | Generación 3 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-antiaerea-g3 | ~1970 | I | Antiaérea móvil | bmc-tie-antiaerea-g2, bmc-ele-radar-g4, bmc-coh-solido-g3 | Generación 4 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-antiaerea-g4 | ~1988 | I | Defensa de punto | bmc-tie-antiaerea-g3, bmc-ele-radar-g5, bmc-coh-solido-g4 | Generación 5 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-antiaerea-g5 | ~2005 | I | Defensa en capas | bmc-tie-antiaerea-g4, bmc-ele-radar-g6, bmc-coh-solido-g5 | Generación 6 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-antiaerea-g6 | ~2022 | I | Defensa contra saturación | bmc-tie-antiaerea-g5, bmc-ele-radar-g7, bmc-coh-solido-g6 | Generación 7 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-logistica | Logística terrestre
+bmc-tie-logistica-g0 | ~1900 | I | Ferrocarril militar | ferrocarril-publico | Generación 1 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-logistica-g1 | ~1930 | I | Transporte motorizado | bmc-tie-logistica-g0, bmc-ind-montaje-g1 | Generación 2 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-logistica-g2 | ~1944 | I | Cadena de suministro | bmc-tie-logistica-g1, bmc-ind-montaje-g2 | Generación 3 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-logistica-g3 | ~1965 | I | Contenedorización | bmc-tie-logistica-g2, bmc-ind-montaje-g3 | Generación 4 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-logistica-g4 | ~1985 | I | Logística informatizada | bmc-tie-logistica-g3, bmc-ind-montaje-g4 | Generación 5 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-logistica-g5 | ~2010 | I | Logística predictiva | bmc-tie-logistica-g4, bmc-ind-montaje-g6 | Generación 6 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-especiales | Fuerzas especiales
+bmc-tie-especiales-g0 | ~1917 | I | Tropas de asalto | bmc-tie-infanteria-g0 | Generación 1 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-especiales-g1 | ~1940 | I | Comandos | bmc-tie-especiales-g0, bmc-tie-infanteria-g1 | Generación 2 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-especiales-g2 | ~1944 | I | Fuerzas aerotransportadas | bmc-tie-especiales-g1, bmc-tie-infanteria-g1 | Generación 3 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-especiales-g3 | ~1962 | I | Operaciones especiales permanentes | bmc-tie-especiales-g2, bmc-tie-infanteria-g2 | Generación 4 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-especiales-g4 | ~1985 | I | Acción directa de precisión | bmc-tie-especiales-g3, bmc-tie-infanteria-g4 | Generación 5 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-especiales-g5 | ~2005 | I | Operaciones de bajo perfil | bmc-tie-especiales-g4, bmc-tie-infanteria-g5 | Generación 6 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-especiales-g6 | ~2022 | I | Fuerzas integradas multidominio | bmc-tie-especiales-g5, bmc-tie-infanteria-g5 | Generación 7 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ tie-atgm | Armas contracarro
+bmc-tie-atgm-g0 | ~1918 | I | Fusil antitanque | bmc-ind-quimica-g0 | Generación 1 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-atgm-g1 | ~1942 | I | Carga hueca portátil | bmc-tie-atgm-g0, bmc-ind-quimica-g2 | Generación 2 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-atgm-g2 | ~1956 | I | Misil contracarro guiado | bmc-tie-atgm-g1, bmc-ind-quimica-g2 | Generación 3 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-atgm-g3 | ~1970 | I | Guía semiautomática | bmc-tie-atgm-g2, bmc-ind-quimica-g3 | Generación 4 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-atgm-g4 | ~1988 | I | Dispara y olvida | bmc-tie-atgm-g3, bmc-ind-quimica-g4 | Generación 5 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-atgm-g5 | ~2000 | I | Ataque por el techo | bmc-tie-atgm-g4, bmc-ind-quimica-g5 | Generación 6 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-tie-atgm-g6 | ~2018 | I | Contracarro de infantería ligera | bmc-tie-atgm-g5, bmc-ind-quimica-g6 | Generación 7 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-misil-corto | ~1944 | S | Cohete balístico de campaña | bmc-coh-liquido-g0, bmc-ele-guiado-g0 | Aplicación que combina cohetería de combustible líquido, guiado y navegación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-fusil-asalto | ~1949 | S | Fusil de asalto de dotación | bmc-tie-infanteria-g2, bmc-ind-montaje-g2 | Aplicación que combina equipo de infantería, líneas de montaje. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-lanzacohetes | ~1952 | S | Lanzacohetes múltiple de saturación | bmc-tie-cohete-g1, bmc-tie-mecanizacion-g2 | Aplicación que combina artillería de cohetes, mecanización. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-misil-tactico | ~1955 | S | Misil balístico táctico | bmc-coh-solido-g2, bmc-ele-guiado-g1 | Aplicación que combina cohetería de combustible sólido, guiado y navegación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-artilleria-autopropulsada | ~1958 | S | Artillería autopropulsada | bmc-tie-canon-g2, bmc-tie-mecanizacion-g2 | Aplicación que combina artillería de tubo, mecanización. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-puente-asalto | ~1958 | S | Puente de asalto mecanizado | bmc-tie-ingenieria-g2, bmc-tie-mecanizacion-g2 | Aplicación que combina ingeniería de campaña, mecanización. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-carro-principal | ~1962 | S | Carro de combate principal | bmc-tie-blindaje-g2, bmc-tie-canon-g3, bmc-tie-mecanizacion-g2 | Aplicación que combina artillería de tubo, blindaje, mecanización. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-vci | ~1968 | S | Vehículo de combate de infantería | bmc-tie-mecanizacion-g3, bmc-tie-atgm-g2 | Aplicación que combina armas contracarro, mecanización. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-antiaerea-movil | ~1972 | S | Sistema antiaéreo móvil | bmc-tie-antiaerea-g3, bmc-ele-radar-g3 | Aplicación que combina defensa antiaérea de campaña, radar. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-bateria-antimisil | ~1975 | S | Batería antimisil de teatro | bmc-tie-antiaerea-g3, bmc-ele-radar-g4, bmc-ele-computacion-g3 | Aplicación que combina computación, defensa antiaérea de campaña, radar. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-contrabateria | ~1978 | S | Radar de contrabatería | bmc-ele-radar-g4, bmc-ele-computacion-g4 | Aplicación que combina computación, radar. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-soldado-red | ~2006 | S | Soldado en red | bmc-tie-infanteria-g5, bmc-inf-mando-g3 | Aplicación que combina equipo de infantería, mando y control digital. Fecha orientativa, tomada de Blue Marble Crisis. |

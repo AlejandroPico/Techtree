@@ -1,0 +1,290 @@
+{
+ "bmc-int-criptoanalisis-g0": {
+  "nombre": "Descifrado manual de claves",
+  "resumen": "Generación 1 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-criptoanalisis-g1": {
+  "nombre": "Análisis de claves de campaña",
+  "resumen": "Generación 2 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-criptoanalisis-g2": {
+  "nombre": "Descifrado mecanizado",
+  "resumen": "Generación 3 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-criptoanalisis-g3": {
+  "nombre": "Descifrado electrónico",
+  "resumen": "Generación 4 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-criptoanalisis-g4": {
+  "nombre": "Descifrado por computador",
+  "resumen": "Generación 5 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-criptoanalisis-g5": {
+  "nombre": "Análisis criptográfico masivo",
+  "resumen": "Generación 6 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-criptoanalisis-g6": {
+  "nombre": "Análisis distribuido de claves",
+  "resumen": "Generación 7 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-criptoanalisis-g7": {
+  "nombre": "Análisis criptográfico de nueva generación",
+  "resumen": "Generación 8 de la línea «Criptoanálisis». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g0": {
+  "nombre": "Escucha telegráfica",
+  "resumen": "Generación 1 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g1": {
+  "nombre": "Interceptación de radio de campaña",
+  "resumen": "Generación 2 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g2": {
+  "nombre": "Estación de escucha permanente",
+  "resumen": "Generación 3 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g3": {
+  "nombre": "Interceptación de microondas",
+  "resumen": "Generación 4 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g4": {
+  "nombre": "Escucha de banda ancha",
+  "resumen": "Generación 5 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g5": {
+  "nombre": "Escucha desde plataforma orbital",
+  "resumen": "Generación 6 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g6": {
+  "nombre": "Escucha de tráfico digital",
+  "resumen": "Generación 7 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-escucha-g7": {
+  "nombre": "Escucha de espectro completo",
+  "resumen": "Generación 8 de la línea «Escucha de comunicaciones». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g0": {
+  "nombre": "Informadores locales",
+  "resumen": "Generación 1 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g1": {
+  "nombre": "Agentes de enlace",
+  "resumen": "Generación 2 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g2": {
+  "nombre": "Red clandestina de guerra",
+  "resumen": "Generación 3 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g3": {
+  "nombre": "Red permanente en el exterior",
+  "resumen": "Generación 4 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g4": {
+  "nombre": "Red compartimentada",
+  "resumen": "Generación 5 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g5": {
+  "nombre": "Agentes de perfil discreto",
+  "resumen": "Generación 6 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g6": {
+  "nombre": "Red de colaboradores civiles",
+  "resumen": "Generación 7 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-agentes-g7": {
+  "nombre": "Red de contactos digitales",
+  "resumen": "Generación 8 de la línea «Red de informadores». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-tapadera-g0": {
+  "nombre": "Documentación de viaje de cobertura",
+  "resumen": "Generación 1 de la línea «Identidades tapadera». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-tapadera-g1": {
+  "nombre": "Identidad tapadera de guerra",
+  "resumen": "Generación 2 de la línea «Identidades tapadera». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-tapadera-g2": {
+  "nombre": "Identidad de larga duración",
+  "resumen": "Generación 3 de la línea «Identidades tapadera». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-tapadera-g3": {
+  "nombre": "Cobertura empresarial",
+  "resumen": "Generación 4 de la línea «Identidades tapadera». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-tapadera-g4": {
+  "nombre": "Cobertura respaldada por registros",
+  "resumen": "Generación 5 de la línea «Identidades tapadera». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-tapadera-g5": {
+  "nombre": "Cobertura de archivo consolidada",
+  "resumen": "Generación 6 de la línea «Identidades tapadera». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-tapadera-g6": {
+  "nombre": "Identidad digital de cobertura",
+  "resumen": "Generación 7 de la línea «Identidades tapadera». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g0": {
+  "nombre": "Cámara de reconocimiento",
+  "resumen": "Generación 1 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g1": {
+  "nombre": "Fotografía aérea sistemática",
+  "resumen": "Generación 2 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g2": {
+  "nombre": "Cámara de gran altitud",
+  "resumen": "Generación 3 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g3": {
+  "nombre": "Cámara de alta resolución",
+  "resumen": "Generación 4 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g4": {
+  "nombre": "Sensor de imagen orbital",
+  "resumen": "Generación 5 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g5": {
+  "nombre": "Imagen digital de reconocimiento",
+  "resumen": "Generación 6 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g6": {
+  "nombre": "Imagen multiespectral de reconocimiento",
+  "resumen": "Generación 7 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fotografia-g7": {
+  "nombre": "Imagen persistente de revisita rápida",
+  "resumen": "Generación 8 de la línea «Fotografía y sensores de espionaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g0": {
+  "nombre": "Oficina de estudios",
+  "resumen": "Generación 1 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g1": {
+  "nombre": "Sección de análisis de estado mayor",
+  "resumen": "Generación 2 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g2": {
+  "nombre": "Fusión de fuentes en tiempo de guerra",
+  "resumen": "Generación 3 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g3": {
+  "nombre": "Análisis asistido por máquina",
+  "resumen": "Generación 4 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g4": {
+  "nombre": "Archivo estructurado de inteligencia",
+  "resumen": "Generación 5 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g5": {
+  "nombre": "Fusión automatizada de fuentes",
+  "resumen": "Generación 6 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g6": {
+  "nombre": "Análisis de datos masivos",
+  "resumen": "Generación 7 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-analisis-g7": {
+  "nombre": "Análisis asistido por modelos",
+  "resumen": "Generación 8 de la línea «Análisis de inteligencia». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-intrusion-g0": {
+  "nombre": "Acceso no autorizado a sistemas",
+  "resumen": "Generación 1 de la línea «Intrusión informática». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-intrusion-g1": {
+  "nombre": "Intrusión en red de datos",
+  "resumen": "Generación 2 de la línea «Intrusión informática». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-intrusion-g2": {
+  "nombre": "Intrusión dirigida a objetivos",
+  "resumen": "Generación 3 de la línea «Intrusión informática». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-intrusion-g3": {
+  "nombre": "Acceso persistente a redes ajenas",
+  "resumen": "Generación 4 de la línea «Intrusión informática». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-intrusion-g4": {
+  "nombre": "Intrusión por la cadena de suministro",
+  "resumen": "Generación 5 de la línea «Intrusión informática». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-intrusion-g5": {
+  "nombre": "Campaña de acceso sostenido",
+  "resumen": "Generación 6 de la línea «Intrusión informática». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fuentes-abiertas-g0": {
+  "nombre": "Lectura sistemática de prensa",
+  "resumen": "Generación 1 de la línea «Inteligencia de fuentes abiertas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fuentes-abiertas-g1": {
+  "nombre": "Escucha de radiodifusión exterior",
+  "resumen": "Generación 2 de la línea «Inteligencia de fuentes abiertas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fuentes-abiertas-g2": {
+  "nombre": "Seguimiento de publicaciones técnicas",
+  "resumen": "Generación 3 de la línea «Inteligencia de fuentes abiertas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fuentes-abiertas-g3": {
+  "nombre": "Seguimiento de medios internacionales",
+  "resumen": "Generación 4 de la línea «Inteligencia de fuentes abiertas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fuentes-abiertas-g4": {
+  "nombre": "Rastreo de fuentes en red",
+  "resumen": "Generación 5 de la línea «Inteligencia de fuentes abiertas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-int-fuentes-abiertas-g5": {
+  "nombre": "Fuentes abiertas a gran escala",
+  "resumen": "Generación 6 de la línea «Inteligencia de fuentes abiertas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-criptoanalisis-maquina": {
+  "nombre": "Criptoanálisis mecanizado",
+  "resumen": "Aplicación que combina computación, criptoanálisis, criptografía. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-red-agentes": {
+  "nombre": "Red de agentes permanente",
+  "resumen": "Aplicación que combina identidades tapadera, red de informadores. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-estacion-escucha": {
+  "nombre": "Estación de escucha estratégica",
+  "resumen": "Aplicación que combina escucha de comunicaciones, inteligencia de señales. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-desinformacion": {
+  "nombre": "Campaña de desinformación",
+  "resumen": "Aplicación que combina desinformación y engaño, inteligencia de fuentes abiertas, propaganda y opinión pública. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-centro-fusion": {
+  "nombre": "Centro de fusión de inteligencia",
+  "resumen": "Aplicación que combina análisis de inteligencia, mando y control digital, tratamiento de datos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-osint-masiva": {
+  "nombre": "Explotación masiva de fuentes abiertas",
+  "resumen": "Aplicación que combina inteligencia de fuentes abiertas, tratamiento de datos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-intrusion-estrategica": {
+  "nombre": "Campaña de intrusión estratégica",
+  "resumen": "Aplicación que combina intrusión informática, operaciones digitales ofensivas. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-fundar-servicio": {
+  "nombre": "Fundar un servicio de inteligencia",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-oficina-criptoanalisis": {
+  "nombre": "Crear una oficina de criptoanálisis",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-red-exterior": {
+  "nombre": "Desplegar una red de agentes en el exterior",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-escucha-estrategica": {
+  "nombre": "Programa de escucha estratégica",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-programa-osint": {
+  "nombre": "Programa de fuentes abiertas",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-operaciones-digitales": {
+  "nombre": "Autorizar operaciones digitales encubiertas",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

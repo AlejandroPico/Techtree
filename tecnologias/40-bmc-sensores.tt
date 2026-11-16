@@ -1,0 +1,74 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ sensores | Electrónica y sensores | #4fb0b8
+@@ ele-radio | Radio y enlace
+bmc-ele-radio-g0 | ~1901 | I | Telegrafía sin hilos | radiotelegrafia | Generación 1 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radio-g1 | ~1920 | I | Radio de válvulas | bmc-ele-radio-g0 | Generación 2 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radio-g2 | ~1938 | I | Radio de campaña | bmc-ele-radio-g1 | Generación 3 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radio-g3 | ~1950 | I | Enlace por microondas | bmc-ele-radio-g2 | Generación 4 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radio-g4 | ~1966 | I | Enlace de datos táctico | bmc-ele-radio-g3 | Generación 5 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radio-g5 | ~1980 | I | Salto de frecuencia | bmc-ele-radio-g4 | Generación 6 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radio-g6 | ~1996 | I | Enlace de banda ancha | bmc-ele-radio-g5 | Generación 7 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radio-g7 | ~2012 | I | Malla resistente | bmc-ele-radio-g6 | Generación 8 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ele-radar | Radar
+bmc-ele-radar-g0 | ~1935 | I | Detección por eco | bmc-ele-radio-g1 | Generación 1 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g1 | ~1941 | I | Radar de vigilancia | bmc-ele-radar-g0, bmc-ele-radio-g2 | Generación 2 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g2 | ~1948 | I | Radar de dirección de tiro | bmc-ele-radar-g1, bmc-ele-radio-g2 | Generación 3 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g3 | ~1958 | I | Radar Doppler | bmc-ele-radar-g2, bmc-ele-radio-g3 | Generación 4 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g4 | ~1968 | I | Radar transhorizonte | bmc-ele-radar-g3, bmc-ele-radio-g4 | Generación 5 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g5 | ~1980 | I | Barrido electrónico pasivo | bmc-ele-radar-g4, bmc-ele-radio-g4 | Generación 6 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g6 | ~1994 | I | Barrido electrónico activo | bmc-ele-radar-g5, bmc-ele-radio-g5 | Generación 7 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g7 | ~2010 | I | Radar multifunción | bmc-ele-radar-g6, bmc-ele-radio-g6 | Generación 8 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-radar-g8 | ~2026 | I | Radar fotónico | bmc-ele-radar-g7, bmc-ele-radio-g7 | Generación 9 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ele-computacion | Computación
+bmc-ele-computacion-g0 | ~1928 | I | Calculadora mecánica | bmc-ele-radio-g1 | Generación 1 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g1 | ~1946 | I | Computadora de válvulas | bmc-ele-computacion-g0, bmc-ele-radio-g2 | Generación 2 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g2 | ~1956 | I | Transistor | bmc-ele-computacion-g1, bmc-ele-radio-g3 | Generación 3 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g3 | ~1965 | I | Circuito integrado | bmc-ele-computacion-g2, bmc-ele-radio-g3 | Generación 4 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g4 | ~1974 | I | Microprocesador | bmc-ele-computacion-g3, bmc-ele-radio-g4 | Generación 5 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g5 | ~1984 | I | Computación personal | bmc-ele-computacion-g4, bmc-ele-radio-g5 | Generación 6 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g6 | ~1996 | I | Computación paralela | bmc-ele-computacion-g5, bmc-ele-radio-g6 | Generación 7 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g7 | ~2008 | I | Computación distribuida | bmc-ele-computacion-g6, bmc-ele-radio-g6 | Generación 8 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-computacion-g8 | ~2018 | I | Computación de alto rendimiento | bmc-ele-computacion-g7, bmc-ele-radio-g7 | Generación 9 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ele-sensores | Sensores ópticos e infrarrojos
+bmc-ele-sensores-g0 | ~1915 | I | Óptica de precisión | bmc-ele-radio-g0 | Generación 1 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-sensores-g1 | ~1944 | I | Visión nocturna pasiva | bmc-ele-sensores-g0, bmc-ele-radio-g2 | Generación 2 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-sensores-g2 | ~1958 | I | Infrarrojo de barrido | bmc-ele-sensores-g1, bmc-ele-radio-g3 | Generación 3 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-sensores-g3 | ~1972 | I | Imagen térmica | bmc-ele-sensores-g2, bmc-ele-radio-g4 | Generación 4 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-sensores-g4 | ~1986 | I | Matriz de plano focal | bmc-ele-sensores-g3, bmc-ele-radio-g5 | Generación 5 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-sensores-g5 | ~2000 | I | Imagen multiespectral | bmc-ele-sensores-g4, bmc-ele-radio-g6 | Generación 6 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-sensores-g6 | ~2016 | I | Imagen hiperespectral | bmc-ele-sensores-g5, bmc-ele-radio-g7 | Generación 7 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ele-guerra-electronica | Guerra electrónica
+bmc-ele-guerra-electronica-g0 | ~1942 | I | Interferencia de barrido | bmc-ele-radar-g1, bmc-ele-computacion-g0 | Generación 1 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guerra-electronica-g1 | ~1955 | I | Contramedidas de ruido | bmc-ele-guerra-electronica-g0, bmc-ele-radar-g2, bmc-ele-computacion-g1 | Generación 2 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guerra-electronica-g2 | ~1968 | I | Engaño electrónico | bmc-ele-guerra-electronica-g1, bmc-ele-radar-g4, bmc-ele-computacion-g3 | Generación 3 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guerra-electronica-g3 | ~1980 | I | Supresión de defensas | bmc-ele-guerra-electronica-g2, bmc-ele-radar-g5, bmc-ele-computacion-g4 | Generación 4 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guerra-electronica-g4 | ~1994 | I | Contramedidas adaptativas | bmc-ele-guerra-electronica-g3, bmc-ele-radar-g6, bmc-ele-computacion-g5 | Generación 5 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guerra-electronica-g5 | ~2010 | I | Ataque electrónico dirigido | bmc-ele-guerra-electronica-g4, bmc-ele-radar-g7, bmc-ele-computacion-g7 | Generación 6 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guerra-electronica-g6 | ~2026 | I | Dominio del espectro | bmc-ele-guerra-electronica-g5, bmc-ele-radar-g8, bmc-ele-computacion-g8 | Generación 7 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ele-guiado | Guiado y navegación
+bmc-ele-guiado-g0 | ~1930 | I | Giróscopo de precisión | bmc-ele-computacion-g0 | Generación 1 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guiado-g1 | ~1948 | I | Guiado inercial | bmc-ele-guiado-g0, bmc-ele-computacion-g1 | Generación 2 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guiado-g2 | ~1960 | I | Plataforma estabilizada | bmc-ele-guiado-g1, bmc-ele-computacion-g2 | Generación 3 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guiado-g3 | ~1974 | I | Inercial de anillo láser | bmc-ele-guiado-g2, bmc-ele-computacion-g3 | Generación 4 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guiado-g4 | ~1984 | I | Guiado por contorno del terreno | bmc-ele-guiado-g3, bmc-ele-computacion-g4 | Generación 5 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guiado-g5 | ~1994 | I | Guiado por satélite | bmc-ele-guiado-g4, bmc-ele-computacion-g5 | Generación 6 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guiado-g6 | ~2008 | I | Guiado híbrido | bmc-ele-guiado-g5, bmc-ele-computacion-g6 | Generación 7 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-guiado-g7 | ~2024 | I | Navegación sin satélite | bmc-ele-guiado-g6, bmc-ele-computacion-g8 | Generación 8 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ele-optica | Óptica y puntería
+bmc-ele-optica-g0 | ~1905 | I | Telémetro óptico | vidrio-optico | Generación 1 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-optica-g1 | ~1930 | I | Visor de puntería | bmc-ele-optica-g0, bmc-ele-sensores-g0 | Generación 2 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-optica-g2 | ~1955 | I | Estabilización de línea de mira | bmc-ele-optica-g1, bmc-ele-sensores-g1 | Generación 3 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-optica-g3 | ~1968 | I | Designación láser | bmc-ele-optica-g2, bmc-ele-sensores-g2 | Generación 4 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-optica-g4 | ~1985 | I | Puntería asistida | bmc-ele-optica-g3, bmc-ele-sensores-g3 | Generación 5 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-optica-g5 | ~2005 | I | Puntería automática | bmc-ele-optica-g4, bmc-ele-sensores-g4 | Generación 6 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ele-inteligencia | Inteligencia de señales
+bmc-ele-inteligencia-g0 | ~1914 | I | Interceptación de radio | bmc-ele-radio-g0 | Generación 1 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-inteligencia-g1 | ~1935 | I | Radiogoniometría | bmc-ele-inteligencia-g0, bmc-ele-radio-g1 | Generación 2 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-inteligencia-g2 | ~1950 | I | Interceptación a gran escala | bmc-ele-inteligencia-g1, bmc-ele-radio-g3 | Generación 3 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-inteligencia-g3 | ~1975 | I | Análisis automatizado de tráfico | bmc-ele-inteligencia-g2, bmc-ele-radio-g4 | Generación 4 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-inteligencia-g4 | ~1995 | I | Interceptación de banda ancha | bmc-ele-inteligencia-g3, bmc-ele-radio-g5 | Generación 5 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ele-inteligencia-g5 | ~2012 | I | Análisis masivo | bmc-ele-inteligencia-g4, bmc-ele-radio-g7 | Generación 6 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-radar-tactico | ~1941 | S | Radar táctico desplegable | bmc-ele-radar-g1 | Aplicación que combina radar. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-radar-horizonte | ~1968 | S | Radar transhorizonte | bmc-ele-radar-g4, bmc-ele-computacion-g2 | Aplicación que combina computación, radar. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-red-sensores | ~1996 | S | Red de sensores integrada | bmc-ele-radar-g6, bmc-inf-redes-g3, bmc-inf-mando-g3 | Aplicación que combina mando y control digital, radar, redes. Fecha orientativa, tomada de Blue Marble Crisis. |

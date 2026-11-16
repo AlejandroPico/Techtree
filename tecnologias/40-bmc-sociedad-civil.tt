@@ -1,0 +1,95 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ sociedad-civil | Sociedad | #c98fa0
+@@ soc-educacion | Educación
+bmc-soc-educacion-g0 | ~1900 | I | Alfabetización general | universidad | Generación 1 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-educacion-g1 | ~1920 | I | Escolarización obligatoria | bmc-soc-educacion-g0 | Generación 2 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-educacion-g2 | ~1940 | I | Enseñanza técnica | bmc-soc-educacion-g1 | Generación 3 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-educacion-g3 | ~1960 | I | Universidad de masas | bmc-soc-educacion-g2 | Generación 4 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-educacion-g4 | ~1985 | I | Formación continua | bmc-soc-educacion-g3 | Generación 5 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-educacion-g5 | ~2010 | I | Educación digital | bmc-soc-educacion-g4 | Generación 6 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-sanidad | Sanidad
+bmc-soc-sanidad-g0 | ~1900 | I | Higiene pública | alcantarillado-londres | Generación 1 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-sanidad-g1 | ~1942 | I | Antibióticos | bmc-soc-sanidad-g0, bmc-soc-educacion-g2 | Generación 2 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-sanidad-g2 | ~1955 | I | Sanidad universal | bmc-soc-sanidad-g1, bmc-soc-educacion-g2 | Generación 3 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-sanidad-g3 | ~1975 | I | Diagnóstico por imagen | bmc-soc-sanidad-g2, bmc-soc-educacion-g3 | Generación 4 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-sanidad-g4 | ~2005 | I | Medicina de precisión | bmc-soc-sanidad-g3, bmc-soc-educacion-g4 | Generación 5 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-sanidad-g5 | ~2022 | I | Sanidad preventiva de datos | bmc-soc-sanidad-g4, bmc-soc-educacion-g5 | Generación 6 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-medios | Medios y opinión
+bmc-soc-medios-g0 | ~1900 | I | Prensa de masas | rotativa | Generación 1 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-medios-g1 | ~1925 | I | Radiodifusión | bmc-soc-medios-g0, bmc-ele-radio-g1 | Generación 2 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-medios-g2 | ~1950 | I | Televisión | bmc-soc-medios-g1, bmc-ele-radio-g3 | Generación 3 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-medios-g3 | ~1975 | I | Televisión por satélite | bmc-soc-medios-g2, bmc-ele-radio-g4 | Generación 4 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-medios-g4 | ~2000 | I | Medios en red | bmc-soc-medios-g3, bmc-ele-radio-g6 | Generación 5 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-medios-g5 | ~2015 | I | Medios personalizados | bmc-soc-medios-g4, bmc-ele-radio-g7 | Generación 6 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-movilizacion | Movilización civil
+bmc-soc-movilizacion-g0 | ~1900 | I | Servicio militar general | bmc-soc-educacion-g0 | Generación 1 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-movilizacion-g1 | ~1917 | I | Economía de guerra | bmc-soc-movilizacion-g0, bmc-soc-educacion-g0 | Generación 2 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-movilizacion-g2 | ~1941 | I | Movilización total | bmc-soc-movilizacion-g1, bmc-soc-educacion-g2 | Generación 3 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-movilizacion-g3 | ~1975 | I | Reserva profesional | bmc-soc-movilizacion-g2, bmc-soc-educacion-g3 | Generación 4 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-movilizacion-g4 | ~2000 | I | Movilización selectiva | bmc-soc-movilizacion-g3, bmc-soc-educacion-g4 | Generación 5 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-movilizacion-g5 | ~2020 | I | Resiliencia civil | bmc-soc-movilizacion-g4, bmc-soc-educacion-g5 | Generación 6 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-servicios | Servicios sociales
+bmc-soc-servicios-g0 | ~1905 | I | Seguro obrero | cooperativa | Generación 1 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-servicios-g1 | ~1935 | I | Pensiones públicas | bmc-soc-servicios-g0, bmc-eco-fiscalidad-g1 | Generación 2 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-servicios-g2 | ~1948 | I | Estado de bienestar | bmc-soc-servicios-g1, bmc-eco-fiscalidad-g1 | Generación 3 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-servicios-g3 | ~1970 | I | Servicios universales | bmc-soc-servicios-g2, bmc-eco-fiscalidad-g2 | Generación 4 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-servicios-g4 | ~1995 | I | Renta y transferencias | bmc-soc-servicios-g3, bmc-eco-fiscalidad-g3 | Generación 5 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-servicios-g5 | ~2015 | I | Servicios digitales | bmc-soc-servicios-g4, bmc-eco-fiscalidad-g4 | Generación 6 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-derechos | Derechos civiles
+bmc-soc-derechos-g0 | ~1918 | I | Sufragio ampliado | bmc-soc-educacion-g0 | Generación 1 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-derechos-g1 | ~1936 | I | Derechos laborales | bmc-soc-derechos-g0, bmc-soc-educacion-g1 | Generación 2 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-derechos-g2 | ~1960 | I | Igualdad ante la ley | bmc-soc-derechos-g1, bmc-soc-educacion-g3 | Generación 3 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-derechos-g3 | ~1975 | I | Derechos de minorías | bmc-soc-derechos-g2, bmc-soc-educacion-g3 | Generación 4 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-derechos-g4 | ~2000 | I | Protección de datos personales | bmc-soc-derechos-g3, bmc-soc-educacion-g4 | Generación 5 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-derechos-g5 | ~2020 | I | Derechos digitales | bmc-soc-derechos-g4, bmc-soc-educacion-g5 | Generación 6 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ bio-biotecnologia | Biotecnología
+bmc-bio-biotecnologia-g0 | ~1940 | I | Cultivo industrial | bmc-ind-quimica-g2 | Generación 1 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-bio-biotecnologia-g1 | ~1975 | I | Ingeniería genética | bmc-bio-biotecnologia-g0, bmc-ind-quimica-g4 | Generación 2 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-bio-biotecnologia-g2 | ~1990 | I | Secuenciación | bmc-bio-biotecnologia-g1, bmc-ind-quimica-g5 | Generación 3 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-bio-biotecnologia-g3 | ~2012 | I | Edición genética | bmc-bio-biotecnologia-g2, bmc-ind-quimica-g6 | Generación 4 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-bio-biotecnologia-g4 | ~2024 | I | Biología sintética | bmc-bio-biotecnologia-g3, bmc-ind-quimica-g7 | Generación 5 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-investigacion | Instituciones de investigación
+bmc-soc-investigacion-g0 | ~1900 | I | Academia nacional | bmc-soc-educacion-g0 | Generación 1 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-investigacion-g1 | ~1930 | I | Laboratorio estatal | bmc-soc-investigacion-g0, bmc-soc-educacion-g1 | Generación 2 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-investigacion-g2 | ~1945 | I | Complejo científico-militar | bmc-soc-investigacion-g1, bmc-soc-educacion-g2 | Generación 3 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-investigacion-g3 | ~1958 | I | Agencia de proyectos avanzados | bmc-soc-investigacion-g2, bmc-soc-educacion-g2 | Generación 4 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-investigacion-g4 | ~1985 | I | Investigación público-privada | bmc-soc-investigacion-g3, bmc-soc-educacion-g4 | Generación 5 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-investigacion-g5 | ~2010 | I | Red internacional de investigación | bmc-soc-investigacion-g4, bmc-soc-educacion-g5 | Generación 6 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-informacion | Operaciones de información
+bmc-soc-informacion-g0 | ~1914 | I | Propaganda de guerra | bmc-soc-medios-g0 | Generación 1 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-informacion-g1 | ~1938 | I | Radio exterior | bmc-soc-informacion-g0, bmc-soc-medios-g1 | Generación 2 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-informacion-g2 | ~1950 | I | Guerra psicológica | bmc-soc-informacion-g1, bmc-soc-medios-g2 | Generación 3 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-informacion-g3 | ~1975 | I | Diplomacia pública | bmc-soc-informacion-g2, bmc-soc-medios-g3 | Generación 4 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-informacion-g4 | ~2010 | I | Influencia en redes | bmc-soc-informacion-g3, bmc-soc-medios-g4 | Generación 5 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-informacion-g5 | ~2022 | I | Influencia automatizada | bmc-soc-informacion-g4, bmc-soc-medios-g5 | Generación 6 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ soc-urbanismo | Infraestructura urbana
+bmc-soc-urbanismo-g0 | ~1900 | I | Saneamiento urbano | alcantarillado-londres | Generación 1 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-urbanismo-g1 | ~1930 | I | Vivienda social | bmc-soc-urbanismo-g0, bmc-ind-energia-g0 | Generación 2 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-urbanismo-g2 | ~1955 | I | Planificación urbana | bmc-soc-urbanismo-g1, bmc-ind-energia-g2 | Generación 3 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-urbanismo-g3 | ~1975 | I | Transporte metropolitano | bmc-soc-urbanismo-g2, bmc-ind-energia-g4 | Generación 4 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-urbanismo-g4 | ~2000 | I | Ciudad eficiente | bmc-soc-urbanismo-g3, bmc-ind-energia-g5 | Generación 5 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-soc-urbanismo-g5 | ~2018 | I | Ciudad instrumentada | bmc-soc-urbanismo-g4, bmc-ind-energia-g6 | Generación 6 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-defensa-civil | ~1955 | S | Defensa civil | bmc-soc-movilizacion-g2, bmc-nbq-proteccion-g1 | Aplicación que combina movilización civil, protección nbq. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-vacunacion-masiva | ~2005 | S | Capacidad de respuesta sanitaria masiva | bmc-nbq-medica-g3, bmc-bio-biotecnologia-g2 | Aplicación que combina biotecnología, contramedidas médicas. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-servicio-militar | ~1900 | S | Implantar el servicio militar obligatorio | bmc-soc-movilizacion-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-ley-marcial | ~1900 | S | Declarar la ley marcial | enciclopedia-diderot | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-censura | ~1914 | S | Establecer la censura de prensa | bmc-soc-medios-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-propaganda | ~1914 | S | Campaña de propaganda | bmc-soc-informacion-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-libertad-prensa | ~1918 | S | Garantizar la libertad de prensa | bmc-soc-derechos-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-sufragio | ~1918 | S | Ampliar el sufragio | bmc-soc-derechos-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-escolarizacion | ~1920 | S | Escolarización obligatoria | bmc-soc-educacion-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-vivienda | ~1930 | S | Plan público de vivienda | bmc-soc-urbanismo-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-pensiones | ~1935 | S | Establecer pensiones públicas | bmc-soc-servicios-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-formacion-tecnica | ~1940 | S | Plan de formación técnica | bmc-soc-educacion-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-movilizacion-total | ~1941 | S | Ordenar la movilización total | bmc-soc-movilizacion-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-fuga-cerebros | ~1945 | S | Captar investigación extranjera | bmc-soc-investigacion-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-secreto-industrial | ~1945 | S | Blindar la investigación militar | bmc-soc-investigacion-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-defensa-civil | ~1955 | S | Organizar la defensa civil | bmc-app-defensa-civil | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-sanidad-universal | ~1955 | S | Implantar la sanidad universal | bmc-soc-sanidad-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-agencia-avanzada | ~1958 | S | Crear una agencia de proyectos avanzados | bmc-soc-investigacion-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-suprimir-servicio | ~1975 | S | Suprimir el servicio militar obligatorio | bmc-soc-movilizacion-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-reserva-profesional | ~1975 | S | Profesionalizar la reserva | bmc-soc-movilizacion-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-diplomacia-publica | ~1975 | S | Diplomacia pública | bmc-soc-informacion-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-proteccion-datos | ~2000 | S | Proteger los datos personales | bmc-soc-derechos-g4 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

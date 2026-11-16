@@ -1,0 +1,314 @@
+{
+ "bmc-coh-solido-g0": {
+  "nombre": "Cohete de sondeo",
+  "resumen": "Generación 1 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-solido-g1": {
+  "nombre": "Cohete de combustible sólido",
+  "resumen": "Generación 2 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-solido-g2": {
+  "nombre": "Cohete táctico",
+  "resumen": "Generación 3 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-solido-g3": {
+  "nombre": "Motor de etapas segmentadas",
+  "resumen": "Generación 4 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-solido-g4": {
+  "nombre": "Propulsante de alta energía",
+  "resumen": "Generación 5 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-solido-g5": {
+  "nombre": "Cohete de almacenamiento prolongado",
+  "resumen": "Generación 6 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-solido-g6": {
+  "nombre": "Propulsante insensible",
+  "resumen": "Generación 7 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-liquido-g0": {
+  "nombre": "Motor de combustible líquido",
+  "resumen": "Generación 1 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-liquido-g1": {
+  "nombre": "Motor de gran empuje",
+  "resumen": "Generación 2 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-liquido-g2": {
+  "nombre": "Motor criogénico",
+  "resumen": "Generación 3 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-liquido-g3": {
+  "nombre": "Motor reencendible",
+  "resumen": "Generación 4 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-liquido-g4": {
+  "nombre": "Motor de combustión escalonada",
+  "resumen": "Generación 5 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-liquido-g5": {
+  "nombre": "Motor reutilizable",
+  "resumen": "Generación 6 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-coh-liquido-g6": {
+  "nombre": "Motor de flujo completo",
+  "resumen": "Generación 7 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-reentrada-g0": {
+  "nombre": "Escudo ablativo",
+  "resumen": "Generación 1 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-reentrada-g1": {
+  "nombre": "Vehículo de reentrada",
+  "resumen": "Generación 2 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-reentrada-g2": {
+  "nombre": "Reentrada de precisión",
+  "resumen": "Generación 3 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-reentrada-g3": {
+  "nombre": "Vehículo maniobrable",
+  "resumen": "Generación 4 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-reentrada-g4": {
+  "nombre": "Reentrada hipersónica planeadora",
+  "resumen": "Generación 5 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-observacion-g0": {
+  "nombre": "Satélite fotográfico",
+  "resumen": "Generación 1 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-observacion-g1": {
+  "nombre": "Recuperación de cápsula",
+  "resumen": "Generación 2 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-observacion-g2": {
+  "nombre": "Transmisión digital de imagen",
+  "resumen": "Generación 3 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-observacion-g3": {
+  "nombre": "Resolución submétrica",
+  "resumen": "Generación 4 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-observacion-g4": {
+  "nombre": "Radar de apertura sintética orbital",
+  "resumen": "Generación 5 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-observacion-g5": {
+  "nombre": "Constelación de revisita rápida",
+  "resumen": "Generación 6 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-comunicacion-g0": {
+  "nombre": "Satélite pasivo",
+  "resumen": "Generación 1 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-comunicacion-g1": {
+  "nombre": "Satélite geoestacionario",
+  "resumen": "Generación 2 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-comunicacion-g2": {
+  "nombre": "Comunicación militar protegida",
+  "resumen": "Generación 3 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-comunicacion-g3": {
+  "nombre": "Constelación de órbita baja",
+  "resumen": "Generación 4 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-comunicacion-g4": {
+  "nombre": "Enlace óptico entre satélites",
+  "resumen": "Generación 5 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-navegacion-g0": {
+  "nombre": "Navegación Doppler orbital",
+  "resumen": "Generación 1 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-navegacion-g1": {
+  "nombre": "Constelación de navegación",
+  "resumen": "Generación 2 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-navegacion-g2": {
+  "nombre": "Señal militar cifrada",
+  "resumen": "Generación 3 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-navegacion-g3": {
+  "nombre": "Precisión centimétrica",
+  "resumen": "Generación 4 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-navegacion-g4": {
+  "nombre": "Navegación resistente a interferencia",
+  "resumen": "Generación 5 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-alerta-g0": {
+  "nombre": "Detección de fogonazo",
+  "resumen": "Generación 1 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-alerta-g1": {
+  "nombre": "Constelación de alerta",
+  "resumen": "Generación 2 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-alerta-g2": {
+  "nombre": "Seguimiento en fase de ascenso",
+  "resumen": "Generación 3 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-alerta-g3": {
+  "nombre": "Seguimiento de trayectoria completa",
+  "resumen": "Generación 4 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-estacion-g0": {
+  "nombre": "Cápsula tripulada",
+  "resumen": "Generación 1 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-estacion-g1": {
+  "nombre": "Estación de una sola pieza",
+  "resumen": "Generación 2 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-estacion-g2": {
+  "nombre": "Estación modular",
+  "resumen": "Generación 3 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-estacion-g3": {
+  "nombre": "Estación de larga duración",
+  "resumen": "Generación 4 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-orbital-g0": {
+  "nombre": "Inspección orbital",
+  "resumen": "Generación 1 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-orbital-g1": {
+  "nombre": "Interceptación cinética orbital",
+  "resumen": "Generación 2 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-orbital-g2": {
+  "nombre": "Perturbación de satélites",
+  "resumen": "Generación 3 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-orbital-g3": {
+  "nombre": "Negación orbital sostenida",
+  "resumen": "Generación 4 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-dirigida-g0": {
+  "nombre": "Láser de laboratorio",
+  "resumen": "Generación 1 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-dirigida-g1": {
+  "nombre": "Láser de alta energía",
+  "resumen": "Generación 2 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-dirigida-g2": {
+  "nombre": "Arma de energía dirigida de teatro",
+  "resumen": "Generación 3 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-dirigida-g3": {
+  "nombre": "Energía dirigida embarcada",
+  "resumen": "Generación 4 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-lanzador-g0": {
+  "nombre": "Lanzador de una pasada",
+  "resumen": "Generación 1 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-lanzador-g1": {
+  "nombre": "Lanzador de carga pesada",
+  "resumen": "Generación 2 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-lanzador-g2": {
+  "nombre": "Lanzador reutilizable parcial",
+  "resumen": "Generación 3 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-lanzador-g3": {
+  "nombre": "Lanzador de bajo coste",
+  "resumen": "Generación 4 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-lanzador-g4": {
+  "nombre": "Lanzador totalmente reutilizable",
+  "resumen": "Generación 5 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-logistica-g0": {
+  "nombre": "Acoplamiento en órbita",
+  "resumen": "Generación 1 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-logistica-g1": {
+  "nombre": "Transferencia de carga",
+  "resumen": "Generación 2 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-logistica-g2": {
+  "nombre": "Servicio en órbita",
+  "resumen": "Generación 3 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-esp-logistica-g3": {
+  "nombre": "Repostaje orbital",
+  "resumen": "Generación 4 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-misil-medio": {
+  "nombre": "Misil balístico de alcance medio",
+  "resumen": "Aplicación que combina cohetería de combustible líquido, guiado y navegación, reentrada atmosférica. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-icbm": {
+  "nombre": "Misil balístico intercontinental",
+  "resumen": "Aplicación que combina cohetería de combustible líquido, dispositivos nucleares, guiado y navegación, reentrada atmosférica. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-silo": {
+  "nombre": "Silo endurecido",
+  "resumen": "Aplicación que combina cohetería de combustible sólido, mando y custodia nuclear, siderurgia. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-satelite-obs": {
+  "nombre": "Satélite de observación militar",
+  "resumen": "Aplicación que combina satélites de comunicación, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-satelite-espia": {
+  "nombre": "Satélite de reconocimiento fotográfico",
+  "resumen": "Aplicación que combina análisis de inteligencia, fotografía y sensores de espionaje, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-mirv": {
+  "nombre": "Vehículos de reentrada múltiple",
+  "resumen": "Aplicación que combina dispositivos nucleares, guiado y navegación, reentrada atmosférica. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-alerta-temprana": {
+  "nombre": "Alerta temprana orbital",
+  "resumen": "Aplicación que combina alerta temprana orbital, satélites de comunicación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-antisatelite": {
+  "nombre": "Interceptación antisatélite",
+  "resumen": "Aplicación que combina cohetería de combustible sólido, sistemas orbitales de negación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-kinetico-orbital": {
+  "nombre": "Interceptación cinética desde órbita",
+  "resumen": "Aplicación que combina guiado y navegación, sistemas orbitales de negación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-gps-militar": {
+  "nombre": "Constelación de navegación militar",
+  "resumen": "Aplicación que combina lanzadores orbitales, navegación por satélite. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-satelite-sigint": {
+  "nombre": "Satélite de escucha electrónica",
+  "resumen": "Aplicación que combina escucha de comunicaciones, inteligencia de señales, satélites de comunicación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-interceptor": {
+  "nombre": "Interceptor de fase media",
+  "resumen": "Aplicación que combina alerta temprana orbital, cohetería de combustible sólido, guiado y navegación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-constelacion-leo": {
+  "nombre": "Constelación de comunicación de órbita baja",
+  "resumen": "Aplicación que combina lanzadores orbitales, satélites de comunicación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-sar-orbital": {
+  "nombre": "Radar orbital de apertura sintética",
+  "resumen": "Aplicación que combina radar, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-lanzador-barato": {
+  "nombre": "Acceso al espacio de bajo coste",
+  "resumen": "Aplicación que combina lanzadores orbitales. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-deteccion-submarina-orbital": {
+  "nombre": "Detección de sumergibles desde órbita",
+  "resumen": "Aplicación que combina análisis de inteligencia, guerra antisubmarina, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-servicio-orbital": {
+  "nombre": "Servicio y repostaje en órbita",
+  "resumen": "Aplicación que combina logística orbital, presencia orbital permanente. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-programa-espacial": {
+  "nombre": "Iniciar un programa espacial",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

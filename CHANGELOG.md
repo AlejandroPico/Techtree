@@ -1,5 +1,12 @@
 # Historial
 
+## 0.4.0 · 16 de noviembre de 2026
+
+- Importado el árbol tecnológico de Blue Marble Crisis (1900–2026): 966 avances en 16 ámbitos nuevos y 152 subámbitos (uno por familia de desarrollo). Total: 4.745 avances y 7.393 requisitos.
+- Ámbitos nuevos: guerra terrestre, naval y aérea, cohetería y espacio, física nuclear, defensa NBQ, electrónica y sensores, informática y guerra digital, industria, economía, sociedad, medicina y sanidad, doctrinas militares, inteligencia, contrainteligencia, política y gobierno.
+- Se traen las generaciones de cada línea, las aplicaciones entre familias y las acciones de gobierno; no las 2.480 «mejoras» (seguridad, custodia, rendimiento…) ni los 38 nodos posteriores a 2026.
+- `tools/importar_bmc.py` repite la importación cuando cambie el juego.
+
 ## 0.3.0 · 16 de noviembre de 2026
 
 - De 2.351 a 3.779 avances y de 3.593 a 5.441 requisitos; 116 subámbitos.

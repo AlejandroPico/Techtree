@@ -1,0 +1,210 @@
+{
+ "bmc-med-cirugia-g0": {
+  "nombre": "Cirugía de campaña",
+  "resumen": "Generación 1 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-cirugia-g1": {
+  "nombre": "Cirugía de urgencia",
+  "resumen": "Generación 2 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-cirugia-g2": {
+  "nombre": "Cirugía reglada de retaguardia",
+  "resumen": "Generación 3 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-cirugia-g3": {
+  "nombre": "Cirugía especializada",
+  "resumen": "Generación 4 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-cirugia-g4": {
+  "nombre": "Cirugía asistida por imagen",
+  "resumen": "Generación 5 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-cirugia-g5": {
+  "nombre": "Cirugía mínimamente invasiva",
+  "resumen": "Generación 6 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-cirugia-g6": {
+  "nombre": "Cirugía asistida por robot",
+  "resumen": "Generación 7 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-farmacos-g0": {
+  "nombre": "Farmacopea básica",
+  "resumen": "Generación 1 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-farmacos-g1": {
+  "nombre": "Antisépticos de guerra",
+  "resumen": "Generación 2 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-farmacos-g2": {
+  "nombre": "Antibióticos",
+  "resumen": "Generación 3 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-farmacos-g3": {
+  "nombre": "Antibióticos de amplio espectro",
+  "resumen": "Generación 4 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-farmacos-g4": {
+  "nombre": "Farmacología dirigida",
+  "resumen": "Generación 5 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-farmacos-g5": {
+  "nombre": "Fármacos de síntesis dirigida",
+  "resumen": "Generación 6 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-farmacos-g6": {
+  "nombre": "Terapias biológicas",
+  "resumen": "Generación 7 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-evacuacion-g0": {
+  "nombre": "Camillero y tren sanitario",
+  "resumen": "Generación 1 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-evacuacion-g1": {
+  "nombre": "Ambulancia motorizada",
+  "resumen": "Generación 2 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-evacuacion-g2": {
+  "nombre": "Evacuación por carretera organizada",
+  "resumen": "Generación 3 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-evacuacion-g3": {
+  "nombre": "Evacuación por helicóptero",
+  "resumen": "Generación 4 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-evacuacion-g4": {
+  "nombre": "Cadena de evacuación escalonada",
+  "resumen": "Generación 5 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-evacuacion-g5": {
+  "nombre": "Evacuación aérea estratégica",
+  "resumen": "Generación 6 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-evacuacion-g6": {
+  "nombre": "Evacuación con soporte en ruta",
+  "resumen": "Generación 7 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-epidemias-g0": {
+  "nombre": "Higiene de campaña",
+  "resumen": "Generación 1 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-epidemias-g1": {
+  "nombre": "Vacunación sistemática",
+  "resumen": "Generación 2 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-epidemias-g2": {
+  "nombre": "Control epidemiológico",
+  "resumen": "Generación 3 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-epidemias-g3": {
+  "nombre": "Erradicación de endemias",
+  "resumen": "Generación 4 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-epidemias-g4": {
+  "nombre": "Vigilancia epidemiológica",
+  "resumen": "Generación 5 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-epidemias-g5": {
+  "nombre": "Respuesta rápida a brotes",
+  "resumen": "Generación 6 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-epidemias-g6": {
+  "nombre": "Vigilancia genómica de patógenos",
+  "resumen": "Generación 7 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-trauma-g0": {
+  "nombre": "Primeros auxilios",
+  "resumen": "Generación 1 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-trauma-g1": {
+  "nombre": "Clasificación de heridos",
+  "resumen": "Generación 2 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-trauma-g2": {
+  "nombre": "Transfusión y reposición",
+  "resumen": "Generación 3 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-trauma-g3": {
+  "nombre": "Reanimación avanzada",
+  "resumen": "Generación 4 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-trauma-g4": {
+  "nombre": "Control de hemorragias en el punto",
+  "resumen": "Generación 5 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-trauma-g5": {
+  "nombre": "Soporte vital de combate",
+  "resumen": "Generación 6 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-trauma-g6": {
+  "nombre": "Soporte vital prolongado",
+  "resumen": "Generación 7 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-rehabilitacion-g0": {
+  "nombre": "Convalecencia organizada",
+  "resumen": "Generación 1 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-rehabilitacion-g1": {
+  "nombre": "Rehabilitación funcional",
+  "resumen": "Generación 2 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-rehabilitacion-g2": {
+  "nombre": "Prótesis y readaptación",
+  "resumen": "Generación 3 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-rehabilitacion-g3": {
+  "nombre": "Rehabilitación intensiva",
+  "resumen": "Generación 4 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-rehabilitacion-g4": {
+  "nombre": "Prótesis avanzadas",
+  "resumen": "Generación 5 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-rehabilitacion-g5": {
+  "nombre": "Rehabilitación asistida",
+  "resumen": "Generación 6 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-psiquiatria-g0": {
+  "nombre": "Reconocimiento del agotamiento de combate",
+  "resumen": "Generación 1 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-psiquiatria-g1": {
+  "nombre": "Atención de proximidad",
+  "resumen": "Generación 2 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-psiquiatria-g2": {
+  "nombre": "Atención estructurada",
+  "resumen": "Generación 3 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-psiquiatria-g3": {
+  "nombre": "Programas de apoyo continuado",
+  "resumen": "Generación 4 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-psiquiatria-g4": {
+  "nombre": "Atención integrada",
+  "resumen": "Generación 5 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-investigacion-g0": {
+  "nombre": "Laboratorio clínico",
+  "resumen": "Generación 1 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-investigacion-g1": {
+  "nombre": "Investigación biomédica",
+  "resumen": "Generación 2 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-investigacion-g2": {
+  "nombre": "Ensayo clínico controlado",
+  "resumen": "Generación 3 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-investigacion-g3": {
+  "nombre": "Biología molecular aplicada",
+  "resumen": "Generación 4 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-investigacion-g4": {
+  "nombre": "Genómica aplicada",
+  "resumen": "Generación 5 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-med-investigacion-g5": {
+  "nombre": "Biomedicina computacional",
+  "resumen": "Generación 6 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

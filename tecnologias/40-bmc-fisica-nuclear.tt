@@ -1,0 +1,46 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ fisica-nuclear | Física nuclear | #c9b24f
+@@ nuc-reactor | Física de reactores
+bmc-nuc-reactor-g0 | ~1942 | I | Pila experimental | bmc-ind-energia-g1 | Generación 1 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-reactor-g1 | ~1950 | I | Reactor de investigación | bmc-nuc-reactor-g0, bmc-ind-energia-g2 | Generación 2 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-reactor-g2 | ~1960 | I | Reactor de potencia | bmc-nuc-reactor-g1, bmc-ind-energia-g3 | Generación 3 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-reactor-g3 | ~1972 | I | Reactor compacto | bmc-nuc-reactor-g2, bmc-ind-energia-g4 | Generación 4 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-reactor-g4 | ~1990 | I | Reactor de seguridad pasiva | bmc-nuc-reactor-g3, bmc-ind-energia-g5 | Generación 5 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-reactor-g5 | ~2015 | I | Reactor modular | bmc-nuc-reactor-g4, bmc-ind-energia-g6 | Generación 6 de la línea «Física de reactores». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nuc-enriquecimiento | Enriquecimiento
+bmc-nuc-enriquecimiento-g0 | ~1944 | I | Separación electromagnética | bmc-nuc-reactor-g0, bmc-ind-quimica-g2 | Generación 1 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-enriquecimiento-g1 | ~1950 | I | Difusión gaseosa | bmc-nuc-enriquecimiento-g0, bmc-nuc-reactor-g1, bmc-ind-quimica-g2 | Generación 2 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-enriquecimiento-g2 | ~1962 | I | Centrifugación | bmc-nuc-enriquecimiento-g1, bmc-nuc-reactor-g2, bmc-ind-quimica-g3 | Generación 3 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-enriquecimiento-g3 | ~1985 | I | Centrifugación avanzada | bmc-nuc-enriquecimiento-g2, bmc-nuc-reactor-g3, bmc-ind-quimica-g4 | Generación 4 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-enriquecimiento-g4 | ~2005 | I | Separación por láser | bmc-nuc-enriquecimiento-g3, bmc-nuc-reactor-g4, bmc-ind-quimica-g6 | Generación 5 de la línea «Enriquecimiento». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nuc-dispositivo | Dispositivos nucleares
+bmc-nuc-dispositivo-g0 | ~1945 | I | Dispositivo de fisión | bmc-nuc-enriquecimiento-g0 | Generación 1 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-dispositivo-g1 | ~1951 | I | Dispositivo de implosión mejorada | bmc-nuc-dispositivo-g0, bmc-nuc-enriquecimiento-g1 | Generación 2 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-dispositivo-g2 | ~1954 | I | Dispositivo termonuclear | bmc-nuc-dispositivo-g1, bmc-nuc-enriquecimiento-g1 | Generación 3 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-dispositivo-g3 | ~1962 | I | Miniaturización de ojivas | bmc-nuc-dispositivo-g2, bmc-nuc-enriquecimiento-g2 | Generación 4 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-dispositivo-g4 | ~1970 | I | Ojiva de reentrada múltiple | bmc-nuc-dispositivo-g3, bmc-nuc-enriquecimiento-g2 | Generación 5 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-dispositivo-g5 | ~1985 | I | Ojiva de potencia seleccionable | bmc-nuc-dispositivo-g4, bmc-nuc-enriquecimiento-g3 | Generación 6 de la línea «Dispositivos nucleares». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nuc-naval | Propulsión naval nuclear
+bmc-nuc-naval-g0 | ~1954 | I | Reactor naval | bmc-nuc-reactor-g1, bmc-mar-propulsion-g2 | Generación 1 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-naval-g1 | ~1968 | I | Reactor de larga duración | bmc-nuc-naval-g0, bmc-nuc-reactor-g2, bmc-mar-propulsion-g3 | Generación 2 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-naval-g2 | ~1985 | I | Reactor naval silencioso | bmc-nuc-naval-g1, bmc-nuc-reactor-g3, bmc-mar-propulsion-g3 | Generación 3 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-naval-g3 | ~2005 | I | Reactor de vida de casco | bmc-nuc-naval-g2, bmc-nuc-reactor-g4, bmc-mar-propulsion-g4 | Generación 4 de la línea «Propulsión naval nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nuc-custodia | Mando y custodia nuclear
+bmc-nuc-custodia-g0 | ~1950 | I | Custodia centralizada | bmc-nuc-dispositivo-g0, bmc-ele-radio-g3 | Generación 1 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-custodia-g1 | ~1962 | I | Enlace de autorización | bmc-nuc-custodia-g0, bmc-nuc-dispositivo-g3, bmc-ele-radio-g3 | Generación 2 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-custodia-g2 | ~1972 | I | Enlace de acción permisiva | bmc-nuc-custodia-g1, bmc-nuc-dispositivo-g4, bmc-ele-radio-g4 | Generación 3 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-custodia-g3 | ~1988 | I | Mando resistente | bmc-nuc-custodia-g2, bmc-nuc-dispositivo-g5, bmc-ele-radio-g5 | Generación 4 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-custodia-g4 | ~2010 | I | Custodia distribuida | bmc-nuc-custodia-g3, bmc-nuc-dispositivo-g5, bmc-ele-radio-g6 | Generación 5 de la línea «Mando y custodia nuclear». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nuc-verificacion | Verificación y control
+bmc-nuc-verificacion-g0 | ~1958 | I | Detección sísmica de ensayos | bmc-nuc-dispositivo-g0 | Generación 1 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-verificacion-g1 | ~1963 | I | Vigilancia atmosférica | bmc-nuc-verificacion-g0, bmc-nuc-dispositivo-g2 | Generación 2 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-verificacion-g2 | ~1970 | I | Inspección internacional | bmc-nuc-verificacion-g1, bmc-nuc-dispositivo-g3 | Generación 3 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-verificacion-g3 | ~1985 | I | Verificación por satélite | bmc-nuc-verificacion-g2, bmc-nuc-dispositivo-g4 | Generación 4 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nuc-verificacion-g4 | ~2005 | I | Vigilancia continua | bmc-nuc-verificacion-g3, bmc-nuc-dispositivo-g5 | Generación 5 de la línea «Verificación y control». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-segundo-golpe | ~1968 | S | Capacidad de segundo golpe | bmc-nuc-custodia-g1, bmc-mar-submarino-g3 | Aplicación que combina mando y custodia nuclear, submarinos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-triada | ~1970 | S | Tríada estratégica completa | bmc-nuc-dispositivo-g4, bmc-mar-submarino-g4, bmc-air-bombardero-g4 | Aplicación que combina bombardeo estratégico, dispositivos nucleares, submarinos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-reactor-compacto | ~1972 | S | Reactor compacto de propulsión | bmc-nuc-reactor-g3, bmc-nuc-naval-g1 | Aplicación que combina física de reactores, propulsión naval nuclear. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-programa-nuclear | ~1942 | S | Iniciar un programa nuclear | bmc-nuc-reactor-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-renunciar-nuclear | ~1970 | S | Renunciar al arma nuclear | bmc-nuc-verificacion-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

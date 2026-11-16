@@ -1,0 +1,346 @@
+{
+ "bmc-air-aerodinamica-g0": {
+  "nombre": "Ala rígida",
+  "resumen": "Generación 1 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g1": {
+  "nombre": "Monoplano metálico",
+  "resumen": "Generación 2 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g2": {
+  "nombre": "Ala laminar",
+  "resumen": "Generación 3 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g3": {
+  "nombre": "Ala en flecha",
+  "resumen": "Generación 4 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g4": {
+  "nombre": "Ala delta",
+  "resumen": "Generación 5 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g5": {
+  "nombre": "Geometría variable",
+  "resumen": "Generación 6 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g6": {
+  "nombre": "Control artificial de estabilidad",
+  "resumen": "Generación 7 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g7": {
+  "nombre": "Ala adaptativa",
+  "resumen": "Generación 8 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aerodinamica-g8": {
+  "nombre": "Configuración sin cola",
+  "resumen": "Generación 9 de la línea «Aerodinámica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-motor-g0": {
+  "nombre": "Motor de pistón refrigerado",
+  "resumen": "Generación 1 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-motor-g1": {
+  "nombre": "Motor sobrealimentado",
+  "resumen": "Generación 2 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-motor-g2": {
+  "nombre": "Turborreactor",
+  "resumen": "Generación 3 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-motor-g3": {
+  "nombre": "Turbofán",
+  "resumen": "Generación 4 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-motor-g4": {
+  "nombre": "Postcombustión eficiente",
+  "resumen": "Generación 5 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-motor-g5": {
+  "nombre": "Turbofán de alta relación",
+  "resumen": "Generación 6 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-motor-g6": {
+  "nombre": "Motor de ciclo variable",
+  "resumen": "Generación 7 de la línea «Motores aeronáuticos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aa-g0": {
+  "nombre": "Ametralladora sincronizada",
+  "resumen": "Generación 1 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aa-g1": {
+  "nombre": "Cañón de aviación",
+  "resumen": "Generación 2 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aa-g2": {
+  "nombre": "Misil de guía infrarroja",
+  "resumen": "Generación 3 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aa-g3": {
+  "nombre": "Misil de guía radárica",
+  "resumen": "Generación 4 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aa-g4": {
+  "nombre": "Misil de largo alcance",
+  "resumen": "Generación 5 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aa-g5": {
+  "nombre": "Misil de alta maniobrabilidad",
+  "resumen": "Generación 6 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-aa-g6": {
+  "nombre": "Misil de red",
+  "resumen": "Generación 7 de la línea «Munición aire-aire». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-as-g0": {
+  "nombre": "Bomba de caída libre",
+  "resumen": "Generación 1 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-as-g1": {
+  "nombre": "Bomba pesada",
+  "resumen": "Generación 2 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-as-g2": {
+  "nombre": "Bomba planeadora",
+  "resumen": "Generación 3 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-as-g3": {
+  "nombre": "Guiado láser",
+  "resumen": "Generación 4 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-as-g4": {
+  "nombre": "Guiado por satélite",
+  "resumen": "Generación 5 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-as-g5": {
+  "nombre": "Munición de ataque directo",
+  "resumen": "Generación 6 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-as-g6": {
+  "nombre": "Munición merodeadora",
+  "resumen": "Generación 7 de la línea «Munición aire-suelo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-furtividad-g0": {
+  "nombre": "Camuflaje activo",
+  "resumen": "Generación 1 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-furtividad-g1": {
+  "nombre": "Absorción de radar",
+  "resumen": "Generación 2 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-furtividad-g2": {
+  "nombre": "Configuración facetada",
+  "resumen": "Generación 3 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-furtividad-g3": {
+  "nombre": "Configuración continua",
+  "resumen": "Generación 4 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-furtividad-g4": {
+  "nombre": "Gestión de firma completa",
+  "resumen": "Generación 5 de la línea «Firma reducida». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-helicoptero-g0": {
+  "nombre": "Rotor articulado",
+  "resumen": "Generación 1 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-helicoptero-g1": {
+  "nombre": "Helicóptero de transporte",
+  "resumen": "Generación 2 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-helicoptero-g2": {
+  "nombre": "Helicóptero de ataque",
+  "resumen": "Generación 3 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-helicoptero-g3": {
+  "nombre": "Rotor rígido",
+  "resumen": "Generación 4 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-helicoptero-g4": {
+  "nombre": "Rotor basculante",
+  "resumen": "Generación 5 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-helicoptero-g5": {
+  "nombre": "Rotor compuesto de alta velocidad",
+  "resumen": "Generación 6 de la línea «Helicópteros». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-dron-g0": {
+  "nombre": "Blanco radiocontrolado",
+  "resumen": "Generación 1 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-dron-g1": {
+  "nombre": "Dron de reconocimiento",
+  "resumen": "Generación 2 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-dron-g2": {
+  "nombre": "Dron de vigilancia persistente",
+  "resumen": "Generación 3 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-dron-g3": {
+  "nombre": "Dron armado",
+  "resumen": "Generación 4 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-dron-g4": {
+  "nombre": "Dron táctico de bajo coste",
+  "resumen": "Generación 5 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-dron-g5": {
+  "nombre": "Enjambre coordinado",
+  "resumen": "Generación 6 de la línea «Sistemas no tripulados aéreos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-transporte-g0": {
+  "nombre": "Transporte ligero",
+  "resumen": "Generación 1 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-transporte-g1": {
+  "nombre": "Transporte de asalto",
+  "resumen": "Generación 2 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-transporte-g2": {
+  "nombre": "Reabastecimiento en vuelo",
+  "resumen": "Generación 3 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-transporte-g3": {
+  "nombre": "Transporte estratégico",
+  "resumen": "Generación 4 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-transporte-g4": {
+  "nombre": "Transporte de gran capacidad",
+  "resumen": "Generación 5 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-transporte-g5": {
+  "nombre": "Puente aéreo integrado",
+  "resumen": "Generación 6 de la línea «Transporte aéreo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-bombardero-g0": {
+  "nombre": "Bombardero bimotor",
+  "resumen": "Generación 1 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-bombardero-g1": {
+  "nombre": "Bombardero pesado",
+  "resumen": "Generación 2 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-bombardero-g2": {
+  "nombre": "Bombardero de gran altitud",
+  "resumen": "Generación 3 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-bombardero-g3": {
+  "nombre": "Bombardero a reacción",
+  "resumen": "Generación 4 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-bombardero-g4": {
+  "nombre": "Bombardero supersónico",
+  "resumen": "Generación 5 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-bombardero-g5": {
+  "nombre": "Bombardero de firma reducida",
+  "resumen": "Generación 6 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-bombardero-g6": {
+  "nombre": "Plataforma de ataque de largo alcance",
+  "resumen": "Generación 7 de la línea «Bombardeo estratégico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-caza-g0": {
+  "nombre": "Caza biplano",
+  "resumen": "Generación 1 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-caza-g1": {
+  "nombre": "Caza monoplano",
+  "resumen": "Generación 2 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-caza-g2": {
+  "nombre": "Caza a reacción",
+  "resumen": "Generación 3 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-caza-g3": {
+  "nombre": "Caza supersónico",
+  "resumen": "Generación 4 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-caza-g4": {
+  "nombre": "Caza polivalente",
+  "resumen": "Generación 5 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-caza-g5": {
+  "nombre": "Caza de superioridad",
+  "resumen": "Generación 6 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-caza-g6": {
+  "nombre": "Caza de baja observabilidad",
+  "resumen": "Generación 7 de la línea «Caza». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-hipersonico-g0": {
+  "nombre": "Vehículo experimental",
+  "resumen": "Generación 1 de la línea «Vuelo hipersónico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-hipersonico-g1": {
+  "nombre": "Estatorreactor de combustión supersónica",
+  "resumen": "Generación 2 de la línea «Vuelo hipersónico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-air-hipersonico-g2": {
+  "nombre": "Planeador hipersónico",
+  "resumen": "Generación 3 de la línea «Vuelo hipersónico». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-bomba-volante": {
+  "nombre": "Bomba volante propulsada",
+  "resumen": "Aplicación que combina guiado y navegación, motores aeronáuticos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-base-aerea": {
+  "nombre": "Base aérea de despliegue",
+  "resumen": "Aplicación que combina logística terrestre, motores aeronáuticos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-reabastecimiento": {
+  "nombre": "Reabastecimiento en vuelo",
+  "resumen": "Aplicación que combina motores aeronáuticos, transporte aéreo. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-avion-reconocimiento": {
+  "nombre": "Avión de reconocimiento de gran altitud",
+  "resumen": "Aplicación que combina aerodinámica, fotografía y sensores de espionaje, motores aeronáuticos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-helicoptero-ataque": {
+  "nombre": "Helicóptero de ataque",
+  "resumen": "Aplicación que combina armas contracarro, helicópteros. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-misil-crucero": {
+  "nombre": "Misil de crucero",
+  "resumen": "Aplicación que combina guiado y navegación, motores aeronáuticos, munición aire-suelo. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-sead": {
+  "nombre": "Supresión de defensas aéreas",
+  "resumen": "Aplicación que combina guerra electrónica, munición aire-suelo. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-awacs": {
+  "nombre": "Alerta aérea temprana aerotransportada",
+  "resumen": "Aplicación que combina mando y control digital, radar, transporte aéreo. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-caza-superioridad": {
+  "nombre": "Caza de superioridad aérea",
+  "resumen": "Aplicación que combina caza, munición aire-aire, radar. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-bombardero-furtivo": {
+  "nombre": "Bombardero de firma reducida",
+  "resumen": "Aplicación que combina bombardeo estratégico, firma reducida. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-dron-armado": {
+  "nombre": "Dron armado de vigilancia persistente",
+  "resumen": "Aplicación que combina munición aire-suelo, satélites de comunicación, sistemas no tripulados aéreos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-caza-furtivo": {
+  "nombre": "Caza de baja observabilidad",
+  "resumen": "Aplicación que combina caza, firma reducida. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-dron-barato": {
+  "nombre": "Dron táctico de bajo coste",
+  "resumen": "Aplicación que combina computación, sistemas no tripulados aéreos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-hipersonico": {
+  "nombre": "Arma hipersónica de planeo",
+  "resumen": "Aplicación que combina guiado y navegación, vuelo hipersónico. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-laser-defensa": {
+  "nombre": "Defensa de punto por energía dirigida",
+  "resumen": "Aplicación que combina energía dirigida, energía eléctrica. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-enjambre": {
+  "nombre": "Enjambre táctico coordinado",
+  "resumen": "Aplicación que combina inteligencia artificial, sistemas no tripulados aéreos. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

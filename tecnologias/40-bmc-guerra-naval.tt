@@ -1,0 +1,93 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ guerra-naval | Guerra naval | #4f7fa8
+@@ mar-casco | Casco y estructura naval
+bmc-mar-casco-g0 | ~1900 | I | Casco de acero | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-casco-g1 | ~1920 | I | Compartimentación | bmc-mar-casco-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-casco-g2 | ~1940 | I | Casco soldado | bmc-mar-casco-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-casco-g3 | ~1962 | I | Casco de bloques | bmc-mar-casco-g2, bmc-ind-siderurgia-g4 | Generación 4 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-casco-g4 | ~1985 | I | Casco de firma reducida | bmc-mar-casco-g3, bmc-ind-siderurgia-g5 | Generación 5 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-casco-g5 | ~2005 | I | Casco modular | bmc-mar-casco-g4, bmc-ind-siderurgia-g6 | Generación 6 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-casco-g6 | ~2024 | I | Casco compuesto | bmc-mar-casco-g5, bmc-ind-siderurgia-g8 | Generación 7 de la línea «Casco y estructura naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-propulsion | Propulsión naval
+bmc-mar-propulsion-g0 | ~1904 | I | Turbina de vapor | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-propulsion-g1 | ~1930 | I | Caldera de alta presión | bmc-mar-propulsion-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-propulsion-g2 | ~1945 | I | Propulsión diésel | bmc-mar-propulsion-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-propulsion-g3 | ~1968 | I | Turbina de gas | bmc-mar-propulsion-g2, bmc-ind-siderurgia-g4 | Generación 4 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-propulsion-g4 | ~1990 | I | Propulsión integrada eléctrica | bmc-mar-propulsion-g3, bmc-ind-siderurgia-g5 | Generación 5 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-propulsion-g5 | ~2010 | I | Propulsión híbrida | bmc-mar-propulsion-g4, bmc-ind-siderurgia-g7 | Generación 6 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-propulsion-g6 | ~2026 | I | Propulsión silenciosa | bmc-mar-propulsion-g5, bmc-ind-siderurgia-g8 | Generación 7 de la línea «Propulsión naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-sonar | Guerra antisubmarina
+bmc-mar-sonar-g0 | ~1916 | I | Hidrófono | bmc-ele-radio-g0 | Generación 1 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-sonar-g1 | ~1935 | I | Sonar activo | bmc-mar-sonar-g0, bmc-ele-radio-g1, bmc-ele-computacion-g0 | Generación 2 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-sonar-g2 | ~1952 | I | Sonar de casco | bmc-mar-sonar-g1, bmc-ele-radio-g3, bmc-ele-computacion-g1 | Generación 3 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-sonar-g3 | ~1968 | I | Sonar remolcado | bmc-mar-sonar-g2, bmc-ele-radio-g4, bmc-ele-computacion-g3 | Generación 4 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-sonar-g4 | ~1982 | I | Proceso de señal digital | bmc-mar-sonar-g3, bmc-ele-radio-g5, bmc-ele-computacion-g4 | Generación 5 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-sonar-g5 | ~1996 | I | Red de vigilancia submarina | bmc-mar-sonar-g4, bmc-ele-radio-g6, bmc-ele-computacion-g5 | Generación 6 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-sonar-g6 | ~2014 | I | Detección multiestática | bmc-mar-sonar-g5, bmc-ele-radio-g7, bmc-ele-computacion-g7 | Generación 7 de la línea «Guerra antisubmarina». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-artilleria | Artillería naval
+bmc-mar-artilleria-g0 | ~1906 | I | Torre de gran calibre | bmc-tie-canon-g0 | Generación 1 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-artilleria-g1 | ~1925 | I | Dirección de tiro centralizada | bmc-mar-artilleria-g0, bmc-tie-canon-g1 | Generación 2 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-artilleria-g2 | ~1942 | I | Artillería polivalente | bmc-mar-artilleria-g1, bmc-tie-canon-g2 | Generación 3 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-artilleria-g3 | ~1960 | I | Montaje automático | bmc-mar-artilleria-g2, bmc-tie-canon-g3 | Generación 4 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-artilleria-g4 | ~1990 | I | Munición naval guiada | bmc-mar-artilleria-g3, bmc-tie-canon-g5 | Generación 5 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-artilleria-g5 | ~2012 | I | Artillería de apoyo de largo alcance | bmc-mar-artilleria-g4, bmc-tie-canon-g6 | Generación 6 de la línea «Artillería naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-misil | Misil naval
+bmc-mar-misil-g0 | ~1958 | I | Misil antibuque | bmc-coh-solido-g2, bmc-ele-guiado-g1 | Generación 1 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-misil-g1 | ~1980 | I | Lanzamiento vertical | bmc-mar-misil-g0, bmc-coh-solido-g4, bmc-ele-guiado-g3 | Generación 2 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-misil-g2 | ~1988 | I | Misil de crucero embarcado | bmc-mar-misil-g1, bmc-coh-solido-g4, bmc-ele-guiado-g4 | Generación 3 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-misil-g3 | ~2002 | I | Ataque en profundidad desde el mar | bmc-mar-misil-g2, bmc-coh-solido-g5, bmc-ele-guiado-g5 | Generación 4 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-misil-g4 | ~2018 | I | Misil antibuque de largo alcance | bmc-mar-misil-g3, bmc-coh-solido-g6, bmc-ele-guiado-g6 | Generación 5 de la línea «Misil naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-submarino | Submarinos
+bmc-mar-submarino-g0 | ~1912 | I | Submarino de patrulla | bmc-mar-casco-g0, bmc-mar-propulsion-g0 | Generación 1 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-submarino-g1 | ~1940 | I | Submarino oceánico | bmc-mar-submarino-g0, bmc-mar-casco-g2, bmc-mar-propulsion-g1 | Generación 2 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-submarino-g2 | ~1955 | I | Casco hidrodinámico | bmc-mar-submarino-g1, bmc-mar-casco-g2, bmc-mar-propulsion-g2 | Generación 3 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-submarino-g3 | ~1962 | I | Submarino nuclear de ataque | bmc-mar-submarino-g2, bmc-mar-casco-g3, bmc-mar-propulsion-g2 | Generación 4 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-submarino-g4 | ~1970 | I | Submarino lanzamisiles | bmc-mar-submarino-g3, bmc-mar-casco-g3, bmc-mar-propulsion-g3 | Generación 5 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-submarino-g5 | ~1988 | I | Submarino silencioso | bmc-mar-submarino-g4, bmc-mar-casco-g4, bmc-mar-propulsion-g3 | Generación 6 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-submarino-g6 | ~2004 | I | Propulsión independiente del aire | bmc-mar-submarino-g5, bmc-mar-casco-g4, bmc-mar-propulsion-g4 | Generación 7 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-submarino-g7 | ~2026 | I | Submarino no tripulado | bmc-mar-submarino-g6, bmc-mar-casco-g6, bmc-mar-propulsion-g6 | Generación 8 de la línea «Submarinos». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-aeronaval | Aviación embarcada
+bmc-mar-aeronaval-g0 | ~1918 | I | Cubierta de vuelo | bmc-mar-casco-g0, bmc-air-aerodinamica-g0 | Generación 1 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-aeronaval-g1 | ~1936 | I | Portaaviones de escuadra | bmc-mar-aeronaval-g0, bmc-mar-casco-g1, bmc-air-aerodinamica-g1 | Generación 2 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-aeronaval-g2 | ~1952 | I | Cubierta angulada y catapulta | bmc-mar-aeronaval-g1, bmc-mar-casco-g2, bmc-air-aerodinamica-g3 | Generación 3 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-aeronaval-g3 | ~1974 | I | Ala embarcada polivalente | bmc-mar-aeronaval-g2, bmc-mar-casco-g3, bmc-air-aerodinamica-g5 | Generación 4 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-aeronaval-g4 | ~2005 | I | Catapulta electromagnética | bmc-mar-aeronaval-g3, bmc-mar-casco-g5, bmc-air-aerodinamica-g7 | Generación 5 de la línea «Aviación embarcada». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-minas | Minas y contramedidas
+bmc-mar-minas-g0 | ~1904 | I | Mina de contacto | torpedo | Generación 1 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-minas-g1 | ~1939 | I | Mina de influencia | bmc-mar-minas-g0, bmc-mar-sonar-g1 | Generación 2 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-minas-g2 | ~1950 | I | Dragado mecánico | bmc-mar-minas-g1, bmc-mar-sonar-g1 | Generación 3 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-minas-g3 | ~1972 | I | Caza de minas por sonar | bmc-mar-minas-g2, bmc-mar-sonar-g3 | Generación 4 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-minas-g4 | ~1998 | I | Contramedidas no tripuladas | bmc-mar-minas-g3, bmc-mar-sonar-g5 | Generación 5 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-minas-g5 | ~2020 | I | Barrido autónomo | bmc-mar-minas-g4, bmc-mar-sonar-g6 | Generación 6 de la línea «Minas y contramedidas». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-anfibio | Guerra anfibia
+bmc-mar-anfibio-g0 | ~1915 | I | Desembarco por lanchas | bmc-mar-casco-g0 | Generación 1 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-anfibio-g1 | ~1943 | I | Buque de desembarco | bmc-mar-anfibio-g0, bmc-mar-casco-g2, bmc-tie-mecanizacion-g1 | Generación 2 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-anfibio-g2 | ~1960 | I | Asalto vertical | bmc-mar-anfibio-g1, bmc-mar-casco-g2, bmc-tie-mecanizacion-g2 | Generación 3 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-anfibio-g3 | ~1980 | I | Buque de asalto polivalente | bmc-mar-anfibio-g2, bmc-mar-casco-g3, bmc-tie-mecanizacion-g3 | Generación 4 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-anfibio-g4 | ~2000 | I | Desembarco desde el horizonte | bmc-mar-anfibio-g3, bmc-mar-casco-g4, bmc-tie-mecanizacion-g4 | Generación 5 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-anfibio-g5 | ~2022 | I | Asalto distribuido | bmc-mar-anfibio-g4, bmc-mar-casco-g5, bmc-tie-mecanizacion-g5 | Generación 6 de la línea «Guerra anfibia». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-logistica | Logística naval
+bmc-mar-logistica-g0 | ~1900 | I | Carboneras y estaciones | barco-vapor | Generación 1 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-logistica-g1 | ~1940 | I | Reabastecimiento en la mar | bmc-mar-logistica-g0, bmc-mar-casco-g1 | Generación 2 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-logistica-g2 | ~1958 | I | Tren logístico de escuadra | bmc-mar-logistica-g1, bmc-mar-casco-g2 | Generación 3 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-logistica-g3 | ~1978 | I | Buque de apoyo polivalente | bmc-mar-logistica-g2, bmc-mar-casco-g3 | Generación 4 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-logistica-g4 | ~2000 | I | Sostenimiento expedicionario | bmc-mar-logistica-g3, bmc-mar-casco-g4 | Generación 5 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-logistica-g5 | ~2020 | I | Logística naval distribuida | bmc-mar-logistica-g4, bmc-mar-casco-g5 | Generación 6 de la línea «Logística naval». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ mar-patrulla | Patrulla marítima
+bmc-mar-patrulla-g0 | ~1918 | I | Hidroavión de patrulla | casco-acero | Generación 1 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-patrulla-g1 | ~1942 | I | Avión de patrulla de largo alcance | bmc-mar-patrulla-g0, bmc-mar-sonar-g1 | Generación 2 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-patrulla-g2 | ~1958 | I | Patrulla con sonoboyas | bmc-mar-patrulla-g1, bmc-mar-sonar-g2 | Generación 3 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-patrulla-g3 | ~1980 | I | Patrulla con proceso digital | bmc-mar-patrulla-g2, bmc-mar-sonar-g3 | Generación 4 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-mar-patrulla-g4 | ~2010 | I | Patrulla no tripulada | bmc-mar-patrulla-g3, bmc-mar-sonar-g5 | Generación 5 de la línea «Patrulla marítima». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-base-naval | ~1930 | S | Base naval de escuadra | bmc-mar-casco-g1, bmc-tie-logistica-g1 | Aplicación que combina casco y estructura naval, logística terrestre. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-portaaviones | ~1936 | S | Portaaviones de escuadra | bmc-mar-aeronaval-g1, bmc-mar-casco-g1, bmc-mar-propulsion-g1 | Aplicación que combina aviación embarcada, casco y estructura naval, propulsión naval. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-destructor | ~1942 | S | Destructor de escolta | bmc-mar-casco-g2, bmc-mar-propulsion-g1, bmc-mar-sonar-g1 | Aplicación que combina casco y estructura naval, guerra antisubmarina, propulsión naval. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-reabastecedor | ~1958 | S | Buque de reabastecimiento | bmc-mar-logistica-g2, bmc-mar-casco-g2 | Aplicación que combina casco y estructura naval, logística naval. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-submarino-ataque | ~1962 | S | Submarino nuclear de ataque | bmc-mar-submarino-g3, bmc-nuc-naval-g0 | Aplicación que combina propulsión naval nuclear, submarinos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-submarino-estrategico | ~1970 | S | Submarino lanzamisiles | bmc-mar-submarino-g4, bmc-nuc-naval-g1, bmc-coh-solido-g3 | Aplicación que combina cohetería de combustible sólido, propulsión naval nuclear, submarinos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-fragata-asw | ~1970 | S | Fragata antisubmarina | bmc-mar-sonar-g3, bmc-mar-casco-g3, bmc-mar-patrulla-g2 | Aplicación que combina casco y estructura naval, guerra antisubmarina, patrulla marítima. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-cazaminas | ~1972 | S | Cazaminas costero | bmc-mar-minas-g3 | Aplicación que combina minas y contramedidas. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-buque-asalto | ~1980 | S | Buque de asalto anfibio | bmc-mar-anfibio-g3, bmc-air-helicoptero-g2 | Aplicación que combina guerra anfibia, helicópteros. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-crucero-misiles | ~1982 | S | Crucero lanzamisiles | bmc-mar-misil-g1, bmc-ele-radar-g5 | Aplicación que combina misil naval, radar. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-uuv | ~2010 | S | Vehículo submarino no tripulado | bmc-mar-sonar-g5, bmc-inf-ia-g2 | Aplicación que combina guerra antisubmarina, inteligencia artificial. Fecha orientativa, tomada de Blue Marble Crisis. |

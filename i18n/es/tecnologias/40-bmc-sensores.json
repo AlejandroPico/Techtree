@@ -1,0 +1,254 @@
+{
+ "bmc-ele-radio-g0": {
+  "nombre": "Telegrafía sin hilos",
+  "resumen": "Generación 1 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radio-g1": {
+  "nombre": "Radio de válvulas",
+  "resumen": "Generación 2 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radio-g2": {
+  "nombre": "Radio de campaña",
+  "resumen": "Generación 3 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radio-g3": {
+  "nombre": "Enlace por microondas",
+  "resumen": "Generación 4 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radio-g4": {
+  "nombre": "Enlace de datos táctico",
+  "resumen": "Generación 5 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radio-g5": {
+  "nombre": "Salto de frecuencia",
+  "resumen": "Generación 6 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radio-g6": {
+  "nombre": "Enlace de banda ancha",
+  "resumen": "Generación 7 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radio-g7": {
+  "nombre": "Malla resistente",
+  "resumen": "Generación 8 de la línea «Radio y enlace». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g0": {
+  "nombre": "Detección por eco",
+  "resumen": "Generación 1 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g1": {
+  "nombre": "Radar de vigilancia",
+  "resumen": "Generación 2 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g2": {
+  "nombre": "Radar de dirección de tiro",
+  "resumen": "Generación 3 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g3": {
+  "nombre": "Radar Doppler",
+  "resumen": "Generación 4 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g4": {
+  "nombre": "Radar transhorizonte",
+  "resumen": "Generación 5 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g5": {
+  "nombre": "Barrido electrónico pasivo",
+  "resumen": "Generación 6 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g6": {
+  "nombre": "Barrido electrónico activo",
+  "resumen": "Generación 7 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g7": {
+  "nombre": "Radar multifunción",
+  "resumen": "Generación 8 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-radar-g8": {
+  "nombre": "Radar fotónico",
+  "resumen": "Generación 9 de la línea «Radar». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g0": {
+  "nombre": "Calculadora mecánica",
+  "resumen": "Generación 1 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g1": {
+  "nombre": "Computadora de válvulas",
+  "resumen": "Generación 2 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g2": {
+  "nombre": "Transistor",
+  "resumen": "Generación 3 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g3": {
+  "nombre": "Circuito integrado",
+  "resumen": "Generación 4 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g4": {
+  "nombre": "Microprocesador",
+  "resumen": "Generación 5 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g5": {
+  "nombre": "Computación personal",
+  "resumen": "Generación 6 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g6": {
+  "nombre": "Computación paralela",
+  "resumen": "Generación 7 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g7": {
+  "nombre": "Computación distribuida",
+  "resumen": "Generación 8 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-computacion-g8": {
+  "nombre": "Computación de alto rendimiento",
+  "resumen": "Generación 9 de la línea «Computación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-sensores-g0": {
+  "nombre": "Óptica de precisión",
+  "resumen": "Generación 1 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-sensores-g1": {
+  "nombre": "Visión nocturna pasiva",
+  "resumen": "Generación 2 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-sensores-g2": {
+  "nombre": "Infrarrojo de barrido",
+  "resumen": "Generación 3 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-sensores-g3": {
+  "nombre": "Imagen térmica",
+  "resumen": "Generación 4 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-sensores-g4": {
+  "nombre": "Matriz de plano focal",
+  "resumen": "Generación 5 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-sensores-g5": {
+  "nombre": "Imagen multiespectral",
+  "resumen": "Generación 6 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-sensores-g6": {
+  "nombre": "Imagen hiperespectral",
+  "resumen": "Generación 7 de la línea «Sensores ópticos e infrarrojos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guerra-electronica-g0": {
+  "nombre": "Interferencia de barrido",
+  "resumen": "Generación 1 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guerra-electronica-g1": {
+  "nombre": "Contramedidas de ruido",
+  "resumen": "Generación 2 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guerra-electronica-g2": {
+  "nombre": "Engaño electrónico",
+  "resumen": "Generación 3 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guerra-electronica-g3": {
+  "nombre": "Supresión de defensas",
+  "resumen": "Generación 4 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guerra-electronica-g4": {
+  "nombre": "Contramedidas adaptativas",
+  "resumen": "Generación 5 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guerra-electronica-g5": {
+  "nombre": "Ataque electrónico dirigido",
+  "resumen": "Generación 6 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guerra-electronica-g6": {
+  "nombre": "Dominio del espectro",
+  "resumen": "Generación 7 de la línea «Guerra electrónica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g0": {
+  "nombre": "Giróscopo de precisión",
+  "resumen": "Generación 1 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g1": {
+  "nombre": "Guiado inercial",
+  "resumen": "Generación 2 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g2": {
+  "nombre": "Plataforma estabilizada",
+  "resumen": "Generación 3 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g3": {
+  "nombre": "Inercial de anillo láser",
+  "resumen": "Generación 4 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g4": {
+  "nombre": "Guiado por contorno del terreno",
+  "resumen": "Generación 5 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g5": {
+  "nombre": "Guiado por satélite",
+  "resumen": "Generación 6 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g6": {
+  "nombre": "Guiado híbrido",
+  "resumen": "Generación 7 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-guiado-g7": {
+  "nombre": "Navegación sin satélite",
+  "resumen": "Generación 8 de la línea «Guiado y navegación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-optica-g0": {
+  "nombre": "Telémetro óptico",
+  "resumen": "Generación 1 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-optica-g1": {
+  "nombre": "Visor de puntería",
+  "resumen": "Generación 2 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-optica-g2": {
+  "nombre": "Estabilización de línea de mira",
+  "resumen": "Generación 3 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-optica-g3": {
+  "nombre": "Designación láser",
+  "resumen": "Generación 4 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-optica-g4": {
+  "nombre": "Puntería asistida",
+  "resumen": "Generación 5 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-optica-g5": {
+  "nombre": "Puntería automática",
+  "resumen": "Generación 6 de la línea «Óptica y puntería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-inteligencia-g0": {
+  "nombre": "Interceptación de radio",
+  "resumen": "Generación 1 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-inteligencia-g1": {
+  "nombre": "Radiogoniometría",
+  "resumen": "Generación 2 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-inteligencia-g2": {
+  "nombre": "Interceptación a gran escala",
+  "resumen": "Generación 3 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-inteligencia-g3": {
+  "nombre": "Análisis automatizado de tráfico",
+  "resumen": "Generación 4 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-inteligencia-g4": {
+  "nombre": "Interceptación de banda ancha",
+  "resumen": "Generación 5 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-ele-inteligencia-g5": {
+  "nombre": "Análisis masivo",
+  "resumen": "Generación 6 de la línea «Inteligencia de señales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-radar-tactico": {
+  "nombre": "Radar táctico desplegable",
+  "resumen": "Aplicación que combina radar. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-radar-horizonte": {
+  "nombre": "Radar transhorizonte",
+  "resumen": "Aplicación que combina computación, radar. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-red-sensores": {
+  "nombre": "Red de sensores integrada",
+  "resumen": "Aplicación que combina mando y control digital, radar, redes. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

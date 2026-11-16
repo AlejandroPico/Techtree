@@ -1,0 +1,62 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ industria | Industria | #b8804f
+@@ ind-siderurgia | Siderurgia
+bmc-ind-siderurgia-g0 | ~1900 | I | Acero al carbono | siemens-martin | Generación 1 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g1 | ~1918 | I | Acero aleado | bmc-ind-siderurgia-g0 | Generación 2 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g2 | ~1936 | I | Acero de alta resistencia | bmc-ind-siderurgia-g1 | Generación 3 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g3 | ~1948 | I | Aleaciones ligeras | bmc-ind-siderurgia-g2 | Generación 4 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g4 | ~1962 | I | Superaleaciones | bmc-ind-siderurgia-g3 | Generación 5 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g5 | ~1978 | I | Compuestos metálicos | bmc-ind-siderurgia-g4 | Generación 6 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g6 | ~1992 | I | Materiales compuestos avanzados | bmc-ind-siderurgia-g5 | Generación 7 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g7 | ~2008 | I | Compuestos de matriz cerámica | bmc-ind-siderurgia-g6 | Generación 8 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-siderurgia-g8 | ~2022 | I | Metamateriales estructurales | bmc-ind-siderurgia-g7 | Generación 9 de la línea «Siderurgia». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ind-quimica | Química industrial
+bmc-ind-quimica-g0 | ~1905 | I | Química de síntesis | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-quimica-g1 | ~1922 | I | Craqueo del petróleo | bmc-ind-quimica-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-quimica-g2 | ~1938 | I | Polímeros | bmc-ind-quimica-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-quimica-g3 | ~1955 | I | Petroquímica integrada | bmc-ind-quimica-g2, bmc-ind-siderurgia-g3 | Generación 4 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-quimica-g4 | ~1972 | I | Catálisis avanzada | bmc-ind-quimica-g3, bmc-ind-siderurgia-g4 | Generación 5 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-quimica-g5 | ~1988 | I | Química fina | bmc-ind-quimica-g4, bmc-ind-siderurgia-g5 | Generación 6 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-quimica-g6 | ~2004 | I | Química verde | bmc-ind-quimica-g5, bmc-ind-siderurgia-g6 | Generación 7 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-quimica-g7 | ~2020 | I | Síntesis dirigida | bmc-ind-quimica-g6, bmc-ind-siderurgia-g7 | Generación 8 de la línea «Química industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ind-montaje | Líneas de montaje
+bmc-ind-montaje-g0 | ~1908 | I | Producción en cadena | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-montaje-g1 | ~1925 | I | Cadena móvil | bmc-ind-montaje-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-montaje-g2 | ~1940 | I | Producción de guerra | bmc-ind-montaje-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-montaje-g3 | ~1954 | I | Control de calidad estadístico | bmc-ind-montaje-g2, bmc-ind-siderurgia-g3 | Generación 4 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-montaje-g4 | ~1970 | I | Producción ajustada | bmc-ind-montaje-g3, bmc-ind-siderurgia-g4 | Generación 5 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-montaje-g5 | ~1986 | I | Célula flexible | bmc-ind-montaje-g4, bmc-ind-siderurgia-g5 | Generación 6 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-montaje-g6 | ~2002 | I | Fabricación integrada | bmc-ind-montaje-g5, bmc-ind-siderurgia-g6 | Generación 7 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-montaje-g7 | ~2018 | I | Fabricación aditiva | bmc-ind-montaje-g6, bmc-ind-siderurgia-g7 | Generación 8 de la línea «Líneas de montaje». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ind-automatizacion | Automatización
+bmc-ind-automatizacion-g0 | ~1930 | I | Control mecánico | bmc-ind-montaje-g1, bmc-ele-computacion-g0 | Generación 1 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-automatizacion-g1 | ~1948 | I | Control por relés | bmc-ind-automatizacion-g0, bmc-ind-montaje-g2, bmc-ele-computacion-g1 | Generación 2 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-automatizacion-g2 | ~1962 | I | Control numérico | bmc-ind-automatizacion-g1, bmc-ind-montaje-g3, bmc-ele-computacion-g2 | Generación 3 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-automatizacion-g3 | ~1976 | I | Robótica industrial | bmc-ind-automatizacion-g2, bmc-ind-montaje-g4, bmc-ele-computacion-g4 | Generación 4 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-automatizacion-g4 | ~1990 | I | Célula robotizada | bmc-ind-automatizacion-g3, bmc-ind-montaje-g5, bmc-ele-computacion-g5 | Generación 5 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-automatizacion-g5 | ~2006 | I | Planta automatizada | bmc-ind-automatizacion-g4, bmc-ind-montaje-g6, bmc-ele-computacion-g6 | Generación 6 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-automatizacion-g6 | ~2020 | I | Planta autónoma | bmc-ind-automatizacion-g5, bmc-ind-montaje-g7, bmc-ele-computacion-g8 | Generación 7 de la línea «Automatización». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ind-energia | Energía eléctrica
+bmc-ind-energia-g0 | ~1902 | I | Red de corriente alterna | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-energia-g1 | ~1928 | I | Red nacional | bmc-ind-energia-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-energia-g2 | ~1946 | I | Térmica de gran escala | bmc-ind-energia-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-energia-g3 | ~1958 | I | Hidroeléctrica de embalse | bmc-ind-energia-g2, bmc-ind-siderurgia-g3 | Generación 4 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-energia-g4 | ~1970 | I | Nuclear civil | bmc-ind-energia-g3, bmc-ind-siderurgia-g4 | Generación 5 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-energia-g5 | ~1986 | I | Ciclo combinado | bmc-ind-energia-g4, bmc-ind-siderurgia-g5 | Generación 6 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-energia-g6 | ~2004 | I | Renovable a escala | bmc-ind-energia-g5, bmc-ind-siderurgia-g6 | Generación 7 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-energia-g7 | ~2018 | I | Red inteligente | bmc-ind-energia-g6, bmc-ind-siderurgia-g7 | Generación 8 de la línea «Energía eléctrica». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ ind-extraccion | Minería y extracción
+bmc-ind-extraccion-g0 | ~1912 | I | Minería mecanizada | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-extraccion-g1 | ~1930 | I | Perforación rotativa | bmc-ind-extraccion-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-extraccion-g2 | ~1948 | I | Extracción a cielo abierto | bmc-ind-extraccion-g1, bmc-ind-siderurgia-g2 | Generación 3 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-extraccion-g3 | ~1964 | I | Prospección sísmica | bmc-ind-extraccion-g2, bmc-ind-siderurgia-g4 | Generación 4 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-extraccion-g4 | ~1978 | I | Extracción marina | bmc-ind-extraccion-g3, bmc-ind-siderurgia-g4 | Generación 5 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-extraccion-g5 | ~1994 | I | Recuperación asistida | bmc-ind-extraccion-g4, bmc-ind-siderurgia-g6 | Generación 6 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-extraccion-g6 | ~2010 | I | Extracción de tierras raras | bmc-ind-extraccion-g5, bmc-ind-siderurgia-g7 | Generación 7 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-ind-extraccion-g7 | ~2024 | I | Reciclado estratégico | bmc-ind-extraccion-g6, bmc-ind-siderurgia-g8 | Generación 8 de la línea «Minería y extracción». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-produccion-masiva | ~1941 | S | Producción de guerra a gran escala | bmc-ind-montaje-g2, bmc-soc-movilizacion-g1 | Aplicación que combina líneas de montaje, movilización civil. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-complejo-militar | ~1945 | S | Complejo industrial-militar | bmc-eco-industrial-g1, bmc-ind-montaje-g2 | Aplicación que combina líneas de montaje, política industrial. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-autonomia-estrategica | ~2020 | S | Autonomía industrial estratégica | bmc-eco-recursos-g4, bmc-eco-industrial-g5 | Aplicación que combina gestión de recursos estratégicos, política industrial. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-complejo-militar | ~1950 | S | Consolidar el complejo militar-industrial | bmc-app-complejo-militar | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

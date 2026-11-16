@@ -4,9 +4,10 @@ Pizarra de trabajo. Las fases terminadas se eliminan de aquí y quedan en [CHANG
 
 ## Fases pendientes
 
-Objetivo declarado por el propietario: entre 80 y 200 veces el tamaño de la 0.1.0 (70.000–180.000 avances). Estado: 3.779 (×4,2). Ritmo realista de redacción revisada: 1.500–2.500 avances por sesión de trabajo.
+Objetivo declarado por el propietario: entre 80 y 200 veces el tamaño de la 0.1.0 (70.000–180.000 avances). Estado: 4.745 (×5,3). Ritmo realista de redacción revisada: 1.500–2.500 avances por sesión de trabajo.
 
 - **F1 · Densificación del corpus (repetible por ámbito).** Subir cada ámbito a miles de avances con cadenas completas paso a paso. Orden propuesto: metalurgia y electricidad (cadena cobre → hilo → bombilla con todos sus pasos intermedios: tostación, mata, ánodos, hileras, recocidos, aislantes) · materiales (cadena completa del lápiz: madera, sierras, colas, lacas, virola) · química industrial · medicina · informática · transporte · resto.
+- **F1a · Integrar lo importado de Blue Marble Crisis.** (1) Fusionar duplicados con el árbol propio (fusil de cerrojo, submarino nuclear, radar…). (2) Sustituir el resumen genérico por uno real y contrastar fechas. (3) Extender cada familia hacia atrás, milenio a milenio (doctrinas, guerra naval, industria, economía, política, medicina desde la Antigüedad). (4) Revisar `game/data/units/unit_tree.json` del juego: tipos de buque, carro y avión que deben figurar como avances.
 - **F1b · Capa importada de Wikidata (opcional, pendiente de decisión).** Sondeo del 15-11-2026: 3.097 elementos con descubridor/inventor y fecha (sin cuerpos celestes), 8.079 exoplanetas fechados y unos 38.000 objetos de la clase «herramienta» con fecha de creación. Entrarían sin requisitos y marcados «sin revisar».
 - **F2 · Fichas completas.** Imagen por avance (Wikimedia Commons, con licencia y autor), referencias por avance, rango de incertidumbre de las fechas, lugar, e invenciones independientes en varias regiones (hoy cada avance tiene una sola fecha).
 - **F3 · Enciclopedia.** Artículos largos por avance, con diagramas interactivos y animaciones; páginas de ámbito, de periodo y de persona; lectura en voz alta ya disponible.

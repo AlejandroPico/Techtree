@@ -1,0 +1,50 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ contrainteligencia | Contrainteligencia | #8f7f90
+@@ cin-cifrado | Cifrado de las comunicaciones propias
+bmc-cin-cifrado-g0 | ~1900 | I | Cifrado manual de libreta | telegrafo-electrico | Generación 1 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-cifrado-g1 | ~1926 | I | Cifrado por máquina de rotores | bmc-cin-cifrado-g0 | Generación 2 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-cifrado-g2 | ~1944 | I | Cifrado de red de campaña | bmc-cin-cifrado-g1, bmc-inf-criptografia-g1 | Generación 3 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-cifrado-g3 | ~1962 | I | Cifrado electrónico de línea | bmc-cin-cifrado-g2, bmc-inf-criptografia-g1 | Generación 4 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-cifrado-g4 | ~1978 | I | Cifrado de clave pública | bmc-cin-cifrado-g3, bmc-inf-criptografia-g2 | Generación 5 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-cifrado-g5 | ~1999 | I | Cifrado de curva elíptica | bmc-cin-cifrado-g4, bmc-inf-criptografia-g3 | Generación 6 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-cifrado-g6 | ~2014 | I | Cifrado de extremo a extremo generalizado | bmc-cin-cifrado-g5, bmc-inf-criptografia-g4 | Generación 7 de la línea «Cifrado de las comunicaciones propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ cin-personal | Seguridad de personal
+bmc-cin-personal-g0 | ~1901 | I | Juramento de reserva | telegrafo-electrico | Generación 1 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-personal-g1 | ~1918 | I | Clasificación de documentos | bmc-cin-personal-g0, bmc-pol-administracion-g0 | Generación 2 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-personal-g2 | ~1942 | I | Compartimentación por niveles | bmc-cin-personal-g1, bmc-pol-administracion-g1 | Generación 3 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-personal-g3 | ~1955 | I | Habilitación de seguridad | bmc-cin-personal-g2, bmc-pol-administracion-g2 | Generación 4 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-personal-g4 | ~1972 | I | Control de acceso a instalaciones | bmc-cin-personal-g3, bmc-pol-administracion-g3 | Generación 5 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-personal-g5 | ~1995 | I | Revisión periódica de habilitaciones | bmc-cin-personal-g4, bmc-pol-administracion-g5 | Generación 6 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-personal-g6 | ~2015 | I | Acceso de mínimo privilegio | bmc-cin-personal-g5, bmc-pol-administracion-g6 | Generación 7 de la línea «Seguridad de personal». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ cin-deteccion | Detección de intrusos y vigilancia interna
+bmc-cin-deteccion-g0 | ~1910 | I | Servicio de vigilancia interior | bmc-cin-personal-g0 | Generación 1 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-deteccion-g1 | ~1940 | I | Contravigilancia de guerra | bmc-cin-deteccion-g0, bmc-cin-personal-g1, bmc-ele-sensores-g0 | Generación 2 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-deteccion-g2 | ~1958 | I | Detección de escuchas | bmc-cin-deteccion-g1, bmc-cin-personal-g3, bmc-ele-sensores-g1 | Generación 3 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-deteccion-g3 | ~1975 | I | Control técnico de instalaciones | bmc-cin-deteccion-g2, bmc-cin-personal-g4, bmc-ele-sensores-g2 | Generación 4 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-deteccion-g4 | ~1994 | I | Auditoría interna sistemática | bmc-cin-deteccion-g3, bmc-cin-personal-g4, bmc-ele-sensores-g4 | Generación 5 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-deteccion-g5 | ~2012 | I | Detección de anomalías internas | bmc-cin-deteccion-g4, bmc-cin-personal-g5, bmc-ele-sensores-g5 | Generación 6 de la línea «Detección de intrusos y vigilancia interna». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ cin-engano | Desinformación y engaño
+bmc-cin-engano-g0 | ~1907 | I | Rumor dirigido | bmc-pol-propaganda-g0 | Generación 1 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-engano-g1 | ~1917 | I | Engaño operativo | bmc-cin-engano-g0, bmc-soc-informacion-g0, bmc-pol-propaganda-g0 | Generación 2 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-engano-g2 | ~1943 | I | Plan de engaño estratégico | bmc-cin-engano-g1, bmc-soc-informacion-g1, bmc-pol-propaganda-g2 | Generación 3 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-engano-g3 | ~1957 | I | Desinformación de posguerra | bmc-cin-engano-g2, bmc-soc-informacion-g2, bmc-pol-propaganda-g3 | Generación 4 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-engano-g4 | ~1975 | I | Campaña de desinformación sostenida | bmc-cin-engano-g3, bmc-soc-informacion-g3, bmc-pol-propaganda-g4 | Generación 5 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-engano-g5 | ~1995 | I | Desinformación en medios electrónicos | bmc-cin-engano-g4, bmc-soc-informacion-g3, bmc-pol-propaganda-g5 | Generación 6 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-engano-g6 | ~2012 | I | Desinformación en red | bmc-cin-engano-g5, bmc-soc-informacion-g4, bmc-pol-propaganda-g6 | Generación 7 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-engano-g7 | ~2026 | I | Desinformación automatizada | bmc-cin-engano-g6, bmc-soc-informacion-g5, bmc-pol-propaganda-g7 | Generación 8 de la línea «Desinformación y engaño». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ cin-redes | Endurecimiento de redes propias
+bmc-cin-redes-g0 | ~1977 | I | Segregación de redes | bmc-inf-ciberdefensa-g0, bmc-cin-cifrado-g3 | Generación 1 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-redes-g1 | ~1991 | I | Perímetro reforzado | bmc-cin-redes-g0, bmc-inf-ciberdefensa-g1, bmc-cin-cifrado-g4 | Generación 2 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-redes-g2 | ~2001 | I | Supervisión del tráfico interno | bmc-cin-redes-g1, bmc-inf-ciberdefensa-g2, bmc-cin-cifrado-g5 | Generación 3 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-redes-g3 | ~2012 | I | Segmentación estricta | bmc-cin-redes-g2, bmc-inf-ciberdefensa-g3, bmc-cin-cifrado-g5 | Generación 4 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-cin-redes-g4 | ~2021 | I | Arquitectura de confianza cero | bmc-cin-redes-g3, bmc-inf-ciberdefensa-g4, bmc-cin-cifrado-g6 | Generación 5 de la línea «Endurecimiento de redes propias». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-contravigilancia | ~1958 | S | Servicio de contravigilancia | bmc-cin-deteccion-g2, bmc-cin-personal-g3 | Aplicación que combina detección de intrusos y vigilancia interna, seguridad de personal. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-seguridad-comunicaciones | ~1962 | S | Seguridad integral de las comunicaciones | bmc-cin-cifrado-g3, bmc-ele-radio-g3 | Aplicación que combina cifrado de las comunicaciones propias, radio y enlace. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-cifrado-publico | ~1980 | S | Cifrado de clave pública | bmc-cin-cifrado-g4, bmc-inf-criptografia-g3 | Aplicación que combina cifrado de las comunicaciones propias, criptografía. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-confianza-cero | ~2021 | S | Arquitectura de confianza cero | bmc-cin-redes-g4, bmc-inf-ciberdefensa-g4 | Aplicación que combina ciberdefensa, endurecimiento de redes propias. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-habilitaciones | ~1955 | S | Sistema de habilitaciones de seguridad | bmc-cin-personal-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-contravigilancia-estado | ~1958 | S | Implantar la contravigilancia del Estado | bmc-app-contravigilancia | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-cifrado-estatal | ~1962 | S | Cifrar las comunicaciones del Estado | bmc-cin-cifrado-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-auditoria-interna | ~1994 | S | Auditoría interna permanente | bmc-cin-deteccion-g4 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

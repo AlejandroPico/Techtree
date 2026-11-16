@@ -1,0 +1,62 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ sanidad | Medicina y sanidad | #d0707f
+@@ med-cirugia | Cirugía de guerra
+bmc-med-cirugia-g0 | ~1900 | I | Cirugía de campaña | anestesia | Generación 1 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-cirugia-g1 | ~1916 | I | Cirugía de urgencia | bmc-med-cirugia-g0 | Generación 2 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-cirugia-g2 | ~1938 | I | Cirugía reglada de retaguardia | bmc-med-cirugia-g1 | Generación 3 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-cirugia-g3 | ~1955 | I | Cirugía especializada | bmc-med-cirugia-g2 | Generación 4 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-cirugia-g4 | ~1974 | I | Cirugía asistida por imagen | bmc-med-cirugia-g3 | Generación 5 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-cirugia-g5 | ~1992 | I | Cirugía mínimamente invasiva | bmc-med-cirugia-g4 | Generación 6 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-cirugia-g6 | ~2010 | I | Cirugía asistida por robot | bmc-med-cirugia-g5 | Generación 7 de la línea «Cirugía de guerra». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ med-farmacos | Farmacología
+bmc-med-farmacos-g0 | ~1902 | I | Farmacopea básica | aspirina | Generación 1 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-farmacos-g1 | ~1918 | I | Antisépticos de guerra | bmc-med-farmacos-g0, bmc-ind-quimica-g0 | Generación 2 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-farmacos-g2 | ~1943 | I | Antibióticos | bmc-med-farmacos-g1, bmc-ind-quimica-g2 | Generación 3 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-farmacos-g3 | ~1958 | I | Antibióticos de amplio espectro | bmc-med-farmacos-g2, bmc-ind-quimica-g3 | Generación 4 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-farmacos-g4 | ~1976 | I | Farmacología dirigida | bmc-med-farmacos-g3, bmc-ind-quimica-g4 | Generación 5 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-farmacos-g5 | ~1994 | I | Fármacos de síntesis dirigida | bmc-med-farmacos-g4, bmc-ind-quimica-g5 | Generación 6 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-farmacos-g6 | ~2012 | I | Terapias biológicas | bmc-med-farmacos-g5, bmc-ind-quimica-g6 | Generación 7 de la línea «Farmacología». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ med-evacuacion | Evacuación sanitaria
+bmc-med-evacuacion-g0 | ~1901 | I | Camillero y tren sanitario | bmc-tie-logistica-g0 | Generación 1 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-evacuacion-g1 | ~1917 | I | Ambulancia motorizada | bmc-med-evacuacion-g0, bmc-tie-logistica-g0 | Generación 2 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-evacuacion-g2 | ~1940 | I | Evacuación por carretera organizada | bmc-med-evacuacion-g1, bmc-tie-logistica-g1 | Generación 3 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-evacuacion-g3 | ~1953 | I | Evacuación por helicóptero | bmc-med-evacuacion-g2, bmc-tie-logistica-g2 | Generación 4 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-evacuacion-g4 | ~1970 | I | Cadena de evacuación escalonada | bmc-med-evacuacion-g3, bmc-tie-logistica-g3 | Generación 5 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-evacuacion-g5 | ~1990 | I | Evacuación aérea estratégica | bmc-med-evacuacion-g4, bmc-tie-logistica-g4 | Generación 6 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-evacuacion-g6 | ~2012 | I | Evacuación con soporte en ruta | bmc-med-evacuacion-g5, bmc-tie-logistica-g5 | Generación 7 de la línea «Evacuación sanitaria». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ med-epidemias | Salud pública
+bmc-med-epidemias-g0 | ~1900 | I | Higiene de campaña | teoria-germinal | Generación 1 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-epidemias-g1 | ~1922 | I | Vacunación sistemática | bmc-med-epidemias-g0, bmc-soc-sanidad-g0 | Generación 2 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-epidemias-g2 | ~1946 | I | Control epidemiológico | bmc-med-epidemias-g1, bmc-soc-sanidad-g1 | Generación 3 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-epidemias-g3 | ~1965 | I | Erradicación de endemias | bmc-med-epidemias-g2, bmc-soc-sanidad-g2 | Generación 4 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-epidemias-g4 | ~1985 | I | Vigilancia epidemiológica | bmc-med-epidemias-g3, bmc-soc-sanidad-g3 | Generación 5 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-epidemias-g5 | ~2005 | I | Respuesta rápida a brotes | bmc-med-epidemias-g4, bmc-soc-sanidad-g3 | Generación 6 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-epidemias-g6 | ~2024 | I | Vigilancia genómica de patógenos | bmc-med-epidemias-g5, bmc-soc-sanidad-g5 | Generación 7 de la línea «Salud pública». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ med-trauma | Atención al herido
+bmc-med-trauma-g0 | ~1900 | I | Primeros auxilios | bmc-med-cirugia-g0 | Generación 1 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-trauma-g1 | ~1915 | I | Clasificación de heridos | bmc-med-trauma-g0, bmc-med-cirugia-g0 | Generación 2 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-trauma-g2 | ~1939 | I | Transfusión y reposición | bmc-med-trauma-g1, bmc-med-cirugia-g2 | Generación 3 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-trauma-g3 | ~1962 | I | Reanimación avanzada | bmc-med-trauma-g2, bmc-med-cirugia-g3 | Generación 4 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-trauma-g4 | ~1985 | I | Control de hemorragias en el punto | bmc-med-trauma-g3, bmc-med-cirugia-g4 | Generación 5 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-trauma-g5 | ~2004 | I | Soporte vital de combate | bmc-med-trauma-g4, bmc-med-cirugia-g5 | Generación 6 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-trauma-g6 | ~2026 | I | Soporte vital prolongado | bmc-med-trauma-g5, bmc-med-cirugia-g6 | Generación 7 de la línea «Atención al herido». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ med-rehabilitacion | Rehabilitación
+bmc-med-rehabilitacion-g0 | ~1904 | I | Convalecencia organizada | bmc-med-trauma-g0 | Generación 1 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-rehabilitacion-g1 | ~1920 | I | Rehabilitación funcional | bmc-med-rehabilitacion-g0, bmc-med-trauma-g1 | Generación 2 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-rehabilitacion-g2 | ~1946 | I | Prótesis y readaptación | bmc-med-rehabilitacion-g1, bmc-med-trauma-g2 | Generación 3 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-rehabilitacion-g3 | ~1968 | I | Rehabilitación intensiva | bmc-med-rehabilitacion-g2, bmc-med-trauma-g3 | Generación 4 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-rehabilitacion-g4 | ~1992 | I | Prótesis avanzadas | bmc-med-rehabilitacion-g3, bmc-med-trauma-g4 | Generación 5 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-rehabilitacion-g5 | ~2014 | I | Rehabilitación asistida | bmc-med-rehabilitacion-g4, bmc-med-trauma-g5 | Generación 6 de la línea «Rehabilitación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ med-psiquiatria | Salud mental
+bmc-med-psiquiatria-g0 | ~1917 | I | Reconocimiento del agotamiento de combate | bmc-soc-sanidad-g0 | Generación 1 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-psiquiatria-g1 | ~1943 | I | Atención de proximidad | bmc-med-psiquiatria-g0, bmc-soc-sanidad-g1 | Generación 2 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-psiquiatria-g2 | ~1965 | I | Atención estructurada | bmc-med-psiquiatria-g1, bmc-soc-sanidad-g2 | Generación 3 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-psiquiatria-g3 | ~1988 | I | Programas de apoyo continuado | bmc-med-psiquiatria-g2, bmc-soc-sanidad-g3 | Generación 4 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-psiquiatria-g4 | ~2010 | I | Atención integrada | bmc-med-psiquiatria-g3, bmc-soc-sanidad-g4 | Generación 5 de la línea «Salud mental». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ med-investigacion | Investigación biomédica
+bmc-med-investigacion-g0 | ~1908 | I | Laboratorio clínico | bmc-soc-investigacion-g0 | Generación 1 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-investigacion-g1 | ~1936 | I | Investigación biomédica | bmc-med-investigacion-g0, bmc-soc-investigacion-g1 | Generación 2 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-investigacion-g2 | ~1958 | I | Ensayo clínico controlado | bmc-med-investigacion-g1, bmc-soc-investigacion-g2, bmc-bio-biotecnologia-g0 | Generación 3 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-investigacion-g3 | ~1978 | I | Biología molecular aplicada | bmc-med-investigacion-g2, bmc-soc-investigacion-g3, bmc-bio-biotecnologia-g1 | Generación 4 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-investigacion-g4 | ~1998 | I | Genómica aplicada | bmc-med-investigacion-g3, bmc-soc-investigacion-g4, bmc-bio-biotecnologia-g2 | Generación 5 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-med-investigacion-g5 | ~2018 | I | Biomedicina computacional | bmc-med-investigacion-g4, bmc-soc-investigacion-g5, bmc-bio-biotecnologia-g3 | Generación 6 de la línea «Investigación biomédica». Fecha orientativa, tomada de Blue Marble Crisis. |

@@ -1,0 +1,318 @@
+{
+ "bmc-tie-infanteria-g0": {
+  "nombre": "Fusil de cerrojo",
+  "resumen": "Generación 1 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-infanteria-g1": {
+  "nombre": "Fusil semiautomático",
+  "resumen": "Generación 2 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-infanteria-g2": {
+  "nombre": "Fusil de asalto",
+  "resumen": "Generación 3 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-infanteria-g3": {
+  "nombre": "Equipo individual integrado",
+  "resumen": "Generación 4 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-infanteria-g4": {
+  "nombre": "Protección balística ligera",
+  "resumen": "Generación 5 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-infanteria-g5": {
+  "nombre": "Soldado en red",
+  "resumen": "Generación 6 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-infanteria-g6": {
+  "nombre": "Equipo asistido",
+  "resumen": "Generación 7 de la línea «Equipo de infantería». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-blindaje-g0": {
+  "nombre": "Blindaje remachado",
+  "resumen": "Generación 1 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-blindaje-g1": {
+  "nombre": "Blindaje soldado",
+  "resumen": "Generación 2 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-blindaje-g2": {
+  "nombre": "Blindaje inclinado",
+  "resumen": "Generación 3 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-blindaje-g3": {
+  "nombre": "Blindaje compuesto",
+  "resumen": "Generación 4 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-blindaje-g4": {
+  "nombre": "Blindaje reactivo",
+  "resumen": "Generación 5 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-blindaje-g5": {
+  "nombre": "Protección activa",
+  "resumen": "Generación 6 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-blindaje-g6": {
+  "nombre": "Protección multicapa",
+  "resumen": "Generación 7 de la línea «Blindaje». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-canon-g0": {
+  "nombre": "Cañón de retroceso",
+  "resumen": "Generación 1 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-canon-g1": {
+  "nombre": "Obús de campaña",
+  "resumen": "Generación 2 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-canon-g2": {
+  "nombre": "Cañón antitanque",
+  "resumen": "Generación 3 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-canon-g3": {
+  "nombre": "Cañón de ánima lisa",
+  "resumen": "Generación 4 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-canon-g4": {
+  "nombre": "Munición de energía cinética",
+  "resumen": "Generación 5 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-canon-g5": {
+  "nombre": "Munición guiada de artillería",
+  "resumen": "Generación 6 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-canon-g6": {
+  "nombre": "Cañón de largo alcance",
+  "resumen": "Generación 7 de la línea «Artillería de tubo». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-cohete-g0": {
+  "nombre": "Cohete de saturación",
+  "resumen": "Generación 1 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-cohete-g1": {
+  "nombre": "Lanzacohetes múltiple",
+  "resumen": "Generación 2 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-cohete-g2": {
+  "nombre": "Cohete de largo alcance",
+  "resumen": "Generación 3 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-cohete-g3": {
+  "nombre": "Lanzador modular",
+  "resumen": "Generación 4 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-cohete-g4": {
+  "nombre": "Cohete guiado de saturación",
+  "resumen": "Generación 5 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-cohete-g5": {
+  "nombre": "Fuego de precisión en profundidad",
+  "resumen": "Generación 6 de la línea «Artillería de cohetes». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-mecanizacion-g0": {
+  "nombre": "Tracción mecánica",
+  "resumen": "Generación 1 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-mecanizacion-g1": {
+  "nombre": "Vehículo de cadenas",
+  "resumen": "Generación 2 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-mecanizacion-g2": {
+  "nombre": "Transporte blindado",
+  "resumen": "Generación 3 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-mecanizacion-g3": {
+  "nombre": "Vehículo de combate de infantería",
+  "resumen": "Generación 4 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-mecanizacion-g4": {
+  "nombre": "Plataforma modular",
+  "resumen": "Generación 5 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-mecanizacion-g5": {
+  "nombre": "Vehículo en red",
+  "resumen": "Generación 6 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-mecanizacion-g6": {
+  "nombre": "Vehículo opcionalmente tripulado",
+  "resumen": "Generación 7 de la línea «Mecanización». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-ingenieria-g0": {
+  "nombre": "Fortificación de campaña",
+  "resumen": "Generación 1 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-ingenieria-g1": {
+  "nombre": "Puente móvil",
+  "resumen": "Generación 2 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-ingenieria-g2": {
+  "nombre": "Desminado mecanizado",
+  "resumen": "Generación 3 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-ingenieria-g3": {
+  "nombre": "Ingeniería de asalto",
+  "resumen": "Generación 4 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-ingenieria-g4": {
+  "nombre": "Movilidad asistida",
+  "resumen": "Generación 5 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-ingenieria-g5": {
+  "nombre": "Ingeniería robotizada",
+  "resumen": "Generación 6 de la línea «Ingeniería de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-antiaerea-g0": {
+  "nombre": "Cañón antiaéreo",
+  "resumen": "Generación 1 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-antiaerea-g1": {
+  "nombre": "Dirección de tiro antiaérea",
+  "resumen": "Generación 2 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-antiaerea-g2": {
+  "nombre": "Misil antiaéreo",
+  "resumen": "Generación 3 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-antiaerea-g3": {
+  "nombre": "Antiaérea móvil",
+  "resumen": "Generación 4 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-antiaerea-g4": {
+  "nombre": "Defensa de punto",
+  "resumen": "Generación 5 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-antiaerea-g5": {
+  "nombre": "Defensa en capas",
+  "resumen": "Generación 6 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-antiaerea-g6": {
+  "nombre": "Defensa contra saturación",
+  "resumen": "Generación 7 de la línea «Defensa antiaérea de campaña». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-logistica-g0": {
+  "nombre": "Ferrocarril militar",
+  "resumen": "Generación 1 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-logistica-g1": {
+  "nombre": "Transporte motorizado",
+  "resumen": "Generación 2 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-logistica-g2": {
+  "nombre": "Cadena de suministro",
+  "resumen": "Generación 3 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-logistica-g3": {
+  "nombre": "Contenedorización",
+  "resumen": "Generación 4 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-logistica-g4": {
+  "nombre": "Logística informatizada",
+  "resumen": "Generación 5 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-logistica-g5": {
+  "nombre": "Logística predictiva",
+  "resumen": "Generación 6 de la línea «Logística terrestre». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-especiales-g0": {
+  "nombre": "Tropas de asalto",
+  "resumen": "Generación 1 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-especiales-g1": {
+  "nombre": "Comandos",
+  "resumen": "Generación 2 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-especiales-g2": {
+  "nombre": "Fuerzas aerotransportadas",
+  "resumen": "Generación 3 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-especiales-g3": {
+  "nombre": "Operaciones especiales permanentes",
+  "resumen": "Generación 4 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-especiales-g4": {
+  "nombre": "Acción directa de precisión",
+  "resumen": "Generación 5 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-especiales-g5": {
+  "nombre": "Operaciones de bajo perfil",
+  "resumen": "Generación 6 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-especiales-g6": {
+  "nombre": "Fuerzas integradas multidominio",
+  "resumen": "Generación 7 de la línea «Fuerzas especiales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-atgm-g0": {
+  "nombre": "Fusil antitanque",
+  "resumen": "Generación 1 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-atgm-g1": {
+  "nombre": "Carga hueca portátil",
+  "resumen": "Generación 2 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-atgm-g2": {
+  "nombre": "Misil contracarro guiado",
+  "resumen": "Generación 3 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-atgm-g3": {
+  "nombre": "Guía semiautomática",
+  "resumen": "Generación 4 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-atgm-g4": {
+  "nombre": "Dispara y olvida",
+  "resumen": "Generación 5 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-atgm-g5": {
+  "nombre": "Ataque por el techo",
+  "resumen": "Generación 6 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-tie-atgm-g6": {
+  "nombre": "Contracarro de infantería ligera",
+  "resumen": "Generación 7 de la línea «Armas contracarro». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-misil-corto": {
+  "nombre": "Cohete balístico de campaña",
+  "resumen": "Aplicación que combina cohetería de combustible líquido, guiado y navegación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-fusil-asalto": {
+  "nombre": "Fusil de asalto de dotación",
+  "resumen": "Aplicación que combina equipo de infantería, líneas de montaje. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-lanzacohetes": {
+  "nombre": "Lanzacohetes múltiple de saturación",
+  "resumen": "Aplicación que combina artillería de cohetes, mecanización. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-misil-tactico": {
+  "nombre": "Misil balístico táctico",
+  "resumen": "Aplicación que combina cohetería de combustible sólido, guiado y navegación. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-artilleria-autopropulsada": {
+  "nombre": "Artillería autopropulsada",
+  "resumen": "Aplicación que combina artillería de tubo, mecanización. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-puente-asalto": {
+  "nombre": "Puente de asalto mecanizado",
+  "resumen": "Aplicación que combina ingeniería de campaña, mecanización. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-carro-principal": {
+  "nombre": "Carro de combate principal",
+  "resumen": "Aplicación que combina artillería de tubo, blindaje, mecanización. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-vci": {
+  "nombre": "Vehículo de combate de infantería",
+  "resumen": "Aplicación que combina armas contracarro, mecanización. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-antiaerea-movil": {
+  "nombre": "Sistema antiaéreo móvil",
+  "resumen": "Aplicación que combina defensa antiaérea de campaña, radar. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-bateria-antimisil": {
+  "nombre": "Batería antimisil de teatro",
+  "resumen": "Aplicación que combina computación, defensa antiaérea de campaña, radar. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-contrabateria": {
+  "nombre": "Radar de contrabatería",
+  "resumen": "Aplicación que combina computación, radar. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-soldado-red": {
+  "nombre": "Soldado en red",
+  "resumen": "Aplicación que combina equipo de infantería, mando y control digital. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

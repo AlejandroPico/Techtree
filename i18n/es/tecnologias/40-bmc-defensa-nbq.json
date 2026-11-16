@@ -1,0 +1,98 @@
+{
+ "bmc-nbq-deteccion-g0": {
+  "nombre": "Detección química de campaña",
+  "resumen": "Generación 1 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-deteccion-g1": {
+  "nombre": "Detección por papel reactivo",
+  "resumen": "Generación 2 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-deteccion-g2": {
+  "nombre": "Espectrometría de campaña",
+  "resumen": "Generación 3 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-deteccion-g3": {
+  "nombre": "Detección a distancia",
+  "resumen": "Generación 4 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-deteccion-g4": {
+  "nombre": "Detección biológica rápida",
+  "resumen": "Generación 5 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-deteccion-g5": {
+  "nombre": "Vigilancia ambiental continua",
+  "resumen": "Generación 6 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-proteccion-g0": {
+  "nombre": "Máscara de filtro",
+  "resumen": "Generación 1 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-proteccion-g1": {
+  "nombre": "Traje protector",
+  "resumen": "Generación 2 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-proteccion-g2": {
+  "nombre": "Sobrepresión en vehículo",
+  "resumen": "Generación 3 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-proteccion-g3": {
+  "nombre": "Descontaminación de campaña",
+  "resumen": "Generación 4 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-proteccion-g4": {
+  "nombre": "Protección permeable ligera",
+  "resumen": "Generación 5 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-proteccion-g5": {
+  "nombre": "Protección integrada",
+  "resumen": "Generación 6 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-medica-g0": {
+  "nombre": "Antídoto de campaña",
+  "resumen": "Generación 1 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-medica-g1": {
+  "nombre": "Profilaxis masiva",
+  "resumen": "Generación 2 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-medica-g2": {
+  "nombre": "Vacuna de respuesta rápida",
+  "resumen": "Generación 3 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-medica-g3": {
+  "nombre": "Producción de vacuna a escala",
+  "resumen": "Generación 4 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-medica-g4": {
+  "nombre": "Plataforma de respuesta en semanas",
+  "resumen": "Generación 5 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-agentes-g0": {
+  "nombre": "Agente químico de guerra",
+  "resumen": "Generación 1 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-agentes-g1": {
+  "nombre": "Agente persistente",
+  "resumen": "Generación 2 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-agentes-g2": {
+  "nombre": "Agente de acción rápida",
+  "resumen": "Generación 3 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-nbq-agentes-g3": {
+  "nombre": "Agente binario",
+  "resumen": "Generación 4 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-arma-quimica": {
+  "nombre": "Cabeza química",
+  "resumen": "Aplicación que combina agentes químicos y biológicos, cohetería de combustible sólido. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-arma-biologica": {
+  "nombre": "Cabeza biológica",
+  "resumen": "Aplicación que combina agentes químicos y biológicos, cohetería de combustible sólido. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-prohibir-quimicas": {
+  "nombre": "Renunciar a las armas químicas",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

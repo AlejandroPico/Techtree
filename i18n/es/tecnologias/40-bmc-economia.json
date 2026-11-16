@@ -1,0 +1,266 @@
+{
+ "bmc-eco-banca-g0": {
+  "nombre": "Banca comercial",
+  "resumen": "Generación 1 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-banca-g1": {
+  "nombre": "Banco central moderno",
+  "resumen": "Generación 2 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-banca-g2": {
+  "nombre": "Banca de inversión",
+  "resumen": "Generación 3 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-banca-g3": {
+  "nombre": "Banca internacional",
+  "resumen": "Generación 4 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-banca-g4": {
+  "nombre": "Banca electrónica",
+  "resumen": "Generación 5 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-banca-g5": {
+  "nombre": "Pagos instantáneos",
+  "resumen": "Generación 6 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-fiscalidad-g0": {
+  "nombre": "Impuesto sobre la renta",
+  "resumen": "Generación 1 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-fiscalidad-g1": {
+  "nombre": "Recaudación centralizada",
+  "resumen": "Generación 2 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-fiscalidad-g2": {
+  "nombre": "Impuesto sobre el valor añadido",
+  "resumen": "Generación 3 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-fiscalidad-g3": {
+  "nombre": "Administración tributaria informatizada",
+  "resumen": "Generación 4 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-fiscalidad-g4": {
+  "nombre": "Fiscalidad internacional",
+  "resumen": "Generación 5 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-fiscalidad-g5": {
+  "nombre": "Fiscalidad de datos",
+  "resumen": "Generación 6 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-comercio-g0": {
+  "nombre": "Comercio bilateral",
+  "resumen": "Generación 1 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-comercio-g1": {
+  "nombre": "Acuerdos arancelarios",
+  "resumen": "Generación 2 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-comercio-g2": {
+  "nombre": "Zona de libre comercio",
+  "resumen": "Generación 3 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-comercio-g3": {
+  "nombre": "Cadena de valor global",
+  "resumen": "Generación 4 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-comercio-g4": {
+  "nombre": "Comercio digital",
+  "resumen": "Generación 5 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-comercio-g5": {
+  "nombre": "Comercio resiliente",
+  "resumen": "Generación 6 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-capital-g0": {
+  "nombre": "Bolsa de valores",
+  "resumen": "Generación 1 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-capital-g1": {
+  "nombre": "Mercado de deuda pública",
+  "resumen": "Generación 2 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-capital-g2": {
+  "nombre": "Mercado de derivados",
+  "resumen": "Generación 3 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-capital-g3": {
+  "nombre": "Mercado electrónico",
+  "resumen": "Generación 4 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-capital-g4": {
+  "nombre": "Negociación algorítmica",
+  "resumen": "Generación 5 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-planificacion-g0": {
+  "nombre": "Plan quinquenal",
+  "resumen": "Generación 1 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-planificacion-g1": {
+  "nombre": "Asignación centralizada",
+  "resumen": "Generación 2 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-planificacion-g2": {
+  "nombre": "Planificación sectorial",
+  "resumen": "Generación 3 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-planificacion-g3": {
+  "nombre": "Planificación asistida por cálculo",
+  "resumen": "Generación 4 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-planificacion-g4": {
+  "nombre": "Planificación indicativa",
+  "resumen": "Generación 5 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-industrial-g0": {
+  "nombre": "Fomento arancelario",
+  "resumen": "Generación 1 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-industrial-g1": {
+  "nombre": "Complejo industrial dirigido",
+  "resumen": "Generación 2 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-industrial-g2": {
+  "nombre": "Reconversión de posguerra",
+  "resumen": "Generación 3 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-industrial-g3": {
+  "nombre": "Campeones nacionales",
+  "resumen": "Generación 4 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-industrial-g4": {
+  "nombre": "Política de innovación",
+  "resumen": "Generación 5 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-industrial-g5": {
+  "nombre": "Autonomía estratégica",
+  "resumen": "Generación 6 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-infraestructura-g0": {
+  "nombre": "Red ferroviaria",
+  "resumen": "Generación 1 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-infraestructura-g1": {
+  "nombre": "Red de carreteras",
+  "resumen": "Generación 2 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-infraestructura-g2": {
+  "nombre": "Autopistas",
+  "resumen": "Generación 3 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-infraestructura-g3": {
+  "nombre": "Contenedor intermodal",
+  "resumen": "Generación 4 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-infraestructura-g4": {
+  "nombre": "Alta velocidad",
+  "resumen": "Generación 5 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-infraestructura-g5": {
+  "nombre": "Corredores logísticos",
+  "resumen": "Generación 6 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-recursos-g0": {
+  "nombre": "Reserva estratégica",
+  "resumen": "Generación 1 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-recursos-g1": {
+  "nombre": "Racionamiento",
+  "resumen": "Generación 2 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-recursos-g2": {
+  "nombre": "Acuerdos de suministro",
+  "resumen": "Generación 3 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-recursos-g3": {
+  "nombre": "Diversificación de proveedores",
+  "resumen": "Generación 4 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-recursos-g4": {
+  "nombre": "Reservas críticas",
+  "resumen": "Generación 5 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-eco-recursos-g5": {
+  "nombre": "Cadena de suministro segura",
+  "resumen": "Generación 6 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-emitir-deuda": {
+  "nombre": "Emitir deuda pública",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-aranceles": {
+  "nombre": "Elevar los aranceles",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-aislamiento": {
+  "nombre": "Cerrar el país al exterior",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-apertura": {
+  "nombre": "Abrir el país al exterior",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-subir-impuestos": {
+  "nombre": "Elevar la presión fiscal",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-bajar-impuestos": {
+  "nombre": "Aliviar la presión fiscal",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-economia-guerra": {
+  "nombre": "Declarar la economía de guerra",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-plan-quinquenal": {
+  "nombre": "Aprobar un plan quinquenal",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-reserva-estrategica": {
+  "nombre": "Constituir reserva estratégica",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-presupuesto-ciencia": {
+  "nombre": "Ampliar el presupuesto de ciencia",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-devaluar": {
+  "nombre": "Devaluar la moneda",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-austeridad": {
+  "nombre": "Programa de austeridad",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-embargo": {
+  "nombre": "Declarar embargo comercial",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-gasto-contraciclico": {
+  "nombre": "Gasto contracíclico",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-nacionalizar": {
+  "nombre": "Nacionalizar un sector estratégico",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-abrir-comercio": {
+  "nombre": "Abrir el comercio exterior",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-reconversion": {
+  "nombre": "Reconversión industrial",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-acuerdo-suministro": {
+  "nombre": "Asegurar el suministro estratégico",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-mercado-capital": {
+  "nombre": "Liberalizar el mercado de capitales",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-privatizar": {
+  "nombre": "Privatizar un sector público",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

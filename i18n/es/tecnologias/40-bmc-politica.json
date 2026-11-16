@@ -1,0 +1,222 @@
+{
+ "bmc-pol-administracion-g0": {
+  "nombre": "Administración de notables",
+  "resumen": "Generación 1 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-administracion-g1": {
+  "nombre": "Función pública profesional",
+  "resumen": "Generación 2 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-administracion-g2": {
+  "nombre": "Administración de guerra",
+  "resumen": "Generación 3 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-administracion-g3": {
+  "nombre": "Administración de bienestar",
+  "resumen": "Generación 4 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-administracion-g4": {
+  "nombre": "Administración descentralizada",
+  "resumen": "Generación 5 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-administracion-g5": {
+  "nombre": "Administración informatizada",
+  "resumen": "Generación 6 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-administracion-g6": {
+  "nombre": "Administración digital",
+  "resumen": "Generación 7 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-administracion-g7": {
+  "nombre": "Administración basada en datos",
+  "resumen": "Generación 8 de la línea «Administración del Estado». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g0": {
+  "nombre": "Prensa afín",
+  "resumen": "Generación 1 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g1": {
+  "nombre": "Oficina de propaganda de guerra",
+  "resumen": "Generación 2 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g2": {
+  "nombre": "Propaganda radiofónica",
+  "resumen": "Generación 3 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g3": {
+  "nombre": "Propaganda de masas",
+  "resumen": "Generación 4 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g4": {
+  "nombre": "Propaganda televisada",
+  "resumen": "Generación 5 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g5": {
+  "nombre": "Sondeo de opinión pública",
+  "resumen": "Generación 6 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g6": {
+  "nombre": "Comunicación política segmentada",
+  "resumen": "Generación 7 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-propaganda-g7": {
+  "nombre": "Comunicación política automatizada",
+  "resumen": "Generación 8 de la línea «Propaganda y opinión pública». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-partidos-g0": {
+  "nombre": "Notables y clientelas",
+  "resumen": "Generación 1 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-partidos-g1": {
+  "nombre": "Partido de masas",
+  "resumen": "Generación 2 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-partidos-g2": {
+  "nombre": "Partido único",
+  "resumen": "Generación 3 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-partidos-g3": {
+  "nombre": "Sistema de partidos estable",
+  "resumen": "Generación 4 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-partidos-g4": {
+  "nombre": "Representación proporcional consolidada",
+  "resumen": "Generación 5 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-partidos-g5": {
+  "nombre": "Financiación regulada de partidos",
+  "resumen": "Generación 6 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-partidos-g6": {
+  "nombre": "Participación digital",
+  "resumen": "Generación 7 de la línea «Partidos y representación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g0": {
+  "nombre": "Policía gubernativa",
+  "resumen": "Generación 1 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g1": {
+  "nombre": "Orden público de emergencia",
+  "resumen": "Generación 2 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g2": {
+  "nombre": "Policía política",
+  "resumen": "Generación 3 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g3": {
+  "nombre": "Orden público de posguerra",
+  "resumen": "Generación 4 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g4": {
+  "nombre": "Policía de proximidad",
+  "resumen": "Generación 5 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g5": {
+  "nombre": "Gestión de concentraciones masivas",
+  "resumen": "Generación 6 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g6": {
+  "nombre": "Orden público con medios técnicos",
+  "resumen": "Generación 7 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-orden-g7": {
+  "nombre": "Gestión de crisis internas",
+  "resumen": "Generación 8 de la línea «Control interno y orden público». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-diplomacia-g0": {
+  "nombre": "Legaciones y cancillerías",
+  "resumen": "Generación 1 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-diplomacia-g1": {
+  "nombre": "Servicio exterior profesional",
+  "resumen": "Generación 2 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-diplomacia-g2": {
+  "nombre": "Diplomacia cultural",
+  "resumen": "Generación 3 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-diplomacia-g3": {
+  "nombre": "Diplomacia pública",
+  "resumen": "Generación 4 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-diplomacia-g4": {
+  "nombre": "Influencia mediante ayuda exterior",
+  "resumen": "Generación 5 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-diplomacia-g5": {
+  "nombre": "Influencia en foros multilaterales",
+  "resumen": "Generación 6 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-pol-diplomacia-g6": {
+  "nombre": "Influencia exterior en red",
+  "resumen": "Generación 7 de la línea «Diplomacia pública e influencia exterior». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-control-interno": {
+  "nombre": "Aparato de control interno",
+  "resumen": "Aplicación que combina control interno y orden público, seguridad de personal. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-guerra-politica": {
+  "nombre": "Guerra política",
+  "resumen": "Aplicación que combina desinformación y engaño, propaganda y opinión pública, red de informadores. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-sondeo-opinion": {
+  "nombre": "Sondeo permanente de opinión",
+  "resumen": "Aplicación que combina medios y opinión, propaganda y opinión pública. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-servicio-exterior": {
+  "nombre": "Servicio exterior de influencia",
+  "resumen": "Aplicación que combina administración del estado, diplomacia pública e influencia exterior. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-administracion-digital": {
+  "nombre": "Administración digital del Estado",
+  "resumen": "Aplicación que combina administración del estado, tratamiento de datos. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-campana-propaganda": {
+  "nombre": "Campaña de propaganda de Estado",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-estado-excepcion": {
+  "nombre": "Declarar el estado de excepción",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-partido-unico": {
+  "nombre": "Instaurar el partido único",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-purga-interna": {
+  "nombre": "Depuración interna del aparato del Estado",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-policia-politica": {
+  "nombre": "Crear una policía política",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-ley-secretos": {
+  "nombre": "Ley de secretos oficiales",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-apertura-politica": {
+  "nombre": "Apertura política",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-elecciones-libres": {
+  "nombre": "Convocar elecciones libres",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-reforma-administrativa": {
+  "nombre": "Reforma de la administración",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-descentralizar": {
+  "nombre": "Descentralizar la administración",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-desclasificar": {
+  "nombre": "Desclasificar los archivos del Estado",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-influencia-exterior": {
+  "nombre": "Programa de influencia exterior",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

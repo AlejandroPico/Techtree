@@ -1,0 +1,77 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ economia | Economía | #b0a04f
+@@ eco-banca | Banca
+bmc-eco-banca-g0 | ~1900 | I | Banca comercial | banca-deposito | Generación 1 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-banca-g1 | ~1920 | I | Banco central moderno | bmc-eco-banca-g0 | Generación 2 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-banca-g2 | ~1945 | I | Banca de inversión | bmc-eco-banca-g1 | Generación 3 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-banca-g3 | ~1970 | I | Banca internacional | bmc-eco-banca-g2 | Generación 4 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-banca-g4 | ~1995 | I | Banca electrónica | bmc-eco-banca-g3 | Generación 5 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-banca-g5 | ~2015 | I | Pagos instantáneos | bmc-eco-banca-g4 | Generación 6 de la línea «Banca». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ eco-fiscalidad | Fiscalidad
+bmc-eco-fiscalidad-g0 | ~1913 | I | Impuesto sobre la renta | bmc-eco-banca-g0 | Generación 1 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-fiscalidad-g1 | ~1935 | I | Recaudación centralizada | bmc-eco-fiscalidad-g0, bmc-eco-banca-g1 | Generación 2 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-fiscalidad-g2 | ~1958 | I | Impuesto sobre el valor añadido | bmc-eco-fiscalidad-g1, bmc-eco-banca-g2 | Generación 3 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-fiscalidad-g3 | ~1980 | I | Administración tributaria informatizada | bmc-eco-fiscalidad-g2, bmc-eco-banca-g3 | Generación 4 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-fiscalidad-g4 | ~2005 | I | Fiscalidad internacional | bmc-eco-fiscalidad-g3, bmc-eco-banca-g4 | Generación 5 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-fiscalidad-g5 | ~2022 | I | Fiscalidad de datos | bmc-eco-fiscalidad-g4, bmc-eco-banca-g5 | Generación 6 de la línea «Fiscalidad». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ eco-comercio | Comercio exterior
+bmc-eco-comercio-g0 | ~1900 | I | Comercio bilateral | bmc-eco-banca-g0 | Generación 1 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-comercio-g1 | ~1947 | I | Acuerdos arancelarios | bmc-eco-comercio-g0, bmc-eco-banca-g2 | Generación 2 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-comercio-g2 | ~1965 | I | Zona de libre comercio | bmc-eco-comercio-g1, bmc-eco-banca-g2 | Generación 3 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-comercio-g3 | ~1990 | I | Cadena de valor global | bmc-eco-comercio-g2, bmc-eco-banca-g3 | Generación 4 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-comercio-g4 | ~2010 | I | Comercio digital | bmc-eco-comercio-g3, bmc-eco-banca-g4 | Generación 5 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-comercio-g5 | ~2024 | I | Comercio resiliente | bmc-eco-comercio-g4, bmc-eco-banca-g5 | Generación 6 de la línea «Comercio exterior». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ eco-capital | Mercados de capital
+bmc-eco-capital-g0 | ~1900 | I | Bolsa de valores | bmc-eco-banca-g0 | Generación 1 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-capital-g1 | ~1930 | I | Mercado de deuda pública | bmc-eco-capital-g0, bmc-eco-banca-g1 | Generación 2 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-capital-g2 | ~1975 | I | Mercado de derivados | bmc-eco-capital-g1, bmc-eco-banca-g3 | Generación 3 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-capital-g3 | ~1995 | I | Mercado electrónico | bmc-eco-capital-g2, bmc-eco-banca-g4 | Generación 4 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-capital-g4 | ~2010 | I | Negociación algorítmica | bmc-eco-capital-g3, bmc-eco-banca-g4 | Generación 5 de la línea «Mercados de capital». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ eco-planificacion | Planificación económica
+bmc-eco-planificacion-g0 | ~1928 | I | Plan quinquenal | bmc-eco-fiscalidad-g0 | Generación 1 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-planificacion-g1 | ~1945 | I | Asignación centralizada | bmc-eco-planificacion-g0, bmc-eco-fiscalidad-g1 | Generación 2 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-planificacion-g2 | ~1960 | I | Planificación sectorial | bmc-eco-planificacion-g1, bmc-eco-fiscalidad-g2 | Generación 3 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-planificacion-g3 | ~1975 | I | Planificación asistida por cálculo | bmc-eco-planificacion-g2, bmc-eco-fiscalidad-g2 | Generación 4 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-planificacion-g4 | ~1990 | I | Planificación indicativa | bmc-eco-planificacion-g3, bmc-eco-fiscalidad-g3 | Generación 5 de la línea «Planificación económica». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ eco-industrial | Política industrial
+bmc-eco-industrial-g0 | ~1900 | I | Fomento arancelario | riqueza-naciones | Generación 1 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-industrial-g1 | ~1938 | I | Complejo industrial dirigido | bmc-eco-industrial-g0, bmc-eco-fiscalidad-g1, bmc-ind-montaje-g1 | Generación 2 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-industrial-g2 | ~1950 | I | Reconversión de posguerra | bmc-eco-industrial-g1, bmc-eco-fiscalidad-g1, bmc-ind-montaje-g2 | Generación 3 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-industrial-g3 | ~1970 | I | Campeones nacionales | bmc-eco-industrial-g2, bmc-eco-fiscalidad-g2, bmc-ind-montaje-g4 | Generación 4 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-industrial-g4 | ~1995 | I | Política de innovación | bmc-eco-industrial-g3, bmc-eco-fiscalidad-g3, bmc-ind-montaje-g5 | Generación 5 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-industrial-g5 | ~2020 | I | Autonomía estratégica | bmc-eco-industrial-g4, bmc-eco-fiscalidad-g4, bmc-ind-montaje-g7 | Generación 6 de la línea «Política industrial». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ eco-infraestructura | Infraestructura de transporte
+bmc-eco-infraestructura-g0 | ~1900 | I | Red ferroviaria | bmc-ind-siderurgia-g0 | Generación 1 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-infraestructura-g1 | ~1930 | I | Red de carreteras | bmc-eco-infraestructura-g0, bmc-ind-siderurgia-g1 | Generación 2 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-infraestructura-g2 | ~1950 | I | Autopistas | bmc-eco-infraestructura-g1, bmc-ind-siderurgia-g3 | Generación 3 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-infraestructura-g3 | ~1968 | I | Contenedor intermodal | bmc-eco-infraestructura-g2, bmc-ind-siderurgia-g4 | Generación 4 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-infraestructura-g4 | ~1985 | I | Alta velocidad | bmc-eco-infraestructura-g3, bmc-ind-siderurgia-g5 | Generación 5 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-infraestructura-g5 | ~2010 | I | Corredores logísticos | bmc-eco-infraestructura-g4, bmc-ind-siderurgia-g7 | Generación 6 de la línea «Infraestructura de transporte». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ eco-recursos | Gestión de recursos estratégicos
+bmc-eco-recursos-g0 | ~1930 | I | Reserva estratégica | bmc-eco-comercio-g0 | Generación 1 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-recursos-g1 | ~1940 | I | Racionamiento | bmc-eco-recursos-g0, bmc-eco-comercio-g0 | Generación 2 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-recursos-g2 | ~1960 | I | Acuerdos de suministro | bmc-eco-recursos-g1, bmc-eco-comercio-g1 | Generación 3 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-recursos-g3 | ~1980 | I | Diversificación de proveedores | bmc-eco-recursos-g2, bmc-eco-comercio-g2 | Generación 4 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-recursos-g4 | ~2005 | I | Reservas críticas | bmc-eco-recursos-g3, bmc-eco-comercio-g3 | Generación 5 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-eco-recursos-g5 | ~2022 | I | Cadena de suministro segura | bmc-eco-recursos-g4, bmc-eco-comercio-g4 | Generación 6 de la línea «Gestión de recursos estratégicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-emitir-deuda | ~1900 | S | Emitir deuda pública | bmc-eco-banca-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-aranceles | ~1900 | S | Elevar los aranceles | bmc-eco-comercio-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-aislamiento | ~1900 | S | Cerrar el país al exterior | banco-central | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-apertura | ~1900 | S | Abrir el país al exterior | banco-central | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-subir-impuestos | ~1913 | S | Elevar la presión fiscal | bmc-eco-fiscalidad-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-bajar-impuestos | ~1913 | S | Aliviar la presión fiscal | bmc-eco-fiscalidad-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-economia-guerra | ~1917 | S | Declarar la economía de guerra | bmc-soc-movilizacion-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-plan-quinquenal | ~1928 | S | Aprobar un plan quinquenal | bmc-eco-planificacion-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-reserva-estrategica | ~1930 | S | Constituir reserva estratégica | bmc-eco-recursos-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-presupuesto-ciencia | ~1930 | S | Ampliar el presupuesto de ciencia | bmc-soc-investigacion-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-devaluar | ~1931 | S | Devaluar la moneda | bmc-eco-banca-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-austeridad | ~1935 | S | Programa de austeridad | bmc-eco-fiscalidad-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-embargo | ~1935 | S | Declarar embargo comercial | bmc-eco-comercio-g0 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-gasto-contraciclico | ~1936 | S | Gasto contracíclico | bmc-eco-fiscalidad-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-nacionalizar | ~1938 | S | Nacionalizar un sector estratégico | bmc-eco-industrial-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-abrir-comercio | ~1947 | S | Abrir el comercio exterior | bmc-eco-comercio-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-reconversion | ~1950 | S | Reconversión industrial | bmc-eco-industrial-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-acuerdo-suministro | ~1960 | S | Asegurar el suministro estratégico | bmc-eco-recursos-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-mercado-capital | ~1975 | S | Liberalizar el mercado de capitales | bmc-eco-capital-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-privatizar | ~1979 | S | Privatizar un sector público | bmc-eco-capital-g2 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

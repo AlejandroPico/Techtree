@@ -1,0 +1,326 @@
+{
+ "bmc-soc-educacion-g0": {
+  "nombre": "Alfabetización general",
+  "resumen": "Generación 1 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-educacion-g1": {
+  "nombre": "Escolarización obligatoria",
+  "resumen": "Generación 2 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-educacion-g2": {
+  "nombre": "Enseñanza técnica",
+  "resumen": "Generación 3 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-educacion-g3": {
+  "nombre": "Universidad de masas",
+  "resumen": "Generación 4 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-educacion-g4": {
+  "nombre": "Formación continua",
+  "resumen": "Generación 5 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-educacion-g5": {
+  "nombre": "Educación digital",
+  "resumen": "Generación 6 de la línea «Educación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-sanidad-g0": {
+  "nombre": "Higiene pública",
+  "resumen": "Generación 1 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-sanidad-g1": {
+  "nombre": "Antibióticos",
+  "resumen": "Generación 2 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-sanidad-g2": {
+  "nombre": "Sanidad universal",
+  "resumen": "Generación 3 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-sanidad-g3": {
+  "nombre": "Diagnóstico por imagen",
+  "resumen": "Generación 4 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-sanidad-g4": {
+  "nombre": "Medicina de precisión",
+  "resumen": "Generación 5 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-sanidad-g5": {
+  "nombre": "Sanidad preventiva de datos",
+  "resumen": "Generación 6 de la línea «Sanidad». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-medios-g0": {
+  "nombre": "Prensa de masas",
+  "resumen": "Generación 1 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-medios-g1": {
+  "nombre": "Radiodifusión",
+  "resumen": "Generación 2 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-medios-g2": {
+  "nombre": "Televisión",
+  "resumen": "Generación 3 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-medios-g3": {
+  "nombre": "Televisión por satélite",
+  "resumen": "Generación 4 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-medios-g4": {
+  "nombre": "Medios en red",
+  "resumen": "Generación 5 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-medios-g5": {
+  "nombre": "Medios personalizados",
+  "resumen": "Generación 6 de la línea «Medios y opinión». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-movilizacion-g0": {
+  "nombre": "Servicio militar general",
+  "resumen": "Generación 1 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-movilizacion-g1": {
+  "nombre": "Economía de guerra",
+  "resumen": "Generación 2 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-movilizacion-g2": {
+  "nombre": "Movilización total",
+  "resumen": "Generación 3 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-movilizacion-g3": {
+  "nombre": "Reserva profesional",
+  "resumen": "Generación 4 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-movilizacion-g4": {
+  "nombre": "Movilización selectiva",
+  "resumen": "Generación 5 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-movilizacion-g5": {
+  "nombre": "Resiliencia civil",
+  "resumen": "Generación 6 de la línea «Movilización civil». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-servicios-g0": {
+  "nombre": "Seguro obrero",
+  "resumen": "Generación 1 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-servicios-g1": {
+  "nombre": "Pensiones públicas",
+  "resumen": "Generación 2 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-servicios-g2": {
+  "nombre": "Estado de bienestar",
+  "resumen": "Generación 3 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-servicios-g3": {
+  "nombre": "Servicios universales",
+  "resumen": "Generación 4 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-servicios-g4": {
+  "nombre": "Renta y transferencias",
+  "resumen": "Generación 5 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-servicios-g5": {
+  "nombre": "Servicios digitales",
+  "resumen": "Generación 6 de la línea «Servicios sociales». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-derechos-g0": {
+  "nombre": "Sufragio ampliado",
+  "resumen": "Generación 1 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-derechos-g1": {
+  "nombre": "Derechos laborales",
+  "resumen": "Generación 2 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-derechos-g2": {
+  "nombre": "Igualdad ante la ley",
+  "resumen": "Generación 3 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-derechos-g3": {
+  "nombre": "Derechos de minorías",
+  "resumen": "Generación 4 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-derechos-g4": {
+  "nombre": "Protección de datos personales",
+  "resumen": "Generación 5 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-derechos-g5": {
+  "nombre": "Derechos digitales",
+  "resumen": "Generación 6 de la línea «Derechos civiles». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-bio-biotecnologia-g0": {
+  "nombre": "Cultivo industrial",
+  "resumen": "Generación 1 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-bio-biotecnologia-g1": {
+  "nombre": "Ingeniería genética",
+  "resumen": "Generación 2 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-bio-biotecnologia-g2": {
+  "nombre": "Secuenciación",
+  "resumen": "Generación 3 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-bio-biotecnologia-g3": {
+  "nombre": "Edición genética",
+  "resumen": "Generación 4 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-bio-biotecnologia-g4": {
+  "nombre": "Biología sintética",
+  "resumen": "Generación 5 de la línea «Biotecnología». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-investigacion-g0": {
+  "nombre": "Academia nacional",
+  "resumen": "Generación 1 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-investigacion-g1": {
+  "nombre": "Laboratorio estatal",
+  "resumen": "Generación 2 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-investigacion-g2": {
+  "nombre": "Complejo científico-militar",
+  "resumen": "Generación 3 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-investigacion-g3": {
+  "nombre": "Agencia de proyectos avanzados",
+  "resumen": "Generación 4 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-investigacion-g4": {
+  "nombre": "Investigación público-privada",
+  "resumen": "Generación 5 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-investigacion-g5": {
+  "nombre": "Red internacional de investigación",
+  "resumen": "Generación 6 de la línea «Instituciones de investigación». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-informacion-g0": {
+  "nombre": "Propaganda de guerra",
+  "resumen": "Generación 1 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-informacion-g1": {
+  "nombre": "Radio exterior",
+  "resumen": "Generación 2 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-informacion-g2": {
+  "nombre": "Guerra psicológica",
+  "resumen": "Generación 3 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-informacion-g3": {
+  "nombre": "Diplomacia pública",
+  "resumen": "Generación 4 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-informacion-g4": {
+  "nombre": "Influencia en redes",
+  "resumen": "Generación 5 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-informacion-g5": {
+  "nombre": "Influencia automatizada",
+  "resumen": "Generación 6 de la línea «Operaciones de información». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-urbanismo-g0": {
+  "nombre": "Saneamiento urbano",
+  "resumen": "Generación 1 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-urbanismo-g1": {
+  "nombre": "Vivienda social",
+  "resumen": "Generación 2 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-urbanismo-g2": {
+  "nombre": "Planificación urbana",
+  "resumen": "Generación 3 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-urbanismo-g3": {
+  "nombre": "Transporte metropolitano",
+  "resumen": "Generación 4 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-urbanismo-g4": {
+  "nombre": "Ciudad eficiente",
+  "resumen": "Generación 5 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-soc-urbanismo-g5": {
+  "nombre": "Ciudad instrumentada",
+  "resumen": "Generación 6 de la línea «Infraestructura urbana». Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-defensa-civil": {
+  "nombre": "Defensa civil",
+  "resumen": "Aplicación que combina movilización civil, protección nbq. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-app-vacunacion-masiva": {
+  "nombre": "Capacidad de respuesta sanitaria masiva",
+  "resumen": "Aplicación que combina biotecnología, contramedidas médicas. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-servicio-militar": {
+  "nombre": "Implantar el servicio militar obligatorio",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-ley-marcial": {
+  "nombre": "Declarar la ley marcial",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-censura": {
+  "nombre": "Establecer la censura de prensa",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-propaganda": {
+  "nombre": "Campaña de propaganda",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-libertad-prensa": {
+  "nombre": "Garantizar la libertad de prensa",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-sufragio": {
+  "nombre": "Ampliar el sufragio",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-escolarizacion": {
+  "nombre": "Escolarización obligatoria",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-vivienda": {
+  "nombre": "Plan público de vivienda",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-pensiones": {
+  "nombre": "Establecer pensiones públicas",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-formacion-tecnica": {
+  "nombre": "Plan de formación técnica",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-movilizacion-total": {
+  "nombre": "Ordenar la movilización total",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-fuga-cerebros": {
+  "nombre": "Captar investigación extranjera",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-secreto-industrial": {
+  "nombre": "Blindar la investigación militar",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-defensa-civil": {
+  "nombre": "Organizar la defensa civil",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-sanidad-universal": {
+  "nombre": "Implantar la sanidad universal",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-agencia-avanzada": {
+  "nombre": "Crear una agencia de proyectos avanzados",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-suprimir-servicio": {
+  "nombre": "Suprimir el servicio militar obligatorio",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-reserva-profesional": {
+  "nombre": "Profesionalizar la reserva",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-diplomacia-publica": {
+  "nombre": "Diplomacia pública",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ },
+ "bmc-act-proteccion-datos": {
+  "nombre": "Proteger los datos personales",
+  "resumen": "Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis."
+ }
+}

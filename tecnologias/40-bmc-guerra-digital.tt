@@ -1,0 +1,71 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ guerra-digital | Informática y guerra digital | #5f8fd3
+@@ inf-redes | Redes
+bmc-inf-redes-g0 | ~1940 | I | Conmutación de circuitos | bmc-ele-computacion-g0 | Generación 1 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-redes-g1 | ~1969 | I | Conmutación de paquetes | bmc-inf-redes-g0, bmc-ele-computacion-g3 | Generación 2 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-redes-g2 | ~1980 | I | Red de área extensa | bmc-inf-redes-g1, bmc-ele-computacion-g4 | Generación 3 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-redes-g3 | ~1990 | I | Interconexión abierta | bmc-inf-redes-g2, bmc-ele-computacion-g5 | Generación 4 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-redes-g4 | ~2000 | I | Red de banda ancha | bmc-inf-redes-g3, bmc-ele-computacion-g6 | Generación 5 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-redes-g5 | ~2014 | I | Red definida por software | bmc-inf-redes-g4, bmc-ele-computacion-g7 | Generación 6 de la línea «Redes». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ inf-criptografia | Criptografía
+bmc-inf-criptografia-g0 | ~1926 | I | Cifrado de rotor | maquina-enigma | Generación 1 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-criptografia-g1 | ~1941 | I | Criptoanálisis mecanizado | bmc-inf-criptografia-g0, bmc-ele-computacion-g0, bmc-inf-redes-g0 | Generación 2 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-criptografia-g2 | ~1974 | I | Cifrado por bloques | bmc-inf-criptografia-g1, bmc-ele-computacion-g3, bmc-inf-redes-g1 | Generación 3 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-criptografia-g3 | ~1978 | I | Clave pública | bmc-inf-criptografia-g2, bmc-ele-computacion-g4, bmc-inf-redes-g1 | Generación 4 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-criptografia-g4 | ~1998 | I | Curva elíptica | bmc-inf-criptografia-g3, bmc-ele-computacion-g6, bmc-inf-redes-g3 | Generación 5 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-criptografia-g5 | ~2014 | I | Cifrado homomórfico | bmc-inf-criptografia-g4, bmc-ele-computacion-g7, bmc-inf-redes-g4 | Generación 6 de la línea «Criptografía». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ inf-ciberdefensa | Ciberdefensa
+bmc-inf-ciberdefensa-g0 | ~1975 | I | Control de acceso | bmc-inf-redes-g1, bmc-inf-criptografia-g2 | Generación 1 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberdefensa-g1 | ~1990 | I | Cortafuegos | bmc-inf-ciberdefensa-g0, bmc-inf-redes-g3, bmc-inf-criptografia-g3 | Generación 2 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberdefensa-g2 | ~1999 | I | Detección de intrusiones | bmc-inf-ciberdefensa-g1, bmc-inf-redes-g3, bmc-inf-criptografia-g4 | Generación 3 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberdefensa-g3 | ~2010 | I | Respuesta automatizada | bmc-inf-ciberdefensa-g2, bmc-inf-redes-g4, bmc-inf-criptografia-g4 | Generación 4 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberdefensa-g4 | ~2020 | I | Arquitectura de confianza cero | bmc-inf-ciberdefensa-g3, bmc-inf-redes-g5, bmc-inf-criptografia-g5 | Generación 5 de la línea «Ciberdefensa». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ inf-ciberataque | Operaciones digitales ofensivas
+bmc-inf-ciberataque-g0 | ~1985 | I | Intrusión oportunista | bmc-inf-redes-g2, bmc-inf-criptografia-g3 | Generación 1 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberataque-g1 | ~1998 | I | Explotación dirigida | bmc-inf-ciberataque-g0, bmc-inf-redes-g3, bmc-inf-criptografia-g4 | Generación 2 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberataque-g2 | ~2008 | I | Persistencia en red ajena | bmc-inf-ciberataque-g1, bmc-inf-redes-g4, bmc-inf-criptografia-g4 | Generación 3 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberataque-g3 | ~2015 | I | Sabotaje de sistemas industriales | bmc-inf-ciberataque-g2, bmc-inf-redes-g5, bmc-inf-criptografia-g5 | Generación 4 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ciberataque-g4 | ~2024 | I | Campaña sostenida | bmc-inf-ciberataque-g3, bmc-inf-redes-g5, bmc-inf-criptografia-g5 | Generación 5 de la línea «Operaciones digitales ofensivas». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ inf-ia | Inteligencia artificial
+bmc-inf-ia-g0 | ~1972 | I | Sistemas expertos | bmc-ele-computacion-g3 | Generación 1 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ia-g1 | ~1988 | I | Redes neuronales | bmc-inf-ia-g0, bmc-ele-computacion-g5 | Generación 2 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ia-g2 | ~2000 | I | Aprendizaje estadístico | bmc-inf-ia-g1, bmc-ele-computacion-g6 | Generación 3 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ia-g3 | ~2012 | I | Aprendizaje profundo | bmc-inf-ia-g2, bmc-ele-computacion-g7 | Generación 4 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-ia-g4 | ~2020 | I | Modelos de gran escala | bmc-inf-ia-g3, bmc-ele-computacion-g8 | Generación 5 de la línea «Inteligencia artificial». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ inf-mando | Mando y control digital
+bmc-inf-mando-g0 | ~1944 | I | Centro de operaciones | bmc-ele-computacion-g0, bmc-ele-radio-g2 | Generación 1 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-mando-g1 | ~1962 | I | Mando automatizado | bmc-inf-mando-g0, bmc-ele-computacion-g2, bmc-ele-radio-g3 | Generación 2 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-mando-g2 | ~1980 | I | Imagen única de situación | bmc-inf-mando-g1, bmc-ele-computacion-g4, bmc-ele-radio-g5 | Generación 3 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-mando-g3 | ~1996 | I | Mando en red | bmc-inf-mando-g2, bmc-ele-computacion-g6, bmc-ele-radio-g6 | Generación 4 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-mando-g4 | ~2012 | I | Fusión multidominio | bmc-inf-mando-g3, bmc-ele-computacion-g7, bmc-ele-radio-g7 | Generación 5 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-mando-g5 | ~2026 | I | Mando asistido | bmc-inf-mando-g4, bmc-ele-computacion-g8, bmc-ele-radio-g7 | Generación 6 de la línea «Mando y control digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ doc-ciber | Doctrina digital
+bmc-doc-ciber-g0 | ~1950 | I | Seguridad de las comunicaciones | tabuladora | Generación 1 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-ciber-g1 | ~1990 | I | Guerra de la información | bmc-doc-ciber-g0, bmc-inf-ciberdefensa-g1 | Generación 2 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-ciber-g2 | ~2005 | I | Operaciones en el ciberespacio | bmc-doc-ciber-g1, bmc-inf-ciberdefensa-g2 | Generación 3 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-doc-ciber-g3 | ~2018 | I | Defensa activa en red | bmc-doc-ciber-g2, bmc-inf-ciberdefensa-g3 | Generación 4 de la línea «Doctrina digital». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ inf-datos | Tratamiento de datos
+bmc-inf-datos-g0 | ~1900 | I | Tarjeta perforada | tabuladora | Generación 1 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-datos-g1 | ~1955 | I | Proceso por lotes | bmc-inf-datos-g0, bmc-ele-computacion-g1 | Generación 2 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-datos-g2 | ~1975 | I | Base de datos relacional | bmc-inf-datos-g1, bmc-ele-computacion-g3 | Generación 3 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-datos-g3 | ~1992 | I | Almacén de datos | bmc-inf-datos-g2, bmc-ele-computacion-g5 | Generación 4 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-datos-g4 | ~2008 | I | Datos masivos | bmc-inf-datos-g3, bmc-ele-computacion-g6 | Generación 5 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-datos-g5 | ~2020 | I | Tratamiento en tiempo real | bmc-inf-datos-g4, bmc-ele-computacion-g7 | Generación 6 de la línea «Tratamiento de datos». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ inf-simulacion | Simulación
+bmc-inf-simulacion-g0 | ~1900 | I | Juego de mesa de estado mayor | tabuladora | Generación 1 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-simulacion-g1 | ~1950 | I | Simulación analógica | bmc-inf-simulacion-g0, bmc-ele-computacion-g0 | Generación 2 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-simulacion-g2 | ~1968 | I | Simulación por computador | bmc-inf-simulacion-g1, bmc-ele-computacion-g2 | Generación 3 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-simulacion-g3 | ~1988 | I | Adiestramiento sintético | bmc-inf-simulacion-g2, bmc-ele-computacion-g4 | Generación 4 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-simulacion-g4 | ~2004 | I | Simulación distribuida | bmc-inf-simulacion-g3, bmc-ele-computacion-g6 | Generación 5 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-inf-simulacion-g5 | ~2020 | I | Gemelo digital | bmc-inf-simulacion-g4, bmc-ele-computacion-g7 | Generación 6 de la línea «Simulación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-ciber-mando | ~2005 | S | Mando de operaciones digitales | bmc-inf-ciberataque-g1, bmc-doc-ciber-g2 | Aplicación que combina doctrina digital, operaciones digitales ofensivas. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-fusion-datos | ~2012 | S | Fusión de datos multidominio | bmc-inf-mando-g4, bmc-inf-ia-g3, bmc-inf-datos-g4 | Aplicación que combina inteligencia artificial, mando y control digital, tratamiento de datos. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-defensa-infra | ~2012 | S | Protección de infraestructura crítica | bmc-inf-ciberdefensa-g3, bmc-ind-energia-g6 | Aplicación que combina ciberdefensa, energía eléctrica. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-ciber-infra | ~2015 | S | Sabotaje de infraestructura crítica | bmc-inf-ciberataque-g3, bmc-inf-redes-g4 | Aplicación que combina operaciones digitales ofensivas, redes. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-apagon | ~2016 | S | Negación de la red eléctrica | bmc-inf-ciberataque-g3, bmc-ind-energia-g6 | Aplicación que combina energía eléctrica, operaciones digitales ofensivas. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-ciber-sanidad | ~2018 | S | Interrupción de servicios esenciales | bmc-inf-ciberataque-g3, bmc-soc-sanidad-g4 | Aplicación que combina operaciones digitales ofensivas, sanidad. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-ia-mando | ~2026 | S | Apoyo a la decisión asistido | bmc-inf-ia-g4, bmc-inf-simulacion-g5 | Aplicación que combina inteligencia artificial, simulación. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-vigilancia-masiva | ~2008 | S | Implantar la vigilancia masiva | bmc-inf-datos-g4 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-act-influencia-redes | ~2010 | S | Operación de influencia en red | bmc-soc-informacion-g4 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

@@ -1,0 +1,32 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ defensa-nbq | Defensa NBQ | #8fb04f
+@@ nbq-deteccion | Detección NBQ
+bmc-nbq-deteccion-g0 | ~1936 | I | Detección química de campaña | bmc-ind-quimica-g1 | Generación 1 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-deteccion-g1 | ~1952 | I | Detección por papel reactivo | bmc-nbq-deteccion-g0, bmc-ind-quimica-g2 | Generación 2 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-deteccion-g2 | ~1975 | I | Espectrometría de campaña | bmc-nbq-deteccion-g1, bmc-ind-quimica-g4 | Generación 3 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-deteccion-g3 | ~1995 | I | Detección a distancia | bmc-nbq-deteccion-g2, bmc-ind-quimica-g5 | Generación 4 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-deteccion-g4 | ~2010 | I | Detección biológica rápida | bmc-nbq-deteccion-g3, bmc-ind-quimica-g6 | Generación 5 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-deteccion-g5 | ~2026 | I | Vigilancia ambiental continua | bmc-nbq-deteccion-g4, bmc-ind-quimica-g7 | Generación 6 de la línea «Detección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nbq-proteccion | Protección NBQ
+bmc-nbq-proteccion-g0 | ~1917 | I | Máscara de filtro | gas-cloro | Generación 1 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-proteccion-g1 | ~1942 | I | Traje protector | bmc-nbq-proteccion-g0, bmc-nbq-deteccion-g0 | Generación 2 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-proteccion-g2 | ~1960 | I | Sobrepresión en vehículo | bmc-nbq-proteccion-g1, bmc-nbq-deteccion-g1 | Generación 3 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-proteccion-g3 | ~1978 | I | Descontaminación de campaña | bmc-nbq-proteccion-g2, bmc-nbq-deteccion-g2 | Generación 4 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-proteccion-g4 | ~1998 | I | Protección permeable ligera | bmc-nbq-proteccion-g3, bmc-nbq-deteccion-g3 | Generación 5 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-proteccion-g5 | ~2018 | I | Protección integrada | bmc-nbq-proteccion-g4, bmc-nbq-deteccion-g4 | Generación 6 de la línea «Protección NBQ». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nbq-medica | Contramedidas médicas
+bmc-nbq-medica-g0 | ~1940 | I | Antídoto de campaña | bmc-soc-sanidad-g0 | Generación 1 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-medica-g1 | ~1958 | I | Profilaxis masiva | bmc-nbq-medica-g0, bmc-soc-sanidad-g2 | Generación 2 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-medica-g2 | ~1980 | I | Vacuna de respuesta rápida | bmc-nbq-medica-g1, bmc-soc-sanidad-g3 | Generación 3 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-medica-g3 | ~2005 | I | Producción de vacuna a escala | bmc-nbq-medica-g2, bmc-soc-sanidad-g4 | Generación 4 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-medica-g4 | ~2021 | I | Plataforma de respuesta en semanas | bmc-nbq-medica-g3, bmc-soc-sanidad-g4 | Generación 5 de la línea «Contramedidas médicas». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ nbq-agentes | Agentes químicos y biológicos
+bmc-nbq-agentes-g0 | ~1915 | I | Agente químico de guerra | bmc-ind-quimica-g0 | Generación 1 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-agentes-g1 | ~1938 | I | Agente persistente | bmc-nbq-agentes-g0, bmc-ind-quimica-g2 | Generación 2 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-agentes-g2 | ~1952 | I | Agente de acción rápida | bmc-nbq-agentes-g1, bmc-ind-quimica-g2 | Generación 3 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-nbq-agentes-g3 | ~1970 | I | Agente binario | bmc-nbq-agentes-g2, bmc-ind-quimica-g3 | Generación 4 de la línea «Agentes químicos y biológicos». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-arma-quimica | ~1938 | S | Cabeza química | bmc-nbq-agentes-g1, bmc-coh-solido-g0 | Aplicación que combina agentes químicos y biológicos, cohetería de combustible sólido. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-arma-biologica | ~1952 | S | Cabeza biológica | bmc-nbq-agentes-g2, bmc-coh-solido-g1 | Aplicación que combina agentes químicos y biológicos, cohetería de combustible sólido. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-prohibir-quimicas | ~1995 | S | Renunciar a las armas químicas | bmc-nbq-deteccion-g3 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |

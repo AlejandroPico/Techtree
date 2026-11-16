@@ -1,0 +1,94 @@
+# Importado de Blue Marble Crisis con tools/importar_bmc.py. Fechas de juego, sin contrastar; nombres originales del autor.
+@ cohetes-espacio | Cohetería y espacio | #8f86c9
+@@ coh-solido | Cohetería de combustible sólido
+bmc-coh-solido-g0 | ~1935 | I | Cohete de sondeo | bmc-ind-quimica-g1 | Generación 1 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-solido-g1 | ~1944 | I | Cohete de combustible sólido | bmc-coh-solido-g0, bmc-ind-quimica-g2 | Generación 2 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-solido-g2 | ~1954 | I | Cohete táctico | bmc-coh-solido-g1, bmc-ind-quimica-g2 | Generación 3 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-solido-g3 | ~1964 | I | Motor de etapas segmentadas | bmc-coh-solido-g2, bmc-ind-quimica-g3 | Generación 4 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-solido-g4 | ~1978 | I | Propulsante de alta energía | bmc-coh-solido-g3, bmc-ind-quimica-g4 | Generación 5 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-solido-g5 | ~1995 | I | Cohete de almacenamiento prolongado | bmc-coh-solido-g4, bmc-ind-quimica-g5 | Generación 6 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-solido-g6 | ~2012 | I | Propulsante insensible | bmc-coh-solido-g5, bmc-ind-quimica-g6 | Generación 7 de la línea «Cohetería de combustible sólido». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ coh-liquido | Cohetería de combustible líquido
+bmc-coh-liquido-g0 | ~1938 | I | Motor de combustible líquido | bmc-ind-quimica-g2, bmc-ind-siderurgia-g2 | Generación 1 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-liquido-g1 | ~1952 | I | Motor de gran empuje | bmc-coh-liquido-g0, bmc-ind-quimica-g2, bmc-ind-siderurgia-g3 | Generación 2 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-liquido-g2 | ~1962 | I | Motor criogénico | bmc-coh-liquido-g1, bmc-ind-quimica-g3, bmc-ind-siderurgia-g4 | Generación 3 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-liquido-g3 | ~1972 | I | Motor reencendible | bmc-coh-liquido-g2, bmc-ind-quimica-g4, bmc-ind-siderurgia-g4 | Generación 4 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-liquido-g4 | ~1985 | I | Motor de combustión escalonada | bmc-coh-liquido-g3, bmc-ind-quimica-g4, bmc-ind-siderurgia-g5 | Generación 5 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-liquido-g5 | ~2012 | I | Motor reutilizable | bmc-coh-liquido-g4, bmc-ind-quimica-g6, bmc-ind-siderurgia-g7 | Generación 6 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-coh-liquido-g6 | ~2026 | I | Motor de flujo completo | bmc-coh-liquido-g5, bmc-ind-quimica-g7, bmc-ind-siderurgia-g8 | Generación 7 de la línea «Cohetería de combustible líquido». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-reentrada | Reentrada atmosférica
+bmc-esp-reentrada-g0 | ~1955 | I | Escudo ablativo | bmc-ind-siderurgia-g3, bmc-coh-liquido-g1 | Generación 1 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-reentrada-g1 | ~1962 | I | Vehículo de reentrada | bmc-esp-reentrada-g0, bmc-ind-siderurgia-g4, bmc-coh-liquido-g1 | Generación 2 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-reentrada-g2 | ~1974 | I | Reentrada de precisión | bmc-esp-reentrada-g1, bmc-ind-siderurgia-g4, bmc-coh-liquido-g3 | Generación 3 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-reentrada-g3 | ~1988 | I | Vehículo maniobrable | bmc-esp-reentrada-g2, bmc-ind-siderurgia-g5, bmc-coh-liquido-g4 | Generación 4 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-reentrada-g4 | ~2015 | I | Reentrada hipersónica planeadora | bmc-esp-reentrada-g3, bmc-ind-siderurgia-g7, bmc-coh-liquido-g5 | Generación 5 de la línea «Reentrada atmosférica». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-observacion | Satélites de observación
+bmc-esp-observacion-g0 | ~1959 | I | Satélite fotográfico | bmc-coh-liquido-g1, bmc-ele-sensores-g2 | Generación 1 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-observacion-g1 | ~1964 | I | Recuperación de cápsula | bmc-esp-observacion-g0, bmc-coh-liquido-g2, bmc-ele-sensores-g2 | Generación 2 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-observacion-g2 | ~1976 | I | Transmisión digital de imagen | bmc-esp-observacion-g1, bmc-coh-liquido-g3, bmc-ele-sensores-g3 | Generación 3 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-observacion-g3 | ~1990 | I | Resolución submétrica | bmc-esp-observacion-g2, bmc-coh-liquido-g4, bmc-ele-sensores-g4 | Generación 4 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-observacion-g4 | ~2000 | I | Radar de apertura sintética orbital | bmc-esp-observacion-g3, bmc-coh-liquido-g4, bmc-ele-sensores-g5 | Generación 5 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-observacion-g5 | ~2016 | I | Constelación de revisita rápida | bmc-esp-observacion-g4, bmc-coh-liquido-g5, bmc-ele-sensores-g6 | Generación 6 de la línea «Satélites de observación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-comunicacion | Satélites de comunicación
+bmc-esp-comunicacion-g0 | ~1960 | I | Satélite pasivo | bmc-coh-liquido-g1, bmc-ele-radio-g3 | Generación 1 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-comunicacion-g1 | ~1965 | I | Satélite geoestacionario | bmc-esp-comunicacion-g0, bmc-coh-liquido-g2, bmc-ele-radio-g3 | Generación 2 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-comunicacion-g2 | ~1978 | I | Comunicación militar protegida | bmc-esp-comunicacion-g1, bmc-coh-liquido-g3, bmc-ele-radio-g4 | Generación 3 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-comunicacion-g3 | ~1998 | I | Constelación de órbita baja | bmc-esp-comunicacion-g2, bmc-coh-liquido-g4, bmc-ele-radio-g6 | Generación 4 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-comunicacion-g4 | ~2015 | I | Enlace óptico entre satélites | bmc-esp-comunicacion-g3, bmc-coh-liquido-g5, bmc-ele-radio-g7 | Generación 5 de la línea «Satélites de comunicación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-navegacion | Navegación por satélite
+bmc-esp-navegacion-g0 | ~1964 | I | Navegación Doppler orbital | bmc-esp-comunicacion-g0, bmc-ele-guiado-g2 | Generación 1 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-navegacion-g1 | ~1978 | I | Constelación de navegación | bmc-esp-navegacion-g0, bmc-esp-comunicacion-g2, bmc-ele-guiado-g3 | Generación 2 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-navegacion-g2 | ~1990 | I | Señal militar cifrada | bmc-esp-navegacion-g1, bmc-esp-comunicacion-g2, bmc-ele-guiado-g4 | Generación 3 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-navegacion-g3 | ~2005 | I | Precisión centimétrica | bmc-esp-navegacion-g2, bmc-esp-comunicacion-g3, bmc-ele-guiado-g5 | Generación 4 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-navegacion-g4 | ~2020 | I | Navegación resistente a interferencia | bmc-esp-navegacion-g3, bmc-esp-comunicacion-g4, bmc-ele-guiado-g6 | Generación 5 de la línea «Navegación por satélite». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-alerta | Alerta temprana orbital
+bmc-esp-alerta-g0 | ~1970 | I | Detección de fogonazo | bmc-esp-observacion-g1, bmc-ele-sensores-g2 | Generación 1 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-alerta-g1 | ~1984 | I | Constelación de alerta | bmc-esp-alerta-g0, bmc-esp-observacion-g2, bmc-ele-sensores-g3 | Generación 2 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-alerta-g2 | ~2000 | I | Seguimiento en fase de ascenso | bmc-esp-alerta-g1, bmc-esp-observacion-g4, bmc-ele-sensores-g5 | Generación 3 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-alerta-g3 | ~2018 | I | Seguimiento de trayectoria completa | bmc-esp-alerta-g2, bmc-esp-observacion-g5, bmc-ele-sensores-g6 | Generación 4 de la línea «Alerta temprana orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-estacion | Presencia orbital permanente
+bmc-esp-estacion-g0 | ~1961 | I | Cápsula tripulada | bmc-coh-liquido-g1, bmc-esp-reentrada-g0 | Generación 1 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-estacion-g1 | ~1971 | I | Estación de una sola pieza | bmc-esp-estacion-g0, bmc-coh-liquido-g2, bmc-esp-reentrada-g1 | Generación 2 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-estacion-g2 | ~1986 | I | Estación modular | bmc-esp-estacion-g1, bmc-coh-liquido-g4, bmc-esp-reentrada-g2 | Generación 3 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-estacion-g3 | ~2000 | I | Estación de larga duración | bmc-esp-estacion-g2, bmc-coh-liquido-g4, bmc-esp-reentrada-g3 | Generación 4 de la línea «Presencia orbital permanente». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-orbital | Sistemas orbitales de negación
+bmc-esp-orbital-g0 | ~1968 | I | Inspección orbital | bmc-esp-observacion-g1, bmc-esp-reentrada-g1 | Generación 1 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-orbital-g1 | ~1985 | I | Interceptación cinética orbital | bmc-esp-orbital-g0, bmc-esp-observacion-g2, bmc-esp-reentrada-g2 | Generación 2 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-orbital-g2 | ~2005 | I | Perturbación de satélites | bmc-esp-orbital-g1, bmc-esp-observacion-g4, bmc-esp-reentrada-g3 | Generación 3 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-orbital-g3 | ~2025 | I | Negación orbital sostenida | bmc-esp-orbital-g2, bmc-esp-observacion-g5, bmc-esp-reentrada-g4 | Generación 4 de la línea «Sistemas orbitales de negación». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-dirigida | Energía dirigida
+bmc-esp-dirigida-g0 | ~1962 | I | Láser de laboratorio | bmc-ind-energia-g3, bmc-ele-sensores-g2 | Generación 1 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-dirigida-g1 | ~1980 | I | Láser de alta energía | bmc-esp-dirigida-g0, bmc-ind-energia-g4, bmc-ele-sensores-g3 | Generación 2 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-dirigida-g2 | ~2005 | I | Arma de energía dirigida de teatro | bmc-esp-dirigida-g1, bmc-ind-energia-g6, bmc-ele-sensores-g5 | Generación 3 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-dirigida-g3 | ~2020 | I | Energía dirigida embarcada | bmc-esp-dirigida-g2, bmc-ind-energia-g7, bmc-ele-sensores-g6 | Generación 4 de la línea «Energía dirigida». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-lanzador | Lanzadores orbitales
+bmc-esp-lanzador-g0 | ~1957 | I | Lanzador de una pasada | bmc-coh-liquido-g1 | Generación 1 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-lanzador-g1 | ~1967 | I | Lanzador de carga pesada | bmc-esp-lanzador-g0, bmc-coh-liquido-g2 | Generación 2 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-lanzador-g2 | ~1981 | I | Lanzador reutilizable parcial | bmc-esp-lanzador-g1, bmc-coh-liquido-g3 | Generación 3 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-lanzador-g3 | ~2010 | I | Lanzador de bajo coste | bmc-esp-lanzador-g2, bmc-coh-liquido-g4 | Generación 4 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-lanzador-g4 | ~2024 | I | Lanzador totalmente reutilizable | bmc-esp-lanzador-g3, bmc-coh-liquido-g5 | Generación 5 de la línea «Lanzadores orbitales». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ esp-logistica | Logística orbital
+bmc-esp-logistica-g0 | ~1966 | I | Acoplamiento en órbita | bmc-esp-estacion-g0 | Generación 1 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-logistica-g1 | ~1978 | I | Transferencia de carga | bmc-esp-logistica-g0, bmc-esp-estacion-g1 | Generación 2 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-logistica-g2 | ~2007 | I | Servicio en órbita | bmc-esp-logistica-g1, bmc-esp-estacion-g3 | Generación 3 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-esp-logistica-g3 | ~2026 | I | Repostaje orbital | bmc-esp-logistica-g2, bmc-esp-estacion-g3 | Generación 4 de la línea «Logística orbital». Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ aplicacion | Aplicaciones
+bmc-app-misil-medio | ~1959 | S | Misil balístico de alcance medio | bmc-coh-liquido-g1, bmc-ele-guiado-g1, bmc-esp-reentrada-g0 | Aplicación que combina cohetería de combustible líquido, guiado y navegación, reentrada atmosférica. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-icbm | ~1959 | S | Misil balístico intercontinental | bmc-coh-liquido-g1, bmc-ele-guiado-g1, bmc-esp-reentrada-g0, bmc-nuc-dispositivo-g2 | Aplicación que combina cohetería de combustible líquido, dispositivos nucleares, guiado y navegación, reentrada atmosférica. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-silo | ~1962 | S | Silo endurecido | bmc-ind-siderurgia-g3, bmc-coh-solido-g2, bmc-nuc-custodia-g1 | Aplicación que combina cohetería de combustible sólido, mando y custodia nuclear, siderurgia. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-satelite-obs | ~1964 | S | Satélite de observación militar | bmc-esp-observacion-g1, bmc-esp-comunicacion-g0 | Aplicación que combina satélites de comunicación, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-satelite-espia | ~1966 | S | Satélite de reconocimiento fotográfico | bmc-esp-observacion-g1, bmc-int-fotografia-g4, bmc-int-analisis-g3 | Aplicación que combina análisis de inteligencia, fotografía y sensores de espionaje, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-mirv | ~1970 | S | Vehículos de reentrada múltiple | bmc-esp-reentrada-g1, bmc-nuc-dispositivo-g4, bmc-ele-guiado-g2 | Aplicación que combina dispositivos nucleares, guiado y navegación, reentrada atmosférica. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-alerta-temprana | ~1970 | S | Alerta temprana orbital | bmc-esp-alerta-g0, bmc-esp-comunicacion-g1 | Aplicación que combina alerta temprana orbital, satélites de comunicación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-antisatelite | ~1985 | S | Interceptación antisatélite | bmc-esp-orbital-g1, bmc-coh-solido-g4 | Aplicación que combina cohetería de combustible sólido, sistemas orbitales de negación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-kinetico-orbital | ~1985 | S | Interceptación cinética desde órbita | bmc-esp-orbital-g1, bmc-ele-guiado-g4 | Aplicación que combina guiado y navegación, sistemas orbitales de negación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-gps-militar | ~1990 | S | Constelación de navegación militar | bmc-esp-navegacion-g2, bmc-esp-lanzador-g2 | Aplicación que combina lanzadores orbitales, navegación por satélite. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-satelite-sigint | ~1990 | S | Satélite de escucha electrónica | bmc-esp-comunicacion-g2, bmc-int-escucha-g5, bmc-ele-inteligencia-g3 | Aplicación que combina escucha de comunicaciones, inteligencia de señales, satélites de comunicación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-interceptor | ~1995 | S | Interceptor de fase media | bmc-coh-solido-g4, bmc-esp-alerta-g1, bmc-ele-guiado-g5 | Aplicación que combina alerta temprana orbital, cohetería de combustible sólido, guiado y navegación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-constelacion-leo | ~1998 | S | Constelación de comunicación de órbita baja | bmc-esp-comunicacion-g3, bmc-esp-lanzador-g2 | Aplicación que combina lanzadores orbitales, satélites de comunicación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-sar-orbital | ~2000 | S | Radar orbital de apertura sintética | bmc-esp-observacion-g4, bmc-ele-radar-g6 | Aplicación que combina radar, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-lanzador-barato | ~2010 | S | Acceso al espacio de bajo coste | bmc-esp-lanzador-g3 | Aplicación que combina lanzadores orbitales. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-deteccion-submarina-orbital | ~2012 | S | Detección de sumergibles desde órbita | bmc-esp-observacion-g4, bmc-mar-sonar-g5, bmc-int-analisis-g6 | Aplicación que combina análisis de inteligencia, guerra antisubmarina, satélites de observación. Fecha orientativa, tomada de Blue Marble Crisis. |
+bmc-app-servicio-orbital | ~2026 | S | Servicio y repostaje en órbita | bmc-esp-logistica-g3, bmc-esp-estacion-g3 | Aplicación que combina logística orbital, presencia orbital permanente. Fecha orientativa, tomada de Blue Marble Crisis. |
+@@ accion | Acciones de gobierno
+bmc-act-programa-espacial | ~1957 | S | Iniciar un programa espacial | bmc-coh-liquido-g1 | Medida de gobierno de «Acciones de gobierno»: no se descubre, se adopta. Fecha orientativa, tomada de Blue Marble Crisis. |
